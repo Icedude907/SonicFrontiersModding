@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev9900_010" id="606919137" font="Range_FNT" layout="Range_LAY">
+      Search for a Chaos Emerald Vault
+    </text>
+    <text name="ev9900_020" id="606919264" font="Range_FNT" layout="Range_LAY">
+      Search for a different Chaos Emerald Vault
+    </text>
+    <text name="ev9900_030" id="606919391" font="Range_FNT" layout="Range_LAY">
+      Search for the Elder Koco
+    </text>
+    <text name="ev9900_035" id="606919396" font="Range_FNT" layout="Range_LAY">
+      Talk with the Elder Koco
+    </text>
+    <text name="ev9900_040" id="606919518" font="Range_FNT" layout="Range_LAY">
+      Search for the Hermit Koco
+    </text>
+    <text name="ev9900_045" id="606919523" font="Range_FNT" layout="Range_LAY">
+      Talk with the Hermit Koco
+    </text>
+    <text name="ev9900_050" id="606919645" font="Range_FNT" layout="Range_LAY">
+      Search for a Chaos Emerald
+    </text>
+    <text name="ev9900_060" id="606919772" font="Range_FNT" layout="Range_LAY">
+      Destroy an Impact Form
+    </text>
+    <text name="ev9900_070" id="606919899" font="Range_FNT" layout="Range_LAY">
+      Search for a Koco device
+    </text>
+    <text name="ev9900_080" id="606920026" font="Range_FNT" layout="Range_LAY">
+      Gather the Lookout Koco
+    </text>
+    <text name="ev9900_090" id="606920153" font="Range_FNT" layout="Range_LAY">
+      Climb the Trial Tower
+    </text>
+    <text name="ev9900_100" id="606935139" font="Range_FNT" layout="Range_LAY">
+      <image name="exchara_coco" /> Gather Koco <var name="w1r06_coco" />/20
+    </text>
+    <text name="ev9900_105" id="606935144" font="Range_FNT" layout="Range_LAY">
+      <image name="exchara_coco" /> Gather Koco <var name="w1r06_coco" />/30
+    </text>
+    <text name="ev9900_110" id="606935266" font="Range_FNT" layout="Range_LAY">
+      Proceed to the final battle
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

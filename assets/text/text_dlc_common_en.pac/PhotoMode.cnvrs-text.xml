@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="photomode_config_10" id="497802226" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Change camera speed
+    </text>
+    <text name="photomode_config_11" id="497802227" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Hide/Show grid
+    </text>
+    <text name="photomode_CameraSpeed_Normal" id="1588286894" font="Range_FNT" layout="Range_LAY">
+      x1.0
+    </text>
+    <text name="photomode_config_1" id="2100675390" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Move camera
+    </text>
+    <text name="photomode_config_2" id="2100675391" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Rotate camera
+    </text>
+    <text name="photomode_config_3" id="2100675392" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Raise/lower camera
+    </text>
+    <text name="photomode_config_4" id="2100675393" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Adjust camera tilt
+    </text>
+    <text name="photomode_config_5" id="2100675394" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Adjust camera zoom
+    </text>
+    <text name="photomode_config_6" id="2100675395" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Reset camera
+    </text>
+    <text name="photomode_config_7" id="2100675396" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Hide/show UI
+    </text>
+    <text name="photomode_config_8" id="2100675397" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Exit Photo Mode
+    </text>
+    <text name="photomode_config_9" id="2100675398" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Filter
+    </text>
+    <text name="photomode_end_title" id="2254393994" font="Range_FNT" layout="Range_LAY">
+      Exit Photo Mode
+    </text>
+    <text name="photomode_end_yes" id="3546916505" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Yes
+    </text>
+    <text name="photomode_end_body" id="3734844048" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Do you want to exit Photo Mode?
+    </text>
+    <text name="photomode_filter_0" id="3746508243" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      No Filter
+    </text>
+    <text name="photomode_filter_1" id="3746508244" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Filter 1
+    </text>
+    <text name="photomode_filter_2" id="3746508245" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Filter 2
+    </text>
+    <text name="photomode_filter_3" id="3746508246" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Filter 3
+    </text>
+    <text name="photomode_filter_4" id="3746508247" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Filter 4
+    </text>
+    <text name="photomode_filter_5" id="3746508248" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Filter 5
+    </text>
+    <text name="photomode_filter_6" id="3746508249" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Filter 6
+    </text>
+    <text name="photomode_filter_7" id="3746508250" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Filter 7
+    </text>
+    <text name="photomode_filter_8" id="3746508251" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Filter 8
+    </text>
+    <text name="photomode_CameraSpeed_Fast" id="3861711523" font="Range_FNT" layout="Range_LAY">
+      x2.0
+    </text>
+    <text name="photomode_CameraSpeed_Slow" id="3888517416" font="Range_FNT" layout="Range_LAY">
+      x0.5
+    </text>
+    <text name="photomode_end_no" id="3917070703" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      No
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

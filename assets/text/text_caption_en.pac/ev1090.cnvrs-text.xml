@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1090_010" id="1658761047" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You again!?
+    </text>
+    <text name="ev1090_020" id="1658761174" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Submit. Your reckless actions endanger the world.
+    </text>
+    <text name="ev1090_030" id="1658761301" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Care to explain how saving my friends is a bad thing?
+    </text>
+    <text name="ev1090_040" id="1658761428" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You are an enemy combatant. I will not share data with you.
+    </text>
+    <text name="ev1090_050" id="1658761555" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What is wrong with you!? Sonic would never endanger anyone! He’s even going to help this Koco reunite with their one true love!
+    </text>
+    <text name="ev1090_060" id="1658761682" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      ”Love.” An emotional status too vague and varied in its definition.
+    </text>
+    <text name="ev1090_070" id="1658761809" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      UGH! You’re both too ignorant to be helped!
+    </text>
+    <text name="ev1090_080" id="1658761936" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Who… um what was that girl?
+    </text>
+    <text name="ev1090_090" id="1658762063" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aside from being a pain? No clue.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

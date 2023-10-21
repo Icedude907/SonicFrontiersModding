@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5407_010" id="4189068229" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What's this stone tower? I think I've seen it on Kronos Island too... Could it be an important clue left by the Koco?
+    </text>
+    <text name="sb5407_020" id="4189068356" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No, it's nothing more than a traditional structure left by the Ancients.
+    </text>
+    <text name="sb5407_030" id="4189068483" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They competed to see who could stack stones higher without them falling over. The winner was determined not just by the height, but the difficulty and aesthetic beauty of their stack. It was so popular that they even had annual competitions.
+    </text>
+    <text name="sb5407_040" id="4189068610" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There was a plethora of data in Cyber Space about the rules and results of these competitions. It may be insignificant to us now, but it was important to the Ancients.
+    </text>
+    <text name="sb5407_050" id="4189068737" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Why were they so important to them? I may have knocked some over while looking for the Emeralds...
+    </text>
+    <text name="sb5407_060" id="4189068864" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There's no need to concern yourself about that. According to the records, the Ancients were delighted when the towers were knocked over, because they could stack them back up again.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

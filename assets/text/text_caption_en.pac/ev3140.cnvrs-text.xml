@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3140_010" id="2196006619" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic… am I a burden to you?
+    </text>
+    <text name="ev3140_020" id="2196006746" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And how did you come to this well-thought-out concern?
+    </text>
+    <text name="ev3140_030" id="2196006873" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Whenever there’s a crisis I’m either running away or standing on the sidelines!
+      You’re always rescuing me when all I do is follow you around!
+    </text>
+    <text name="ev3140_040" id="2196007000" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey! Who was it who stopped Eggman from blowing up Station Square? Huh? And
+      who broke me out of prison, or saved me from the Deadly Six’s trap?
+    </text>
+    <text name="ev3140_050" id="2196007127" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I… then I’m wildly inconsistent!
+    </text>
+    <text name="ev3140_060" id="2196007254" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Dude! Relax!
+    </text>
+    <text name="ev3140_070" id="2196007381" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You’ve got brains like Eggman, speed like me, and can fly with your butt.
+    </text>
+    <text name="ev3140_080" id="2196007508" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3140_090" id="2196007635" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It’s okay if you still need help sometimes. That’s just part of growing up.
+    </text>
+    <text name="ev3140_100" id="2196022621" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      When did you get to be so insightful?
+    </text>
+    <text name="ev3140_110" id="2196022748" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have my moments.
+    </text>
+    <text name="ev3140_120" id="2196022875" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3140_130" id="2196023002" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They say the bridge is out.
+    </text>
+    <text name="ev3140_140" id="2196023129" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’m sure we can fix that. I’ll have a look around.
+    </text>
+    <text name="ev3140_930" id="2196152034" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

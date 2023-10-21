@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5404_010" id="3408634306" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Koco don't seem to be feeling so good... They're in much worse shape than us.
+    </text>
+    <text name="sb5404_020" id="3408634433" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe it's because they're so much smaller? How are you feeling, Tails?
+    </text>
+    <text name="sb5404_030" id="3408634560" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The shockwave took a lot out of me, but I'm fine now!
+    </text>
+    <text name="sb5404_040" id="3408634687" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That disturbance from the sky is only getting more intense... maybe our time limit is almost up.
+    </text>
+    <text name="sb5404_050" id="3408634814" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Got it. Let's get back to finding the Emeralds once we make sure the Koco are safe!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

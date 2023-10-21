@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="fi1010_010" id="2114900945" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You'll need 1 coin to go fishing.
+      What's your pleasure?
+    </text>
+    <text name="fi1010_020" id="2114901072" font="Range_FNT" layout="Range_LAY">
+      Go Fish! （ｰ1 <image name="exchara_fish_coin" />）
+    </text>
+    <text name="fi1010_021" id="2114901073">
+      Go Fish! （ｰ2 <image name="exchara_fish_coin" />）
+    </text>
+    <text name="fi1010_022" id="2114901074">
+      Go Fish! （ｰ4 <image name="exchara_fish_coin" />）
+    </text>
+    <text name="fi1010_023" id="2114901075">
+      Go Fish! （ｰ8 <image name="exchara_fish_coin" />）
+    </text>
+    <text name="fi1010_030" id="2114901199" font="Range_FNT" layout="Range_LAY">
+      Trade Tokens
+    </text>
+    <text name="fi1010_040" id="2114901326" font="Range_FNT" layout="Range_LAY">
+      View Fish-o-pedia
+    </text>
+    <text name="fi1010_050" id="2114901453" font="Range_FNT" layout="Range_LAY">
+      Return to the island
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

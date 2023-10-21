@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="so1725_010" id="966990293" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I think that thing is trying to create more defense-thingies. I'll keep hunting them down. You get us those Emeralds!
+    </text>
+    <text name="so1725_020" id="966990420" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Don't stop now, Tails. We're counting on you.
+    </text>
+    <text name="so1725_030" id="966990547" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We've cleared the way for you, kid. Finish it!
+    </text>
+    <text name="so1725_040" id="966990674" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Darn! That weakened it, but it's still holding onto the Emeralds.
+    </text>
+    <text name="so1725_050" id="966990801" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Argh! So close! One more should do it.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

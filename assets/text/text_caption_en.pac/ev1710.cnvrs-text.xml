@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1710_010" id="1468843622" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey, kid. Focus. We aren't done yet.
+    </text>
+    <text name="ev1710_020" id="1468843749" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I know. I'm sorry.
+      It’s just... this was my big moment to prove myself, but I don't think I can do it!
+    </text>
+    <text name="ev1710_030" id="1468843876" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Then ask for help. Heck, even Sonic asked us to pick up his slack this time.
+      What do you need me to do?
+    </text>
+    <text name="ev1710_040" id="1468844003" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I think our opponent has repurposed the constructs to bolster the distortion’s defensive measures.
+    </text>
+    <text name="ev1710_050" id="1468844130" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      In other words, keep smashing things, and I can start accessing Cyber Space again.
+    </text>
+    <text name="ev1710_060" id="1468844257" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I like the direct approach. You can count on me!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

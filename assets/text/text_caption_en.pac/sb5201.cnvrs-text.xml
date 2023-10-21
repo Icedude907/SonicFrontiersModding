@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5201_010" id="3248467389" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Miles Prower... If you and the Doctor combine your intellect...
+    </text>
+    <text name="sb5201_020" id="3248467516" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I wouldn't mind, but I don't know if Dr. Eggman would be willing.
+    </text>
+    <text name="sb5201_030" id="3248467643" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You two are at odds with one another, yet you would cooperate with him?
+    </text>
+    <text name="sb5201_040" id="3248467770" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Of course! I couldn't answer that on Chaos Island, but...
+    </text>
+    <text name="sb5201_050" id="3248467897" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Now I'm ready to decide for myself!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

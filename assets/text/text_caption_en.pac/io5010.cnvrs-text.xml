@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="io5010_010_AM" id="1893048987" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's not for me? How rude.
+    </text>
+    <text name="io5010_010_KN" id="1893050258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What is this thing? I can't seem to use it.
+    </text>
+    <text name="io5010_010_SN" id="1893051274" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I should have someone else take a look.
+    </text>
+    <text name="io5010_010_TA" id="1893051388" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmm, I can't activate it...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

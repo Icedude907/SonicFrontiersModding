@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5506_010" id="3618790085" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There's no time. Leave the enemies to Sonic and focus on finding the Emeralds.
+    </text>
+    <text name="sb5506_020" id="3618790212" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Fine, but... What's up with them? Looks like some of them came back after getting beaten.
+    </text>
+    <text name="sb5506_030" id="3618790339" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They're defensive weapons created by the Ancients. They were once used to defend the Starfall Islands from foreign enemies.
+    </text>
+    <text name="sb5506_040" id="3618790466" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They had stopped functioning by the time the doctor arrived, but I reactivated them when I connected to Cyber Space to keep him safe.
+    </text>
+    <text name="sb5506_050" id="3618790593" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They are powered by Chaos Emeralds and are designed to automatically rebuild themselves by reacting to the gravitational pull of meteors, so they could continue to defend the home of the Ancients forever.
+    </text>
+    <text name="sb5506_060" id="3618790720" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Even with the Ancients gone, their guardians must continue to carry out their duty to defend the island. Try to avoid them while you search for the Emeralds.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

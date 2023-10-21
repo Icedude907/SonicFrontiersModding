@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5100_010" id="3298456251" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      How's it going, treasure hunter?
+    </text>
+    <text name="sb5100_020" id="3298456378" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Didn't expect to find you standing around wasting time.
+    </text>
+    <text name="sb5100_030" id="3298456505" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I was starting to get worried you wouldn't be able to find the Emeralds.
+    </text>
+    <text name="sb5100_040" id="3298456632" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Then you are wasting time, if you're worrying about me.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

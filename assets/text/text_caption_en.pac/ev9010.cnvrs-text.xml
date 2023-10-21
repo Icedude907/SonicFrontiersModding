@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev9010_010" id="2076751703" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I appear to be in a digital dimension. I’ve employed similar constructs in my own systems, but this is markedly more advanced.
+    </text>
+    <text name="ev9010_020" id="2076751830" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Note to self: don’t admit that to anyone.
+    </text>
+    <text name="ev9010_030" id="2076751957" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The amount of data stored here defies quantification.
+    </text>
+    <text name="ev9010_040" id="2076752084" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But it won’t stop me from trying!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

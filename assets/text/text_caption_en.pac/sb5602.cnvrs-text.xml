@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5602_010" id="2268078018" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The path to victory lies in the technology of the Ancients.
+    </text>
+    <text name="sb5602_020" id="2268078145" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If I combine my weapons and the power of the Emeralds... Hm? You don't look well.
+    </text>
+    <text name="sb5602_030" id="2268078272" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm fine... Sonic's working hard out there. Even you are, too.
+    </text>
+    <text name="sb5602_040" id="2268078399" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can't stop now... Not yet!
+    </text>
+    <text name="sb5602_050" id="2268078526" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You've honed your mental fortitude in addition to your intelligence... You're becoming quite formidable, Tails.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

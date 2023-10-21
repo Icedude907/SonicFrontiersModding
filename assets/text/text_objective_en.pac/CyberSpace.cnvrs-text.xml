@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="obj_cys_mission_001" id="451017684" font="Range_FNT" layout="Range_LAY">
+      Reach the goal
+    </text>
+    <text name="obj_cys_mission_002" id="451017685" font="Range_FNT" layout="Range_LAY">
+      Clear with Rank S time
+    </text>
+    <text name="obj_cys_mission_004" id="451017687" font="Range_FNT" layout="Range_LAY">
+      Clear with <var name="mission_ring" /> Rings
+    </text>
+    <text name="obj_cys_mission_005" id="451017688" font="Range_FNT" layout="Range_LAY">
+      Find all Red Star Rings
+    </text>
+    <text name="obj_cys_mission_006" id="451017689" font="Range_FNT" layout="Range_LAY">
+      Clear all 4 missions!
+    </text>
+    <text name="obj_cys_mission_007" id="451017690" font="Range_FNT" layout="Range_LAY">
+      Finish with all the Number Rings
+    </text>
+    <text name="obj_cys_mission_008" id="451017691" font="Range_FNT" layout="Range_LAY">
+      Finish with all the Silver Moon Rings
+    </text>
+    <text name="obj_cys_mission_009" id="451017692" font="Range_FNT" layout="Range_LAY">
+      Reach the hidden goal
+    </text>
+    <text name="obj_cys_mission_010" id="451017810" font="Range_FNT" layout="Range_LAY">
+      Finish before hologram Tails
+    </text>
+    <text name="obj_cys_mission_011" id="451017811" font="Range_FNT" layout="Range_LAY">
+      Finish without hitting a mine
+    </text>
+    <text name="obj_cys_mission_012" id="451017812" font="Range_FNT" layout="Range_LAY">
+      Rescue all of the animals and finish
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

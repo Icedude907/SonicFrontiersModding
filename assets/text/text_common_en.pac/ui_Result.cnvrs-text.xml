@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="result_itemname_battlerush_stage1" id="597773123" font="Range_FNT" layout="Range_LAY">
+      Kronos Island Battle Rush
+    </text>
+    <text name="result_itemname_battlerush_stage2" id="597773124" font="Range_FNT" layout="Range_LAY">
+      Ares Island Battle Rush
+    </text>
+    <text name="result_itemname_battlerush_stage3" id="597773125" font="Range_FNT" layout="Range_LAY">
+      Chaos Island Battle Rush
+    </text>
+    <text name="result_itemname_battlerush_stage4" id="597773126" font="Range_FNT" layout="Range_LAY">
+      Ouranos Island Battle Rush
+    </text>
+    <text name="result_itemname_battlerush_stage5" id="597773127" font="Range_FNT" layout="Range_LAY">
+      All Island Battle Rush
+    </text>
+    <text name="result_btnguide_retry" id="809479947" font="Range_FNT" layout="Range_LAY">
+      Try again
+    </text>
+    <text name="result_itemname_title" id="1280191481" font="Range_FNT" layout="Range_LAY">
+      Results　<var name="result_title" />
+    </text>
+    <text name="result_itemname_sectiontime" id="1313504467" font="Range_FNT" layout="Range_LAY">
+      Section time <var name="result_title" />
+    </text>
+    <text name="result_itemname_ring" id="1324909679" font="Range_FNT" layout="Range_LAY">
+      Rings
+    </text>
+    <text name="result_itemname_cychallenge_stage1" id="1594267108" font="Range_FNT" layout="Range_LAY">
+      Kronos Island Challenge
+    </text>
+    <text name="result_itemname_cychallenge_stage2" id="1594267109" font="Range_FNT" layout="Range_LAY">
+      Ares Island Challenge
+    </text>
+    <text name="result_itemname_cychallenge_stage3" id="1594267110" font="Range_FNT" layout="Range_LAY">
+      Chaos Island Challenge
+    </text>
+    <text name="result_itemname_cychallenge_stage4" id="1594267111" font="Range_FNT" layout="Range_LAY">
+      Ouranos Island Challenge
+    </text>
+    <text name="result_itemname_cychallenge_stage5" id="1594267112" font="Range_FNT" layout="Range_LAY">
+      All Stage Challenge
+    </text>
+    <text name="result_phase_title" id="3708634514" font="Range_FNT" layout="Range_LAY">
+      Cleared Phase <var name="result_phase" />!
+    </text>
+    <text name="result_btnguide_next1" id="4063933377" font="Range_FNT" layout="Range_LAY">
+      Leave Cyber Space
+    </text>
+    <text name="result_btnguide_next2" id="4063933378" font="Range_FNT" layout="Range_LAY">
+      Choose a Stage
+    </text>
+    <text name="result_btnguide_next3" id="4063933379" font="Range_FNT" layout="Range_LAY">
+      Continue
+    </text>
+    <text name="result_btnguide_next4" id="4063933380" font="Range_FNT" layout="Range_LAY">
+      End Cyber Space Challenge
+    </text>
+    <text name="result_btnguide_next5" id="4063933381" font="Range_FNT" layout="Range_LAY">
+      End Battle Rush
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

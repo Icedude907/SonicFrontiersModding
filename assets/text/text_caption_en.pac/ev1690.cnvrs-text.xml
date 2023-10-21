@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1690_010" id="4092927325" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That thing in the sky... it's corrupting everything on the island!
+      Even the Koco!
+    </text>
+    <text name="ev1690_020" id="4092927452" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I won't stand for it!
+    </text>
+    <text name="ev1690_030" id="4092927579" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Guys? Focus.
+      Knuckles needs to weaken that thing's hold on the Emeralds, and Tails needs to break them free.
+    </text>
+    <text name="ev1690_040" id="4092927706" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'll handle the Koco. I have a feeling they'll be crucial to the plan.
+    </text>
+    <text name="ev1690_050" id="4092927833" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You will not harm this world.
+      I won't allow it!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

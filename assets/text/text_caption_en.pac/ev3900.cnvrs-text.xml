@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3900_010" id="705447143" font="Range_FNT" layout="Range_LAY">
+      Talk to Tails
+    </text>
+    <text name="ev3900_020" id="705447270" font="Range_FNT" layout="Range_LAY">
+      Find Tails
+    </text>
+    <text name="ev3900_030" id="705447397" font="Range_FNT" layout="Range_LAY">
+      Get the Chaos Emerald
+    </text>
+    <text name="ev3900_040" id="705447524" font="Range_FNT" layout="Range_LAY">
+      Collect Vault Keys from Portals
+    </text>
+    <text name="ev3900_050" id="705447651" font="Range_FNT" layout="Range_LAY">
+      Head to the crater
+    </text>
+    <text name="ev3900_060" id="705447778" font="Range_FNT" layout="Range_LAY">
+      Continue onward
+    </text>
+    <text name="ev3900_070" id="705447905" font="Range_FNT" layout="Range_LAY">
+      Solve the puzzle
+    </text>
+    <text name="ev3900_080" id="705448032" font="Range_FNT" layout="Range_LAY">
+      Collect Tails' Memory Tokens
+    </text>
+    <text name="ev3900_090" id="705448159" font="Range_FNT" layout="Range_LAY">
+      Search for friends
+    </text>
+    <text name="ev3900_100" id="705463145" font="Range_FNT" layout="Range_LAY">
+      Solve the puzzle of the Ancients' gate
+    </text>
+    <text name="ev3900_110" id="705463272">
+      Lower the drawbridge
+    </text>
+    <text name="ev3900_200" id="705479274" font="Range_FNT" layout="Range_LAY">
+      Obtain Rings
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

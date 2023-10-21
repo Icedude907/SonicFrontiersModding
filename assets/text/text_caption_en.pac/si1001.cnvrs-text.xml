@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="si1001_002" id="73271625" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I feel like there’s a Chaos Emerald nearby. Better grab it!
+    </text>
+    <text name="si1001_004" id="73271627" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Better go grab that Emerald!
+    </text>
+    <text name="si1001_010" id="73271750" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ve been making good progress. I wonder how Amy’s doing?
+    </text>
+    <text name="si1001_011" id="73271751" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I wonder what kind of devastation the island’s been recovering from?
+    </text>
+    <text name="si1001_013" id="73271753" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I need to find a way to restore Amy. I could really use her help finding Tails.
+    </text>
+    <text name="si1001_014" id="73271754" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Spooky sky-voice? You there? No? Okie doke.
+    </text>
+    <text name="si1001_015" id="73271755" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's nice to have a new place to explore, but I’m really worried about Amy and Tails.
+    </text>
+    <text name="si1001_025" id="73271882" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I bet Tangle would love climbing around these ruins.
+    </text>
+    <text name="si1001_026" id="73271883" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I wonder if there’s a Chao Garden hidden around here? Eh, might not be the right climate.
+    </text>
+    <text name="si1001_028" id="73271885" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      First, save friends. Second, get home. Third, chill with a good book and a chili dog or seven.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

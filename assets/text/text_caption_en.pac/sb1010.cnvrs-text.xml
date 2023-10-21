@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb1010_010" id="921250365" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Are you trying to figure out the mysteries about these ruins too? It's kinda spooky everyone seems to be gone, huh?
+    </text>
+    <text name="sb1010_020" id="921250492" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The technology of the Ancients exceeds your modern understanding.
+    </text>
+    <text name="sb1010_030" id="921250619" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Unwelcome pests like you will be swiftly eliminated.
+    </text>
+    <text name="sb1010_040" id="921250746" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Okay. I'm trying to be civil here. But are you saying they lost control of their tech and it wiped them out?
+    </text>
+    <text name="sb1010_050" id="921250873" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No.
+    </text>
+    <text name="sb1010_060" id="921251000" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Okay, okay, so you're not in a talking mood. I'll leave you be.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

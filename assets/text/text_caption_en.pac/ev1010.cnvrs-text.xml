@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1010_010" id="3639778143" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1010_020" id="3639778270" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tails? Amy? Knuckles?
+    </text>
+    <text name="ev1010_025" id="3639778275" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tails? Amy?
+    </text>
+    <text name="ev1010_030" id="3639778397" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Looks like I’m the only one who made it out of that... whatever it was.
+    </text>
+    <text name="ev1010_040" id="3639778524" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Mortal.
+    </text>
+    <text name="ev1010_050" id="3639778651" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yow! Hello?
+    </text>
+    <text name="ev1010_060" id="3639778778" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You have done the impossible. You have escaped Cyber Space through your own power. You are the key.
+    </text>
+    <text name="ev1010_070" id="3639778905" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      “Key” huh? Sure beats being called a “rodent.” Are you saying I can rescue my friends?
+    </text>
+    <text name="ev1010_080" id="3639779032" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Find the Chaos Emeralds. Destroy the Titans. Tear down the walls between dimensions.
+    </text>
+    <text name="ev1010_090" id="3639779159" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah--okay--sure... how about a little context? Hello?
+    </text>
+    <text name="ev1010_100" id="3639794145" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh well. Some direction is better than none. Here we go!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

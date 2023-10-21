@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev5030_010" id="2363010649" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Is that it?
+    </text>
+    <text name="ev5030_020" id="2363010776" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      All we did was chase it out of its shell. It’s retreating into space to regain its true form. 
+      Even Super Sonic won’t be able to stop it. I know what I must do. I must… leave you.
+      
+    </text>
+    <text name="ev5030_030" id="2363010903" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I understand. Go fulfill your... function.
+    </text>
+    <text name="ev5030_040" id="2363011030" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hurry! Before it regains its full strength!
+    </text>
+    <text name="ev5030_050" id="2363011157" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ladies first!
+    </text>
+    <text name="ev5030_060" id="2363011284" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Be careful… dear daughter.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

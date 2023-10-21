@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1060_010" id="1327900634" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yo, Amy. Who’s your friend?
+    </text>
+    <text name="ev1060_020" id="1327900761" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1060_030" id="1327900888" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This Koco says they need to find their one true love before it’s too late.
+    </text>
+    <text name="ev1060_040" id="1327901015" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They’ve been too shy to express their feelings, but if they don’t do it now, they may never get the chance.
+    </text>
+    <text name="ev1060_050" id="1327901142" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You... got all that, huh?
+    </text>
+    <text name="ev1060_060" id="1327901269" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I feel like the dimension I’m in is translating for me. It’s strange, but feels natural.
+    </text>
+    <text name="ev1060_070" id="1327901396" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well you always had a knack for weird insights. Who am I to argue?
+    </text>
+    <text name="ev1060_080" id="1327901523" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well don’t you worry! We’ll reunite you with your lost love!
+    </text>
+    <text name="ev1060_090" id="1327901650" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I would think we’ve got more pressing issues but... again, who am I to argue?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

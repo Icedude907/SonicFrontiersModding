@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5704_010" id="2478233797" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We're one step away from the next Tower and the next Emerald!
+    </text>
+    <text name="sb5704_020" id="2478233924" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You got this, buddy! I have your back!
+    </text>
+    <text name="sb5704_030" id="2478234051" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Thanks! And I'll always have your back too!
+    </text>
+    <text name="sb5704_040" id="2478234178" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm not gonna give up. I'm gonna save everyone!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

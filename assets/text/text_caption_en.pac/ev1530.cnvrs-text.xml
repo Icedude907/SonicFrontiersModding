@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1530_010" id="3741340002" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe I can get some insight with my Fortune Cards!
+    </text>
+    <text name="ev1530_020" id="3741340129" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1530_030" id="3741340256" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1530_040" id="3741340383" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1530_050" id="3741340510" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      All the cards are telling me is that things are “obscured” and “danger approaches.”
+      I knew that already!
+    </text>
+    <text name="ev1530_060" id="3741340637" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Wait! "Seek insight from unfamiliar places"?
+    </text>
+    <text name="ev1530_070" id="3741340764" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh, the Koco! Of course! They should be able to help!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

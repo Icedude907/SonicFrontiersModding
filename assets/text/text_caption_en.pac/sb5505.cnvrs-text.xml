@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5505_010" id="3358645444" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There are so many huge ruins on this island! And the four rotating rings on Ares Island are ridiculously big.
+    </text>
+    <text name="sb5505_020" id="3358645571" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What a riveting observation. That facility is a kind of monitor that shows the link between the island and Cyber Space.
+    </text>
+    <text name="sb5505_030" id="3358645698" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The four rings represent the four islands, and when they're rotating, they indicate the link with Cyber Space is in effect. When a ring stops, it means there's some sort of abnormality in Cyber Space.
+    </text>
+    <text name="sb5505_040" id="3358645825" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm certain there's a meaning behind their size as well. I imagine there are other functions I've yet to know about. How interesting!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

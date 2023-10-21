@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="hud_actionchains" id="974747408" font="Range_FNT" layout="Range_LAY">
+      CHAINS
+    </text>
+    <text name="actionchain_toggle_01" id="975287800" font="Range_FNT" layout="Range_LAY">
+      Previous Score
+    </text>
+    <text name="actionchain_toggle_02" id="975287801" font="Range_FNT" layout="Range_LAY">
+      High Score
+    </text>
+    <text name="actionchain_title" id="1040223236" font="Range_FNT" layout="Range_LAY">
+      ACTION CHAIN CHALLENGE
+    </text>
+    <text name="actionchain_action_01" id="1277508982" font="Range_FNT" layout="Range_LAY">
+      Wall Jump
+    </text>
+    <text name="actionchain_action_02" id="1277508983" font="Range_FNT" layout="Range_LAY">
+      Attack
+    </text>
+    <text name="actionchain_action_03" id="1277508984" font="Range_FNT" layout="Range_LAY">
+      Wall Run
+    </text>
+    <text name="actionchain_action_04" id="1277508985" font="Range_FNT" layout="Range_LAY">
+      Homing Attack
+    </text>
+    <text name="actionchain_action_05" id="1277508986" font="Range_FNT" layout="Range_LAY">
+      Air Trick
+    </text>
+    <text name="actionchain_action_06" id="1277508987" font="Range_FNT" layout="Range_LAY">
+      Punch
+    </text>
+    <text name="actionchain_action_07" id="1277508988" font="Range_FNT" layout="Range_LAY">
+      Kick
+    </text>
+    <text name="actionchain_action_08" id="1277508989" font="Range_FNT" layout="Range_LAY">
+      Wild Rush
+    </text>
+    <text name="actionchain_action_09" id="1277508990" font="Range_FNT" layout="Range_LAY">
+      Stomp Attack
+    </text>
+    <text name="actionchain_action_10" id="1277509108" font="Range_FNT" layout="Range_LAY">
+      Homing Shot
+    </text>
+    <text name="actionchain_action_11" id="1277509109" font="Range_FNT" layout="Range_LAY">
+      Sonic Boom
+    </text>
+    <text name="actionchain_action_12" id="1277509110" font="Range_FNT" layout="Range_LAY">
+      Spin Slash
+    </text>
+    <text name="actionchain_action_13" id="1277509111" font="Range_FNT" layout="Range_LAY">
+      Loop Kick
+    </text>
+    <text name="actionchain_action_14" id="1277509112" font="Range_FNT" layout="Range_LAY">
+      Cross Slash
+    </text>
+    <text name="actionchain_action_15" id="1277509113" font="Range_FNT" layout="Range_LAY">
+      Cyclone Kick
+    </text>
+    <text name="actionchain_action_16" id="1277509114" font="Range_FNT" layout="Range_LAY">
+      Grand Slam
+    </text>
+    <text name="actionchain_action_17" id="1277509115" font="Range_FNT" layout="Range_LAY">
+      Recovery Smash
+    </text>
+    <text name="actionchain_action_18" id="1277509116" font="Range_FNT" layout="Range_LAY">
+      Double Kick
+    </text>
+    <text name="actionchain_action_19" id="1277509117" font="Range_FNT" layout="Range_LAY">
+      Phantom Rush Punch
+    </text>
+    <text name="actionchain_action_20" id="1277509235" font="Range_FNT" layout="Range_LAY">
+      Phantom Rush Kick
+    </text>
+    <text name="actionchain_action_21" id="1277509236" font="Range_FNT" layout="Range_LAY">
+      Phantom Rush Double Kick
+    </text>
+    <text name="hud_actionchain" id="3085171427" font="Range_FNT" layout="Range_LAY">
+      CHAIN
+    </text>
+    <text name="actionchain_countdown_1" id="3434780111" font="Range_FNT" layout="Range_LAY">
+      1
+    </text>
+    <text name="actionchain_countdown_2" id="3434780112" font="Range_FNT" layout="Range_LAY">
+      2
+    </text>
+    <text name="actionchain_countdown_3" id="3434780113" font="Range_FNT" layout="Range_LAY">
+      3
+    </text>
+    <text name="actionchain_gimmick_01" id="4068623845" font="Range_FNT" layout="Range_LAY">
+      Dash Roller
+    </text>
+    <text name="actionchain_gimmick_02" id="4068623846" font="Range_FNT" layout="Range_LAY">
+      Jump Panel
+    </text>
+    <text name="actionchain_gimmick_03" id="4068623847" font="Range_FNT" layout="Range_LAY">
+      Dash Selector
+    </text>
+    <text name="actionchain_gimmick_04" id="4068623848" font="Range_FNT" layout="Range_LAY">
+      Horizontal Bar
+    </text>
+    <text name="actionchain_gimmick_05" id="4068623849" font="Range_FNT" layout="Range_LAY">
+      Four-way Cannon
+    </text>
+    <text name="actionchain_gimmick_06" id="4068623850" font="Range_FNT" layout="Range_LAY">
+      Spring
+    </text>
+    <text name="actionchain_gimmick_07" id="4068623851" font="Range_FNT" layout="Range_LAY">
+      Balloon
+    </text>
+    <text name="actionchain_gimmick_08" id="4068623852" font="Range_FNT" layout="Range_LAY">
+      Pulley
+    </text>
+    <text name="actionchain_gimmick_09" id="4068623853" font="Range_FNT" layout="Range_LAY">
+      Fan Spring
+    </text>
+    <text name="actionchain_gimmick_10" id="4068623971" font="Range_FNT" layout="Range_LAY">
+      Spring Pole
+    </text>
+    <text name="actionchain_gimmick_11" id="4068623972" font="Range_FNT" layout="Range_LAY">
+      Dash Ring
+    </text>
+    <text name="actionchain_gimmick_12" id="4068623973" font="Range_FNT" layout="Range_LAY">
+      Grind Rail
+    </text>
+    <text name="actionchain_gimmick_13" id="4068623974" font="Range_FNT" layout="Range_LAY">
+      Zip Line
+    </text>
+    <text name="actionchain_gimmick_14" id="4068623975" font="Range_FNT" layout="Range_LAY">
+      Fan
+    </text>
+    <text name="actionchain_gimmick_15" id="4068623976" font="Range_FNT" layout="Range_LAY">
+      Ring
+    </text>
+    <text name="actionchain_gimmick_16" id="4068623977" font="Range_FNT" layout="Range_LAY">
+      Breakable Object
+    </text>
+    <text name="actionchain_gimmick_17" id="4068623978" font="Range_FNT" layout="Range_LAY">
+      Dash Panel
+    </text>
+    <text name="actionchain_gimmick_18" id="4068623979" font="Range_FNT" layout="Range_LAY">
+      Wide Spring
+    </text>
+    <text name="actionchain_gimmick_19" id="4068623980" font="Range_FNT" layout="Range_LAY">
+      Classic Spring
+    </text>
+    <text name="actionchain_gimmick_20" id="4068624098" font="Range_FNT" layout="Range_LAY">
+      Chain Booster
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

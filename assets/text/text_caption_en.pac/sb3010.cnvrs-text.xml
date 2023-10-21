@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb3010_010" id="3751719227" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So I think I've figured it out. The Koco are the spirits of the Ancients, aren't they?
+    </text>
+    <text name="sb3010_020" id="3751719354" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What if they are?
+    </text>
+    <text name="sb3010_030" id="3751719481" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I've run into my fair share of spirits who stick around because of their regrets. Sometimes I've been able to help them move on.
+    </text>
+    <text name="sb3010_040" id="3751719608" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Just how long have they endured like this, though? Were we brought here to help them finally find peace?
+    </text>
+    <text name="sb3010_050" id="3751719735" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Why ask me?
+    </text>
+    <text name="sb3010_060" id="3751719862" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Because I feel like you might be in the same boat. And if so, I'll help if I can.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

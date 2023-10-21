@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="gls_island_1" id="3013097144" font="Range_FNT" layout="Range_LAY">
+      Kronos Island
+    </text>
+    <text name="gls_island_2" id="3013097145" font="Range_FNT" layout="Range_LAY">
+      Ares Island
+    </text>
+    <text name="gls_island_3" id="3013097146" font="Range_FNT" layout="Range_LAY">
+      Chaos Island
+    </text>
+    <text name="gls_island_4" id="3013097147" font="Range_FNT" layout="Range_LAY">
+      Rhea Island
+    </text>
+    <text name="gls_island_5" id="3013097148" font="Range_FNT" layout="Range_LAY">
+      Ouranos Island
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

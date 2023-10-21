@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb1030_010" id="2573479739" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      How're you feeling, Amy? I mean, what's it like being all ghost-y?
+    </text>
+    <text name="sb1030_020" id="2573479866" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Honestly, I don't feel that different since you helped clear my mind. I guess it feels kind of... detached?
+    </text>
+    <text name="sb1030_030" id="2573479993" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Have you ever flown around in a dream? Like you're lighter than air? That's what it feels like to me, anyway.
+    </text>
+    <text name="sb1030_040" id="2573480120" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I just wish I could finally land and be whole again.
+    </text>
+    <text name="sb1030_050" id="2573480247" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hang in there, Amy. I'll figure something out.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1760_010" id="3451933409" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can feel it! Oh, I can't wait to let loose!
+    </text>
+    <text name="ev1760_012" id="3451933411" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But you must.
+      That power is a fragile thing.
+    </text>
+    <text name="ev1760_014" id="3451933413" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It was not meant for you.
+      It has been synchronized to your form as best it can,
+      but if used recklessly the power will leave you entirely.
+    </text>
+    <text name="ev1760_020" id="3451933536" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Huh. I'm not used to holding back.
+    </text>
+    <text name="ev1760_022" id="3451933538" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can feel the enemy's approach is nigh.
+      Go. You have been given all we can give you.
+    </text>
+    <text name="ev1760_024" id="3451933540" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I... can do nothing more for my people.
+      I entrust the rest to you.
+    </text>
+    <text name="ev1760_030" id="3451933663" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1760_040" id="3451933790" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

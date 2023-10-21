@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1900_010" id="2169945577" font="Range_FNT" layout="Range_LAY">
+      Talk to Amy
+    </text>
+    <text name="ev1900_020" id="2169945704" font="Range_FNT" layout="Range_LAY">
+      Find Amy
+    </text>
+    <text name="ev1900_030" id="2169945831" font="Range_FNT" layout="Range_LAY">
+      Get the Chaos Emerald
+    </text>
+    <text name="ev1900_040" id="2169945958" font="Range_FNT" layout="Range_LAY">
+      Collect Vault Keys from Portals
+    </text>
+    <text name="ev1900_050" id="2169946085" font="Range_FNT" layout="Range_LAY">
+      Head to the top of the waterfall
+    </text>
+    <text name="ev1900_060" id="2169946212" font="Range_FNT" layout="Range_LAY">
+      Insert Portal Gear
+    </text>
+    <text name="ev1900_070" id="2169946339" font="Range_FNT" layout="Range_LAY">
+      Clear Portal 1-2
+    </text>
+    <text name="ev1900_080" id="2169946466" font="Range_FNT" layout="Range_LAY">
+      Collect Amy's Memory Tokens
+    </text>
+    <text name="ev1900_081" id="2169946467" font="Range_FNT" layout="Range_LAY">
+      Search for friends
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

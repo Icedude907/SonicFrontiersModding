@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5205_010" id="4289045953" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      When I scanned the skies earlier, I detected a similar reading in the ruins. Maybe there's something in the air?
+    </text>
+    <text name="sb5205_020" id="4289046080" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That would be a satellite placed in space by the Ancients. There are multiple satellites positioned over a wide area.
+    </text>
+    <text name="sb5205_030" id="4289046207" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But why did they put them up there?
+    </text>
+    <text name="sb5205_040" id="4289046334" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There is evidence that the satellites were used to send some kind of authentication code. The columns of light you have seen above ground are all masses of electronic data.
+    </text>
+    <text name="sb5205_050" id="4289046461" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That must mean the Emerald Vaults opened when interacting with that light! It was receiving data to unlock them from the satellites...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

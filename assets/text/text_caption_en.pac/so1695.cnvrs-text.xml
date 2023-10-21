@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="so1695_010" id="617475661">
+      Shh-shh, it's alright. It'll be alright.
+    </text>
+    <text name="so1695_020" id="617475788">
+      I'm going to take you somewhere safe.
+    </text>
+    <text name="so1695_030" id="617475915">
+      This way, little ones. I've got you.
+    </text>
+    <text name="so1695_032" id="617475917" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I don't like crowds... but very well.
+    </text>
+    <text name="so1695_034" id="617475919" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Slow down! Stop crowding!
+    </text>
+    <text name="so1695_036" id="617475921" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You have my thanks! I will look after these little ones.
+    </text>
+    <text name="so1695_038" id="617475923" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Gather round and be healed, little ones.
+    </text>
+    <text name="so1695_040" id="617476042" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We're running out of time! Knuckles needs to hurry!
+    </text>
+    <text name="so1695_050" id="617476169" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Thanks for handling things, Amy. I'll take it from here!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

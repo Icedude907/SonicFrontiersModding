@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb2070_010" id="850721974" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I know they're completely different islands, but some of these ruins are making me think of the ones back on Angel Island.
+    </text>
+    <text name="sb2070_020" id="850722101" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Why? Because they're made of stone? There are multiple architectural styles across the island. It's different types of stone, too.
+    </text>
+    <text name="sb2070_030" id="850722228" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Plus these ruins pre-date anything on Angel Island by a wide margin.
+    </text>
+    <text name="sb2070_040" id="850722355" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Although... the spiritual spaces and military structures do share some similarities.
+    </text>
+    <text name="sb2070_050" id="850722482" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Okay, so the Ancients and Echidnas weren't related. But the one group must have inspired the other.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

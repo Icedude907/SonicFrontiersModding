@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5305_010" id="3978912450" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Titans I've fought all looked really different. I wonder why that is?
+    </text>
+    <text name="sb5305_020" id="3978912577" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There used to be five tribes co-existing on the planet of the Ancients. A tribe with big and powerful bodies, a tribe that developed a tail instead of legs, a tribe that walked on four legs, a winged tribe, and a tribe that was the most intelligent of them all.
+    </text>
+    <text name="sb5305_030" id="3978912704" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The five tribes fought as one to stand against their foe, but they were desperately outmatched. As a result, four of the five tribes perished.
+    </text>
+    <text name="sb5305_040" id="3978912831" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The survivors of the most intelligent tribe created weapons based on the other four tribes to challenge their enemy once again. The Titans represent the Ancients' determination to avenge their fallen compatriots.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

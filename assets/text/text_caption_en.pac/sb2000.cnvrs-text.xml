@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb2000_010" id="1510370109" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Look at the size of this... what-do-you-call-it? Satellite dish? It's for communications, right?
+    </text>
+    <text name="sb2000_020" id="1510370236" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah. I've seen all sorts of crazy high-tech ancient tech across both islands.
+    </text>
+    <text name="sb2000_030" id="1510370363" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      How can something this old be this advanced? It's sturdy too. I punched it and it didn't move at all.
+    </text>
+    <text name="sb2000_040" id="1510370490" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Knux... don't punch the ruins. Once I find Tails, maybe he can use them to figure out what happened here.
+    </text>
+    <text name="sb2000_050" id="1510370617" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey! I already discovered that it's sturdier than anything we've encountered. I don't think this material is from this world.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

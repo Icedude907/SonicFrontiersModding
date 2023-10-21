@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5600_010" id="1747788736" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I've been feeling off ever since that shockwave hit. Hope you're hanging in there, Tails.
+    </text>
+    <text name="sb5600_020" id="1747788863" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm okay, but the enemy might be recharging their energy. We need to hurry.
+    </text>
+    <text name="sb5600_030" id="1747788990" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah, let's get going, buddy!
+    </text>
+    <text name="sb5600_040" id="1747789117" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Okay, and stop worrying about me. And start believing in me!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

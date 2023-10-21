@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5105_010" id="304212160" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There were underground passages on Ares Island. I wonder if the Ancients were building something down there?
+    </text>
+    <text name="sb5105_020" id="304212287" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tens of thousands of years ago, a fleet of spaceships carrying the Ancients landed on this planet. Several of those ships are now deep underwater, unable to fly, but their power is still active.
+    </text>
+    <text name="sb5105_030" id="304212414" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Still active? From tens of thousands of years ago?
+    </text>
+    <text name="sb5105_040" id="304212541" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They used their spaceship's power to build a new civilization on this island. The underground passages on Ares Island were one of many paths leading to the submerged spaceships, though they no longer seem to be connected.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

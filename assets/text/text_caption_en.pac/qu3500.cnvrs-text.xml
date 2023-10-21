@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="qu3500_010" id="411732694" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Look! It's an Assault-model Death Egg Robot!
+      It looks pretty entrenched. 
+    </text>
+    <text name="qu3500_020" id="411732821" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'll take a look around.
+      Let me know if you find anything!
+    </text>
+    <text name="qu3500_030" id="411732948" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You don't see something like this every day.
+    </text>
+    <text name="qu3500_040" id="411733075" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      These things are tough to take down, even for me.
+      I wonder what took it out? Maybe that ghost-girl?
+    </text>
+    <text name="qu3500_050" id="411733202" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey, Sonic! I found a remote control panel.
+      It's still online!
+    </text>
+    <text name="qu3500_060" id="411733329" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Let's see what Eggman was trying to do with this thing.
+      If it goes bad, you can shut it off.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

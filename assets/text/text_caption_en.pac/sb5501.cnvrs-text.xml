@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5501_010" id="2318066880" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey, where's the punk who caused that shockwave before?
+    </text>
+    <text name="sb5501_020" id="2318067007" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It hasn't made an appearance yet. It's somewhere far beyond your fists' reach.
+    </text>
+    <text name="sb5501_030" id="2318067134" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sheesh, what a coward, attacking from so far away.
+    </text>
+    <text name="sb5501_040" id="2318067261" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But when it does appear, our time will come to an end...
+    </text>
+    <text name="sb5501_050" id="2318067388" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If we don't gather the Emeralds and prepare, our chance of success will be zero.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

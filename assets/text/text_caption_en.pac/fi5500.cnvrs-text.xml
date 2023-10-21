@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="fi5500_010" id="3251572819" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Move the target
+    </text>
+    <text name="fi5500_020" id="3251572946" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Cast the line
+    </text>
+    <text name="fi5500_030" id="3251573073" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Reel it in
+    </text>
+    <text name="fi5500_040" id="3251573200" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Hook the fish
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

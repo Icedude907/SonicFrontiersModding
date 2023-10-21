@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev4030_010" id="3095259866" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What are the Chaos Emeralds reacting to?!
+    </text>
+    <text name="ev4030_020" id="3095259993" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Some kind of power source is drawing them in! We’ve lost control of navigation!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

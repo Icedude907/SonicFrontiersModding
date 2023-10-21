@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb1020_010" id="3894848700" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You hanging in there, Amy? Is your condition... well I don't know... uncomfortable?
+    </text>
+    <text name="sb1020_020" id="3894848827" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's certainly unsettling. But it makes a big difference being able to at least talk to you.
+    </text>
+    <text name="sb1020_030" id="3894848954" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Before you freed me, I couldn't see or hear anything clearly. It was like looking into a kaleidoscope that was always shifting.
+    </text>
+    <text name="sb1020_040" id="3894849081" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I couldn't tell if I was coming, going, or moving at all. I'd have gone crazy if you hadn't gotten me out!
+    </text>
+    <text name="sb1020_050" id="3894849208" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You're tough. I know you'd have hung in there. Still, I'm glad I could get you out. And I'm not gonna stop until you're back to normal!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

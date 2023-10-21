@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb2090_010" id="2502951348" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You. Again. Do not interfere with my work.
+    </text>
+    <text name="sb2090_020" id="2502951475" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah... I don't even know what work I'm interfering with!
+    </text>
+    <text name="sb2090_030" id="2502951602" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Look. Just take a second to tell me who you are, what's going on, and why you look like you want to smite me on the spot?
+    </text>
+    <text name="sb2090_040" id="2502951729" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That is irrelevant. Knowing. Not knowing. It will change nothing.
+    </text>
+    <text name="sb2090_050" id="2502951856" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There is nothing you can do.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

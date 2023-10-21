@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb4090_010" id="1038452914" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You were created by Eggman, right?
+    </text>
+    <text name="sb4090_020" id="1038453041" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Correct. My base code was compiled by him.
+    </text>
+    <text name="sb4090_030" id="1038453168" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The scope of my capabilities was vastly modified once I integrated with Cyber Space, but he is my creator.
+    </text>
+    <text name="sb4090_040" id="1038453295" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Heh, oh man. I bet he never expected his genius A.I. would advise him to work with me.
+    </text>
+    <text name="sb4090_050" id="1038453422" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I put forward the scenario with the highest likelihood for survival. That is all.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

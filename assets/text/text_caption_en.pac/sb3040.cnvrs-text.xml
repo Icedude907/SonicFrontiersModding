@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb3040_010" id="4082579640" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I analyzed the Cyber Space portal the last time you were accessing it.
+    </text>
+    <text name="sb3040_020" id="4082579767" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      While you were online it opened up a flood of data. It was way too much to process, but I did get a glimpse of the Ancients' personal data.
+    </text>
+    <text name="sb3040_030" id="4082579894" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh, so... what? You know all their birthdays now?
+    </text>
+    <text name="sb3040_040" id="4082580021" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Much more than that. Sonic - it was their very essences! Their hopes, their dreams, everything that made them what they were. Do you see the correlation?
+    </text>
+    <text name="sb3040_050" id="4082580148" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sounds a lot like what happened to you, Amy and Knuckles. 
+      I'm glad you're all intact, but why were you all uploaded like that?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

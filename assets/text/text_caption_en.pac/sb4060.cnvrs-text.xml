@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb4060_010" id="707592501" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You can't just... take control of that last Titan, can you?
+    </text>
+    <text name="sb4060_020" id="707592628" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have made multiple attempts but all failed.
+    </text>
+    <text name="sb4060_030" id="707592755" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And this is the last one, right? I don't want any more surprises.
+    </text>
+    <text name="sb4060_040" id="707592882" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can confirm only four were constructed.
+    </text>
+    <text name="sb4060_050" id="707593009" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Then let's do it to it. We're out of time.
+      We've got to save everyone, everywhere!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

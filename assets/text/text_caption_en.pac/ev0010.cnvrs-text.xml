@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev0010_010" id="77060064" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Uploading A.I. Program now.
+    </text>
+    <text name="ev0010_020" id="77060191" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev0010_030" id="77060318" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev0010_040" id="77060445" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yes! It’s all coming online! The Ancients’ secrets will be mine!
+    </text>
+    <text name="ev0010_050" id="77060572" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Status report. Answer me!
+    </text>
+    <text name="ev0010_060" id="77060699" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Simulations complete. Executing protective initiative.
+    </text>
+    <text name="ev0010_070" id="77060826" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What? No! NO!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

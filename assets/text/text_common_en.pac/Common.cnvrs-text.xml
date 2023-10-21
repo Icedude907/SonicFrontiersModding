@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="cmn_xboxlive_server_failed" id="73322196" font="ConverseDefault_Font" layout="ConverseDefault_Layout">
+      Failed to connect to the server.
+    </text>
+    <text name="cmn_pause_retry" id="150814884" font="Range_FNT" layout="Range_LAY">
+      RETRY
+    </text>
+    <text name="cmn_system_complete" id="521216078" font="Range_FNT" layout="Range_LAY">
+      Completed
+    </text>
+    <text name="title_copyright" id="1043179776" font="Range_FNT" layout="Range_LAY">
+      ©SEGA
+    </text>
+    <text name="cmn_pause_continue" id="1651885291" font="Range_FNT" layout="Range_LAY">
+      CONTINUE
+    </text>
+    <text name="cmn_pause_quit" id="1927058291" font="Range_FNT" layout="Range_LAY">
+      QUIT
+    </text>
+    <text name="cmn_pause_header" id="2263261297" font="Range_FNT_toast" layout="Range_LAY_toast">
+      PAUSE
+    </text>
+    <text name="cmn_xboxlive_notconnect" id="2494141820" font="ConverseDefault_Font" layout="ConverseDefault_Layout">
+      Couldn't connect to Xbox Live.
+    </text>
+    <text name="cmn_lang_zhs" id="2777208591" font="Range_FNT" layout="Range_LAY">
+      简体中文
+    </text>
+    <text name="cmn_controller_disconnect" id="3416445124" font="ConverseDefault_Font" layout="ConverseDefault_Layout">
+      Your controller has been disconnected.
+      Please reconnect the controller.
+    </text>
+    <text name="cmn_lang_de" id="3437547639" font="Range_FNT" layout="Range_LAY">
+      Deutsch
+    </text>
+    <text name="cmn_lang_en" id="3437547775" font="Range_FNT" layout="Range_LAY">
+      English
+    </text>
+    <text name="cmn_lang_es" id="3437547780" font="Range_FNT" layout="Range_LAY">
+      Español
+    </text>
+    <text name="cmn_lang_fr" id="3437547906" font="Range_FNT" layout="Range_LAY">
+      français
+    </text>
+    <text name="cmn_lang_it" id="3437548289" font="Range_FNT" layout="Range_LAY">
+      Italiano
+    </text>
+    <text name="cmn_lang_ja" id="3437548397" font="Range_FNT" layout="Range_LAY">
+      日本語
+    </text>
+    <text name="cmn_lang_ko" id="3437548538" font="Range_FNT" layout="Range_LAY">
+      한국어
+    </text>
+    <text name="cmn_lang_pl" id="3437549170" font="Range_FNT" layout="Range_LAY">
+      Polski
+    </text>
+    <text name="cmn_lang_pt" id="3437549178" font="Range_FNT" layout="Range_LAY">
+      Português do Brasil
+    </text>
+    <text name="cmn_lang_ru" id="3437549433" font="Range_FNT" layout="Range_LAY">
+      Pусский
+    </text>
+    <text name="cmn_lang_zh" id="3437550436" font="Range_FNT" layout="Range_LAY">
+      繁體中文
+    </text>
+    <text name="cmn_system_load" id="3845028059" font="Range_FNT" layout="Range_LAY">
+      Loading
+    </text>
+    <text name="cmn_system_save" id="3859143602" font="Range_FNT" layout="Range_LAY">
+      Saving
+    </text>
+    <text name="cmn_xboxlive_internet_timeout" id="3950666920" font="ConverseDefault_Font" layout="ConverseDefault_Layout">
+      Connection timed out.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="ConverseDefault_Font">
+      <typeface>RANGEmixStd</typeface>
+      <size>24</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1092616192</unknown1>
+      <color>FFFFFFFF</color>
+      <unknown2>1</unknown2>
+      <unknown3>0</unknown3>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_toast">
+      <typeface>RANGEmixStd</typeface>
+      <size>48</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="ConverseDefault_Layout">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_toast">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="bo9190_010" id="77764300" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9610_010" id="215950685" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9740_010" id="236677595" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9510_010" id="526084188" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9640_010" id="546811098" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9770_010" id="567538008" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="bo9120_010" id="737412435" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9540_010" id="856944601" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9670_010" id="877671511" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="bo9150_010" id="1068272848" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9570_010" id="1187805014" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9700_010" id="1227186143" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="bo9180_010" id="1399133261" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9600_010" id="1537319646" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9730_010" id="1558046556" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9630_010" id="1868180059" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9760_010" id="1888906969" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="bo9125_010" id="2038135640" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="bo9110_010" id="2058781396" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9545_010" id="2157667806" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9530_010" id="2178313562" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9660_010" id="2199040472" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="bo9140_010" id="2389641809" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9560_010" id="2509173975" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9690_010" id="2529900885" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="bo9170_010" id="2720502222" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9590_010" id="2840034388" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9720_010" id="2879415517" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9850_010" id="2900142427" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9620_010" id="3189549020" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9750_010" id="3210275930" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9520_010" id="3499682523" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9650_010" id="3520409433" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="bo9130_010" id="3711010770" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9550_010" id="3830542936" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9680_010" id="3851269846" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="bo9160_010" id="4041871183" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9580_010" id="4161403349" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev9710_010" id="4200784478" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

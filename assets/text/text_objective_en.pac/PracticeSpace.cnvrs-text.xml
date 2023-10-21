@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ps_explain_145_Steam" id="100328255" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" />
+    </text>
+    <text name="ps_command_06_Steam" id="194640487" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_qsleft" />/<image name="s_button_qsright" />
+    </text>
+    <text name="ps_command_58_Steam" id="208094692" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_attack" />→<image name="s_button_attack" />
+    </text>
+    <text name="ps_command_00" id="538958704" font="Range_FNT" layout="Range_LAY">
+      command 00
+    </text>
+    <text name="ps_command_01" id="538958705" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_stick" />
+    </text>
+    <text name="ps_command_02" id="538958706" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_top" /> while moving
+    </text>
+    <text name="ps_command_03" id="538958707" font="Range_FNT" layout="Range_LAY">
+      <image name="button_top" /> during combo
+    </text>
+    <text name="ps_command_04" id="538958708" font="Range_FNT" layout="Range_LAY">
+      Press <image name="button_right_stick" />
+    </text>
+    <text name="ps_command_05" id="538958709" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_left_shoulder" />+<image name="button_right_shoulder" />
+    </text>
+    <text name="ps_command_06" id="538958710" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left_shoulder" />/<image name="button_right_shoulder" />
+    </text>
+    <text name="ps_command_07" id="538958711" font="Range_FNT" layout="Range_LAY">
+      command 07
+    </text>
+    <text name="ps_command_08" id="538958712" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left_shoulder" />/<image name="button_right_shoulder" />&gt;<image name="button_left" />
+    </text>
+    <text name="ps_command_09" id="538958713" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" /> in the air &gt;<image name="button_left" /> in the air
+    </text>
+    <text name="ps_command_10" id="538958831" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right" /> during combo
+    </text>
+    <text name="ps_command_11" id="538958832" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_left_trigger" /> in the air or during combo
+    </text>
+    <text name="ps_command_12" id="538958833" font="Range_FNT" layout="Range_LAY">
+      <image name="button_bottom" /> during combo
+    </text>
+    <text name="ps_command_13" id="538958834" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" /> in the air &gt;<image name="button_right" /> in the air
+    </text>
+    <text name="ps_command_14" id="538958835" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" /> in the air &gt;<image name="button_bottom" /> in the air
+    </text>
+    <text name="ps_command_15" id="538958836" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_left" /> during combo
+    </text>
+    <text name="ps_command_16" id="538958837" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_left_shoulder" />+<image name="button_right_shoulder" />&gt;<image name="button_top" />+<image name="button_right" />
+    </text>
+    <text name="ps_command_17" id="538958838" font="Range_FNT" layout="Range_LAY">
+      <image name="button_bottom" /> after being hit
+    </text>
+    <text name="ps_command_18" id="538958839" font="Range_FNT" layout="Range_LAY">
+      <image name="button_bottom" />
+    </text>
+    <text name="ps_command_19" id="538958840" font="Range_FNT" layout="Range_LAY">
+      <image name="button_bottom" />&gt;<image name="button_bottom" />
+    </text>
+    <text name="ps_command_20" id="538958958" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left" />
+    </text>
+    <text name="ps_command_21" id="538958959" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_right" />+<image name="button_right_trigger" />
+    </text>
+    <text name="ps_command_22" id="538958960" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right" /> in the air
+    </text>
+    <text name="ps_command_23" id="538958961" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_right" /> in the air
+    </text>
+    <text name="ps_command_24" id="538958962" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" /> in the air
+    </text>
+    <text name="ps_command_25" id="538958963" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_up" />+<image name="button_left_shoulder" />/<image name="button_l_stick_up" />+<image name="button_right_shoulder" />
+    </text>
+    <text name="ps_command_26" id="538958964" font="Range_FNT" layout="Range_LAY">
+      Press <image name="button_left_stick" /> near Rings
+    </text>
+    <text name="ps_command_27" id="538958965" font="Range_FNT" layout="Range_LAY">
+      <image name="button_bottom" />&gt;<image name="button_bottom" />&gt; Hold <image name="button_bottom" /> in the air
+    </text>
+    <text name="ps_command_28" id="538958966" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_right" />+<image name="button_right" />
+    </text>
+    <text name="ps_command_29" id="538958967" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_right" />+<image name="button_right_trigger" />
+    </text>
+    <text name="ps_command_30" id="538959085" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_left" />+<image name="button_right_trigger" /> while on the wall
+    </text>
+    <text name="ps_command_31" id="538959086" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_right" />+<image name="button_right_trigger" />
+    </text>
+    <text name="ps_command_32" id="538959087" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" /> in the air &gt;<image name="button_right" /> in the air
+    </text>
+    <text name="ps_command_33" id="538959088" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left" />&gt;<image name="button_right" />
+    </text>
+    <text name="ps_command_34" id="538959089" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left_stick" /> in the air
+    </text>
+    <text name="ps_command_35" id="538959090" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left_shoulder" />/<image name="button_right_shoulder" />&gt;<image name="button_left" />
+    </text>
+    <text name="ps_command_36" id="538959091" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" />&gt;<image name="button_left" />
+    </text>
+    <text name="ps_command_37" id="538959092" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right" />
+    </text>
+    <text name="ps_command_38" id="538959093" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left_trigger" />
+    </text>
+    <text name="ps_command_39" id="538959094" font="Range_FNT" layout="Range_LAY">
+      <image name="button_bottom" />
+    </text>
+    <text name="ps_command_40" id="538959212" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" />&gt;<image name="button_right" />
+    </text>
+    <text name="ps_command_41" id="538959213" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" />&gt;<image name="button_bottom" />
+    </text>
+    <text name="ps_command_42" id="538959214" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_left" />
+    </text>
+    <text name="ps_command_43" id="538959215" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" />
+    </text>
+    <text name="ps_command_44" id="538959216" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right" />
+    </text>
+    <text name="ps_command_45" id="538959217" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_right" />
+    </text>
+    <text name="ps_command_46" id="538959218" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_bottom" />
+    </text>
+    <text name="ps_command_47" id="538959219" font="Range_FNT" layout="Range_LAY">
+      Press <image name="button_left_stick" />
+    </text>
+    <text name="ps_command_48" id="538959220" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_left" />+<image name="button_bottom" />
+    </text>
+    <text name="ps_command_49" id="538959221" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_left" />+<image name="button_bottom" />&gt;<image name="button_bottom" />
+    </text>
+    <text name="ps_command_50" id="538959339" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_left" />+<image name="button_right_trigger" />
+    </text>
+    <text name="ps_command_51" id="538959340" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_right" />+<image name="button_left_trigger" />
+    </text>
+    <text name="ps_command_52" id="538959341" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_left_trigger" /> in the air
+    </text>
+    <text name="ps_command_53" id="538959342" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_left_trigger" />
+    </text>
+    <text name="ps_command_54" id="538959343" font="Range_FNT" layout="Range_LAY">
+      Release <image name="button_right" />
+    </text>
+    <text name="ps_command_55" id="538959344" font="Range_FNT" layout="Range_LAY">
+      <image name="button_top" />
+    </text>
+    <text name="ps_command_56" id="538959345" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left_stick" />+<image name="button_right_trigger" />
+    </text>
+    <text name="ps_command_57" id="538959346" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_bottom" /> in midair
+    </text>
+    <text name="ps_command_58" id="538959347" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left" />→<image name="button_left" />
+    </text>
+    <text name="ps_command_59" id="538959348" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left" />→<image name="button_left" />→<image name="button_left" />
+    </text>
+    <text name="ps_command_60" id="538959466" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left" />→<image name="button_left" />→<image name="button_left" />→ Hold <image name="button_left" />
+    </text>
+    <text name="ps_command_61" id="538959467" font="Range_FNT" layout="Range_LAY">
+      <image name="button_left_stick" />+<image name="button_left_trigger" />
+    </text>
+    <text name="ps_command_62" id="538959468" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" />+<image name="button_left" />
+    </text>
+    <text name="ps_command_63" id="538959469" font="Range_FNT" layout="Range_LAY">
+      Use <image name="button_left_stick" /> when facing a wall
+    </text>
+    <text name="ps_command_64" id="538959470" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="button_right" />→<image name="button_left_trigger" />→Release <image name="button_right" />
+    </text>
+    <text name="ps_command_65" id="538959471" font="Range_FNT" layout="Range_LAY">
+      <image name="button_bottom" />→<image name="button_bottom" />→<image name="button_bottom" />
+    </text>
+    <text name="ps_command_66" id="538959472" font="Range_FNT" layout="Range_LAY">
+      <image name="button_bottom" />→<image name="button_bottom" />→Hold <image name="button_bottom" />
+    </text>
+    <text name="ps_command_67" id="538959473" font="Range_FNT" layout="Range_LAY">
+      command 67
+    </text>
+    <text name="ps_command_68" id="538959474" font="Range_FNT" layout="Range_LAY">
+      command 68
+    </text>
+    <text name="ps_command_69" id="538959475" font="Range_FNT" layout="Range_LAY">
+      command 69
+    </text>
+    <text name="ps_command_70" id="538959593" font="Range_FNT" layout="Range_LAY">
+      command 70
+    </text>
+    <text name="ps_command_71" id="538959594" font="Range_FNT" layout="Range_LAY">
+      command 71
+    </text>
+    <text name="ps_command_72" id="538959595" font="Range_FNT" layout="Range_LAY">
+      command 72
+    </text>
+    <text name="ps_command_73" id="538959596" font="Range_FNT" layout="Range_LAY">
+      command 73
+    </text>
+    <text name="ps_command_74" id="538959597" font="Range_FNT" layout="Range_LAY">
+      command 74
+    </text>
+    <text name="ps_command_75" id="538959598" font="Range_FNT" layout="Range_LAY">
+      command 75
+    </text>
+    <text name="ps_command_76" id="538959599" font="Range_FNT" layout="Range_LAY">
+      command 76
+    </text>
+    <text name="ps_command_77" id="538959600" font="Range_FNT" layout="Range_LAY">
+      command 77
+    </text>
+    <text name="ps_command_78" id="538959601" font="Range_FNT" layout="Range_LAY">
+      command 78
+    </text>
+    <text name="ps_command_79" id="538959602" font="Range_FNT" layout="Range_LAY">
+      command 79
+    </text>
+    <text name="ps_command_80" id="538959720" font="Range_FNT" layout="Range_LAY">
+      command 80
+    </text>
+    <text name="ps_command_81" id="538959721" font="Range_FNT" layout="Range_LAY">
+      command 81
+    </text>
+    <text name="ps_command_82" id="538959722" font="Range_FNT" layout="Range_LAY">
+      command 82
+    </text>
+    <text name="ps_command_83" id="538959723" font="Range_FNT" layout="Range_LAY">
+      command 83
+    </text>
+    <text name="ps_command_84" id="538959724" font="Range_FNT" layout="Range_LAY">
+      command 84
+    </text>
+    <text name="ps_command_85" id="538959725" font="Range_FNT" layout="Range_LAY">
+      command 85
+    </text>
+    <text name="ps_command_86" id="538959726" font="Range_FNT" layout="Range_LAY">
+      command 86
+    </text>
+    <text name="ps_command_87" id="538959727" font="Range_FNT" layout="Range_LAY">
+      command 87
+    </text>
+    <text name="ps_command_88" id="538959728" font="Range_FNT" layout="Range_LAY">
+      command 88
+    </text>
+    <text name="ps_command_89" id="538959729" font="Range_FNT" layout="Range_LAY">
+      command 89
+    </text>
+    <text name="ps_command_90" id="538959847" font="Range_FNT" layout="Range_LAY">
+      command 90
+    </text>
+    <text name="ps_command_91" id="538959848" font="Range_FNT" layout="Range_LAY">
+      command 91
+    </text>
+    <text name="ps_command_92" id="538959849" font="Range_FNT" layout="Range_LAY">
+      command 92
+    </text>
+    <text name="ps_command_93" id="538959850" font="Range_FNT" layout="Range_LAY">
+      command 93
+    </text>
+    <text name="ps_command_94" id="538959851" font="Range_FNT" layout="Range_LAY">
+      command 94
+    </text>
+    <text name="ps_command_95" id="538959852" font="Range_FNT" layout="Range_LAY">
+      command 95
+    </text>
+    <text name="ps_command_96" id="538959853" font="Range_FNT" layout="Range_LAY">
+      command 96
+    </text>
+    <text name="ps_command_97" id="538959854" font="Range_FNT" layout="Range_LAY">
+      command 97
+    </text>
+    <text name="ps_command_98" id="538959855" font="Range_FNT" layout="Range_LAY">
+      command 98
+    </text>
+    <text name="ps_command_99" id="538959856" font="Range_FNT" layout="Range_LAY">
+      command 99
+    </text>
+    <text name="ps_command_20_Steam" id="590943071" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_attack" />
+    </text>
+    <text name="ps_command_04_Steam" id="814907493" font="Range_FNT" layout="Range_LAY">
+      Press <image name="s_button_lockon" />
+    </text>
+    <text name="ps_explain_05_Steam" id="1087466714" font="Range_FNT" layout="Range_LAY">
+      Timing on when to Parry is unnecessary
+    </text>
+    <text name="ps_command_03_Steam" id="1125040996" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_cyloop" /> during combo
+    </text>
+    <text name="ps_command_55_Steam" id="1138495201" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_cyloop" />
+    </text>
+    <text name="ps_command_47_Steam" id="1250477412" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_lightdash" />
+    </text>
+    <text name="ps_command_62_Steam" id="1336646493" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" />+<image name="s_button_attack" />
+    </text>
+    <text name="ps_command_02_Steam" id="1435174499" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="s_button_cyloop" /> while moving
+    </text>
+    <text name="ps_explain_133_Steam" id="1452844478" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" />
+    </text>
+    <text name="ps_explain_117_Steam" id="1676808900" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" />
+    </text>
+    <text name="ps_mission_100" id="1680417378" font="Range_FNT" layout="Range_LAY">
+      Spin Dash
+    </text>
+    <text name="ps_mission_101" id="1680417379" font="Range_FNT" layout="Range_LAY">
+      Spin Dash
+    </text>
+    <text name="ps_mission_102" id="1680417380" font="Range_FNT" layout="Range_LAY">
+      Spin Dash
+    </text>
+    <text name="ps_mission_103" id="1680417381" font="Range_FNT" layout="Range_LAY">
+      Jump
+    </text>
+    <text name="ps_mission_104" id="1680417382" font="Range_FNT" layout="Range_LAY">
+      Card Float
+    </text>
+    <text name="ps_mission_105" id="1680417383" font="Range_FNT" layout="Range_LAY">
+      Homing Attack
+    </text>
+    <text name="ps_mission_106" id="1680417384" font="Range_FNT" layout="Range_LAY">
+      Boost
+    </text>
+    <text name="ps_mission_107" id="1680417385" font="Range_FNT" layout="Range_LAY">
+      Card Spin Boost
+    </text>
+    <text name="ps_mission_108" id="1680417386" font="Range_FNT" layout="Range_LAY">
+      Card Attack
+    </text>
+    <text name="ps_mission_109" id="1680417387" font="Range_FNT" layout="Range_LAY">
+      Card Spin
+    </text>
+    <text name="ps_mission_110" id="1680417505" font="Range_FNT" layout="Range_LAY">
+      Multi-lock
+    </text>
+    <text name="ps_mission_111" id="1680417506" font="Range_FNT" layout="Range_LAY">
+      Card Stomp
+    </text>
+    <text name="ps_mission_112" id="1680417507" font="Range_FNT" layout="Range_LAY">
+      High Card Jump
+    </text>
+    <text name="ps_mission_113" id="1680417508" font="Range_FNT" layout="Range_LAY">
+      Cyhammer
+    </text>
+    <text name="ps_mission_114" id="1680417509" font="Range_FNT" layout="Range_LAY">
+      Infinite Card Spin
+    </text>
+    <text name="ps_mission_115" id="1680417510" font="Range_FNT" layout="Range_LAY">
+      Spin Dash
+    </text>
+    <text name="ps_mission_116" id="1680417511" font="Range_FNT" layout="Range_LAY">
+      Parry
+    </text>
+    <text name="ps_mission_117" id="1680417512" font="Range_FNT" layout="Range_LAY">
+      Poison Parry
+    </text>
+    <text name="ps_mission_118" id="1680417513" font="Range_FNT" layout="Range_LAY">
+      Cyloop
+    </text>
+    <text name="ps_mission_119" id="1680417514" font="Range_FNT" layout="Range_LAY">
+      Jump
+    </text>
+    <text name="ps_mission_120" id="1680417632" font="Range_FNT" layout="Range_LAY">
+      Glide
+    </text>
+    <text name="ps_mission_121" id="1680417633" font="Range_FNT" layout="Range_LAY">
+      Homing Attack
+    </text>
+    <text name="ps_mission_122" id="1680417634" font="Range_FNT" layout="Range_LAY">
+      Boost
+    </text>
+    <text name="ps_mission_123" id="1680417635" font="Range_FNT" layout="Range_LAY">
+      Wall Climb
+    </text>
+    <text name="ps_mission_124" id="1680417636" font="Range_FNT" layout="Range_LAY">
+      Drill Spin Boost
+    </text>
+    <text name="ps_mission_125" id="1680417637" font="Range_FNT" layout="Range_LAY">
+      Combo Attack
+    </text>
+    <text name="ps_mission_126" id="1680417638" font="Range_FNT" layout="Range_LAY">
+      Drill Spin Attack
+    </text>
+    <text name="ps_mission_127" id="1680417639" font="Range_FNT" layout="Range_LAY">
+      Heat Stomp
+    </text>
+    <text name="ps_mission_128" id="1680417640" font="Range_FNT" layout="Range_LAY">
+      Cyknuckle
+    </text>
+    <text name="ps_mission_129" id="1680417641" font="Range_FNT" layout="Range_LAY">
+      Infinite Glide
+    </text>
+    <text name="ps_mission_130" id="1680417759" font="Range_FNT" layout="Range_LAY">
+      Spin Dash
+    </text>
+    <text name="ps_mission_131" id="1680417760" font="Range_FNT" layout="Range_LAY">
+      Parry
+    </text>
+    <text name="ps_mission_132" id="1680417761" font="Range_FNT" layout="Range_LAY">
+      Double Jump
+    </text>
+    <text name="ps_mission_133" id="1680417762" font="Range_FNT" layout="Range_LAY">
+      Break Parry
+    </text>
+    <text name="ps_mission_134" id="1680417763" font="Range_FNT" layout="Range_LAY">
+      Cyloop
+    </text>
+    <text name="ps_mission_135" id="1680417764" font="Range_FNT" layout="Range_LAY">
+      Jump
+    </text>
+    <text name="ps_mission_136" id="1680417765" font="Range_FNT" layout="Range_LAY">
+      Fly
+    </text>
+    <text name="ps_mission_137" id="1680417766" font="Range_FNT" layout="Range_LAY">
+      Boost
+    </text>
+    <text name="ps_mission_138" id="1680417767" font="Range_FNT" layout="Range_LAY">
+      Cyclone Boost
+    </text>
+    <text name="ps_mission_139" id="1680417768" font="Range_FNT" layout="Range_LAY">
+      Wrench Attack
+    </text>
+    <text name="ps_mission_140" id="1680417886" font="Range_FNT" layout="Range_LAY">
+      Charged Wrench Attack
+    </text>
+    <text name="ps_mission_141" id="1680417887" font="Range_FNT" layout="Range_LAY">
+      Spike Stomp
+    </text>
+    <text name="ps_mission_142" id="1680417888" font="Range_FNT" layout="Range_LAY">
+      Cyblaster
+    </text>
+    <text name="ps_mission_143" id="1680417889" font="Range_FNT" layout="Range_LAY">
+      Cyclone Cannon
+    </text>
+    <text name="ps_mission_144" id="1680417890" font="Range_FNT" layout="Range_LAY">
+      Spin Dash
+    </text>
+    <text name="ps_mission_145" id="1680417891" font="Range_FNT" layout="Range_LAY">
+      Parry
+    </text>
+    <text name="ps_mission_146" id="1680417892" font="Range_FNT" layout="Range_LAY">
+      Double Jump
+    </text>
+    <text name="ps_mission_147" id="1680417893" font="Range_FNT" layout="Range_LAY">
+      Debuff Parry
+    </text>
+    <text name="ps_mission_148" id="1680417894" font="Range_FNT" layout="Range_LAY">
+      Cyloop
+    </text>
+    <text name="ps_mission_149" id="1680417895" font="Range_FNT" layout="Range_LAY">
+      Double Jump
+    </text>
+    <text name="ps_command_60_Steam" id="1956913499" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_attack" />→<image name="s_button_attack" />→<image name="s_button_attack" />→Hold <image name="s_button_attack" />
+    </text>
+    <text name="ps_explain_116_Steam" id="1986942403" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" />
+    </text>
+    <text name="ps_explain_131_Steam" id="2073111484" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" />
+    </text>
+    <text name="ps_command_36_Steam" id="2292860132">
+      <image name="button_right_trigger" />&gt;<image name="s_button_attack" />
+    </text>
+    <text name="ps_command_35_Steam" id="2602993635" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_qsleft" />/<image name="s_button_qsright" />&gt;<image name="s_button_attack" />
+    </text>
+    <text name="ps_command_42_Steam" id="2801144927" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="s_button_attack" />
+    </text>
+    <text name="ps_command_26_Steam" id="3025109349" font="Range_FNT" layout="Range_LAY">
+      Press <image name="s_button_lightdash" /> near Rings
+    </text>
+    <text name="ps_explain_35_Steam" id="3185686359" font="Range_FNT" layout="Range_LAY">
+      Timing on when to Parry is unnecessary
+    </text>
+    <text name="ps_command_33_Steam" id="3223260641" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_attack" />&gt;<image name="button_right" />
+    </text>
+    <text name="ps_command_25_Steam" id="3335242852" font="Range_FNT" layout="Range_LAY">
+      <image name="button_l_stick_up" />+<image name="s_button_qsleft" />/<image name="button_l_stick_up" />+<image name="s_button_qsright" />
+    </text>
+    <text name="ps_command_09_Steam" id="3559207274" font="Range_FNT" layout="Range_LAY">
+      <image name="button_right_trigger" /> in the air &gt;<image name="s_button_attack" /> in the air
+    </text>
+    <text name="ps_mission_00" id="3631825999" font="Range_FNT" layout="Range_LAY">
+      mission 00
+    </text>
+    <text name="ps_mission_01" id="3631826000" font="Range_FNT" layout="Range_LAY">
+      Camera
+    </text>
+    <text name="ps_mission_02" id="3631826001" font="Range_FNT" layout="Range_LAY">
+      Cyloop
+    </text>
+    <text name="ps_mission_03" id="3631826002" font="Range_FNT" layout="Range_LAY">
+      Quick Cyloop
+    </text>
+    <text name="ps_mission_04" id="3631826003" font="Range_FNT" layout="Range_LAY">
+      Lock on
+    </text>
+    <text name="ps_mission_05" id="3631826004" font="Range_FNT" layout="Range_LAY">
+      Parry
+    </text>
+    <text name="ps_mission_06" id="3631826005" font="Range_FNT" layout="Range_LAY">
+      Dodge
+    </text>
+    <text name="ps_mission_07" id="3631826006" font="Range_FNT" layout="Range_LAY">
+      Activate Phantom Rush
+    </text>
+    <text name="ps_mission_08" id="3631826007" font="Range_FNT" layout="Range_LAY">
+      Manual input for Wild Rush
+    </text>
+    <text name="ps_mission_09" id="3631826008" font="Range_FNT" layout="Range_LAY">
+      Manual input for Homing Shot
+    </text>
+    <text name="ps_mission_10" id="3631826126" font="Range_FNT" layout="Range_LAY">
+      Manual input for Stomp Attack
+    </text>
+    <text name="ps_mission_11" id="3631826127" font="Range_FNT" layout="Range_LAY">
+      Manual input for Sonic Boom
+    </text>
+    <text name="ps_mission_12" id="3631826128" font="Range_FNT" layout="Range_LAY">
+      Manual input for Spin Slash
+    </text>
+    <text name="ps_mission_13" id="3631826129" font="Range_FNT" layout="Range_LAY">
+      Manual input for Loop Kick
+    </text>
+    <text name="ps_mission_14" id="3631826130" font="Range_FNT" layout="Range_LAY">
+      Manual input for Cross Slash
+    </text>
+    <text name="ps_mission_15" id="3631826131" font="Range_FNT" layout="Range_LAY">
+      Manual input for Cyclone Kick
+    </text>
+    <text name="ps_mission_16" id="3631826132" font="Range_FNT" layout="Range_LAY">
+      Grand Slam
+    </text>
+    <text name="ps_mission_17" id="3631826133" font="Range_FNT" layout="Range_LAY">
+      Recovery Smash
+    </text>
+    <text name="ps_mission_18" id="3631826134" font="Range_FNT" layout="Range_LAY">
+      Jump
+    </text>
+    <text name="ps_mission_19" id="3631826135" font="Range_FNT" layout="Range_LAY">
+      Double Jump
+    </text>
+    <text name="ps_mission_20" id="3631826253" font="Range_FNT" layout="Range_LAY">
+      Homing Attack
+    </text>
+    <text name="ps_mission_21" id="3631826254" font="Range_FNT" layout="Range_LAY">
+      Boost
+    </text>
+    <text name="ps_mission_22" id="3631826255" font="Range_FNT" layout="Range_LAY">
+      Stomp
+    </text>
+    <text name="ps_mission_23" id="3631826256" font="Range_FNT" layout="Range_LAY">
+      Jump Stomp
+    </text>
+    <text name="ps_mission_24" id="3631826257" font="Range_FNT" layout="Range_LAY">
+      Air Boost
+    </text>
+    <text name="ps_mission_25" id="3631826258" font="Range_FNT" layout="Range_LAY">
+      Quick Step
+    </text>
+    <text name="ps_mission_26" id="3631826259" font="Range_FNT" layout="Range_LAY">
+      Light Dash
+    </text>
+    <text name="ps_mission_27" id="3631826260" font="Range_FNT" layout="Range_LAY">
+      Drop Dash
+    </text>
+    <text name="ps_mission_28" id="3631826261" font="Range_FNT" layout="Range_LAY">
+      Slide
+    </text>
+    <text name="ps_mission_29" id="3631826262" font="Range_FNT" layout="Range_LAY">
+      Wall Run
+    </text>
+    <text name="ps_mission_30" id="3631826380" font="Range_FNT" layout="Range_LAY">
+      Wall Run
+    </text>
+    <text name="ps_mission_31" id="3631826381" font="Range_FNT" layout="Range_LAY">
+      Boosted Wall Run
+    </text>
+    <text name="ps_mission_32" id="3631826382" font="Range_FNT" layout="Range_LAY">
+      Air Boost Cancel Stomp
+    </text>
+    <text name="ps_mission_33" id="3631826383" font="Range_FNT" layout="Range_LAY">
+      Homing Attack Cancel Stomp
+    </text>
+    <text name="ps_mission_34" id="3631826384" font="Range_FNT" layout="Range_LAY">
+      Air Trick x3
+    </text>
+    <text name="ps_mission_35" id="3631826385" font="Range_FNT" layout="Range_LAY">
+      Continuous Parry
+    </text>
+    <text name="ps_mission_36" id="3631826386" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_37" id="3631826387" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_38" id="3631826388" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_39" id="3631826389" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_40" id="3631826507" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_41" id="3631826508" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_42" id="3631826509" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_43" id="3631826510" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_44" id="3631826511" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_45" id="3631826512" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_46" id="3631826513" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_47" id="3631826514" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_48" id="3631826515" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_49" id="3631826516" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_50" id="3631826634" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_51" id="3631826635" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_52" id="3631826636" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_53" id="3631826637" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_54" id="3631826638" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_55" id="3631826639" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_56" id="3631826640" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_57" id="3631826641" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive combos
+    </text>
+    <text name="ps_mission_58" id="3631826642" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_59" id="3631826643" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_60" id="3631826761" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_61" id="3631826762" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_62" id="3631826763" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_63" id="3631826764" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_64" id="3631826765" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_65" id="3631826766" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_66" id="3631826767" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_67" id="3631826768" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_68" id="3631826769" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_69" id="3631826770" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_70" id="3631826888" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_71" id="3631826889" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_72" id="3631826890" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_73" id="3631826891" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_74" id="3631826892" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_75" id="3631826893" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_76" id="3631826894" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_77" id="3631826895" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_78" id="3631826896" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_79" id="3631826897" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_80" id="3631827015" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_81" id="3631827016" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_82" id="3631827017" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_83" id="3631827018" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_84" id="3631827019" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_85" id="3631827020" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_86" id="3631827021" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_87" id="3631827022" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_88" id="3631827023" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_89" id="3631827024" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_90" id="3631827142" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_91" id="3631827143" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_92" id="3631827144" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_93" id="3631827145" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_94" id="3631827146" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_95" id="3631827147" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_96" id="3631827148" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_97" id="3631827149" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_98" id="3631827150" font="Range_FNT" layout="Range_LAY">
+      Execute consecutive actions
+    </text>
+    <text name="ps_mission_99" id="3631827151" font="Range_FNT" layout="Range_LAY">
+      Chain combo attacks
+    </text>
+    <text name="ps_explain_00" id="3649726180" font="Range_FNT" layout="Range_LAY">
+      explain 00
+    </text>
+    <text name="ps_explain_01" id="3649726181" font="Range_FNT" layout="Range_LAY">
+      explain 01
+    </text>
+    <text name="ps_explain_02" id="3649726182" font="Range_FNT" layout="Range_LAY">
+      Create a loop using the track left by Sonic.
+    </text>
+    <text name="ps_explain_03" id="3649726183" font="Range_FNT" layout="Range_LAY">
+      explain 03
+    </text>
+    <text name="ps_explain_04" id="3649726184" font="Range_FNT" layout="Range_LAY">
+      explain 04
+    </text>
+    <text name="ps_explain_05" id="3649726185" font="Range_FNT" layout="Range_LAY">
+      Timing on when to Parry is unnecessary
+    </text>
+    <text name="ps_explain_06" id="3649726186" font="Range_FNT" layout="Range_LAY">
+      explain 06
+    </text>
+    <text name="ps_explain_07" id="3649726187" font="Range_FNT" layout="Range_LAY">
+      Keep attacking to build up the combo meter
+    </text>
+    <text name="ps_explain_08" id="3649726188" font="Range_FNT" layout="Range_LAY">
+      explain 08
+    </text>
+    <text name="ps_explain_09" id="3649726189" font="Range_FNT" layout="Range_LAY">
+      explain 09
+    </text>
+    <text name="ps_explain_10" id="3649726307" font="Range_FNT" layout="Range_LAY">
+      explain 10
+    </text>
+    <text name="ps_explain_11" id="3649726308" font="Range_FNT" layout="Range_LAY">
+      explain 11
+    </text>
+    <text name="ps_explain_12" id="3649726309" font="Range_FNT" layout="Range_LAY">
+      explain 12
+    </text>
+    <text name="ps_explain_13" id="3649726310" font="Range_FNT" layout="Range_LAY">
+      explain 13
+    </text>
+    <text name="ps_explain_14" id="3649726311" font="Range_FNT" layout="Range_LAY">
+      explain 14
+    </text>
+    <text name="ps_explain_15" id="3649726312" font="Range_FNT" layout="Range_LAY">
+      explain 15
+    </text>
+    <text name="ps_explain_16" id="3649726313" font="Range_FNT" layout="Range_LAY">
+      explain 16
+    </text>
+    <text name="ps_explain_17" id="3649726314" font="Range_FNT" layout="Range_LAY">
+      explain 17
+    </text>
+    <text name="ps_explain_18" id="3649726315" font="Range_FNT" layout="Range_LAY">
+      explain 18
+    </text>
+    <text name="ps_explain_19" id="3649726316" font="Range_FNT" layout="Range_LAY">
+      explain 19
+    </text>
+    <text name="ps_explain_20" id="3649726434" font="Range_FNT" layout="Range_LAY">
+      explain 20
+    </text>
+    <text name="ps_explain_21" id="3649726435" font="Range_FNT" layout="Range_LAY">
+      explain 21
+    </text>
+    <text name="ps_explain_22" id="3649726436" font="Range_FNT" layout="Range_LAY">
+      explain 22
+    </text>
+    <text name="ps_explain_23" id="3649726437" font="Range_FNT" layout="Range_LAY">
+      explain 23
+    </text>
+    <text name="ps_explain_24" id="3649726438" font="Range_FNT" layout="Range_LAY">
+      explain 24
+    </text>
+    <text name="ps_explain_25" id="3649726439" font="Range_FNT" layout="Range_LAY">
+      explain 25
+    </text>
+    <text name="ps_explain_26" id="3649726440" font="Range_FNT" layout="Range_LAY">
+      explain 26
+    </text>
+    <text name="ps_explain_27" id="3649726441" font="Range_FNT" layout="Range_LAY">
+      explain 27
+    </text>
+    <text name="ps_explain_28" id="3649726442" font="Range_FNT" layout="Range_LAY">
+      explain 28
+    </text>
+    <text name="ps_explain_29" id="3649726443" font="Range_FNT" layout="Range_LAY">
+      explain 29
+    </text>
+    <text name="ps_explain_30" id="3649726561" font="Range_FNT" layout="Range_LAY">
+      explain 30
+    </text>
+    <text name="ps_explain_31" id="3649726562" font="Range_FNT" layout="Range_LAY">
+      explain 31
+    </text>
+    <text name="ps_explain_32" id="3649726563" font="Range_FNT" layout="Range_LAY">
+      explain 32
+    </text>
+    <text name="ps_explain_33" id="3649726564" font="Range_FNT" layout="Range_LAY">
+      explain 33
+    </text>
+    <text name="ps_explain_34" id="3649726565" font="Range_FNT" layout="Range_LAY">
+      explain 34
+    </text>
+    <text name="ps_explain_35" id="3649726566" font="Range_FNT" layout="Range_LAY">
+      Timing on when to Parry is unnecessary
+    </text>
+    <text name="ps_explain_36" id="3649726567" font="Range_FNT" layout="Range_LAY">
+      explain 36
+    </text>
+    <text name="ps_explain_37" id="3649726568" font="Range_FNT" layout="Range_LAY">
+      Homing Shot → Wild Rush
+    </text>
+    <text name="ps_explain_38" id="3649726569" font="Range_FNT" layout="Range_LAY">
+      Wild Rush → Stomp Attack
+    </text>
+    <text name="ps_explain_39" id="3649726570" font="Range_FNT" layout="Range_LAY">
+      Sonic Boom → Wild Rush
+    </text>
+    <text name="ps_explain_40" id="3649726688" font="Range_FNT" layout="Range_LAY">
+      Wild Rush → Spin Slash
+    </text>
+    <text name="ps_explain_41" id="3649726689" font="Range_FNT" layout="Range_LAY">
+      Wild Rush → Loop Kick
+    </text>
+    <text name="ps_explain_42" id="3649726690" font="Range_FNT" layout="Range_LAY">
+      Cross Slash → Wild Rush
+    </text>
+    <text name="ps_explain_43" id="3649726691" font="Range_FNT" layout="Range_LAY">
+      Homing Shot → Stomp Attack
+    </text>
+    <text name="ps_explain_44" id="3649726692" font="Range_FNT" layout="Range_LAY">
+      Homing Shot → Sonic Boom
+    </text>
+    <text name="ps_explain_45" id="3649726693" font="Range_FNT" layout="Range_LAY">
+      Spin Slash → Homing Shot
+    </text>
+    <text name="ps_explain_46" id="3649726694" font="Range_FNT" layout="Range_LAY">
+      Cyclone Kick → Homing Shot
+    </text>
+    <text name="ps_explain_47" id="3649726695" font="Range_FNT" layout="Range_LAY">
+      Stomp Attack → Loop Kick
+    </text>
+    <text name="ps_explain_48" id="3649726696" font="Range_FNT" layout="Range_LAY">
+      Cross Slash → Stomp Attack
+    </text>
+    <text name="ps_explain_49" id="3649726697" font="Range_FNT" layout="Range_LAY">
+      Stomp Attack → Cyclone Kick
+    </text>
+    <text name="ps_explain_50" id="3649726815" font="Range_FNT" layout="Range_LAY">
+      Spin Slash → Sonic Boom
+    </text>
+    <text name="ps_explain_51" id="3649726816" font="Range_FNT" layout="Range_LAY">
+      Loop Kick → Sonic Boom
+    </text>
+    <text name="ps_explain_52" id="3649726817" font="Range_FNT" layout="Range_LAY">
+      Sonic Boom → Cross Slash
+    </text>
+    <text name="ps_explain_53" id="3649726818" font="Range_FNT" layout="Range_LAY">
+      Sonic Boom → Cyclone Kick
+    </text>
+    <text name="ps_explain_54" id="3649726819" font="Range_FNT" layout="Range_LAY">
+      Loop Kick → Spin Slash
+    </text>
+    <text name="ps_explain_55" id="3649726820" font="Range_FNT" layout="Range_LAY">
+      Spin Slash → Cross Slash
+    </text>
+    <text name="ps_explain_56" id="3649726821" font="Range_FNT" layout="Range_LAY">
+      Cyclone Kick → Loop Kick
+    </text>
+    <text name="ps_explain_57" id="3649726822" font="Range_FNT" layout="Range_LAY">
+      Cross Slash → Cyclone Kick
+    </text>
+    <text name="ps_explain_58" id="3649726823" font="Range_FNT" layout="Range_LAY">
+      Jump → Air Boost → Air Boost Cancel Stomp → Boost
+    </text>
+    <text name="ps_explain_59" id="3649726824" font="Range_FNT" layout="Range_LAY">
+      Jump → Air Boost → Air Boost Cancel Stomp → Boost → Slide
+    </text>
+    <text name="ps_explain_60" id="3649726942" font="Range_FNT" layout="Range_LAY">
+      Boost → Jump → Stomp
+    </text>
+    <text name="ps_explain_61" id="3649726943" font="Range_FNT" layout="Range_LAY">
+      Boost → Jump → Stomp → Boost
+    </text>
+    <text name="ps_explain_62" id="3649726944" font="Range_FNT" layout="Range_LAY">
+      Boost → Jump → Stomp → Boost → Double Jump
+    </text>
+    <text name="ps_explain_63" id="3649726945" font="Range_FNT" layout="Range_LAY">
+      Boost → Light Dash → Stomp
+    </text>
+    <text name="ps_explain_64" id="3649726946" font="Range_FNT" layout="Range_LAY">
+      Boost → Light Dash → Stomp → Boost
+    </text>
+    <text name="ps_explain_65" id="3649726947" font="Range_FNT" layout="Range_LAY">
+      Boost → Light Dash → Stomp → Boost → Double Jump
+    </text>
+    <text name="ps_explain_66" id="3649726948" font="Range_FNT" layout="Range_LAY">
+      Homing Attack → Homing Attack Cancel Stomp → Double Jump
+    </text>
+    <text name="ps_explain_67" id="3649726949" font="Range_FNT" layout="Range_LAY">
+      Homing Attack → Homing Attack Cancel Stomp → Double Jump → Drop Dash
+    </text>
+    <text name="ps_explain_68" id="3649726950" font="Range_FNT" layout="Range_LAY">
+      Homing Attack → Homing Attack Cancel Stomp → Double Jump → Drop Dash → Jump
+    </text>
+    <text name="ps_explain_69" id="3649726951" font="Range_FNT" layout="Range_LAY">
+      Jump → Light Dash → Homing Attack
+    </text>
+    <text name="ps_explain_70" id="3649727069" font="Range_FNT" layout="Range_LAY">
+      Jump → Light Dash → Homing Attack → Homing Attack Cancel Stomp
+    </text>
+    <text name="ps_explain_71" id="3649727070" font="Range_FNT" layout="Range_LAY">
+      Jump → Light Dash → Homing Attack → Homing Attack Cancel Stomp → Boost
+    </text>
+    <text name="ps_explain_72" id="3649727071" font="Range_FNT" layout="Range_LAY">
+      Boost → Homing Attack → Homing Attack
+    </text>
+    <text name="ps_explain_73" id="3649727072" font="Range_FNT" layout="Range_LAY">
+      Boost → Homing Attack → Homing Attack → Homing Attack Cancel Stomp
+    </text>
+    <text name="ps_explain_74" id="3649727073" font="Range_FNT" layout="Range_LAY">
+      Boost → Homing Attack → Homing Attack → Homing Attack Cancel Stomp → Double Jump
+    </text>
+    <text name="ps_explain_75" id="3649727074" font="Range_FNT" layout="Range_LAY">
+      Jump → Homing Attack → Homing Attack
+    </text>
+    <text name="ps_explain_76" id="3649727075" font="Range_FNT" layout="Range_LAY">
+      Jump → Homing Attack → Homing Attack → Air Boost
+    </text>
+    <text name="ps_explain_77" id="3649727076" font="Range_FNT" layout="Range_LAY">
+      Jump → Homing Attack → Homing Attack → Air Boost → Air Boost Cancel Stomp
+    </text>
+    <text name="ps_explain_78" id="3649727077" font="Range_FNT" layout="Range_LAY">
+      Boost → Wall Run → Double Jump
+    </text>
+    <text name="ps_explain_79" id="3649727078" font="Range_FNT" layout="Range_LAY">
+      Boost → Wall Run → Double Jump → Air Boost
+    </text>
+    <text name="ps_explain_80" id="3649727196" font="Range_FNT" layout="Range_LAY">
+      Boost → Wall Run → Double Jump → Air Boost → Boosted Wall Run
+    </text>
+    <text name="ps_explain_81" id="3649727197" font="Range_FNT" layout="Range_LAY">
+      Double Jump → Air Boost → Boosted Wall Run
+    </text>
+    <text name="ps_explain_82" id="3649727198" font="Range_FNT" layout="Range_LAY">
+      Double Jump → Air Boost → Boosted Wall Run → Jump
+    </text>
+    <text name="ps_explain_83" id="3649727199" font="Range_FNT" layout="Range_LAY">
+      Double Jump → Air Boost → Boosted Wall Run → Jump → Air Boost
+    </text>
+    <text name="ps_explain_84" id="3649727200" font="Range_FNT" layout="Range_LAY">
+      Double Jump → Air Boost → Boosted Wall Run → Jump → Air Boost → Boosted Wall
+    </text>
+    <text name="ps_explain_85" id="3649727201" font="Range_FNT" layout="Range_LAY">
+      Slide → Double Jump → Air Boost
+    </text>
+    <text name="ps_explain_86" id="3649727202" font="Range_FNT" layout="Range_LAY">
+      Slide → Double Jump → Air Boost → Boosted Wall Run
+    </text>
+    <text name="ps_explain_87" id="3649727203" font="Range_FNT" layout="Range_LAY">
+      Slide → Double Jump → Air Boost → Boosted Wall Run → Jump
+    </text>
+    <text name="ps_explain_88" id="3649727204" font="Range_FNT" layout="Range_LAY">
+      Slide → Double Jump → Air Boost → Boosted Wall Run → Jump → Light Dash
+    </text>
+    <text name="ps_explain_89" id="3649727205" font="Range_FNT" layout="Range_LAY">
+      Jump → Homing Attack → Air Boost
+    </text>
+    <text name="ps_explain_90" id="3649727323" font="Range_FNT" layout="Range_LAY">
+      Jump → Homing Attack → Air Boost → Boosted Wall Run
+    </text>
+    <text name="ps_explain_91" id="3649727324" font="Range_FNT" layout="Range_LAY">
+      Jump → Homing Attack → Air Boost → Boosted Wall Run → Double Jump
+    </text>
+    <text name="ps_explain_92" id="3649727325" font="Range_FNT" layout="Range_LAY">
+      Boost → Double Jump → Wall Run
+    </text>
+    <text name="ps_explain_93" id="3649727326" font="Range_FNT" layout="Range_LAY">
+      Boost → Double Jump → Wall Run → Jump
+    </text>
+    <text name="ps_explain_94" id="3649727327" font="Range_FNT" layout="Range_LAY">
+      Boost → Double Jump → Wall Run → Jump → Homing Attack
+    </text>
+    <text name="ps_explain_95" id="3649727328" font="Range_FNT" layout="Range_LAY">
+      Homing Attack → Air Boost → Boosted Wall Run
+    </text>
+    <text name="ps_explain_96" id="3649727329" font="Range_FNT" layout="Range_LAY">
+      Homing Attack → Air Boost → Boosted Wall Run → Jump
+    </text>
+    <text name="ps_explain_97" id="3649727330" font="Range_FNT" layout="Range_LAY">
+      Homing Attack → Air Boost → Boosted Wall Run → Jump → Air Boost
+    </text>
+    <text name="ps_explain_98" id="3649727331" font="Range_FNT" layout="Range_LAY">
+      Homing Attack → Air Boost → Boosted Wall Run → Jump → Air Boost → Light Dash
+    </text>
+    <text name="ps_explain_99" id="3649727332" font="Range_FNT" layout="Range_LAY">
+      explain 99
+    </text>
+    <text name="ps_command_16_Steam" id="3757358566" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_qsleft" />+<image name="s_button_qsright" />&gt;<image name="s_button_cyloop" />+<image name="button_right" />
+    </text>
+    <text name="ps_explain_147_Steam" id="3775028545" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" />
+    </text>
+    <text name="ps_command_08_Steam" id="3869340777" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_qsleft" />/<image name="s_button_qsright" />&gt;<image name="s_button_attack" />
+    </text>
+    <text name="ps_explain_100" id="3953740365" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_101" id="3953740366" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_102" id="3953740367" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_103" id="3953740368" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_104" id="3953740369" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_105" id="3953740370" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_106" id="3953740371" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_107" id="3953740372" font="Range_FNT" layout="Range_LAY">
+      Execute an action with MAX Rings
+    </text>
+    <text name="ps_explain_108" id="3953740373" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_109" id="3953740374" font="Range_FNT" layout="Range_LAY">
+      Defeat 3 enemies with the specific action
+    </text>
+    <text name="ps_explain_110" id="3953740492" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_111" id="3953740493" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_112" id="3953740494" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_113" id="3953740495" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_114" id="3953740496" font="Range_FNT" layout="Range_LAY">
+      Defeat 10 enemies with the specific action with MAX Rings
+    </text>
+    <text name="ps_explain_115" id="3953740497" font="Range_FNT" layout="Range_LAY">
+      Activate Spin Dash with any method
+    </text>
+    <text name="ps_explain_116" id="3953740498" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" />
+    </text>
+    <text name="ps_explain_117" id="3953740499" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" />
+    </text>
+    <text name="ps_explain_118" id="3953740500" font="Range_FNT" layout="Range_LAY">
+      Create a loop with the light trail
+    </text>
+    <text name="ps_explain_119" id="3953740501" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_120" id="3953740619" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_121" id="3953740620" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_122" id="3953740621" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_123" id="3953740622" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_124" id="3953740623" font="Range_FNT" layout="Range_LAY">
+      Execute an action with MAX Rings
+    </text>
+    <text name="ps_explain_125" id="3953740624" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_126" id="3953740625" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_127" id="3953740626" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_128" id="3953740627" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_129" id="3953740628" font="Range_FNT" layout="Range_LAY">
+      Execute an action with MAX Rings
+    </text>
+    <text name="ps_explain_130" id="3953740746" font="Range_FNT" layout="Range_LAY">
+      Activate Spin Dash with any method
+    </text>
+    <text name="ps_explain_131" id="3953740747" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" />
+    </text>
+    <text name="ps_explain_132" id="3953740748" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_133" id="3953740749" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" />
+    </text>
+    <text name="ps_explain_134" id="3953740750" font="Range_FNT" layout="Range_LAY">
+      Create a loop with the light trail
+    </text>
+    <text name="ps_explain_135" id="3953740751" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_136" id="3953740752" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_137" id="3953740753" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_138" id="3953740754" font="Range_FNT" layout="Range_LAY">
+      Execute an action with MAX Rings
+    </text>
+    <text name="ps_explain_139" id="3953740755" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_140" id="3953740873" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_141" id="3953740874" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_142" id="3953740875" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_143" id="3953740876" font="Range_FNT" layout="Range_LAY">
+      Defeat 5 enemies with the specific action with MAX Rings
+    </text>
+    <text name="ps_explain_144" id="3953740877" font="Range_FNT" layout="Range_LAY">
+      Activate Spin Dash with any method
+    </text>
+    <text name="ps_explain_145" id="3953740878" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" />
+    </text>
+    <text name="ps_explain_146" id="3953740879" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_explain_147" id="3953740880" font="Range_FNT" layout="Range_LAY">
+      Take a hit while holding down <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" />
+    </text>
+    <text name="ps_explain_148" id="3953740881" font="Range_FNT" layout="Range_LAY">
+      Create a loop with the light trail
+    </text>
+    <text name="ps_explain_149" id="3953740882" font="Range_FNT" layout="Range_LAY" />
+    <text name="ps_command_15_Steam" id="4067492069" font="Range_FNT" layout="Range_LAY">
+      Hold <image name="s_button_attack" /> during combo
+    </text>
+    <text name="ps_command_59_Steam" id="4192928485" font="Range_FNT" layout="Range_LAY">
+      <image name="s_button_attack" />→<image name="s_button_attack" />→<image name="s_button_attack" />
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

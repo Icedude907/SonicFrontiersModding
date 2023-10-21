@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="skill_52_explain" id="14422115" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Press <image name="button_left_trigger" /> while running or in midair to roll into a ball form and run over enemies to deal damage.
+    </text>
+    <text name="skill_62_name" id="14493664" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Fly
+    </text>
+    <text name="skill_49_command" id="16755039" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_right" /> in midair
+    </text>
+    <text name="skill_75_name" id="35220574" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cyloop
+    </text>
+    <text name="skill_33_explain" id="83166054" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Press <image name="button_left_trigger" /> while running or in midair to roll into a ball form and run over enemies to deal damage.
+    </text>
+    <text name="skill_28_command_Steam" id="110593361" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_attack" /> as target cursors appear
+    </text>
+    <text name="skill_74_explain" id="131600739" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Enemies who are parried will have reduced attack power for a short while.
+    </text>
+    <text name="skill_74_command_Steam" id="135890632" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_14_explain" id="151909993" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Circle the enemy and let loose a stream of shockwaves.
+    </text>
+    <text name="skill_50_command" id="171430357" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_top" />
+    </text>
+    <text name="skill_55_explain" id="200344678" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Enemies who are parried will have reduced defense for a short while.
+    </text>
+    <text name="skill_69_command_Steam" id="205872206" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_cyloop" />
+    </text>
+    <text name="skill_05_command_Steam" id="222808912" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_attack" /> during a combo
+    </text>
+    <text name="skill_31_command" id="240174296" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_top" />
+    </text>
+    <text name="skill_13_name" id="243792218" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Homing Shot
+    </text>
+    <text name="skill_26_name" id="264519128" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Card Attack
+    </text>
+    <text name="skill_36_explain" id="269088617" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Leave a light trail while moving. Enclosing the light trail may cause various effects to happen.
+    </text>
+    <text name="skill_39_name" id="285246038" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_72_command" id="288608981" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_12_command" id="308918235" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press <image name="button_right" /> during a combo
+    </text>
+    <text name="skill_77_explain" id="317523302" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_52_name" id="324627167" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Spin Dash
+    </text>
+    <text name="skill_17_explain" id="337832556" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_65_name" id="345354077" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cyclone Boost
+    </text>
+    <text name="skill_53_command" id="357352920" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_78_name" id="366080987" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_58_explain" id="386267241" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_34_command" id="426096859" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_23_command_Steam" id="430303308" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" /> while target cursors are visible
+    </text>
+    <text name="skill_39_explain" id="455011180" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_75_command" id="474531544" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_top" /> while moving
+    </text>
+    <text name="skill_15_command" id="494840798" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_56_command" id="543275483" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_top" /> while moving
+    </text>
+    <text name="skill_03_name" id="553925721" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Quick Cyloop
+    </text>
+    <text name="skill_16_name" id="574652631" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_29_name" id="595379541" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Card Stomp
+    </text>
+    <text name="skill_40_explain" id="609686498" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_37_command" id="612019422" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> in midair
+    </text>
+    <text name="skill_42_name" id="634760670" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Glide
+    </text>
+    <text name="skill_55_name" id="655487580" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Break Parry
+    </text>
+    <text name="skill_78_command" id="660454107" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_68_name" id="676214490" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Spike Stomp
+    </text>
+    <text name="skill_21_explain" id="678430437" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Jump into the air.
+    </text>
+    <text name="skill_18_command" id="680763361" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      skill 18 command
+    </text>
+    <text name="skill_36_command_Steam" id="707779278" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_cyloop" /> while moving
+    </text>
+    <text name="skill_62_explain" id="726865122" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Hold to fly up and then parallel to the ground. Tails can't fly forever and will eventually get tired and lose altitude.
+    </text>
+    <text name="skill_59_command" id="729198046" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_02_explain" id="747174376" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Unleash a powerful attack by following the on-screen prompt.
+    </text>
+    <text name="skill_26_explain_Steam" id="767145435" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Use Fortune Cards to attack forward. Press <image name="s_button_attack" /> twice to attack twice in a row.
+    </text>
+    <text name="skill_72_explain_Steam" id="792442706" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" /> to repel attacks.
+    </text>
+    <text name="skill_43_explain" id="795609061" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Do a Homing Attack on enemies or objects with target cursors on them.
+    </text>
+    <text name="skill_13_command_Steam" id="819994829" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press<image name="button_right_trigger" />in midair →<image name="s_button_attack" />in midair
+    </text>
+    <text name="skill_24_explain" id="864353000" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Use the Boost Gauge to speed up. Boosting in midair will lead to an Air Boost.
+    </text>
+    <text name="skill_60_command" id="883873364" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_06_name" id="884786134" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Recovery Smash
+    </text>
+    <text name="skill_19_name" id="905513044" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_65_explain" id="912787685" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Fly at high speed aboard the Cyclone. Hold <image name="button_right_trigger" /> and use <image name="button_left_stick" /> to adjust altitude and steer.
+    </text>
+    <text name="skill_05_explain" id="933096939" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Launch a powerful attack that delivers a flurry of hits as Sonic ascends.
+    </text>
+    <text name="skill_32_name" id="944894173" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Infinite Card Spin
+    </text>
+    <text name="skill_41_command" id="952617303" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> on the ground
+    </text>
+    <text name="skill_45_name" id="965621083" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Wall Climb
+    </text>
+    <text name="skill_46_explain" id="981531624" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Enter a drill spin state and deal damage to enemies during a boost.
+    </text>
+    <text name="skill_58_name" id="986347993" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_22_command" id="1021361242" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Use <image name="button_bottom" /> after a Double Jump
+    </text>
+    <text name="skill_71_name" id="1025729122" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Spin Dash
+    </text>
+    <text name="skill_31_command_Steam" id="1027489225" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_cyloop" />
+    </text>
+    <text name="skill_27_explain" id="1050275563" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A spinning attack during a Card Attack. Use <image name="button_left_stick" /> during a Card Attack to move, and hold <image name="button_left" /> to spin for longer. Use it too much and Amy will become dizzy.
+    </text>
+    <text name="skill_63_command" id="1069795927" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" /> while target cursors are visible
+    </text>
+    <text name="skill_03_command" id="1090105181" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press <image name="button_top" /> during a combo
+    </text>
+    <text name="skill_26_command_Steam" id="1097470799" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" />
+    </text>
+    <text name="skill_68_explain" id="1098710248" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Transform the blaster into a pile bunker and launch a diving attack.
+    </text>
+    <text name="skill_08_explain" id="1119019502" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A high-speed kick that unleashes shockwaves to pummel the enemy.
+    </text>
+    <text name="skill_72_command_Steam" id="1122768070" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_44_command" id="1138539866" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" />
+    </text>
+    <text name="skill_49_explain" id="1167454187" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Drop in from above and deal damage to enemies below.
+    </text>
+    <text name="skill_title_unknown_01" id="1187941067" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      ????
+    </text>
+    <text name="skill_67_command_Steam" id="1192749644" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_attack" />
+    </text>
+    <text name="skill_25_command" id="1207283805" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" /> with MAX Rings
+    </text>
+    <text name="skill_03_command_Steam" id="1209686350" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press <image name="s_button_cyloop" /> during a combo
+    </text>
+    <text name="skill_09_name" id="1215646547" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Wild Rush
+    </text>
+    <text name="skill_22_name" id="1255027676" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Card Float
+    </text>
+    <text name="skill_66_command" id="1255718490" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" />
+    </text>
+    <text name="skill_35_name" id="1275754586" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Poison Parry
+    </text>
+    <text name="skill_06_command" id="1276027744" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press<image name="button_bottom" />when the prompt appears
+    </text>
+    <text name="skill_48_name" id="1296481496" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Drill Spin Attack
+    </text>
+    <text name="skill_50_explain" id="1322129505" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Generate a shockwave by using the gauge and punching the ground. This move can also be used in midair. Use this near special signs to make objects and items appear.
+    </text>
+    <text name="skill_47_command" id="1324462429" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" />
+    </text>
+    <text name="skill_61_name" id="1335862625" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Jump
+    </text>
+    <text name="skill_74_name" id="1356589535" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Debuff Parry
+    </text>
+    <text name="skill_34_explain_Steam" id="1364331352" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" /> to repel attacks.
+    </text>
+    <text name="skill_31_explain" id="1390873444" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Generate a shockwave by using the gauge and swinging a hammer onto the ground. This move can also be used in midair. Use this near special signs to make objects and items appear.
+    </text>
+    <text name="skill_28_command" id="1393206368" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_left" /> as target cursors appear
+    </text>
+    <text name="skill_72_explain" id="1439308129" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Hold <image name="button_left_shoulder" />＋<image name="button_right_shoulder" /> to repel attacks.
+    </text>
+    <text name="skill_69_command" id="1441641053" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_top" />
+    </text>
+    <text name="skill_12_explain" id="1459617383" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A stomping attack that swoops down from above on to the enemy.
+    </text>
+    <text name="skill_09_command" id="1461950307" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press <image name="button_left_shoulder" /> / <image name="button_right_shoulder" /> → <image name="button_left" />
+    </text>
+    <text name="skill_53_explain" id="1508052068" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Hold <image name="button_left_shoulder" />＋<image name="button_right_shoulder" /> to repel attacks.
+    </text>
+    <text name="skill_12_name" id="1565161179" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Stomp Attack
+    </text>
+    <text name="skill_34_explain" id="1576796007" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Hold <image name="button_left_shoulder" />＋<image name="button_right_shoulder" /> to repel attacks.
+    </text>
+    <text name="skill_25_name" id="1585888089" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Card Spin Boost
+    </text>
+    <text name="skill_70_command" id="1596316371" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_right_trigger" />＋<image name="button_left" /> with MAX Rings
+    </text>
+    <text name="skill_38_name" id="1606614999" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_10_command" id="1616625625" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press<image name="button_right_trigger" />in midair →<image name="button_right" />in midair
+    </text>
+    <text name="skill_explain_unknown_01" id="1619053676" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Advance through the story to unlock this.
+    </text>
+    <text name="skill_75_explain" id="1625230692" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Leave a light trail while moving. Enclosing the light trail may cause various effects to happen.
+    </text>
+    <text name="skill_47_explain_Steam" id="1641807322" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A close-range punching attack. Repeatedly press <image name="s_button_attack" /> to unleash up to 3 punches in a row.
+    </text>
+    <text name="skill_15_explain" id="1645539946" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Battle skills that have been unlocked will be automatically activated during combos. However, damage dealt will be reduced. After unlocking a skill, you can toggle auto combo ON/OFF from Options.
+    </text>
+    <text name="skill_51_name" id="1645996128" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Infinite Glide
+    </text>
+    <text name="skill_51_command" id="1665060310" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_bottom" /> in midair with MAX Rings
+    </text>
+    <text name="skill_64_name" id="1666723038" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Boost
+    </text>
+    <text name="skill_77_name" id="1687449948" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_56_explain" id="1693974631" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Leave a light trail while moving. Enclosing the light trail may cause various effects to happen.
+    </text>
+    <text name="skill_34_command_Steam" id="1694656716" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_32_command" id="1733804249" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Use Card Spin with MAX Rings
+    </text>
+    <text name="skill_37_explain" id="1762718570" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A small midair jump.
+    </text>
+    <text name="skill_73_command" id="1782238934" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> in midair
+    </text>
+    <text name="skill_75_command_Steam" id="1789935561" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_cyloop" /> while moving
+    </text>
+    <text name="skill_13_command" id="1802548188" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press<image name="button_right_trigger" />in midair →<image name="button_left" />in midair
+    </text>
+    <text name="skill_78_explain" id="1811153255" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_18_explain" id="1831462509" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_54_command" id="1850982873" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> in midair
+    </text>
+    <text name="skill_02_name" id="1875294682" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Grand Slam
+    </text>
+    <text name="skill_59_explain" id="1879897194" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_15_name" id="1896021592" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Auto Combo
+    </text>
+    <text name="skill_28_name" id="1916748502" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Multi-lock
+    </text>
+    <text name="skill_35_command" id="1919726812" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_41_name" id="1956129631" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Jump
+    </text>
+    <text name="skill_76_command" id="1968161497" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_47_command_Steam" id="1972132686" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" />
+    </text>
+    <text name="skill_54_name" id="1976856541" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Double Jump
+    </text>
+    <text name="skill_16_command" id="1988470751" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      skill 16 command
+    </text>
+    <text name="skill_67_name" id="1997583451" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Charged Wrench Attack
+    </text>
+    <text name="skill_60_explain" id="2034572512" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_57_command" id="2036905436" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_41_explain" id="2103316451" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Jump into the air.
+    </text>
+    <text name="skill_38_command" id="2105649375" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_70_command_Steam" id="2109645508">
+      <image name="button_right_trigger" />＋<image name="s_button_attack" /> with MAX Rings
+    </text>
+    <text name="skill_79_command" id="2154084060" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_22_explain" id="2172060390" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Jump in midair while spinning Fortune Cards. Hold <image name="button_bottom" /> to ease back to the ground.
+    </text>
+    <text name="skill_19_command" id="2174393314" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      skill 19 command
+    </text>
+    <text name="skill_01_command_Steam" id="2196563788" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_cyloop" /> while moving
+    </text>
+    <text name="skill_05_name" id="2206155095" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cyclone Kick
+    </text>
+    <text name="skill_63_explain" id="2220495075" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Do a Homing Attack on enemies or objects with target cursors on them.
+    </text>
+    <text name="skill_18_name" id="2226882005" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_03_explain" id="2240804329" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Quickly Cyloop around the enemy when the Cyloop meter has maxed out and turns blue.
+      The meter fills up with every attack that hits an enemy and can be used continuously when it is still blue.
+    </text>
+    <text name="skill_31_name" id="2266263134" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cyhammer
+    </text>
+    <text name="skill_44_name" id="2286990044" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Boost
+    </text>
+    <text name="skill_44_explain" id="2289239014" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Use the Boost Gauge to speed up. Boosting in midair will lead to an Air Boost.
+    </text>
+    <text name="skill_57_name" id="2307716954" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_20_command" id="2329068632" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      skill 20 command
+    </text>
+    <text name="skill_70_name" id="2347098083" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cyclone Cannon
+    </text>
+    <text name="skill_25_explain" id="2357982953" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Deal damage to enemies while boosting. Use <image name="button_l_stick_leftright" />＋<image name="button_right" /> to drift.
+    </text>
+    <text name="skill_61_command" id="2377503317" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> on the ground
+    </text>
+    <text name="skill_01_command" id="2397812571" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_top" /> while moving
+    </text>
+    <text name="skill_66_explain" id="2406417638" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Throw a wrench a short distance. When a target cursor is displayed, the wrench will automatically find its mark.
+    </text>
+    <text name="skill_27_explain_Steam" id="2421190364" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A spinning attack during a Card Attack. Use <image name="button_left_stick" /> during a Card Attack to move, and hold <image name="s_button_attack" /> to spin for longer. Use it too much and Amy will become dizzy.
+    </text>
+    <text name="skill_06_explain" id="2426726892" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      If Sonic is thrown back by an attack and successfully execute the on-screen prompt before he hits the ground, he can immediately counter with Recovery Smash.
+    </text>
+    <text name="skill_42_command" id="2446247256" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_bottom" /> after a double jump
+    </text>
+    <text name="skill_47_explain" id="2475161577" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A close-range punching attack. Repeatedly press <image name="button_left" /> to unleash up to 3 punches in a row.
+    </text>
+    <text name="skill_23_command" id="2514991195" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" /> while target cursors are visible
+    </text>
+    <text name="skill_08_name" id="2537015508" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Sonic Boom
+    </text>
+    <text name="skill_28_explain" id="2543905516" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Automatically attack multiple targets by releasing <image name="button_left" /> after multiple target cursors appear.
+    </text>
+    <text name="skill_09_command_Steam" id="2544021332" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press <image name="s_button_qsleft" /> / <image name="s_button_qsright" /> → <image name="s_button_attack" />
+    </text>
+    <text name="skill_64_command" id="2563425880" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" />
+    </text>
+    <text name="skill_55_command_Steam" id="2569318603" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_21_name" id="2576396637" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Jump
+    </text>
+    <text name="skill_04_command" id="2583735134" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_69_explain" id="2592340201" font="Range_FNT_skillexp_min" layout="Range_LAY_skillexp">
+      Use the gauge to fire a ball of light that will detonate upon contact with an object. Use <image name="button_top" /> to set it off manually. This move can also be used in midair. Use this near special signs to make objects and items appear.
+    </text>
+    <text name="skill_34_name" id="2597123547" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Parry
+    </text>
+    <text name="skill_09_explain" id="2612649455" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A high-speed, zigzagging attack.
+    </text>
+    <text name="skill_47_name" id="2617850457" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Combo Attack
+    </text>
+    <text name="skill_45_command" id="2632169819" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Use <image name="button_left_stick" /> when facing a wall
+    </text>
+    <text name="skill_60_name" id="2657231586" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_73_name" id="2677958496" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Double Jump
+    </text>
+    <text name="skill_26_command" id="2700913758" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" />
+    </text>
+    <text name="skill_70_explain" id="2747015519" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Fire the Cyclone's high-powered beam to attack forward. Use <image name="button_l_stick_leftright" /> to aim.
+    </text>
+    <text name="skill_67_command" id="2749348443" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_left" />
+    </text>
+    <text name="skill_27_command_Steam" id="2751515728" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" /> after Card Attack
+    </text>
+    <text name="skill_10_explain" id="2767324773" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A looping, rapidly accelerating kick attack in midair.
+    </text>
+    <text name="skill_07_command" id="2769657697" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Move <image name="button_left_stick" /> in midair
+    </text>
+    <text name="skill_51_explain" id="2815759458" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      The glide speed increases and there is no loss of altitude.
+    </text>
+    <text name="skill_48_command" id="2818092382" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_left" /> as target cursors appear
+    </text>
+    <text name="skill_32_explain" id="2884503397" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Card Spin's speed increases and Amy won't get dizzy.
+    </text>
+    <text name="skill_11_name" id="2886530140" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Spin Slash
+    </text>
+    <text name="skill_29_command" id="2886836321" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_right" /> in midair
+    </text>
+    <text name="skill_50_command_Steam" id="2889028550" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_cyloop" />
+    </text>
+    <text name="skill_24_name" id="2907257050" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Boost
+    </text>
+    <text name="skill_37_name" id="2927983960" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Double Jump
+    </text>
+    <text name="skill_73_explain" id="2932938082" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A small midair jump.
+    </text>
+    <text name="skill_13_explain" id="2953247336" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Launch a volley of energy spheres at the enemy.
+    </text>
+    <text name="skill_50_name" id="2967365089" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cyknuckle
+    </text>
+    <text name="skill_63_name" id="2988091999" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Homing Attack
+    </text>
+    <text name="skill_54_explain" id="3001682021" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      A small midair jump.
+    </text>
+    <text name="skill_76_name" id="3008818909" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_30_command" id="3041511639" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_right" /> in midair
+    </text>
+    <text name="skill_35_explain" id="3070425960" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Enemies who are parried will have reduced health for a short while.
+    </text>
+    <text name="skill_71_command" id="3089946324" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_right" /> → <image name="button_left_trigger" /> → Release <image name="button_right" />
+    </text>
+    <text name="skill_11_command" id="3110255578" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press <image name="button_bottom" /> during a combo
+    </text>
+    <text name="skill_76_explain" id="3118860645" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_16_explain" id="3139169899" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_52_command" id="3158690263" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_right" /> → <image name="button_left_trigger" /> → Release <image name="button_right" />
+    </text>
+    <text name="skill_63_command_Steam" id="3166504520" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" /> while target cursors are visible
+    </text>
+    <text name="skill_57_explain" id="3187604584" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_01_name" id="3196663643" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cyloop
+    </text>
+    <text name="skill_14_name" id="3217390553" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cross Slash
+    </text>
+    <text name="skill_53_explain_Steam" id="3225870677" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" /> to repel attacks.
+    </text>
+    <text name="skill_33_command" id="3227434202" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_right" /> → <image name="button_left_trigger" /> → Release <image name="button_right" />
+    </text>
+    <text name="skill_27_name" id="3238117463" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Card Spin
+    </text>
+    <text name="skill_38_explain" id="3256348523" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_74_command" id="3275868887" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_40_name" id="3277498592" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_48_explain_Steam" id="3295852251" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Automatically attack multiple targets in a drill spin state by releasing <image name="s_button_attack" /> after multiple target cursors appear.
+    </text>
+    <text name="skill_14_command" id="3296178141" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press<image name="button_right_trigger" />in midair →<image name="button_bottom" />in midair
+    </text>
+    <text name="skill_53_name" id="3298225502" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Parry
+    </text>
+    <text name="skill_79_explain" id="3304783208" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_66_name" id="3318952412" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Wrench Attack
+    </text>
+    <text name="skill_19_explain" id="3325092462" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_79_name" id="3339679322" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_55_command" id="3344612826" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_left_shoulder" />＋<image name="button_right_shoulder" />
+    </text>
+    <text name="skill_35_command_Steam" id="3348701645" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_36_command" id="3413356765" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_top" /> while moving
+    </text>
+    <text name="skill_77_command" id="3461791450" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_20_explain" id="3479767780" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_17_command" id="3482100704" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      skill 17 command
+    </text>
+    <text name="skill_04_name" id="3527524056" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Phantom Rush
+    </text>
+    <text name="skill_61_explain" id="3528202465" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Jump into the air.
+    </text>
+    <text name="skill_58_command" id="3530535389" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_17_name" id="3548250966" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_01_explain" id="3548511719" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Run around while leaving a light trail. After creating an enclosure with the light trail and then releasing the button, various effects can happen.
+    </text>
+    <text name="skill_53_command_Steam" id="3556196041" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
+    </text>
+    <text name="skill_30_name" id="3587632095" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      High Card Jump
+    </text>
+    <text name="skill_42_explain" id="3596946404" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Move forward through the air at high speed while gradually losing altitude. During a glide, use <image name="button_l_stick_leftright" /> to change direction.
+    </text>
+    <text name="skill_39_command" id="3599279328" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_43_name" id="3608359005" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Homing Attack
+    </text>
+    <text name="skill_48_command_Steam" id="3626177615" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_attack" /> as target cursors appear
+    </text>
+    <text name="skill_56_name" id="3629085915" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cyloop
+    </text>
+    <text name="skill_69_name" id="3649812825" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cyblaster
+    </text>
+    <text name="skill_23_explain" id="3665690343" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Do a Homing Attack on enemies or objects with target cursors on them.
+    </text>
+    <text name="skill_64_explain" id="3714125028" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Use the Boost Gauge to speed up. Boosting in midair will lead to an Air Boost.
+    </text>
+    <text name="skill_04_explain" id="3734434282" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      When the combo meter is maxed out, Phantom Rush is activated, resulting in attacks being 1.2 times more powerful.
+      Phantom Rush lasts until the combo meter reaches 0.
+    </text>
+    <text name="skill_40_command" id="3753954646" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
+    <text name="skill_45_explain" id="3782868967" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Climb red and green walls at high speed.
+    </text>
+    <text name="skill_21_command" id="3822698585" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_bottom" /> on the ground
+    </text>
+    <text name="skill_66_command_Steam" id="3833672011" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" />
+    </text>
+    <text name="skill_02_command_Steam" id="3850608717" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press<image name="s_button_cyloop" />＋<image name="button_right" />when the prompt appears
+    </text>
+    <text name="skill_26_explain" id="3851612906" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Use Fortune Cards to attack forward. Press <image name="button_left" /> twice to attack twice in a row.
+    </text>
+    <text name="skill_07_name" id="3858384469" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Air Trick
+    </text>
+    <text name="skill_62_command" id="3871133270" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_bottom" /> after a double jump
+    </text>
+    <text name="skill_02_command" id="3891442524" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Press<image name="button_top" />＋<image name="button_right" />when the prompt appears
+    </text>
+    <text name="skill_20_name" id="3897765598" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_67_explain" id="3900047591" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Throw multiple wrenches that hover for a short time. They can be used as a platform just once.
+    </text>
+    <text name="skill_33_name" id="3918492508" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Spin Dash
+    </text>
+    <text name="skill_07_explain" id="3920356845" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Air Tricks can be performed when sparks surround Sonic while he is in the air. Perform Air Tricks to earn Skill Pieces.
+    </text>
+    <text name="skill_46_name" id="3939219418" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Drill Spin Boost
+    </text>
+    <text name="skill_43_command" id="3939877209" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" /> while target cursors are visible
+    </text>
+    <text name="skill_43_command_Steam" id="3945887562" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="s_button_attack" /> while target cursors are visible
+    </text>
+    <text name="skill_59_name" id="3959946328" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_48_explain" id="3968791530" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Automatically attack multiple targets in a drill spin state by releasing <image name="button_left" /> after multiple target cursors appear.
+    </text>
+    <text name="skill_72_name" id="3999327457" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Parry
+    </text>
+    <text name="skill_24_command" id="4008621148" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" />
+    </text>
+    <text name="skill_29_explain" id="4037535469" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Drop in from above and deal damage to enemies below.
+    </text>
+    <text name="skill_65_command" id="4057055833" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" /> with MAX Rings
+    </text>
+    <text name="skill_28_explain_Steam" id="4075235293" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Automatically attack multiple targets by releasing <image name="s_button_attack" /> after multiple target cursors appear.
+    </text>
+    <text name="skill_05_command" id="4077365087" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="button_left" /> during a combo
+    </text>
+    <text name="skill_46_command" id="4125799772" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left_stick" />＋<image name="button_right_trigger" /> with MAX Rings
+    </text>
+    <text name="skill_69_explain_Steam" id="4170514138" font="Range_FNT_skillexp_min" layout="Range_LAY_skillexp">
+      Use the gauge to fire a ball of light that will detonate upon contact with an object. Use <image name="s_button_cyloop" /> to set it off manually. This move can also be used in midair. Use this near special signs to make objects and items appear.
+    </text>
+    <text name="skill_30_explain" id="4192210787" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      After a Card Stomp, somersault and jump high into the air.
+    </text>
+    <text name="skill_27_command" id="4194543711" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_left" /> after Card Attack
+    </text>
+    <text name="skill_10_name" id="4207899101" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Loop Kick
+    </text>
+    <text name="skill_56_command_Steam" id="4223363532" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold <image name="s_button_cyloop" /> while moving
+    </text>
+    <text name="skill_23_name" id="4228626011" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Homing Attack
+    </text>
+    <text name="skill_71_explain" id="4240645472" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Press <image name="button_left_trigger" /> while running or in midair to roll into a ball form and run over enemies to deal damage.
+    </text>
+    <text name="skill_68_command" id="4242978396" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      <image name="button_right" /> in midair
+    </text>
+    <text name="skill_36_name" id="4249352921" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Cyloop
+    </text>
+    <text name="skill_11_explain" id="4260954726" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Surround an enemy with a multi-hit spinning attack.
+    </text>
+    <text name="skill_08_command" id="4263287650" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
+      Hold<image name="button_left_trigger" />in midair or during a combo
+    </text>
+    <text name="skill_49_name" id="4270079831" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Heat Stomp
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_skillexp">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_skillname">
+      <typeface>RANGEmixBld</typeface>
+      <size>34</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_skillcmd">
+      <typeface>RANGEmixStd</typeface>
+      <size>24</size>
+      <lineSpacing>8</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_skillexp_min">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_skillexp">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_skillname">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_skillcmd">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

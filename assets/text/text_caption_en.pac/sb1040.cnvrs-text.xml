@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb1040_010" id="1252110778" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      How are you able to return from Cyber Space so freely?
+    </text>
+    <text name="sb1040_020" id="1252110905" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I dunno. I guess I'm just that awesome! Yea. Although, I bet you'd have better insight on that.
+    </text>
+    <text name="sb1040_030" id="1252111032" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I will not share data with the enemy. Besides, your survival may be a fluke. You cannot cheat fate forever.
+    </text>
+    <text name="sb1040_040" id="1252111159" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Wow, thanks for the encouragement.
+      Well I'll keep doing it until I figure out how to rescue Amy!
+    </text>
+    <text name="sb1040_050" id="1252111286" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It doesn't matter if this is all one big trap, or if you keep throwing weird robots at me, nothing is going to slow me down or stop me. Count on it!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

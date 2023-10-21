@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="tu1000dlc_255_Xbox" id="754672964" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_115_Switch" id="1258529506" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_115_Xbox" id="2727456193" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_255_PC" id="3623167140" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_255_Switch" id="3650525029" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_115_PC" id="3903957537" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="tu1000dlc_010" id="3963480491" font="Range_FNT" layout="Range_LAY">
+      Explorer's Treasure Box redeemed
+    </text>
+    <text name="tu1000dlc_015" id="3963480496" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The Explorer's Treasure Box has been redeemed. The following items have been acquired:
+      
+      40 Amy's Memory Tokens 
+      10 Chaos Emerald Vault Keys
+      1 Kronos Island Portal Gear
+    </text>
+    <text name="tu1000dlc_020" id="3963480618" font="Range_FNT" layout="Range_LAY">
+      About redeeming the Explorer's Treasure Box
+    </text>
+    <text name="tu1000dlc_025" id="3963480623" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The contents of the Explorer's Treasure Box will become available upon completion of the tutorial area after returning to the Title Screen or entering a Cyber Space level.
+    </text>
+    <text name="tu1000dlc_030" id="3963480745" font="Range_FNT" layout="Range_LAY">
+      About the BBQ Spit
+    </text>
+    <text name="tu1000dlc_035" id="3963480750" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The BBQ Spit will become available after re-entering a Fishing Spot
+    </text>
+    <text name="tu1000dlc_040" id="3963480872" font="Range_FNT" layout="Range_LAY">
+      Update notification
+    </text>
+    <text name="tu1000dlc_045" id="3963480877" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      This update contains the following content:
+       - Photo Mode
+       - Juke Box
+       - Cyber Space Challenge (unlocks after clearing the story)
+       - Battle Rush (unlocks after clearing the story)
+       - Springtime Koco appearance
+    </text>
+    <text name="tu1000dlc_050" id="3963480999" font="Range_FNT" layout="Range_LAY">
+      Try out Photo Mode
+    </text>
+    <text name="tu1000dlc_055" id="3963481004" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Access Photo Mode on the islands by opening the Pause menu.
+      Gameplay will pause, and the camera will become freely movable.
+      *Photo Mode will be inaccessible in certain areas of the game.
+    </text>
+    <text name="tu1000dlc_060" id="3963481126" font="Range_FNT" layout="Range_LAY">
+      Try out the Juke Box
+    </text>
+    <text name="tu1000dlc_065" id="3963481131" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Change the music on the islands by pressing <image name="button_crosskey_right" />.
+      Hold it to open the song list.
+      Find the Sound Memories hidden across the islands to unlock more songs.
+      *The Juke Box will not be accessible in certain areas of the game.
+      *Turn the Juke Box OFF by going into Options.
+    </text>
+    <text name="tu1000dlc_070" id="3963481253" font="Range_FNT" layout="Range_LAY">
+      Cyber Space Challenge and Battle Rush
+    </text>
+    <text name="tu1000dlc_075" id="3963481258" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Cyber Space Challenge and Battle Rush have been added:
+       - Cyber Space Challenge is a time attack mode in which a succession of Cyber Space Stages are played in a row.
+       - Battle Rush is a timed battle mode in which enemies, guardians, and Titans can be fought. 
+      
+      These modes can be accessed from the Title Screen. Get an A rank to unlock the next Stage. Getting all S ranks will lead to something special.
+    </text>
+    <text name="tu1000dlc_080" id="3963481380" font="Range_FNT" layout="Range_LAY">
+      Cyber Space Power Boost
+    </text>
+    <text name="tu1000dlc_085" id="3963481385" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Cyber Space Power Boost has been added.
+      Head to Options &gt; Game settings &gt; set Cyber Space Power Boost ON to use the Power Boost in Cyber Space.
+    </text>
+    <text name="tu1000dlc_090" id="3963481507" font="Range_FNT" layout="Range_LAY">
+      New difficulty added
+    </text>
+    <text name="tu1000dlc_095" id="3963481512" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Extreme difficulty can only be chosen when starting a new game. At this level, Sonic's stats will no longer increase and the enemies will be substantially stronger. The difficulty level cannot be changed mid-game.
+    </text>
+    <text name="tu1000dlc_100" id="3963496493" font="Range_FNT" layout="Range_LAY">
+      Game update
+    </text>
+    <text name="tu1000dlc_105" id="3963496498" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+       - The Starfall Slot Machine can be toggled by going to Options &gt; Game settings.
+       - Power Boost can be toggled by going to Options &gt; Game settings.
+       - Restart commands have been added. In Cyber Space, press <image name="button_left_trigger" />＋<image name="button_right_trigger" />＋<image name="button_view" /> to restart the Stage.
+       - Elder and Hermit Koco can change status levels in bulk.
+    </text>
+    <text name="tu1000dlc_115" id="3963496625" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Sonic's stats in Battle Rush will depend on which save data is loaded. Better stats can lead to better times.
+      Rapidly defeat the oncoming enemies and get S ranks!
+    </text>
+    <text name="tu1000dlc_120" id="3963496747" font="Range_FNT" layout="Range_LAY">
+      Update Details
+    </text>
+    <text name="tu1000dlc_125" id="3963496752" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The following content has been added in the update:
+      -Action Chain Challenge
+      -New Koco
+      -Birthday Decorations
+      -Status map
+      -New Game+
+    </text>
+    <text name="tu1000dlc_130" id="3963496874" font="Range_FNT" layout="Range_LAY">
+      New Game+
+    </text>
+    <text name="tu1000dlc_133" id="3963496877" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      New Game+ will unlock once the game has been cleared. In New Game+, Sonic's skills and stats will carry over but items will not.
+    </text>
+    <text name="tu1000dlc_135" id="3963496879" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      New Game+ has been unlocked.
+      If you select "New Game+" on the Title Screen and load your game clear data, Sonic's skills and stats will carry over. However, items will not carry over.
+    </text>
+    <text name="tu1000dlc_140" id="3963497001" font="Range_FNT" layout="Range_LAY">
+      New Koco and Boost Gauge Upgrades
+    </text>
+    <text name="tu1000dlc_145" id="3963497006" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      There is a new species of Koco hidden across the islands.
+      The new Koco is so rare that it counts for several regular Koco.
+      If you take them to Elder Koco, he will power up your Boost Gauge as a reward.
+    </text>
+    <text name="tu1000dlc_150" id="3963497128" font="Range_FNT" layout="Range_LAY">
+      Action Chain Challenge
+    </text>
+    <text name="tu1000dlc_155" id="3963497133" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Begin an Action Chain Challenge by using Cyloop on the Start Mark.
+      Within the time limit, chain together multiple actions and objects to fill the chain gauge. Each time the chain gauge fills up, the score multiplier will increase.
+      Once an action or object is used, it will not fill the gauge again for some time.
+      
+      Open the pause menu to interrupt the Action Chain Challenge.
+    </text>
+    <text name="tu1000dlc_160" id="3963497255" font="Range_FNT" layout="Range_LAY">
+      Spin Dash
+    </text>
+    <text name="tu1000dlc_165" id="3963497260" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Getting an S rank for all the Action Chain Challenges unlocked the Spin Dash!
+      Hold <image name="button_right" /> and press <image name="button_left_trigger" /> to wind up Spin Dash, then release <image name="button_right" /> to release Spin Dash.
+      If there are no enemies nearby, press <image name="button_left_trigger" /> in midair, or during a boost to use Spin Dash.
+    </text>
+    <text name="tu1000dlc_166" id="3963497261" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Spin Dash unlocked!
+      Hold <image name="button_right" /> and press <image name="button_left_trigger" /> to wind up Spin Dash, then release <image name="button_right" /> to release Spin Dash.
+      If there are no enemies nearby, press <image name="button_left_trigger" /> in midair, or during a boost to use Spin Dash.
+    </text>
+    <text name="tu1000dlc_170" id="3963497382" font="Range_FNT" layout="Range_LAY">
+      Frontier Elite
+    </text>
+    <text name="tu1000dlc_175" id="3963497387" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      By completing all of the islands, the "Frontier Elite" outfit is now available.
+      Head to Extras &gt; Sonic Outfits to equip it.
+    </text>
+    <text name="tu1000dlc_180" id="3963497509" font="Range_FNT" layout="Range_LAY">
+      Additional options
+    </text>
+    <text name="tu1000dlc_185" id="3963497514" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      -The rate of deceleration when jumping, the deceleration rate when stopping, maintaining a boost when jumping, and battle skill camera can now be set in Options &gt; Game settings.
+      -The Cyber Space BGM changes with boost can now be toggled in Options &gt; Sound.
+    </text>
+    <text name="tu1000dlc_187" id="3963497516" font="Range_FNT" layout="Range_LAY">
+      Update
+    </text>
+    <text name="tu1000dlc_188" id="3963497517" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      -Stage records in Cyber Space Challenge and Arcade Mode can now be deleted.
+      -The tower difficulty on Rhea Island has been reduced for Easy mode.
+      -Additional songs added to the Juke Box. Acquire them by gathering Sound Memories.
+    </text>
+    <text name="tu1000dlc_190" id="3963497636" font="Range_FNT" layout="Range_LAY">
+      Action Marks
+    </text>
+    <text name="tu1000dlc_195" id="3963497641" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      When the following time-saving actions are used in Cyber Space, colored marks will now appear in the results:
+      -Homing Dash: white
+      -Spin Dash: red
+      -Change in deceleration rate when jumping: yellow
+      -Cyber Space Power Boost: blue
+    </text>
+    <text name="tu1000dlc_200" id="3963512622" font="Range_FNT" layout="Range_LAY">
+      Dragon's Trial
+    </text>
+    <text name="tu1000dlc_205" id="3963512627" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
+        -Sonic's stats will be fixed
+    </text>
+    <text name="tu1000dlc_210" id="3963512749" font="Range_FNT" layout="Range_LAY">
+      Snake's Trial
+    </text>
+    <text name="tu1000dlc_215" id="3963512754" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
+        -Sonic's stats will be fixed
+        -Cyloop will be the only available skill
+    </text>
+    <text name="tu1000dlc_220" id="3963512876" font="Range_FNT" layout="Range_LAY">
+      Tiger's Trial
+    </text>
+    <text name="tu1000dlc_225" id="3963512881" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
+        -Sonic's stats will be fixed
+        -Cyloop will be the only available skill
+    </text>
+    <text name="tu1000dlc_230" id="3963513003" font="Range_FNT" layout="Range_LAY">
+      Crane's Trial
+    </text>
+    <text name="tu1000dlc_235" id="3963513008" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
+        -Sonic's stats will be fixed
+        -Enemies will be greatly enhanced
+    </text>
+    <text name="tu1000dlc_240" id="3963513130" font="Range_FNT" layout="Range_LAY">
+      Master King Koco's Trial
+    </text>
+    <text name="tu1000dlc_245" id="3963513135" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
+        -Sonic's stats will be fixed
+        -Perfect Parry will be the only way to parry attacks
+        -Rings will be unavailable
+    </text>
+    <text name="tu1000dlc_250" id="3963513257" font="Range_FNT" layout="Range_LAY">
+      Another Story
+    </text>
+    <text name="tu1000dlc_255" id="3963513262" font="Range_FNT_tutorial_detail" layout="Range_LAY_window_detail">
+      Pass through the Ring Gate to start Another Story.
+      It is recommended to clear the main story of the current save before starting Another Story, as the progress on the main story will be halted. Return to the main story by loading its save.
+      Proceed to Another Story?
+    </text>
+    <text name="tu1000dlc_260" id="3963513384" font="Range_FNT" layout="Range_LAY">
+      Final Battle
+    </text>
+    <text name="tu1000dlc_265" id="3963513389" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The trials are complete.
+      The final Titan has appeared.
+    </text>
+    <text name="tu1000dlc_270" id="3963513511" font="Range_FNT" layout="Range_LAY">
+      Power Up
+    </text>
+    <text name="tu1000dlc_275" id="3963513516" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Master King Koco's trial has awakened Super Sonic's hidden power. Parry has powered up to become Perfect Parry, which can reflect any attack. Perfect Parry requires exact timing.
+      Go forth and unleash Super Sonic's new power!
+    </text>
+    <text name="tu1000dlc_280" id="3963513638" font="Range_FNT" layout="Range_LAY">
+      Starfall+
+    </text>
+    <text name="tu1000dlc_285" id="3963513643" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Once every few nights, a meteor shower will occur. Defeated enemies will be resurrected and destroyed objects will be repaired.
+      Koco, Red Seeds of Power, and Blue Seeds of Defense will appear in the area as well.
+    </text>
+    <text name="tu1000dlc_290" id="3963513765" font="Range_FNT" layout="Range_LAY">
+      Character Swap
+    </text>
+    <text name="tu1000dlc_295" id="3963513770" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Amy will be playable later. Feel free to progress through the game and return to Amy later to complete any unfinished tasks.
+    </text>
+    <text name="tu1000dlc_296" id="3963513771" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Knuckles will be playable later. Feel free to progress through the game and return to Knuckles later to complete any unfinished tasks.
+    </text>
+    <text name="tu1000dlc_297" id="3963513772" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Tails will be playable later. Feel free to progress through the game and return to Tails later to complete any unfinished tasks.
+    </text>
+    <text name="tu1000dlc_298" id="3963513773" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Sonic will be playable later. Feel free to progress through the game and return to Sonic later to complete any unfinished tasks.
+    </text>
+    <text name="tu1000dlc_300" id="3963528751" font="Range_FNT" layout="Range_LAY">
+      Update
+    </text>
+    <text name="tu1000dlc_305" id="3963528756" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      -Another Story added
+      
+      The entrance to Another Story has appeared somewhere on Ouranos Island.
+    </text>
+    <text name="tu1000dlc_310" id="3963528878" font="Range_FNT" layout="Range_LAY">
+      Entrance to Another Story
+    </text>
+    <text name="tu1000dlc_315" id="3963528883" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The entrance to Another Story has appeared somewhere on Ouranos Island.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_window_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

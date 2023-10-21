@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev2120_010" id="1276026462" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I don’t care if you’re afraid! Those are your people out there!
+    </text>
+    <text name="ev2120_020" id="1276026589" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey, coach, what's with the pep talk?
+    </text>
+    <text name="ev2120_030" id="1276026716" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev2120_040" id="1276026843" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      With the defenses down the soldiers are supposed to fall back to a bunker.
+    </text>
+    <text name="ev2120_050" id="1276026970" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Then I’ll round-up the stragglers and you supervise, commander.
+    </text>
+    <text name="ev2120_060" id="1276027097" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That sounds... that sounds good.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

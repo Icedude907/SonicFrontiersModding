@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="so1525_010" id="1587257299" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      All right! Time to find some Emeralds!
+    </text>
+    <text name="so1525_020" id="1587257426" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Chaos Emeralds always wound up in the Ancients' vaults. Let's look there!
+    </text>
+    <text name="so1525_030" id="1587257553" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nothing yet. I'll keep looking!
+    </text>
+    <text name="so1525_040" id="1587257680" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Securing Emeralds in vaults? What will they think of next?
+    </text>
+    <text name="so1525_050" id="1587257807" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Don't rush me. I'm looking!
+    </text>
+    <text name="so1525_060" id="1587257934" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Wait... it's not here? Why isn't it here!?
+    </text>
+    <text name="so1525_070" id="1587258061" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The vault I found was empty. I'll try another. You should too!
+    </text>
+    <text name="so1525_080" id="1587258188" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We have to find those Emeralds!
+    </text>
+    <text name="so1525_090" id="1587258315" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What good are these vaults if they don't do their job?
+    </text>
+    <text name="so1525_100" id="1587273301" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'll find 'em. It’s just a matter of time.
+    </text>
+    <text name="so1525_110" id="1587273428" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Another empty one? This isn't working. I need to try from another angle.
+    </text>
+    <text name="so1525_120" id="1587273555" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      All the vaults are empty! Wait, you have a lead? Tell me what you find!
+    </text>
+    <text name="so1525_130" id="1587273682" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm out of ideas. I'll keep brainstorming.
+    </text>
+    <text name="so1525_140" id="1587273809" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What if someone beat us to them? Rouge! The Babylon Rogues! They better not have or I'll bust 'em up!
+    </text>
+    <text name="so1525_150" id="1587273936" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ugh, forget the vaults! I'll find them the old fashioned way. You search for 'em however you want.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

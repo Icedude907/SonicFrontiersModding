@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1110_010" id="3329644640" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1110_020" id="3329644767" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So all this used to be farm land, huh?
+    </text>
+    <text name="ev1110_030" id="3329644894" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yes. They make it sound like it was abundant. But now...
+    </text>
+    <text name="ev1110_040" id="3329645021" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I mean... it’s grassy?
+    </text>
+    <text name="ev1110_050" id="3329645148" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yep, but... I’ve seen this kind of recovery in areas Dr. Eggman damaged. Something ruined this land, and it’s barely begun to recover.
+    </text>
+    <text name="ev1110_060" id="3329645275" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Then we need to make sure it has plenty of time to heal.
+    </text>
+    <text name="ev1110_070" id="3329645402" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Right!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

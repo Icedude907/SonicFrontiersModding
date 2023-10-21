@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb2030_010" id="1841230522" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey! I'm willing to let bygones be bygones if you tell me how to restore my friends. Both Amy and Knuckles are all ghosty. Kinda like you.
+    </text>
+    <text name="sb2030_020" id="1841230649" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      All data within Cyber Space is restricted to outsiders.
+    </text>
+    <text name="sb2030_030" id="1841230776" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You see. That's the thing. They're kinda half-in, half-out. Can you at least tell me if they're going to be okay?
+    </text>
+    <text name="sb2030_040" id="1841230903" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Their conditions are stable. They are hovering between the digital dimension and this one, but their lives are not at risk.
+    </text>
+    <text name="sb2030_050" id="1841231030" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That's a relief. Sort of. Thanks for answering!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

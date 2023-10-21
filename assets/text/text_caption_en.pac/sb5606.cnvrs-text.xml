@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5606_010" id="3308656582" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It looks like there are gimmicks hidden all over the place. What I want to know is, what was with that pinball in the volcano on Chaos Island?
+    </text>
+    <text name="sb5606_020" id="3308656709" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's a part of a device that controls volcanic activity. When you turn on the switch at the top of the pinball, the volcano is activated and erupts.
+    </text>
+    <text name="sb5606_030" id="3308656836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But it would be dangerous if the volcano could be erupted easily. That's probably why they made a door that only reacts to a special kind of energy and put the switch in a place that's hard to reach.
+    </text>
+    <text name="sb5606_040" id="3308656963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      As you accumulate points with the pinball, the energy ball gets charged up and opens the door.
+    </text>
+    <text name="sb5606_050" id="3308657090" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I figured the device was something like that, since the volcano erupted after I cleared the thing. But why was it designed with a pinball?
+    </text>
+    <text name="sb5606_060" id="3308657217" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That's not exactly clear... but maybe it was just a playful idea on the part of whoever developed it. Engineers tend to be like that.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

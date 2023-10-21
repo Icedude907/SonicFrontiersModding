@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb4050_010" id="2028961462" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So we've got satellite maps today, but I don't think they can compete with direct brain downloads.
+    </text>
+    <text name="sb4050_020" id="2028961589" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can roll with it now that I know it's alien tech, but it's still a bit weird to me. Like why are the villages missing when everything else is so detailed?
+    </text>
+    <text name="sb4050_030" id="2028961716" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Ancients had a difficult time adapting to this world.
+    </text>
+    <text name="sb4050_040" id="2028961843" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Adjusting to the new flora and fauna, dealing with technological incompatibilities...
+      Their settlements were under constant revision. The map was designed for a universal knowledge of the islands and their facilities.
+    </text>
+    <text name="sb4050_050" id="2028961970" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I guess that makes sense. And it's probably a good idea to limit the info to make sure whoever can access it can be trusted first.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

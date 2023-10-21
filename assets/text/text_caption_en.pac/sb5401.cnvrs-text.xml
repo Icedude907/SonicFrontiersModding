@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5401_010" id="2628200383" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Why the Koco? Actually, that element may change the result of my calculations.
+    </text>
+    <text name="sb5401_020" id="2628200510" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Calculations? You mean the Koco may be able to help us?
+    </text>
+    <text name="sb5401_030" id="2628200637" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Koco contain personal information of the Ancients... and their souls.
+    </text>
+    <text name="sb5401_040" id="2628200764" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If they hold data that hasn't been uploaded to Cyber Space yet, maybe...
+    </text>
+    <text name="sb5401_050" id="2628200891" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe that could be the key! Wow!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

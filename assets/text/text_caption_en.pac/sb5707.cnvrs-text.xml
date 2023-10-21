@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5707_010" id="3258667720" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Wasn't there a similar pyramid-looking thing on Kronos Island? Are they related? Maybe to shoot something into the sky?
+    </text>
+    <text name="sb5707_020" id="3258667847" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That is incorrect. They are terminals. Kronos Island's pyramid was the docking point for the Ancients' spaceships.
+    </text>
+    <text name="sb5707_030" id="3258667974" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The power source is still running, so it is still afloat. Other than that, the rest of its functions have long since ceased operating, and the elevators were destroyed.
+    </text>
+    <text name="sb5707_040" id="3258668101" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Huh, then what about that cool spiderweb-looking thing under it? It doesn't look like it's got anything to do with spaceships.
+    </text>
+    <text name="sb5707_050" id="3258668228" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That section was essentially a harbor. Not only for spaceships but also for other ships traveling to the other islands.
+    </text>
+    <text name="sb5707_060" id="3258668355" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There used to be a resting area in the lower levels, an important space for the ancient travelers... Now it is but an architectural curiosity.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

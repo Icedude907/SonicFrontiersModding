@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="si2000_145" id="3375861703" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      More Eggman tech. Looks like he was planning a full invasion. So where is he?
+    </text>
+    <text name="si2000_147" id="3375861705" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That's some heavy fire-power. Omega would be jealous!
+    </text>
+    <text name="si2000_152" id="3375861827" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That's a huge wall. And an equally huge hole through it. Yikes.
+    </text>
+    <text name="si2000_158" id="3375861833" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You can feel the temperature difference!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

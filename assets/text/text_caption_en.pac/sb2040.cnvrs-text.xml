@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb2040_010" id="519861561" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's not fair. How come you get to jump in and out of Cyber Space and I'm stuck half-way?
+    </text>
+    <text name="sb2040_020" id="519861688" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Beats me. It sounds like we all experienced the dimension differently.
+    </text>
+    <text name="sb2040_030" id="519861815" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah. I didn't see any way out. Your trips sound less complicated.
+    </text>
+    <text name="sb2040_040" id="519861942" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well, whatever. The spooky sky voice says I just have to trash the Titans to get you guys back to normal, so we have a plan!
+    </text>
+    <text name="sb2040_050" id="519862069" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh yeah? Why isn't it talking to the rest of us, then?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

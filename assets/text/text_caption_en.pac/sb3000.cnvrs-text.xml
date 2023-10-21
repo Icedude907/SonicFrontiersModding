@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb3000_010" id="778120892" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What I wouldn't give to study this ancient technology properly. Hmm. It doesn't look like this was a projectile weapon.
+    </text>
+    <text name="sb3000_020" id="778121019" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So no ancient cannonballs then, huh?
+      Wait, are you saying this is a beam weapon? Like on the Egg Carrier?
+    </text>
+    <text name="sb3000_030" id="778121146" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Exactly. From what I can tell it has its own battery, independent of an outside power source.
+    </text>
+    <text name="sb3000_040" id="778121273" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Moreover, its capacity is ludicrous. It could level a mountain. It's almost up there with the Eclipse cannon!
+    </text>
+    <text name="sb3000_050" id="778121400" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But that was plugged into the ARK's reactor. This is free standing! The Ancients' designs are amazing.
+    </text>
+    <text name="sb3000_060" id="778121527" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah, that's cool and all, but I mean, they built these things to shoot at something. Wow. What kind of enemy takes that much firepower to stop?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

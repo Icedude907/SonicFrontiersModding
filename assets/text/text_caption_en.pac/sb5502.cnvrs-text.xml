@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5502_010" id="2578211521" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      When I get back from this island, I'll use the ancient technology I've obtained here to get the Master Emerald...
+    </text>
+    <text name="sb5502_020" id="2578211648" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What did you just say about the Master Emerald?!
+    </text>
+    <text name="sb5502_030" id="2578211775" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      N-Nothing! I wasn't thinking about taking it at all!
+    </text>
+    <text name="sb5502_040" id="2578211902" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Good! 'Cause I won't let you lay a finger on the Master Emerald.
+    </text>
+    <text name="sb5502_050" id="2578212029" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's my duty to protect it as the last Echidna!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

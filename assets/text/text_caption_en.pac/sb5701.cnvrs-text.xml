@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5701_010" id="1697799874" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey Eggman, you found the Emerald yet?
+    </text>
+    <text name="sb5701_020" id="1697800001" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmph! You can't rush genius.
+    </text>
+    <text name="sb5701_030" id="1697800128" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And besides, you haven't even finished that Tower! What are you waiting for?
+    </text>
+    <text name="sb5701_040" id="1697800255" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hah, you can't rush Sonic the Hedgehog. I'll be back in a flash!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

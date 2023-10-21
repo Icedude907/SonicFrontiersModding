@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5700_010" id="1437655233" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The next tower will be the last. It's time for your courage and speed to transcend fate.
+    </text>
+    <text name="sb5700_020" id="1437655360" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      "Courage and speed"? Cheering me on, are ya? Well this is getting interesting.
+    </text>
+    <text name="sb5700_030" id="1437655487" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This place is full of unknown possibilities that may throw off my calculations.
+    </text>
+    <text name="sb5700_040" id="1437655614" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If it's not impossible, that's good enough for me! Let's do this.
+    </text>
+    <text name="sb5700_050" id="1437655741" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Please, use your potential to protect the Doctor.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

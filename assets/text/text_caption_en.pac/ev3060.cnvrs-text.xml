@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3060_005" id="4158369374" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What's that?
+    </text>
+    <text name="ev3060_010" id="4158369496" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I think it’s an environmental analyzer. 
+      All of the ancient technology is networked to Cyber Space. 
+      If I can get it back online we can maybe get some answers...
+    </text>
+    <text name="ev3060_020" id="4158369623" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3060_030" id="4158369750" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3060_040" id="4158369877" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3060_050" id="4158370004" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3060_060" id="4158370131" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So... that was a thing.
+    </text>
+    <text name="ev3060_070" id="4158370258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Whatever assaulted the island sure packed a punch. 
+      That was on par with Dark Gaia, easy.
+    </text>
+    <text name="ev3060_080" id="4158370385" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I feel like we need to find the Emeralds, pronto.
+    </text>
+    <text name="ev3060_090" id="4158370512" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Agreed. We’ll rendezvous later!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

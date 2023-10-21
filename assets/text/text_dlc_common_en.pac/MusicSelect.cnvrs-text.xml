@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="musicselect_songtitle_00" id="3304679002" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Default
+    </text>
+    <text name="musicselect_songtitle_01" id="3304679003" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      I'm Here
+    </text>
+    <text name="musicselect_songtitle_02" id="3304679004" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Angel Island
+    </text>
+    <text name="musicselect_songtitle_03" id="3304679005" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Mushroom Hill
+    </text>
+    <text name="musicselect_songtitle_04" id="3304679006" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Sky Sanctuary
+    </text>
+    <text name="musicselect_songtitle_05" id="3304679007" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Palmtree Panic
+    </text>
+    <text name="musicselect_songtitle_06" id="3304679008" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Stardust Speedway (US ver.)
+    </text>
+    <text name="musicselect_songtitle_07" id="3304679009" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Open Your Heart
+    </text>
+    <text name="musicselect_songtitle_08" id="3304679010" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      It Doesn't Matter
+    </text>
+    <text name="musicselect_songtitle_09" id="3304679011" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Emerald Coast - Act1
+    </text>
+    <text name="musicselect_songtitle_10" id="3304679129" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Red Mountain
+    </text>
+    <text name="musicselect_songtitle_11" id="3304679130" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Mystic Ruin
+    </text>
+    <text name="musicselect_songtitle_12" id="3304679131" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Live &amp; Learn
+    </text>
+    <text name="musicselect_songtitle_13" id="3304679132" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      City Escape
+    </text>
+    <text name="musicselect_songtitle_14" id="3304679133" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Green Forest
+    </text>
+    <text name="musicselect_songtitle_15" id="3304679134" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Dry Lagoon
+    </text>
+    <text name="musicselect_songtitle_16" id="3304679135" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Sonic Heroes
+    </text>
+    <text name="musicselect_songtitle_17" id="3304679136" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Seaside Hill
+    </text>
+    <text name="musicselect_songtitle_18" id="3304679137" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Ocean Palace
+    </text>
+    <text name="musicselect_songtitle_19" id="3304679138" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Frog Forest
+    </text>
+    <text name="musicselect_songtitle_20" id="3304679256" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      His World (E3 ver.)
+    </text>
+    <text name="musicselect_songtitle_21" id="3304679257" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Wave Ocean
+    </text>
+    <text name="musicselect_songtitle_22" id="3304679258" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Dusty Desert
+    </text>
+    <text name="musicselect_songtitle_23" id="3304679259" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Kingdom Valley
+    </text>
+    <text name="musicselect_songtitle_24" id="3304679260" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Result - His World
+    </text>
+    <text name="musicselect_songtitle_25" id="3304679261" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Seven Rings In Hand
+    </text>
+    <text name="musicselect_songtitle_26" id="3304679262" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Sand Oasis
+    </text>
+    <text name="musicselect_songtitle_27" id="3304679263" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      The World Adventure
+    </text>
+    <text name="musicselect_songtitle_28" id="3304679264" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Windmill Isle - Day
+    </text>
+    <text name="musicselect_songtitle_29" id="3304679265" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Savannah Citadel - Day
+    </text>
+    <text name="musicselect_songtitle_30" id="3304679383" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Arid Sands - Day
+    </text>
+    <text name="musicselect_songtitle_31" id="3304679384" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Knight of the Wind
+    </text>
+    <text name="musicselect_songtitle_32" id="3304679385" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Misty Lake
+    </text>
+    <text name="musicselect_songtitle_33" id="3304679386" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Deep Woods
+    </text>
+    <text name="musicselect_songtitle_34" id="3304679387" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Theme of Sonic Colors
+    </text>
+    <text name="musicselect_songtitle_35" id="3304679388" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Planet Wisp
+    </text>
+    <text name="musicselect_songtitle_36" id="3304679389" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Sky Sanctuary (Remix)
+    </text>
+    <text name="musicselect_songtitle_37" id="3304679390" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Emerald Coast - Act2 (Remix)
+    </text>
+    <text name="musicselect_songtitle_38" id="3304679391" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Speed Highway (Remix)
+    </text>
+    <text name="musicselect_songtitle_39" id="3304679392" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Rooftop Run (Remix)
+    </text>
+    <text name="musicselect_songtitle_40" id="3304679510" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Wonder World
+    </text>
+    <text name="musicselect_songtitle_41" id="3304679511" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Windy Hill - Zone1
+    </text>
+    <text name="musicselect_songtitle_42" id="3304679512" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Desert Ruins - Zone1
+    </text>
+    <text name="musicselect_songtitle_43" id="3304679513" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Sky Road - Zone2
+    </text>
+    <text name="musicselect_songtitle_44" id="3304679514" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Stardust Speedway (Remix)
+    </text>
+    <text name="musicselect_songtitle_45" id="3304679515" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Flying Battery (Remix)
+    </text>
+    <text name="musicselect_songtitle_46" id="3304679516" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Mirage Saloon - Act2
+    </text>
+    <text name="musicselect_songtitle_47" id="3304679517" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Lava Reef (Remix)
+    </text>
+    <text name="musicselect_songtitle_48" id="3304679518" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Fist Bump
+    </text>
+    <text name="musicselect_songtitle_49" id="3304679519" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Arsenal Pyramid
+    </text>
+    <text name="musicselect_songtitle_50" id="3304679637" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Aqua Road
+    </text>
+    <text name="musicselect_songtitle_51" id="3304679638" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      This Is Our World - Phase2
+    </text>
+    <text name="musicselect_songtitle_52" id="3304679639" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Reach For The Stars (Re-Colors)
+    </text>
+    <text name="musicselect_songtitle_53" id="3304679640" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Asteroid Coaster (Remix)
+    </text>
+    <text name="musicselect_songtitle_54" id="3304679641" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Kronos Island: 1st Mvt.
+    </text>
+    <text name="musicselect_songtitle_55" id="3304679642" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Kronos Island: 2nd Mvt.
+    </text>
+    <text name="musicselect_songtitle_56" id="3304679643" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Kronos Island: 3rd Mvt.
+    </text>
+    <text name="musicselect_songtitle_57" id="3304679644" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Kronos Island: 4th Mvt.
+    </text>
+    <text name="musicselect_songtitle_58" id="3304679645" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Kronos Island: 5th Mvt.
+    </text>
+    <text name="musicselect_songtitle_59" id="3304679646" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Kronos Island: 6th Mvt.
+    </text>
+    <text name="musicselect_songtitle_60" id="3304679764" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Kronos Island: 7th Mvt.
+    </text>
+    <text name="musicselect_songtitle_61" id="3304679765" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Ares Island: 1st Mvt.
+    </text>
+    <text name="musicselect_songtitle_62" id="3304679766" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Ares Island: 2nd Mvt.
+    </text>
+    <text name="musicselect_songtitle_63" id="3304679767" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Ares Island: 3rd Mvt.
+    </text>
+    <text name="musicselect_songtitle_64" id="3304679768" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Ares Island: 4th Mvt.
+    </text>
+    <text name="musicselect_songtitle_65" id="3304679769" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Ares Island: 5th Mvt.
+    </text>
+    <text name="musicselect_songtitle_66" id="3304679770" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Ares Island: 6th Mvt.
+    </text>
+    <text name="musicselect_songtitle_67" id="3304679771" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Ares Island: 7th Mvt.
+    </text>
+    <text name="musicselect_songtitle_68" id="3304679772" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Chaos Island: 1st Mvt.
+    </text>
+    <text name="musicselect_songtitle_69" id="3304679773" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Chaos Island: 2nd Mvt.
+    </text>
+    <text name="musicselect_songtitle_70" id="3304679891" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Chaos Island: 3rd Mvt.
+    </text>
+    <text name="musicselect_songtitle_71" id="3304679892" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Chaos Island: 4th Mvt.
+    </text>
+    <text name="musicselect_songtitle_72" id="3304679893" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Chaos Island: 5th Mvt.
+    </text>
+    <text name="musicselect_songtitle_73" id="3304679894" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Chaos Island: 6th Mvt.
+    </text>
+    <text name="musicselect_songtitle_74" id="3304679895" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Chaos Island: 7th Mvt.
+    </text>
+    <text name="musicselect_songtitle_75" id="3304679896" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Rhea Island
+    </text>
+    <text name="musicselect_songtitle_76" id="3304679897" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Ouranos Island
+    </text>
+    <text name="musicselect_songtitle_77" id="3304679898" font="Range_FNT_bgm" layout="Range_LAY_bgm">
+      Theme of Starfall Islands
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_bgm">
+      <typeface>RANGEmixStd</typeface>
+      <size>27</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_bgm">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

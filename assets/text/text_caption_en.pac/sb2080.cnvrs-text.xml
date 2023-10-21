@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb2080_010" id="3824320309" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What do you think of the weird spires being used to contain the Chaos Emeralds?
+    </text>
+    <text name="sb2080_020" id="3824320436" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Contain? No. I think they're meant to protect them. Even harness their power.
+    </text>
+    <text name="sb2080_030" id="3824320563" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You've experienced yourself the limitless power of the Chaos Emeralds.
+    </text>
+    <text name="sb2080_040" id="3824320690" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Even if they didn't have them all, a couple would've provided more than enough energy to live comfortably.
+    </text>
+    <text name="sb2080_050" id="3824320817" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Enough to power the ruins, Cyber Space… I wonder...
+      If the Ancients somehow lost their access to the Emeralds, would that have caused them to disappear?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

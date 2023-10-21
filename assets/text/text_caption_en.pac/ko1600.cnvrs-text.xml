@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ko1600_010" id="1214561753" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Zzz…
+    </text>
+    <text name="ko1600_020" id="1214561880" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hrmph. T'was a good sleep.
+    </text>
+    <text name="ko1600_030" id="1214562007" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh! You've returned.
+      Do you need my insight once more?
+    </text>
+    <text name="ko1600_031" id="1214562008" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh? That appearance of yours...
+    </text>
+    <text name="ko1600_032" id="1214562009" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well met, traveler.
+      Do you need my insight once more?
+    </text>
+    <text name="ko1600_040" id="1214562134" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Allow me to unlock the power of the seeds you've gathered.
+    </text>
+    <text name="ko1600_041" id="1214562135" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Unfortunately, I cannot do any more for you. I return to the dream once more.
+    </text>
+    <text name="ko1600_045" id="1214562139" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Your power has been fully awakened. I look forward to seeing what you can do!
+    </text>
+    <text name="ko1600_050" id="1214562261" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What else may I do for you?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

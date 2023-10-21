@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="obj_ilf_quest_04_detail" id="10817131" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Defeat all TOWERs within the time limit.
+      (Dodge cannot be used in this quest)
+    </text>
+    <text name="obj_ilf_02puzzle_01detail" id="103816173" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The pond in front of Sonic has some kind of plug.
+      Above it, a chain is connected to a huge stopper stone.
+      Maybe it'll move if something hits it with enough force.
+    </text>
+    <text name="obj_ilf_clearstate_010" id="449383064" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Conquered Kronos Island!
+    </text>
+    <text name="obj_ilf_clearstate_020" id="449383191" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Conquered Ares Island!
+    </text>
+    <text name="obj_ilf_clearstate_030" id="449383318" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Conquered Chaos Island!
+    </text>
+    <text name="obj_ilf_clearstate_040" id="449383445" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Captured Rhea Island!
+    </text>
+    <text name="obj_ilf_clearstate_050" id="449383572" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Conquered all of the islands!!
+    </text>
+    <text name="obj_ilf_01puzzle_01detail" id="493507694" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Among the many tombstones, there are black tombstones that can be turned.
+      Turn these tombstones and point them in the right direction.
+      The pattern on the ground may give a hint.
+    </text>
+    <text name="obj_ilf_quest_03_detail" id="743066348" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Guide the Koco back to Knuckles while avoiding their bombs.
+      Getting hit 3 times will fail the quest. 
+      (Boosting and dodging are not available in this quest) 
+    </text>
+    <text name="obj_ilf_01puzzle_01" id="1214519805" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      A Grave Mystery
+    </text>
+    <text name="obj_ilf_quest_02_detail" id="1475315565" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Take all the Koco back to Knuckles. Sonic can speed things up by carrying the Koco, but the TOWERs will also speed up.
+      (Boosting and dodging are not available in this quest)
+    </text>
+    <text name="obj_ilf_02puzzle_01" id="1926962812" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Drain the water to move on
+    </text>
+    <text name="obj_ilf_02puzzle_02" id="1926962813" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Match the colors
+    </text>
+    <text name="obj_ilf_quest_01_detail" id="2207564782" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Remove weeds with Cyloop and reach 7000 points before the timer runs out.
+      Watch out for the bees! Avoid them by luring them towards flowers by using Quick Cyloop on seeds to make them bloom.
+    </text>
+    <text name="obj_ilf_challenge_00" id="2541630304" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Use Parry to hit the energy bullets <var name="num_parried" /> times!
+    </text>
+    <text name="obj_ilf_challenge_01" id="2541630305" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Just run and get the meter to MAX!
+    </text>
+    <text name="obj_ilf_challenge_02" id="2541630306" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Follow the speed limit and set the meter to MAX!
+    </text>
+    <text name="obj_ilf_challenge_03" id="2541630307" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Deal <var name="num_impacts" /> damage within the time limit!
+    </text>
+    <text name="obj_ilf_challenge_04" id="2541630308" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Use side step to step on the ancient light panels <var name="num_reflexes" /> times!
+    </text>
+    <text name="obj_ilf_challenge_05" id="2541630309" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Catch the falling target spheres!
+    </text>
+    <text name="obj_ilf_03puzzle_01" id="2639405819" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Activate the Death Egg Robot
+    </text>
+    <text name="obj_ilf_03puzzle_02" id="2639405820" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Clear the game in the ruins
+    </text>
+    <text name="obj_ilf_quest_00" id="2755061729" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Family Gathering
+    </text>
+    <text name="obj_ilf_quest_01" id="2755061730" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Spring is in the Air
+    </text>
+    <text name="obj_ilf_quest_02" id="2755061731" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      SOS Backup
+    </text>
+    <text name="obj_ilf_quest_03" id="2755061732" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Koco Roundup
+    </text>
+    <text name="obj_ilf_quest_04" id="2755061733" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      The Best Defense
+    </text>
+    <text name="obj_ilf_quest_05" id="2755061734" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Mechanical Collectible
+    </text>
+    <text name="obj_ilf_quest_06" id="2755061735" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Bridge the Gap
+    </text>
+    <text name="obj_ilf_quest_06_detail" id="2841285993" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Cross the river and operate the drawbridge controls to connect the bridge.
+      Reach the other bank within the time limit.
+    </text>
+    <text name="obj_ilf_quest_00_detail" id="2939813999" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Guide the Koco back to their mother while avoiding their bombs. 
+      Getting hit 3 times will fail the quest. 
+      (Boosting and dodging are not available in this quest) 
+    </text>
+    <text name="obj_ilf_quest_05_detail" id="3573535210" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Break boxes to collect machine parts. Gather 600 parts before the time runs out!
+    </text>
+    <text name="obj_ilf_03puzzle_02detail" id="3698958445" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      A familiar looking ancient site.
+      Clear the game to see what happens.
+    </text>
+    <text name="obj_ilf_quest_00_detail2" id="3989190467" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Guide the Koco back to their mother while avoiding their bombs. 
+      Getting hit 1 time will fail the quest. 
+      (Boosting and dodging are not available in this quest)
+    </text>
+    <text name="obj_ilf_03puzzle_01detail" id="4009091948" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Access the console to activate the Death Egg Robot.
+    </text>
+    <text name="obj_ilf_02puzzle_02detail" id="4088649966" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      There are sphere stones lying on the ground.
+      Nearby are indentations of various hues.
+      The crane overhead looks like it can move those sphere stones.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial">
+      <typeface>RANGEmixStd</typeface>
+      <size>46</size>
+      <lineSpacing>26</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

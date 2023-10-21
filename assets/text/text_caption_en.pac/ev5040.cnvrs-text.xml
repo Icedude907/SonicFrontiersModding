@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev5040_010" id="1041641688" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      He took your home world! He took your lives! 
+      Are you going to let him do it all over again? 
+      I need your help! We can end this! Please!
+      
+    </text>
+    <text name="ev5040_020" id="1041641815" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Now or never!
+    </text>
+    <text name="ev5040_030" id="1041641942" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’m with you!
+    </text>
+    <text name="ev5040_040" id="1041642069" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      NO!
+    </text>
+    <text name="ev5040_050" id="1041642196" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Please… look after… father…
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

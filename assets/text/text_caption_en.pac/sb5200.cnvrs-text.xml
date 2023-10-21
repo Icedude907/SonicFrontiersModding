@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5200_010" id="2988322748" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey, Tails! Cool gadget you've got there!
+    </text>
+    <text name="sb5200_020" id="2988322875" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well, I know I can't fight like you or Knuckles.
+    </text>
+    <text name="sb5200_030" id="2988323002" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So, I'll use whatever tools I can to make myself useful!
+    </text>
+    <text name="sb5200_040" id="2988323129" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You do you, buddy! You always know how to help out.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

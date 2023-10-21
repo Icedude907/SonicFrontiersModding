@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev2080_010" id="2247880791" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nice work, soldiers! Now let’s link up with the main force!
+    </text>
+    <text name="ev2080_020" id="2247880918" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah, you make a great supervisor, Knux. Maybe try fighting next time, though?
+    </text>
+    <text name="ev2080_030" id="2247881045" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev2080_040" id="2247881172" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev2080_050" id="2247881299" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      He is aware of what the Koco are, isn’t he? Why does he try to help them when their fate is already decided?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

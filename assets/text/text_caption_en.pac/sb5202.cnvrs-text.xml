@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5202_010" id="3508612030" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You must be feeling quite anxious, separated from your hero Sonic.
+    </text>
+    <text name="sb5202_020" id="3508612157" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eggman... have you forgotten about what happened at Station Square?
+    </text>
+    <text name="sb5202_030" id="3508612284" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I may not be Sonic, but there are things only I can do!
+    </text>
+    <text name="sb5202_040" id="3508612411" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hm. We will see what you're capable of without him.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

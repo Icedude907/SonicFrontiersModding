@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="tu1000_055_Steam" id="113389634" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Guardians are very powerful.
+      They are bigger than normal enemies and have special attacks.
+      Study their moves to find an opening.
+      
+      Tip: When an enemy is targeted, lock on to them
+      by pressing <image name="s_button_lockon" /> .
+    </text>
+    <text name="tu1000_595_Steam" id="357575235" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Work with the Titans to defeat THE END.
+      Move: <image name="button_left_stick" /> Light Shot: <image name="s_button_qsleft" /> Dark Shot: <image name="s_button_qsright" />
+      Counter enemy attacks by matching the colors of each shot.
+      The laser attack meter will also increase with each successful counter.
+      When the meter is full, fire a powerful homing laser by pressing <image name="button_right_trigger" />.
+    </text>
+    <text name="tu1000_295_Switch" id="1113985604" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Choose where you want to cast your line with <image name="button_left_stick" />, then press <image name="button_right" /> to cast.
+      When the float sinks, pull it with <image name="button_right" />.
+      When the fish takes the bait, it will thrash and red waves will appear. When they overlap with the white waves, press <image name="button_right" />.
+      Match all the red waves and you will catch a fish and earn a token.
+    </text>
+    <text name="tu1000_010" id="1269260368" font="Range_FNT" layout="Range_LAY">
+      Look around
+    </text>
+    <text name="tu1000_015" id="1269260373" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Use <image name="button_right_stick" /> to rotate the camera. 
+      Find the way forward.
+      
+      Press <image name="button_crosskey_left" /> to bring up this window again.
+    </text>
+    <text name="tu1000_020" id="1269260495" font="Range_FNT" layout="Range_LAY">
+      Activate the switches
+    </text>
+    <text name="tu1000_025" id="1269260500" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      There are 3 ancient switches on the ground.
+      Activating them will earn a reward
+      and unlock a part of the map.
+    </text>
+    <text name="tu1000_030" id="1269260622" font="Range_FNT" layout="Range_LAY">
+      Pick up dropped items
+    </text>
+    <text name="tu1000_035" id="1269260627" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      When enemies are defeated, they drop various items such as "Skill Pieces" and "Seeds."
+      Gather enough Skill Pieces and they will turn into "Skill Points," as shown in the lower right corner of the screen. These can then be used to learn new "Skills" to enhance Sonic.
+    </text>
+    <text name="tu1000_050" id="1269260876" font="Range_FNT" layout="Range_LAY">
+      Use lock on and defeat the guardian
+    </text>
+    <text name="tu1000_055" id="1269260881" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Guardians are very powerful.
+      They are bigger than normal enemies and have special attacks.
+      Study their moves to find an opening.
+      
+      Tip: When an enemy is targeted, lock on to them
+      by pressing <image name="button_right_stick" /> .
+    </text>
+    <text name="tu1000_060" id="1269261003" font="Range_FNT" layout="Range_LAY">
+      Pick up the Portal Gear
+    </text>
+    <text name="tu1000_065" id="1269261008" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Guardians will drop a Portal Gear.
+      These gears are very important,
+      so don't forget to pick them up!
+    </text>
+    <text name="tu1000_070" id="1269261130" font="Range_FNT" layout="Range_LAY">
+      Turn the statue to open the gate
+    </text>
+    <text name="tu1000_075" id="1269261135" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The ancient gate seems to be locked.
+      Turn the statue in front of the gate to proceed.
+    </text>
+    <text name="tu1000_080" id="1269261257" font="Range_FNT" layout="Range_LAY">
+      Unlock Skills
+    </text>
+    <text name="tu1000_085" id="1269261262" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Sonic's "Cyloop" skill can now be learned!
+      
+      Using the Skill Points that have been accumulated, as shown in the lower right of the screen, go to the Skills menu to unlock it.
+    </text>
+    <text name="tu1000_090" id="1269261384" font="Range_FNT" layout="Range_LAY">
+      Use Cyloop
+    </text>
+    <text name="tu1000_095" id="1269261389" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      To use Cyloop, hold <image name="button_top" /> and run in a circle.
+      Be sure to close the circle before releasing <image name="button_top" />.
+      By using it in the open field, not only can Rings be found, but 
+      also Memory Tokens and Seeds. Perhaps a rare item as well.
+    </text>
+    <text name="tu1000_100" id="1269276370" font="Range_FNT" layout="Range_LAY">
+      Cyloop in combat
+    </text>
+    <text name="tu1000_105" id="1269276375" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Try the Cyloop in combat.
+      Some enemies use shields to protect themselves,
+      but Cyloop can break down their defenses.
+    </text>
+    <text name="tu1000_110" id="1269276497" font="Range_FNT" layout="Range_LAY">
+      Insert the Portal Gear
+    </text>
+    <text name="tu1000_115" id="1269276502" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Unactivated portals can be activated with Portal Gears.
+      Jump onto the Portal's pedestal to insert the Portal Gear.
+    </text>
+    <text name="tu1000_120" id="1269276624" font="Range_FNT" layout="Range_LAY">
+      Dodge guardian attacks
+    </text>
+    <text name="tu1000_125" id="1269276629" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      To dodge, lock on to an enemy with <image name="button_right_stick" /> and press <image name="button_left_shoulder" /> or <image name="button_right_shoulder" />.
+      Dodging is faster than normal movement and specializes in avoiding enemy attacks.
+      When in midair, there is no need to lock on to an enemy to dodge.
+    </text>
+    <text name="tu1000_190" id="1269277513" font="Range_FNT" layout="Range_LAY">
+      Gather Koco to strengthen Sonic
+    </text>
+    <text name="tu1000_195" id="1269277518" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      These creatures are called the "Koco."
+      They seem to be lost. Locate their Elder and return them to him.
+      The Elder will surely offer a reward for their return,
+      whether increasing Sonic's speed or Ring capacity.
+    </text>
+    <text name="tu1000_200" id="1269292499" font="Range_FNT" layout="Range_LAY">
+      Clearing the hacking mission
+    </text>
+    <text name="tu1000_205" id="1269292504" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Use the 2 different attacks to hack the program.
+      Move：<image name="button_left_stick" />　Light Shot：<image name="button_left_shoulder" />　Dark Shot：<image name="button_right_shoulder" />
+      Counter the program's attacks by matching the colors of the program's shots.
+      Each successful counter will fill the homing laser meter.
+      When the meter is full, fire the powerful homing laser by pressing <image name="button_right_trigger" />.
+    </text>
+    <text name="tu1000_220" id="1269292753" font="Range_FNT" layout="Range_LAY">
+      Wall Climbing
+    </text>
+    <text name="tu1000_225" id="1269292758" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Sonic can climb up certain walls.
+      Maneuver with <image name="button_left_stick" />, and he can Wall Run by holding <image name="button_right_trigger" /> while climbing.
+    </text>
+    <text name="tu1000_250" id="1269293134" font="Range_FNT" layout="Range_LAY">
+      Congratulations!
+    </text>
+    <text name="tu1000_255" id="1269293139" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      From here on, Sonic is free to explore the island and gather Chaos Emeralds.
+      
+      Try solving nearby Challenges to avoid getting lost.
+      This will unlock more of the map and show more paths forward in Sonic's journey.
+    </text>
+    <text name="tu1000_270" id="1269293388" font="Range_FNT" layout="Range_LAY">
+      Climb GIGANTO
+    </text>
+    <text name="tu1000_275" id="1269293393" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Sonic cannot match GIGANTO's power... yet.
+      Reach GIGANTO's head to transform into Super Sonic.
+    </text>
+    <text name="tu1000_280" id="1269293515" font="Range_FNT" layout="Range_LAY">
+      Super Sonic!
+    </text>
+    <text name="tu1000_285" id="1269293520" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Super Sonic doesn't take damage, but Rings will be lost as the battle goes on.
+      
+      Because of the time limit, the key to this battle is "to efficiently deal heavy damage."
+      Using Sonic's knowledge and techniques, defeat the enemy!
+    </text>
+    <text name="tu1000_290" id="1269293642" font="Range_FNT" layout="Range_LAY">
+      Good Timing = Good Fish
+    </text>
+    <text name="tu1000_295" id="1269293647" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Choose where to cast the line with <image name="button_left_stick" />, then press <image name="button_bottom" /> to cast.
+      When the float sinks, pull it with <image name="button_bottom" />.
+      Red circles will then appear as the fish takes the bait.
+      Press <image name="button_bottom" /> again when the white circles are within the red circles.
+      If successful, Sonic will catch a fish and earn Treasure Tokens.
+    </text>
+    <text name="tu1000_320" id="1269308882" font="Range_FNT" layout="Range_LAY">
+      Parry attacks
+    </text>
+    <text name="tu1000_325" id="1269308887" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Hold <image name="button_left_shoulder" /> and <image name="button_right_shoulder" /> to Parry.
+      It is unnecessary to Parry based on timing from incoming attacks.
+      Parrying is very effective against certain enemies.
+    </text>
+    <text name="tu1000_380" id="1269309644" font="Range_FNT" layout="Range_LAY">
+      Complete Challenges to reveal the map
+    </text>
+    <text name="tu1000_385" id="1269309649" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Completing Challenges will reveal the surrounding area on the map.
+      Once revealed, the map will help in locating guardians, Portals, and Memory Tokens.
+      Open the map by pressing <image name="button_view" />.
+    </text>
+    <text name="tu1000_390" id="1269309771" font="Range_FNT" layout="Range_LAY">
+      Using map markers
+    </text>
+    <text name="tu1000_395" id="1269309776" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Set markers to mark off an area of interest on the map.
+      Place a marker on the map by pressing <image name="button_left" />.
+      Press <image name="button_left" /> again to delete the marker. If a marker
+      has been placed, a beam of light will highlight the 
+      destination when in the open field.
+    </text>
+    <text name="tu1000_400" id="1269324757" font="Range_FNT" layout="Range_LAY">
+      Access denied
+    </text>
+    <text name="tu1000_405" id="1269324762" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      This is currently locked.
+      Continue with the main story,
+      and try again later.
+    </text>
+    <text name="tu1000_410" id="1269324884" font="Range_FNT" layout="Range_LAY">
+      Missions and Keys
+    </text>
+    <text name="tu1000_415" id="1269324889" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Each Portal has its own set of missions. Completing missions will reward Chaos Emerald Vault Keys.
+      
+      The current amount of obtained Vault Keys is displayed in the upper left of the screen, while the number required to open the next Vault is shown on the map.
+    </text>
+    <text name="tu1000_420" id="1269325011" font="Range_FNT" layout="Range_LAY">
+      Catch WYVERN
+    </text>
+    <text name="tu1000_425" id="1269325016" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Sonic is not yet ready to defeat WYVERN.
+      To turn into Super Sonic to take down WYVERN,
+      get to higher ground and reach it using the Homing Attack.
+    </text>
+    <text name="tu1000_430" id="1269325138" font="Range_FNT" layout="Range_LAY">
+      Super Sonic!
+    </text>
+    <text name="tu1000_435" id="1269325143" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Super Sonic doesn't take damage,
+      but Rings will be lost as the battle goes on.
+      
+      Boost through the air to quickly reach WYVERN,
+      and parry its attacks to defeat it!
+    </text>
+    <text name="tu1000_440" id="1269325265" font="Range_FNT" layout="Range_LAY">
+      Dodge
+    </text>
+    <text name="tu1000_445" id="1269325270" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      When the enemy blocks your attack,
+      press <image name="button_left_shoulder" /> or <image name="button_right_shoulder" /> .
+      Take them by surprise!
+    </text>
+    <text name="tu1000_450" id="1269325392" font="Range_FNT" layout="Range_LAY">
+      Sense the enemy's attack
+    </text>
+    <text name="tu1000_455" id="1269325397" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      When an enemy is about to attack, a visual effect will appear running between Sonic and the enemy.
+    </text>
+    <text name="tu1000_460" id="1269325519" font="Range_FNT" layout="Range_LAY">
+      Power Boost
+    </text>
+    <text name="tu1000_465" id="1269325524" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      If Sonic boosts with the maximum number of Rings, he can run at even higher speeds while emitting blue lightning around him.
+      When the Ring count is reduced, it will revert back to a normal boost.
+    </text>
+    <text name="tu1000_470" id="1269325646" font="Range_FNT" layout="Range_LAY">
+      Mysteries and ancient rails
+    </text>
+    <text name="tu1000_475" id="1269325651" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      As Sonic solves the mysteries on the island, locations close to each other will be connected by ancient rails, making travel more convenient.
+    </text>
+    <text name="tu1000_500" id="1269340886" font="Range_FNT" layout="Range_LAY">
+      Amy's Memory Tokens
+    </text>
+    <text name="tu1000_505" id="1269340891" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Collect these heart-shaped items, "Amy's Memory Tokens," to free Amy.
+      Amy's Memory Tokens can be obtained by exploring the island, fishing, and with Cyloop.
+    </text>
+    <text name="tu1000_510" id="1269341013" font="Range_FNT" layout="Range_LAY">
+      Treasure Tokens and Gold Cards
+    </text>
+    <text name="tu1000_515" id="1269341018" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Get Treasure Tokens from Big by catching fish. Once Sonic has accumulated a good amount of tokens, head to "Trade Tokens" to trade them for items that will aid in his adventure.
+      
+      A Gold Card is an item that can be exchanged for one of the items on the list. Think carefully about which item will be the most useful.
+    </text>
+    <text name="tu1000_520" id="1269341140" font="Range_FNT" layout="Range_LAY">
+      Fast travel via scrolls
+    </text>
+    <text name="tu1000_525" id="1269341145" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Scrolls can be obtained while fishing.
+      These scrolls unlock fast travel to the Elder Koco and Hermit Koco but only for the island where they are obtained from.
+    </text>
+    <text name="tu1000_530" id="1269341267" font="Range_FNT" layout="Range_LAY">
+      Notifications
+    </text>
+    <text name="tu1000_535" id="1269341272" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      A notification may appear when Sonic is near something new.
+      Press <image name="button_crosskey_down" /> while the notification is displayed to practice the action in the training simulator or get a hint about what Sonic is about to encounter.
+      
+      Press <image name="button_crosskey_down" /> to go to the training simulator now.
+    </text>
+    <text name="tu1000_540" id="1269341394" font="Range_FNT" layout="Range_LAY">
+      Aiming at KNIGHT's head
+    </text>
+    <text name="tu1000_545" id="1269341399" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Sonic must transform into Super Sonic to stand a chance against KNIGHT.
+      Jump over or parry the stone spikes to reach for KNIGHT's head and gain the upper hand.
+    </text>
+    <text name="tu1000_550" id="1269341521" font="Range_FNT" layout="Range_LAY">
+      Dishing damage as Super Sonic
+    </text>
+    <text name="tu1000_555" id="1269341526" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The transformed Sonic is invincible against attacks, but Rings will be consumed as the battle continues.
+      
+      KNIGHT attacks with a long sword. Parry this and look for a chance to attack.
+    </text>
+    <text name="tu1000_560" id="1269341648" font="Range_FNT" layout="Range_LAY">
+      Hit the bits
+    </text>
+    <text name="tu1000_565" id="1269341653" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Keep an eye on Sonic's remaining Rings, and attack the floating Bits around SUPREME first.
+      
+      Use evasion and parry to avoid attacks from the main body and to create openings for counter attacks.
+    </text>
+    <text name="tu1000_570" id="1269341775" font="Range_FNT" layout="Range_LAY">
+      Exit the training simulator
+    </text>
+    <text name="tu1000_575" id="1269341780" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The training simulator can be exited by pressing <image name="button_view" /> when <image name="button_view" /> is displayed in the lower right corner of the screen.
+    </text>
+    <text name="tu1000_580" id="1269341902" font="Range_FNT" layout="Range_LAY">
+      Fast travel
+    </text>
+    <text name="tu1000_585" id="1269341907" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Once all Challenges are completed and the entire island map is revealed,
+      fast travel between Portals will become available.
+      
+      Fast travel can be accessed by changing the map filter in the upper right corner of the screen.
+    </text>
+    <text name="tu1000_590" id="1269342029" font="Range_FNT" layout="Range_LAY">
+      The true enemy
+    </text>
+    <text name="tu1000_595" id="1269342034" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Work with the Titans to defeat THE END.
+      Move: <image name="button_left_stick" /> Light Shot: <image name="button_left_shoulder" /> Dark Shot: <image name="button_right_shoulder" />
+      Counter enemy attacks by matching the colors of each shot.
+      The laser attack meter will also increase with each successful counter.
+      When the meter is full, fire a powerful homing laser by pressing <image name="button_right_trigger" />.
+    </text>
+    <text name="tu1000_600" id="1269357015" font="Range_FNT" layout="Range_LAY">
+      Fixed camera
+    </text>
+    <text name="tu1000_605" id="1269357020" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      During scenes with <image name="exchara_skill_cam" /> displayed, the camera will be fixed.
+    </text>
+    <text name="tu1000_610" id="1269357142" font="Range_FNT" layout="Range_LAY">
+      Seeds and Hermit Koco
+    </text>
+    <text name="tu1000_615" id="1269357147" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Locate the Red Seeds of Power and Blue Seeds of Defense strewn about the island.
+      Bring them to the Hermit Koco to raise Sonic's attack and defense.
+    </text>
+    <text name="tu1000_620" id="1269357269" font="Range_FNT" layout="Range_LAY">
+      Friends' key items
+    </text>
+    <text name="tu1000_625" id="1269357274" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Amy is in an unstable state, trapped in Cyber Space.
+      Collect her Memory Tokens to stabilize her condition.
+      Memory Tokens can be found around the island, by exploring, fishing, and using Cyloop.
+    </text>
+    <text name="tu1000_630" id="1269357396" font="Range_FNT" layout="Range_LAY">
+      Knuckles' Memory Token
+    </text>
+    <text name="tu1000_635" id="1269357401" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Knuckles is in an unstable state, trapped in Cyber Space.
+      Collect his Memory Tokens to stabilize his condition.
+      Memory Tokens can be found around the island, by exploring, fishing, and using Cyloop.
+    </text>
+    <text name="tu1000_640" id="1269357523" font="Range_FNT" layout="Range_LAY">
+      Tails' Memory Tokens
+    </text>
+    <text name="tu1000_645" id="1269357528" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Tails is in an unstable state, trapped in Cyber Space.
+      Collect Memory Tokens to stabilize his condition.
+      Memory Tokens can be found around the island, by exploring, fishing, and using Cyloop.
+    </text>
+    <text name="tu1000_650" id="1269357650" font="Range_FNT" layout="Range_LAY">
+      Sage's Memory Tokens
+    </text>
+    <text name="tu1000_655" id="1269357655" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Collect these heart-shaped Memory Tokens to talk to Sage.
+      Memory Tokens can be found by exploring on the island, fishing, and using Cyloop.
+    </text>
+    <text name="tu1000_660" id="1269357777" font="Range_FNT" layout="Range_LAY">
+      Koco and Elder Koco
+    </text>
+    <text name="tu1000_665" id="1269357782" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Find and bring Koco to the Elder Koco. He will be able to raise Sonic's top speed and maximum Ring capacity. Go to the Hermit Koco to change how these upgrades are set.
+    </text>
+    <text name="tu1000_670" id="1269357904" font="Range_FNT" layout="Range_LAY">
+      Hermit Koco and Seeds
+    </text>
+    <text name="tu1000_675" id="1269357909" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Give the Hermit Koco the Red Seeds of Power to raise Sonic's attack, and the Blue Seeds of Defense to raise Sonic's defense.
+    </text>
+    <text name="tu1000_680" id="1269358031" font="Range_FNT" layout="Range_LAY">
+      Options
+    </text>
+    <text name="tu1000_685" id="1269358036" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Go to Options to change settings such as the camera angle and player controls. If you find yourself having motion sickness, try using a wider camera angle, turning off blur and rotation, and turning on the center cursor.
+    </text>
+    <text name="tu1000_690" id="1269358158" font="Range_FNT" layout="Range_LAY">
+      Clear the pinball stage
+    </text>
+    <text name="tu1000_700" id="1269373144" font="Range_FNT" layout="Range_LAY">
+      Fast travel to Elder Koco and Hermit Koco
+    </text>
+    <text name="tu1000_705" id="1269373149" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      While fishing, Sonic may come across Scrolls. Elder Koco and Hermit Koco each have their own Scrolls, and using these Scrolls will unlock the fast travel option to the respective Koco.
+      Access fast travel by toggling the icon in the upper right corner. 
+    </text>
+    <text name="tu1000_710" id="1269373271" font="Range_FNT" layout="Range_LAY">
+      Starfall
+    </text>
+    <text name="tu1000_715" id="1269373276" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Once every few nights, meteors will fall like rain. When this happens, items and enemies in the open field will be resurrected.
+      Picking up the fallen star pieces will allow Sonic to use the Slot Machine.
+      Get Purple Coins when the patterns line up!
+    </text>
+    <text name="tu1000_720" id="1269373398" font="Range_FNT" layout="Range_LAY">
+      Purple Coins
+    </text>
+    <text name="tu1000_725" id="1269373403" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Purple Coins are unique coins that are used in Purple Portals. Collect as many as possible and search for these hidden Portals to redeem them.
+    </text>
+    <text name="tu1000_095_Steam" id="1479360062" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      To use Cyloop, hold <image name="s_button_cyloop" /> and run in a circle.
+      Be sure to close the circle before releasing <image name="s_button_cyloop" />.
+      By using it in the open field, not only can Rings be found, but 
+      also Memory Tokens and Seeds. Perhaps a rare item as well.
+    </text>
+    <text name="tu1000_205_Steam" id="2466928329" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Use the 2 different attacks to hack the program.
+      Move：<image name="button_left_stick" />　Light Shot：<image name="s_button_qsleft" />　Dark Shot：<image name="s_button_qsright" />
+      Counter the program's attacks by matching the colors of the program's shots.
+      Each successful counter will fill the homing laser meter.
+      When the meter is full, fire the powerful homing laser by pressing <image name="button_right_trigger" />.
+    </text>
+    <text name="tu1000_325_Steam" id="2496059848" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Hold <image name="s_button_qsleft" /> and <image name="s_button_qsright" /> to Parry.
+      It is unnecessary to Parry based on timing from incoming attacks.
+      Parrying is very effective against certain enemies.
+    </text>
+    <text name="tu1000_445_Steam" id="2525191367" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      When the enemy blocks your attack,
+      press <image name="s_button_qsleft" /> or <image name="s_button_qsright" /> .
+      Take them by surprise!
+    </text>
+    <text name="tu1000_080_sub" id="3385010122">
+      Unlock Cyloop
+    </text>
+    <text name="tu1000_125_Steam" id="3803767238" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      To dodge, lock on to an enemy with <image name="s_button_lockon" /> and press <image name="s_button_qsleft" /> or <image name="s_button_qsright" />.
+      Dodging is faster than normal movement and specializes in avoiding enemy attacks.
+      When in midair, there is no need to lock on to an enemy to dodge.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

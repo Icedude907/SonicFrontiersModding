@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="trp_cmn_bd_001" id="274080700">
+      Collected all trophies.
+    </text>
+    <text name="trp_cmn_bd_002" id="274080701">
+      Completed the Kronos Island tutorials.
+    </text>
+    <text name="trp_cmn_bd_003" id="274080702">
+      Defeated the Titan and completed the main story on Kronos Island.
+    </text>
+    <text name="trp_cmn_bd_004" id="274080703">
+      Defeated the Titan and completed the main story on Ares Island.
+    </text>
+    <text name="trp_cmn_bd_005" id="274080704">
+      Defeated the Titan and completed the main story on Chaos Island.
+    </text>
+    <text name="trp_cmn_bd_006" id="274080705">
+      Defeated the Titan and completed the main story on Ouranos Island.
+    </text>
+    <text name="trp_cmn_bd_007" id="274080706">
+      Defeated the final threat and completed the main story.
+    </text>
+    <text name="trp_cmn_bd_009" id="274080708">
+      Viewed all Side Stories on Kronos Island.
+    </text>
+    <text name="trp_cmn_bd_010" id="274080826">
+      Viewed all Side Stories on Ares Island.
+    </text>
+    <text name="trp_cmn_bd_011" id="274080827">
+      Viewed all Side Stories on Chaos Island.
+    </text>
+    <text name="trp_cmn_bd_012" id="274080828">
+      Viewed all Side Stories on Ouranos Island.
+    </text>
+    <text name="trp_cmn_bd_013" id="274080829">
+      Viewed all Side Stories.
+    </text>
+    <text name="trp_cmn_bd_014" id="274080830">
+      Completed all Challenges on Kronos Island and fully revealed the map.
+    </text>
+    <text name="trp_cmn_bd_015" id="274080831">
+      Completed all Challenges on Ares Island and fully revealed the map.
+    </text>
+    <text name="trp_cmn_bd_016" id="274080832">
+      Completed all Challenges on Chaos Island and fully revealed the map.
+    </text>
+    <text name="trp_cmn_bd_017" id="274080833">
+      Completed all Challenges on Ouranos Island and fully revealed the map.
+    </text>
+    <text name="trp_cmn_bd_018" id="274080834">
+      Unlocked all Skills.
+    </text>
+    <text name="trp_cmn_bd_019" id="274080835">
+      Activated a Power Boost for the first time.
+    </text>
+    <text name="trp_cmn_bd_020" id="274080953">
+      Performed a Phantom Rush for the first time, outside of the training simulator.
+    </text>
+    <text name="trp_cmn_bd_021" id="274080954">
+      Performed Phantom Rush 50 times, outside of the training simulator.
+    </text>
+    <text name="trp_cmn_bd_022" id="274080955">
+      Gathered 200 Koco.
+    </text>
+    <text name="trp_cmn_bd_023" id="274080956">
+      Spoke with Elder Koco for the first time.
+    </text>
+    <text name="trp_cmn_bd_024" id="274080957">
+      Spoke with Hermit Koco for the first time.
+    </text>
+    <text name="trp_cmn_bd_025" id="274080958">
+      Raised Power Level to MAX.
+    </text>
+    <text name="trp_cmn_bd_026" id="274080959">
+      Raised Defense Level to MAX.
+    </text>
+    <text name="trp_cmn_bd_027" id="274080960">
+      Raised Ring Level to MAX.
+    </text>
+    <text name="trp_cmn_bd_028" id="274080961">
+      Raised Speed Level to MAX.
+    </text>
+    <text name="trp_cmn_bd_029" id="274080962">
+      Defeated all enemy types.
+    </text>
+    <text name="trp_cmn_bd_030" id="274081080">
+      Defeated a guardian for the first time.
+    </text>
+    <text name="trp_cmn_bd_031" id="274081081">
+      Defeated all guardian types.
+    </text>
+    <text name="trp_cmn_bd_032" id="274081082">
+      Destroyed 100 breakable objects.
+    </text>
+    <text name="trp_cmn_bd_033" id="274081083">
+      Encountered a starfall for the first time.
+    </text>
+    <text name="trp_cmn_bd_034" id="274081084">
+      Repaired all Portals on Kronos Island.
+    </text>
+    <text name="trp_cmn_bd_035" id="274081085">
+      Repaired all Portals on Ares Island.
+    </text>
+    <text name="trp_cmn_bd_036" id="274081086">
+      Repaired all Portals on Chaos Island.
+    </text>
+    <text name="trp_cmn_bd_037" id="274081087">
+      Repaired all Portals on Ouranos Island.
+    </text>
+    <text name="trp_cmn_bd_038" id="274081088">
+      Completed all Missions in one Cyber Space area.
+    </text>
+    <text name="trp_cmn_bd_039" id="274081089">
+      Achieved Rank S time, for the first time in a Cyber Space area.
+    </text>
+    <text name="trp_cmn_bd_040" id="274081207">
+      Completed the fishing tutorial.
+    </text>
+    <text name="trp_cmn_bd_041" id="274081208">
+      Earned 100 Purple Coins.
+    </text>
+    <text name="trp_cmn_bd_042" id="274081209">
+      Landed all catches at one fishing spot.
+    </text>
+    <text name="trp_set_tit" id="346625205">
+      SONIC FRONTIERS
+    </text>
+    <text name="trp_xbox_tit_001" id="1602234578">
+      Achievements Completed!
+    </text>
+    <text name="trp_cmn_tit_001" id="2408508649" font="Range_FNT" layout="Range_LAY">
+      Trophies Completed!
+    </text>
+    <text name="trp_cmn_tit_002" id="2408508650" font="Range_FNT" layout="Range_LAY">
+      The Journey Begins
+    </text>
+    <text name="trp_cmn_tit_003" id="2408508651" font="Range_FNT" layout="Range_LAY">
+      The Beginning
+    </text>
+    <text name="trp_cmn_tit_004" id="2408508652" font="Range_FNT" layout="Range_LAY">
+      Ancient Defiance
+    </text>
+    <text name="trp_cmn_tit_005" id="2408508653" font="Range_FNT" layout="Range_LAY">
+      Futile Resistance
+    </text>
+    <text name="trp_cmn_tit_006" id="2408508654" font="Range_FNT" layout="Range_LAY">
+      Hope Across Ages
+    </text>
+    <text name="trp_cmn_tit_007" id="2408508655" font="Range_FNT" layout="Range_LAY">
+      A Land at Peace
+    </text>
+    <text name="trp_cmn_tit_008" id="2408508656" font="Range_FNT" layout="Range_LAY">
+      Inexhaustible
+    </text>
+    <text name="trp_cmn_tit_009" id="2408508657" font="Range_FNT" layout="Range_LAY">
+      Kronos Island Expert
+    </text>
+    <text name="trp_cmn_tit_010" id="2408508775" font="Range_FNT" layout="Range_LAY">
+      Ares Island Expert
+    </text>
+    <text name="trp_cmn_tit_011" id="2408508776" font="Range_FNT" layout="Range_LAY">
+      Chaos Island Expert
+    </text>
+    <text name="trp_cmn_tit_012" id="2408508777" font="Range_FNT" layout="Range_LAY">
+      Ouranos Island Expert
+    </text>
+    <text name="trp_cmn_tit_013" id="2408508778" font="Range_FNT" layout="Range_LAY">
+      Expert Historian
+    </text>
+    <text name="trp_cmn_tit_014" id="2408508779" font="Range_FNT" layout="Range_LAY">
+      Kronos Island Explorer
+    </text>
+    <text name="trp_cmn_tit_015" id="2408508780" font="Range_FNT" layout="Range_LAY">
+      Ares Island Explorer
+    </text>
+    <text name="trp_cmn_tit_016" id="2408508781" font="Range_FNT" layout="Range_LAY">
+      Chaos Island Explorer
+    </text>
+    <text name="trp_cmn_tit_017" id="2408508782" font="Range_FNT" layout="Range_LAY">
+      Ouranos Island Explorer
+    </text>
+    <text name="trp_cmn_tit_018" id="2408508783" font="Range_FNT" layout="Range_LAY">
+      Unrivaled Aptitude
+    </text>
+    <text name="trp_cmn_tit_019" id="2408508784" font="Range_FNT" layout="Range_LAY">
+      Speed Demon
+    </text>
+    <text name="trp_cmn_tit_020" id="2408508902" font="Range_FNT" layout="Range_LAY">
+      Combo Convert
+    </text>
+    <text name="trp_cmn_tit_021" id="2408508903" font="Range_FNT" layout="Range_LAY">
+      Combo Crackerjack
+    </text>
+    <text name="trp_cmn_tit_022" id="2408508904" font="Range_FNT" layout="Range_LAY">
+      Koco Leader
+    </text>
+    <text name="trp_cmn_tit_023" id="2408508905" font="Range_FNT" layout="Range_LAY">
+      Elder Koco Encounter
+    </text>
+    <text name="trp_cmn_tit_024" id="2408508906" font="Range_FNT" layout="Range_LAY">
+      Hermit Koco Encounter
+    </text>
+    <text name="trp_cmn_tit_025" id="2408508907" font="Range_FNT" layout="Range_LAY">
+      Herculean Hedgehog
+    </text>
+    <text name="trp_cmn_tit_026" id="2408508908" font="Range_FNT" layout="Range_LAY">
+      Hardened Hedgehog
+    </text>
+    <text name="trp_cmn_tit_027" id="2408508909" font="Range_FNT" layout="Range_LAY">
+      Hearty Hedgehog
+    </text>
+    <text name="trp_cmn_tit_028" id="2408508910" font="Range_FNT" layout="Range_LAY">
+      Hypersonic Hedgehog
+    </text>
+    <text name="trp_cmn_tit_029" id="2408508911" font="Range_FNT" layout="Range_LAY">
+      Easy Prey
+    </text>
+    <text name="trp_cmn_tit_030" id="2408509029" font="Range_FNT" layout="Range_LAY">
+      Unknown Threat
+    </text>
+    <text name="trp_cmn_tit_031" id="2408509030" font="Range_FNT" layout="Range_LAY">
+      Threats Identified
+    </text>
+    <text name="trp_cmn_tit_032" id="2408509031" font="Range_FNT" layout="Range_LAY">
+      Swath of Destruction
+    </text>
+    <text name="trp_cmn_tit_033" id="2408509032" font="Range_FNT" layout="Range_LAY">
+      Celestial Rain
+    </text>
+    <text name="trp_cmn_tit_034" id="2408509033" font="Range_FNT" layout="Range_LAY">
+      Kronos Island Memories
+    </text>
+    <text name="trp_cmn_tit_035" id="2408509034" font="Range_FNT" layout="Range_LAY">
+      Ares Island Memories
+    </text>
+    <text name="trp_cmn_tit_036" id="2408509035" font="Range_FNT" layout="Range_LAY">
+      Chaos Island Memories
+    </text>
+    <text name="trp_cmn_tit_037" id="2408509036" font="Range_FNT" layout="Range_LAY">
+      Ouranos Island Memories
+    </text>
+    <text name="trp_cmn_tit_038" id="2408509037" font="Range_FNT" layout="Range_LAY">
+      Perfect Run
+    </text>
+    <text name="trp_cmn_tit_039" id="2408509038" font="Range_FNT" layout="Range_LAY">
+      Superior Ranking
+    </text>
+    <text name="trp_cmn_tit_040" id="2408509156" font="Range_FNT" layout="Range_LAY">
+      Big Encounter
+    </text>
+    <text name="trp_cmn_tit_041" id="2408509157" font="Range_FNT" layout="Range_LAY">
+      Ticket to Tranquility
+    </text>
+    <text name="trp_cmn_tit_042" id="2408509158" font="Range_FNT" layout="Range_LAY">
+      Angler's Club
+    </text>
+    <text name="trp_set_bd" id="3114041932">
+      SONIC FRONTIERS Trophies
+    </text>
+    <text name="trp_xbox_bd_001" id="3953963859">
+      Unlocked all Achievements
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

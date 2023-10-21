@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ko1010_010" id="1753993810" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well hello there. Quick little fella, aren't you?
+    </text>
+    <text name="ko1010_020" id="1753993937" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The name's Sonic, and that says it all. You don't seem like the rest of these little mask guys.
+    </text>
+    <text name="ko1010_030" id="1753994064" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We are called "Koco," and we've endured since ancient times.
+    </text>
+    <text name="ko1010_040" id="1753994191" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You'll find us all over each of the Starfall Islands.
+    </text>
+    <text name="ko1010_050" id="1753994318" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      My name has been lost to time, so please, simply call me "Elder Koco."
+    </text>
+    <text name="ko1010_060" id="1753994445" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It has been my job to look after all the little ones, but over time, I've lost track of so many...
+    </text>
+    <text name="ko1010_070" id="1753994572" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic, may I ask you to return my charges to me?
+    </text>
+    <text name="ko1010_080" id="1753994699" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sure thing, Gramps. If I see any while I'm helping my friends, I'll bring them back to you.
+    </text>
+    <text name="ko1010_090" id="1753994826" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah! A true hero! I will happily reward you for your efforts.
+    </text>
+    <text name="ko1010_100" id="1754009812" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Let me see…
+      I can do two things for you.
+    </text>
+    <text name="ko1010_110" id="1754009939" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      "Increase your speed" or
+      "Raise the maximum capacity of your Rings."
+    </text>
+    <text name="ko1010_120" id="1754010066" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Cool! Let's do it to it.
+    </text>
+    <text name="ko1010_130" id="1754010193" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yes, you've already brought back so many safely...
+    </text>
+    <text name="ko1010_140" id="1754010320" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So, shall we begin?
+    </text>
+    <text name="ko1010_150" id="1754010447" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      All in due time. Bring 10 Koco to me, and we shall speak again.
+    </text>
+    <text name="ko1010_151" id="1754010448">
+      All in due time. Bring 12 Koco to me, and we shall speak again.
+    </text>
+    <text name="ko1010_152" id="1754010449">
+      All in due time. Bring 15 Koco to me, and we shall speak again.
+    </text>
+    <text name="ko1010_160" id="1754010574" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The more Koco you return to me, the more I shall do for you.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

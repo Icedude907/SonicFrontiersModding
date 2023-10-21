@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev2030_010" id="264791004" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Some rescue. I’m still half-ghost!
+    </text>
+    <text name="ev2030_020" id="264791131" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’m working on it, okay?
+    </text>
+    <text name="ev2030_030" id="264791258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What’s going on with you?
+    </text>
+    <text name="ev2030_040" id="264791385" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah just a little side-effect of the island’s weird energy.
+    </text>
+    <text name="ev2030_050" id="264791512" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Listen, help me find the Chaos Emeralds so I can beat-up some big robots. You’ll be free and back to guarding the Master Emerald in no time.
+    </text>
+    <text name="ev2030_055" id="264791517" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What are you doing so far from home?
+    </text>
+    <text name="ev2030_060" id="264791639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It’s fine. I took measures to hide Angel Island from the world.
+    </text>
+    <text name="ev2030_065" id="264791644" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I was investigating some strange ruins when I was transported here, then got trapped.
+    </text>
+    <text name="ev2030_070" id="264791766" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh yeah? Where’d you hide it?
+    </text>
+    <text name="ev2030_075" id="264791771" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Never a dull moment with you.
+    </text>
+    <text name="ev2030_080" id="264791893" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’m not telling you. You bring nothing but trouble.
+    </text>
+    <text name="ev2030_085" id="264791898" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Just bring me up to speed.
+    </text>
+    <text name="ev2030_090" id="264792020" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I think you mean to say, "Thank you for saving it multiple times.”
+    </text>
+    <text name="ev2030_095" id="264792025" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Listen, help me find the Chaos Emeralds so I can beat-up some big robots. You’ll be free and back to guarding the Master Emerald in no time.
+    </text>
+    <text name="ev2030_100" id="264807006" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Weren’t you going to get me back to normal?
+    </text>
+    <text name="ev2030_105" id="264807011" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sounds like a plan.
+    </text>
+    <text name="ev2030_110" id="264807133" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh, I’m going to save everyone. You just happen to be included.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

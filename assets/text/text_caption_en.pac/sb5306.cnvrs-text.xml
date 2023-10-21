@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5306_010" id="4239057091" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This island is huge. It's going to take a lot of work to explore. At least it's not as big as the sandy Ares Island.
+    </text>
+    <text name="sb5306_020" id="4239057218" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmph! With my Egg Mobile, I have no such issues. Even the Ancients used transportation to cover the expanse of Ares Island.
+    </text>
+    <text name="sb5306_030" id="4239057345" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Did you see the dilapidated bridges and scaffolds around the periphery of Ares Island? The roads and tunnels have broken down over the years, but they were basically highways.
+    </text>
+    <text name="sb5306_040" id="4239057472" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Moreover, the highways were full of energy brimming from underground. The vehicles could replenish energy just by going through tunnels or passing over Dash Panels. There was no need for filling stations!
+    </text>
+    <text name="sb5306_050" id="4239057599" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh, but I suppose that doesn’t concern someone like you, who can't do anything but roll around at the speed of sound.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

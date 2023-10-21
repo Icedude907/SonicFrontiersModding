@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="qu1510_010" id="554862167" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You did it, Sonic! I'm sensing the Titan up ahead. This is it! The big showdown!
+    </text>
+    <text name="qu1510_020" id="554862294" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It'll be a short match if I can't find the last Chaos Emerald, though.
+    </text>
+    <text name="qu1510_030" id="554862421" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I searched everywhere I could. I'm out of ideas.
+    </text>
+    <text name="qu1510_040" id="554862548" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So where is it? Eh, maybe I'll find it along the way.
+    </text>
+    <text name="qu1500_010" id="1876231128" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What's up, Amy?
+    </text>
+    <text name="qu1500_020" id="1876231255" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Look! Wasn't this region locked off before? I think you can interact with it now!
+    </text>
+    <text name="qu1500_030" id="1876231382" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I think you can rotate some of them. 
+    </text>
+    <text name="qu1500_040" id="1876231509" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe they'll act like the other puzzle-locks and show me the way to that Titan!
+    </text>
+    <text name="qu1500_050" id="1876231636" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's worth a shot!
+    </text>
+    <text name="qu1500_060" id="1876231763" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Alright... What's the right way to do this? Hmm.
+      Looks like there's a pattern on the ground.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

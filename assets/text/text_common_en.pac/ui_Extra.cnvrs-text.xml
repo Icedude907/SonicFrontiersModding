@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="extra_birthday_check" id="91882165" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Birthday Decorations
+    </text>
+    <text name="extra_birthday_check_detail" id="192662427" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Apply the birthday decorations?
+    </text>
+    <text name="extra_Initial_Xbox" id="215959869" />
+    <text name="extra_notice_event" id="325126402" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      About cutscenes
+    </text>
+    <text name="extra_item_1_choice_1" id="495685310" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Adventurer's Gloves and Shoes
+    </text>
+    <text name="extra_item_1_choice_2" id="495685311" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Rathalos
+    </text>
+    <text name="extra_item_1_choice_3" id="495685312" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Felyne Rathalos
+    </text>
+    <text name="extra_item_1_choice_7" id="495685316" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Inugami Korone Collaboration Sonic Gloves &amp; Shoes
+    </text>
+    <text name="extra_item_1_choice_8" id="495685317" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Sonic Adventure 2 Shoes
+    </text>
+    <text name="extra_item_1_choice_9" id="495685318" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Holiday Cheer Suit
+    </text>
+    <text name="extra_check_detail_Epic" id="680205069" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Please install "Explorer's Treasure Box" before starting a new game. Please note that the contents will not be validated if installed after completing the tutorial area.
+    </text>
+    <text name="extra_Initial_detail_PC" id="810760887" />
+    <text name="extra_item_1" id="1034028148" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Sonic Outfits
+    </text>
+    <text name="extra_item_2" id="1034028149" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Koco Appearance
+    </text>
+    <text name="extra_item_3" id="1034028150" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Sound effects
+    </text>
+    <text name="extra_item_4" id="1034028151" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Adventurer's Treasure Box
+    </text>
+    <text name="extra_item_5" id="1034028152" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Explorer's Treasure Box
+    </text>
+    <text name="extra_item_7" id="1034028154" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Sonic Emote with Koco
+    </text>
+    <text name="extra_item_8" id="1034028155" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Island Appearance
+    </text>
+    <text name="extra_item_9" id="1034028156" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      Friends' Outfits
+    </text>
+    <text name="extra_item_8_choice_1" id="1187819063" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Party Details
+    </text>
+    <text name="extra_item_2_choice_2" id="1208128318" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Inugami Korone Collaboration “Koronesuki” Koco Skin
+    </text>
+    <text name="extra_item_2_choice_3" id="1208128319" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Springtime Koco
+    </text>
+    <text name="extra_item_2_choice_4" id="1208128320" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Koco Party Outfit
+    </text>
+    <text name="extra_detail_PC" id="1347013586">
+      The acquired downloadable content will be accessible from the Extras menu.
+    </text>
+    <text name="extra_Initial_PC" id="1396162973" />
+    <text name="extra_item_9_mtips" id="1621057794" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Change friends' outfits
+    </text>
+    <text name="extra_item_9_choice_1" id="1900262070" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Friends' Party Outfits
+    </text>
+    <text name="extra_item_3_choice_1" id="1920571324" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Inugami Korone Collaboration Sound Effects
+    </text>
+    <text name="extra_item_8_mtips" id="1931191297" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Change how the islands look
+    </text>
+    <text name="extra_detail_Xbox" id="2054446706">
+      The acquired downloadable content will be accessible from the Extras menu.
+    </text>
+    <text name="extra_item_5_detail" id="2067412056" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Explorer's Treasure Box redeemed.
+      Memory Tokens, Portal Gears, and Chaos Emerald Vault Keys will become available.
+    </text>
+    <text name="extra_Initial_detail" id="2112010011" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Reset all Extras content?
+    </text>
+    <text name="extra_item_7_mtips" id="2241324800" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Additional idle animations for Sonic
+    </text>
+    <text name="extra_check_detail" id="2388262135" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Please install “Adventurer's Treasure Box” and “Explorer's Treasure Box” before starting a new game. Please note that the contents will not be validated if installed after completing the tutorial area.
+    </text>
+    <text name="extra_item_1_choice_10" id="2822492274" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Sonic's Birthday Party Outfit
+    </text>
+    <text name="extra_item_1_choice_11" id="2822492275" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Frontier Elite
+    </text>
+    <text name="extra_item_5_mtips" id="2861591806" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Extra Memory Tokens, Portal Gears, and Chaos Emerald Vault Keys will unlock at the end of the tutorial.
+    </text>
+    <text name="extra_Initial_detail_Xbox" id="2898798679" />
+    <text name="extra_item_4_mtips" id="3171725309" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Get a jump start with Skill Points, Red Seeds of Power, and Blue Seeds of Defense.
+    </text>
+    <text name="extra_Initial_detail_Switch" id="3177514872" />
+    <text name="extra_btnguide_Initial" id="3258851700" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Reset
+    </text>
+    <text name="extra_Initial_Switch" id="3465855582" />
+    <text name="extra_item_3_mtips" id="3481858812" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Change sound effects
+    </text>
+    <text name="extra_adapted" id="3586602834" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      DLC Applied
+    </text>
+    <text name="extra_detail" id="3769236864" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      The acquired additional content will be accessible from the Extras menu.
+    </text>
+    <text name="extra_item_2_mtips" id="3791992315" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Change Koco appearance
+    </text>
+    <text name="extra_notice_event_detail" id="3858141902" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Outfits will not be reflected in certain cutscenes.
+    </text>
+    <text name="extra_detail_Switch" id="3965837971">
+      The acquired downloadable content will be accessible from the Extras menu.
+    </text>
+    <text name="extra_item_0_choice_0" id="4078209598" font="Range_FNT_textbox" layout="Range_LAY_textbox">
+      Default
+    </text>
+    <text name="extra_item_1_mtips" id="4102125818" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Change Sonic's outfits
+    </text>
+    <text name="extra_Initial" id="4200257333" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Reset Extras content
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial">
+      <typeface>RANGEmixStd</typeface>
+      <size>46</size>
+      <lineSpacing>26</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_textbox">
+      <typeface>RANGEmixStd</typeface>
+      <size>34</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_menuitem">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_mtips">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>8</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_toast">
+      <typeface>RANGEmixStd</typeface>
+      <size>48</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_textbox">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_menuitem">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_mtips">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_toast">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

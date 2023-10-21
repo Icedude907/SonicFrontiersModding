@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb4000_010" id="45871675" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Once the Ancients landed on this world they culvitated the islands to be their new home. This place in particular was meant for prayer and reflection. They hoped to live in peace.
+    </text>
+    <text name="sb4000_020" id="45871802" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      When they learned their enemy had followed them here, they prepared to defend this world. The walls, cannons, towers - all for a desperate last stand.
+    </text>
+    <text name="sb4000_030" id="45871929" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That explains all the stuff I've seen on the run. I wondered if they were preparing for a fight. Now I know.
+    </text>
+    <text name="sb4000_040" id="45872056" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This is where the Ancients would gather to simply be together. To cherish those who were left.
+    </text>
+    <text name="sb4000_050" id="45872183" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That is why they recorded everything. Their history, their aspirations, their hopes, their dreams... so they would never be truly gone.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

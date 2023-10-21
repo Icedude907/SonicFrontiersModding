@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb1050_010" id="4225709113" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      These ruins are almost like a puzzle.
+    </text>
+    <text name="sb1050_020" id="4225709240" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I know, right? I don't even know what I'm doing with most of these. I'm just running on instinct.
+    </text>
+    <text name="sb1050_030" id="4225709367" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well, the energy that powers them is linked to Cyber Space, right? And you took on that power when you freed me. Maybe that link is giving you special insight?
+    </text>
+    <text name="sb1050_040" id="4225709494" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe they used that link among themselves. Like, instead of a language, they shared their thoughts and feelings directly!
+    </text>
+    <text name="sb1050_050" id="4225709621" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe. All I know is the idea of the map gets updated in my head, which brings me one step closer to rescuing you!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

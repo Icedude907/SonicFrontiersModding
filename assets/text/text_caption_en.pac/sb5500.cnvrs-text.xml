@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5500_010" id="2057922239" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We've got three Emeralds so far. Making good progress.
+    </text>
+    <text name="sb5500_020" id="2057922366" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh really? Well, looks like I'm doing better on my end, Treasure Hunter.
+    </text>
+    <text name="sb5500_030" id="2057922493" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Put a sock in it! The enemy's getting more persistent with their interference, like that shockwave earlier.
+    </text>
+    <text name="sb5500_040" id="2057922620" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But don’t worry, I'll take care of it with my fists! Just you wait!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

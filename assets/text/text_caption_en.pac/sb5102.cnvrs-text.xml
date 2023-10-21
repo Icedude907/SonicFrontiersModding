@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5102_010" id="3818745533" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh, it's Knuckles. Stop dilly-dallying and go use those fists to get some work done.
+    </text>
+    <text name="sb5102_020" id="3818745660" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Stop ordering me around, or I'll use my fists on you!
+    </text>
+    <text name="sb5102_030" id="3818745787" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Such a witty retort. May I alert you to the fact that time is of the essence? And you are wasting time.
+    </text>
+    <text name="sb5102_040" id="3818745914" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You think I don't know that? I know that.
+    </text>
+    <text name="sb5102_050" id="3818746041" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Then go use your brute force to find those Emeralds!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1170_010" id="3991365466" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No! We’ll find another way!
+    </text>
+    <text name="ev1170_020" id="3991365593" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The first seal is broken. Thy next foe awaits on the sand-scarred island.
+    </text>
+    <text name="ev1170_030" id="3991365720" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Right. You said “Titans” earlier. Plural.
+    </text>
+    <text name="ev1170_040" id="3991365847" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Darn it...
+    </text>
+    <text name="ev1170_050" id="3991365974" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I guess this isn’t over until I bop all the big bots. Sorry, Amy.
+    </text>
+    <text name="ev1170_060" id="3991366101" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm feeling more like my old self, it's working! Keep going and don't keep me waiting.
+    </text>
+    <text name="ev1170_070" id="3991366228" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ll be back before you can do a Tarot Card reading. See ya!
+    </text>
+    <text name="ev1170_075" id="3991366233" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ll be back before you can do a Fortune Card reading. See ya!
+    </text>
+    <text name="ev1170_076" id="3991366234" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ll be back before you can do a Fortune Card reading. See ya!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

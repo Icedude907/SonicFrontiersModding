@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev2090_010" id="926511830" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ve experienced this before! We’re somehow seeing a battle from the past.
+    </text>
+    <text name="ev2090_020" id="926511957" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Those defenses are impressive! Maybe I should get some notes for my island?
+    </text>
+    <text name="ev2090_030" id="926512084" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I guess the defenses didn’t hold after all.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

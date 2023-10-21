@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5300_010" id="2678189245" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It seems your friends have been making progress on the Emeralds.
+    </text>
+    <text name="sb5300_020" id="2678189372" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Heh, I knew they could handle it!
+    </text>
+    <text name="sb5300_030" id="2678189499" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But there's no time to waste. You must hurry to the tower.
+    </text>
+    <text name="sb5300_040" id="2678189626" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You're right, it's time to get to it.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

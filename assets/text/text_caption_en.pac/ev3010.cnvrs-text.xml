@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3010_010" id="2175279709" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No. Not again! You stay right where you are, Emeralds!
+    </text>
+    <text name="ev3010_020" id="2175279836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3010_030" id="2175279963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Patience, hedgehog. You’ve made a career out of finding those things.
+    </text>
+    <text name="ev3010_040" id="2175280090" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Thy next foe hides amid fire and ruin.
+    </text>
+    <text name="ev3010_050" id="2175280217" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah-yeah, I’m getting to it. I don’t suppose you want to explain why I keep losing the emeralds?
+    </text>
+    <text name="ev3010_060" id="2175280344" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Thanks. You’ve been a huge help.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

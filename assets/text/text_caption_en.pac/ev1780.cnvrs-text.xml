@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1780_010" id="809195487" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This shell was once my prison.
+      Now it shall be the avatar of my return.
+      All shall perish. All shall return to order. To oblivion.
+    </text>
+    <text name="ev1780_020" id="809195614" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This is it! The force that wiped out the Ancients!
+    </text>
+    <text name="ev1780_030" id="809195741" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's been using their tech against us this whole time.
+      I say we take it back!
+    </text>
+    <text name="ev1780_040" id="809195868" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ha-HA! Get a load of this!
+    </text>
+    <text name="ev1780_050" id="809195995" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'll power it up! Don't miss!
+    </text>
+    <text name="ev1780_060" id="809196122" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It is all for naught.
+    </text>
+    <text name="ev1780_070" id="809196249" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It took your home world! It took your lives! 
+      Are you going to let it do that all over again? 
+      We need your help! We can end this! Please!
+    </text>
+    <text name="ev1780_080" id="809196376" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic! It's now or never!
+    </text>
+    <text name="ev1780_090" id="809196503" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sorry, Master King. Looks like I'm going all-out after all.
+    </text>
+    <text name="ev1780_091" id="809196504" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1780_100" id="809211489" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Look! There he is!
+    </text>
+    <text name="ev1780_110" id="809211616" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You did well, Sage.
+      It's time to head home, dear daughter.
+    </text>
+    <text name="ev1780_120" id="809211743" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      “Home?” I like the sound of that... Father.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ko1100_010" id="2765229268" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hello again, Sonic.
+    </text>
+    <text name="ko1100_011" id="2765229269" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well well, a traveler.
+    </text>
+    <text name="ko1100_020" id="2765229395" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Please find as many Koco as you can and bring them home to me.
+    </text>
+    <text name="ko1100_030" id="2765229522" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They can be a little shy and skittish, so look everywhere!
+    </text>
+    <text name="ko1100_040" id="2765229649" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Welcome back, my dear Koco! 
+      Thank you, Sonic. Shall I grant you more power?
+    </text>
+    <text name="ko1100_041" id="2765229650" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Welcome back, my dear Koco! 
+      Thank you, traveler. Shall I grant you more power?
+    </text>
+    <text name="ko1100_050" id="2765229776" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I've done all I can, and still you bring more Koco home?
+      You're a true hero, Sonic, and you have my deepest thanks.
+    </text>
+    <text name="ko1100_051" id="2765229777" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I've done all I can, and still you bring more Koco home?
+      You're a true hero and you have my deepest thanks.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

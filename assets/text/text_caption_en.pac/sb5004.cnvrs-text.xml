@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5004_010" id="354201022" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What are you doing here? You sure do some fast searching!
+    </text>
+    <text name="sb5004_020" id="354201149" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well, I think it's important to stay focused on your goal, but it's not always easy.
+    </text>
+    <text name="sb5004_030" id="354201276" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This island is so huge. I'm sure there are a lot of places I'll never be able to reach.
+    </text>
+    <text name="sb5004_040" id="354201403" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah... I'll keep a look out for the Emeralds from the sky!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

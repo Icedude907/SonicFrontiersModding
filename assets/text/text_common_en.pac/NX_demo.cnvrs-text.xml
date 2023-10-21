@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="NX_demo_logo" id="2050861330">
+      Demo
+    </text>
+    <text name="NX_demo_Ending" id="2526654510">
+      Thank you for playing SONIC FRONTIERS!
+      Available for purchase now!
+    </text>
+    <text name="NX_demo_attention_header" id="3224406933" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Demo Time Limit
+    </text>
+    <text name="NX_demo_attention" id="3714474583" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      This demo has a time limit of 15 minutes. No time will pass when the Menu screen is open.
+    </text>
+    <text name="NX_demo_Store_title" id="4070492755">
+      Sonic Frontiers: Demo
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial">
+      <typeface>RANGEmixStd</typeface>
+      <size>46</size>
+      <lineSpacing>26</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

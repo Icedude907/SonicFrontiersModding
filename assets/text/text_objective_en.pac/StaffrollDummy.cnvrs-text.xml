@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="satffroll_dummy" id="3690899084" font="Range_FNT_credit_S1" layout="Range_LAY_credit" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_credit_S1">
+      <typeface>RANGEmixStd</typeface>
+      <size>24</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_credit">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

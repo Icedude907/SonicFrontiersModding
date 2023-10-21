@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1510_010" id="2089110628" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hold it, hedgehog!
+    </text>
+    <text name="ev1510_020" id="2089110755" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Before you embark, there is one other scenario to consider.
+    </text>
+    <text name="ev1510_030" id="2089110882" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Alright, I'm listening.
+    </text>
+    <text name="ev1510_040" id="2089111009" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Moments ago, your friends sacrificed their corporeal forms to suppress your cyber corruption and return you to this dimensional plane.
+    </text>
+    <text name="ev1510_050" id="2089111136" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They were so close to being free again, and they gave it all up for me.
+    </text>
+    <text name="ev1510_060" id="2089111263" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I don’t care how many islands or Titans it takes! I’m getting them back this time!
+    </text>
+    <text name="ev1510_070" id="2089111390" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ugh. Please, no tedious speeches about the “super power of teamwork.”
+    </text>
+    <text name="ev1510_080" id="2089111517" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1510_090" id="2089111644" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Of my millions of calculations, there was one so remote and unlikely I did not consider it.
+      However, as things stand, it could be the one to save us all.
+    </text>
+    <text name="ev1510_100" id="2089126630" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well I'm all about beating the odds. What's the plan?
+    </text>
+    <text name="ev1510_110" id="2089126757" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can reverse your friends' efforts and restore them.
+      They would then seek out the Chaos Emeralds for us.
+    </text>
+    <text name="ev1510_120" id="2089126884" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can stabilize your cyber corruption for a brief time.
+    </text>
+    <text name="ev1510_130" id="2089127011" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And then, I would guide you on how to convert that corruption into power so that you may end this conflict and save Father.
+    </text>
+    <text name="ev1510_140" id="2089127138" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And save the world too, right?
+    </text>
+    <text name="ev1510_150" id="2089127265" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It is his to conquer, so yes.
+    </text>
+    <text name="ev1510_160" id="2089127392" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah, we'll cross that bridge when we come to it.
+    </text>
+    <text name="ev1510_170" id="2089127519" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I like that plan. Let's do it to it!
+    </text>
+    <text name="ev1510_180" id="2089127646" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Be forewarned: the trials you face will be grueling, and we will have precious little time.
+    </text>
+    <text name="ev1510_190" id="2089127773" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Please, I live for time trials. Let's go already!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

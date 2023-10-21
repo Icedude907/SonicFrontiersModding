@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="qu4610_010" id="2342948309" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Emerald number six! Here we come!
+    </text>
+    <text name="qu4610_020" id="2342948436" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sooo... earlier you said I had zero chances of winning.
+      You change your mind yet?
+    </text>
+    <text name="qu4610_030" id="2342948563" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No. But... I have not run a simulation on our present circumstances, either.
+    </text>
+    <text name="qu4610_040" id="2342948690" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ahh yeah, so you're saying there maybe is a chance?
+    </text>
+    <text name="qu4610_050" id="2342948817" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I am saying we are in a desperate situation.
+      The threat we face is beyond imagination.
+    </text>
+    <text name="qu4610_060" id="2342948944" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey, if there's even a one percent chance I can turn that despair of yours into hope, I won't disappoint.
+    </text>
+    <text name="qu4600_010" id="3664317270" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There is a Chaos Emerald inside.
+      Your power is required to access it.
+    </text>
+    <text name="qu4600_020" id="3664317397" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      First we've got to open that door.
+    </text>
+    <text name="qu4600_030" id="3664317524" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Are you good with hanging around? I thought you were supposed to be looking after Eggman while he helps hunt down the Emeralds?
+    </text>
+    <text name="qu4600_040" id="3664317651" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I will be at his side when he needs me.
+    </text>
+    <text name="qu4600_050" id="3664317778" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      For now we must focus on the task at hand. Use your power to start the system. Hurry. Our time is limited.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

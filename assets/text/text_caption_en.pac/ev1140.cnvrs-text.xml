@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1140_010" id="3660505053" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1140_020" id="3660505180" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Don’t get too far ahead!
+    </text>
+    <text name="ev1140_030" id="3660505307" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe we should just let them wrap it up on their own.
+    </text>
+    <text name="ev1140_040" id="3660505434" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We have to see this through!
+    </text>
+    <text name="ev1140_050" id="3660505561" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We still haven’t found Tails or Knuckles. We’ve been wrangling children and taking detours the whole way.
+    </text>
+    <text name="ev1140_055" id="3660505566" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We still haven’t found Tails. We’ve been wrangling children and taking detours the whole way.
+    </text>
+    <text name="ev1140_060" id="3660505688" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Are you telling me you would leave behind someone in need?
+    </text>
+    <text name="ev1140_070" id="3660505815" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No! But I’m also worried about you. You can’t help anyone if you’re stuck in limbo.
+    </text>
+    <text name="ev1140_080" id="3660505942" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Alright.
+    </text>
+    <text name="ev1140_090" id="3660506069" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And then we’ll be free to rescue everyone else!
+    </text>
+    <text name="ev1140_095" id="3660506074" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Then hurry up and save me too so we can find Tails!
+    </text>
+    <text name="ev1140_100" id="3660521055" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sounds simple enough.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

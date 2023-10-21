@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb2060_010" id="2172090935" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Okay! Your flying nightmare is a step up from the giant. Very mobile. But it's going to end the same way.
+    </text>
+    <text name="sb2060_020" id="2172091062" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      How are you able to utilize the Chaos Emeralds?
+    </text>
+    <text name="sb2060_030" id="2172091189" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I must reassess the battle parameters. I cannot afford to have you win again.
+    </text>
+    <text name="sb2060_040" id="2172091316" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well, y'know, you could call it off and let me save my friends in peace?
+    </text>
+    <text name="sb2060_050" id="2172091443" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No? Fine, we'll do it your way.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3130_010" id="3517375580" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No rush. My friends aren’t languishing in limbo and I’m not dying or anything.
+    </text>
+    <text name="ev3130_020" id="3517375707" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Shoot, I hope I’m not.
+    </text>
+    <text name="ev3130_030" id="3517375834" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3130_040" id="3517375961" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What is your end goal?
+    </text>
+    <text name="ev3130_050" id="3517376088" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It varies. Sometimes it’s a spinning sign, sometimes it's a big ol’ ring.
+    </text>
+    <text name="ev3130_060" id="3517376215" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No! I mean what do you want to accomplish?
+    </text>
+    <text name="ev3130_070" id="3517376342" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Gather up the Chaos Emeralds and save my friends.
+    </text>
+    <text name="ev3130_080" id="3517376469" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And you’re sure that’s wise?
+    </text>
+    <text name="ev3130_090" id="3517376596" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Kinda the story of my life.
+    </text>
+    <text name="ev3130_100" id="3517391582" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And the voice that commands you. What if it is leading you to disaster?
+    </text>
+    <text name="ev3130_110" id="3517391709" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If they want to start trouble, I’ll stop them too.
+    </text>
+    <text name="ev3130_120" id="3517391836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You certainly make it sound simple.
+    </text>
+    <text name="ev3130_130" id="3517391963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But your arrogance will be your undoing.
+    </text>
+    <text name="ev3130_140" id="3517392090" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Look, either stop being cryptic and tell me what’s going on or skedaddle.
+    </text>
+    <text name="ev3130_150" id="3517392217" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There would be no point.
+    </text>
+    <text name="ev3130_160" id="3517392344" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3130_170" id="3517392471" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3130_180" id="3517392598" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nice find. Take it on over to Tails. I’m gonna keep moving.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

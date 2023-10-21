@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sy2000_010" id="1504120660" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Do you want to quit this Quest?
+    </text>
+    <text name="sy2000_011" id="1504120661" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Do you want to quit?
+    </text>
+    <text name="sy2000_013" id="1504120663" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Yes
+    </text>
+    <text name="sy2000_015" id="1504120665" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      No
+    </text>
+    <text name="sy2000_110" id="1504136789" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Do you want to retry this Quest?
+    </text>
+    <text name="sy2000_111" id="1504136790">
+      Do you want to retry?
+    </text>
+    <text name="sy2000_113" id="1504136792" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Yes
+    </text>
+    <text name="sy2000_115" id="1504136794" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      No
+    </text>
+    <text name="sy2000_120" id="1504136916" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Try again?
+    </text>
+    <text name="sy2000_122" id="1504136918" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Lower the trial's difficulty level?
+    </text>
+    <text name="sy2000_124" id="1504136920" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Further lower the trial's difficulty level?
+    </text>
+    <text name="sy2000_200" id="1504152791" font="Range_FNT" layout="Range_LAY">
+      Retry the Quest
+    </text>
+    <text name="sy2000_201" id="1504152792" font="Range_FNT" layout="Range_LAY">
+      Retry
+    </text>
+    <text name="sy2000_300" id="1504168920" font="Range_FNT" layout="Range_LAY">
+      Head to the target cursor
+    </text>
+    <text name="sy2000_400" id="1504185049" font="Range_FNT" layout="Range_LAY">
+      Time's Up!
+    </text>
+    <text name="sy2000_401" id="1504185050" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Restart Battle Rush?
+    </text>
+    <text name="sy2000_403" id="1504185052" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Restart
+    </text>
+    <text name="sy2000_405" id="1504185054" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Quit
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

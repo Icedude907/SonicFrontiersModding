@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev2900_010" id="1437696360" font="Range_FNT" layout="Range_LAY">
+      Talk to Knuckles
+    </text>
+    <text name="ev2900_020" id="1437696487" font="Range_FNT" layout="Range_LAY">
+      Find Knuckles
+    </text>
+    <text name="ev2900_030" id="1437696614" font="Range_FNT" layout="Range_LAY">
+      Get the Chaos Emerald
+    </text>
+    <text name="ev2900_040" id="1437696741" font="Range_FNT" layout="Range_LAY">
+      Collect Vault Keys from Portals
+    </text>
+    <text name="ev2900_050" id="1437696868" font="Range_FNT" layout="Range_LAY">
+      Go through the cave
+    </text>
+    <text name="ev2900_070" id="1437697122" font="Range_FNT" layout="Range_LAY">
+      Solve the puzzle
+    </text>
+    <text name="ev2900_080" id="1437697249" font="Range_FNT" layout="Range_LAY">
+      Collect Knuckles' Memory Tokens
+    </text>
+    <text name="ev2900_090" id="1437697376" font="Range_FNT" layout="Range_LAY">
+      Search for friends
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1520_010" id="767741667" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I just tried to save you. I'm not doing it again.
+    </text>
+    <text name="ev1520_020" id="767741794" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic? What's going on?
+    </text>
+    <text name="ev1520_030" id="767741921" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I know it's been rough, and that things are confusing,
+      but I need you guys to just follow my lead.
+    </text>
+    <text name="ev1520_040" id="767742048" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I need you three to find the Chaos Emeralds while I take care of something else.
+    </text>
+    <text name="ev1520_050" id="767742175" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      All right. We trust you.
+    </text>
+    <text name="ev1520_060" id="767742302" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You can count on us!
+    </text>
+    <text name="ev1520_070" id="767742429" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Huh! Piece of cake!
+    </text>
+    <text name="ev1520_080" id="767742556" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Get on with it already!
+    </text>
+    <text name="ev1520_090" id="767742683" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's coming…
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

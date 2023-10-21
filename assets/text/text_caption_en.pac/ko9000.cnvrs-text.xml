@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ko9000_000" id="1512336204" font="Range_FNT" layout="Range_LAY">
+      Yes
+    </text>
+    <text name="ko9000_005" id="1512336209" font="Range_FNT" layout="Range_LAY">
+      No
+    </text>
+    <text name="ko9000_006" id="1512336210" font="Range_FNT" layout="Range_LAY">
+      Take the trial again
+    </text>
+    <text name="ko9000_010" id="1512336331" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Would you like to take my trial?
+    </text>
+    <text name="ko9000_020" id="1512336458" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Would you like to take my trial again?
+    </text>
+    <text name="ko9000_030" id="1512336585" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Are you going to challenge my trial?
+    </text>
+    <text name="ko9000_040" id="1512336712" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Are you going to challenge my trial again?
+    </text>
+    <text name="ko9000_050" id="1512336839" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Do you want to take my trial?
+    </text>
+    <text name="ko9000_060" id="1512336966" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Do you want to take my trial again?
+    </text>
+    <text name="ko9000_070" id="1512337093" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Are you going to take my trial?
+    </text>
+    <text name="ko9000_080" id="1512337220" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Are you going to take my trial again?
+    </text>
+    <text name="ko9000_090" id="1512337347" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Are you ready to take my trial?
+    </text>
+    <text name="ko9000_100" id="1512352333" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Are you ready to take my trial once again?
+    </text>
+    <text name="ko9000_101" id="1512352334" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ready for the final battle?
+    </text>
+    <text name="ko9000_110" id="1512352460" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      On your mark
+    </text>
+    <text name="ko9000_120" id="1512352587" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Start!
+    </text>
+    <text name="ko9000_130" id="1512352714" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Excellent!
+    </text>
+    <text name="ko9000_140" id="1512352841" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Trial cleared!
+    </text>
+    <text name="ko9000_150" id="1512352968" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Trial failed!
+    </text>
+    <text name="ko9000_160" id="1512353095" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The time has come.
+    </text>
+    <text name="ko9000_170" id="1512353222" font="Range_FNT" layout="Range_LAY">
+      Proceed to the final battle
+    </text>
+    <text name="ko9000_171" id="1512353223" font="Range_FNT" layout="Range_LAY">
+      Character Swap
+    </text>
+    <text name="ko9000_172" id="1512353224" font="Range_FNT" layout="Range_LAY">
+      Swap to Sonic
+    </text>
+    <text name="ko9000_173" id="1512353225" font="Range_FNT" layout="Range_LAY">
+      Swap to Amy
+    </text>
+    <text name="ko9000_174" id="1512353226" font="Range_FNT" layout="Range_LAY">
+      Swap to Knuckles
+    </text>
+    <text name="ko9000_175" id="1512353227" font="Range_FNT" layout="Range_LAY">
+      Swap to Tails
+    </text>
+    <text name="ko9000_176" id="1512353228" font="Range_FNT" layout="Range_LAY">
+      Back
+    </text>
+    <text name="ko9000_177" id="1512353229" font="Range_FNT" layout="Range_LAY">
+      Return to island exploration
+    </text>
+    <text name="ko9000_180" id="1512353349" font="Range_FNT" layout="Range_LAY">
+      Receive battle guidance - 1
+    </text>
+    <text name="ko9000_181" id="1512353350" font="Range_FNT" layout="Range_LAY">
+      Receive battle guidance - 2
+    </text>
+    <text name="ko9000_182" id="1512353351" font="Range_FNT" layout="Range_LAY">
+      Receive battle guidance - 3
+    </text>
+    <text name="ko9000_183" id="1512353352" font="Range_FNT" layout="Range_LAY">
+      Receive battle guidance - 4
+    </text>
+    <text name="ko9000_184" id="1512353353" font="Range_FNT" layout="Range_LAY">
+      Receive battle guidance - 5
+    </text>
+    <text name="ko9000_185" id="1512353354" font="Range_FNT" layout="Range_LAY">
+      Receive battle guidance - Final
+    </text>
+    <text name="ko9000_186" id="1512353355" font="Range_FNT" layout="Range_LAY">
+      Receive battle guidance
+    </text>
+    <text name="ko9000_190" id="1512353476" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      As long as THE END continues to get enormous amounts of energy from the fake moon, it will not take damage. There must be a way to sever the cable.
+    </text>
+    <text name="ko9000_191" id="1512353477" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      THE END's head will block attacks aimed at the cable. Find a way to get behind it to sever the cable and disconnect it from the fake moon.
+    </text>
+    <text name="ko9000_192" id="1512353478" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Though you have obtained such immense power, taking down the fake moon will be difficult. The felled Titan that was originally built as a weapon against THE END will be useful here. 
+    </text>
+    <text name="ko9000_193" id="1512353479" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have watched your battles against the various Titans and I am impressed that you are able to lift and wield such large weapons against them. However, that power alone is not enough.
+    </text>
+    <text name="ko9000_194" id="1512353480" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Withstand THE END's onslaught for a chance to take aim at the fake moon. It seems like the arms on its back go haywire before attacking the Cyber Shield. Find a way to circle around and stop those arms.
+    </text>
+    <text name="ko9000_195" id="1512353481" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Use <image name="button_right_shoulder_Wh" /> during a combo to sever the cable. With THE END now vulnerable, follow with a Cyloop to take the rifle.
+    </text>
+    <text name="ko9000_196" id="1512353482" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      When THE END attempts to attack the Cyber Shield, circle around it and use Perfect Parry to stop it. And finally, use the power bestowed upon you to defeat it!
+    </text>
+    <text name="ko9000_197" id="1512353483" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I offer guidance to the chosen four who have trained to the limit. Conquered all the challenges in Cyber Space. Uncovered all this island has to offer, defeated all of its powerful enemies, and befriended all of its inhabitants.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

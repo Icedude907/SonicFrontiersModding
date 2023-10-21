@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3150_010" id="874637658" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They say this was the last of the defensive measures.
+    </text>
+    <text name="ev3150_020" id="874637785" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Way to go. Your hero will be thrilled with all your hard work.
+    </text>
+    <text name="ev3150_030" id="874637912" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And I’m proud of you. Don’t forget that.
+    </text>
+    <text name="ev3150_040" id="874638039" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I won’t.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

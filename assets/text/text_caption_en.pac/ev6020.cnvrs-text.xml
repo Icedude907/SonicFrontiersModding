@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev6020_010" id="2952130393" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So… that was fun.
+    </text>
+    <text name="ev6020_020" id="2952130520" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev6020_030" id="2952130647" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev6020_040" id="2952130774" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev6020_050" id="2952130901" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But I guess it’s time we got moving. I know you all have big plans.
+    </text>
+    <text name="ev6020_060" id="2952131028" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You’re gonna hardly recognize me when we see each other again!
+    </text>
+    <text name="ev6020_070" id="2952131155" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I wonder if Cream and Sticks are free? Make a road trip out of it!
+    </text>
+    <text name="ev6020_085" id="2952131287" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It'll be good to get back to my island. At least… for a while.
+    </text>
+    <text name="ev6020_090" id="2952131409" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We’re wasting daylight. Let’s go!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

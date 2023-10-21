@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3110_010" id="1865146206" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have found a possible scenario for your escape.
+    </text>
+    <text name="ev3110_020" id="1865146333" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It’s about time! Report!
+    </text>
+    <text name="ev3110_030" id="1865146460" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      After reviewing your entire campaign history, 
+      I have found the most optimal course of action is to… create an alliance with Sonic.
+    </text>
+    <text name="ev3110_040" id="1865146587" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      WHAT!?
+    </text>
+    <text name="ev3110_050" id="1865146714" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      B-But together you stopped the ARK! Overcame Neo Metal! You...!
+    </text>
+    <text name="ev3110_060" id="1865146841" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I don’t want to hear it! Those alliances were purely out of desperation!
+    </text>
+    <text name="ev3110_070" id="1865146968" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But time is running out!
+    </text>
+    <text name="ev3110_080" id="1865147095" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I don’t want to hear it! Find me another option!
+    </text>
+    <text name="ev3110_090" id="1865147222" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Your tenacity is legendary. But I do wish you’d reconsider...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

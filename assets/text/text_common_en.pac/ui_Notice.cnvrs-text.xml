@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="notice_save_unfound" id="8721998" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Save data not found.
+      Returning to the title screen.
+    </text>
+    <text name="notice_liveitem_00" id="30418297">
+      Official website
+    </text>
+    <text name="notice_liveitem_01" id="30418298">
+      Web manual
+    </text>
+    <text name="notice_liveitem_02" id="30418299">
+      Survey
+    </text>
+    <text name="menu_btnguide_ENDdifficulty" id="275797559" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Change the difficulty level
+    </text>
+    <text name="notice_save_battle_Xbox" id="295215199" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_header_battle_Switch" id="440620080" font="Range_FNT_tutorial" layout="Range_LAY_tutorial" />
+    <text name="notice_save_auto_Switch" id="474724713" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_task_tit_00" id="490265331">
+      Take down GIGANTO
+    </text>
+    <text name="notice_task_tit_01" id="490265332">
+      Take down WYVERN
+    </text>
+    <text name="notice_task_tit_02" id="490265333">
+      Take down KNIGHT
+    </text>
+    <text name="notice_task_tit_03" id="490265334">
+      Take down SUPREME
+    </text>
+    <text name="notice_task_tit_04" id="490265335">
+      Take down THE END
+    </text>
+    <text name="notice_task_help_00" id="505721675">
+      Climb to the top of the towers around the island and shut them down.
+    </text>
+    <text name="notice_task_help_01" id="505721676">
+      Move the Left Stick left or right to control the commander
+      program. Try not to get hit by enemy bullets.
+    </text>
+    <text name="notice_task_help_02" id="505721677">
+      The homing laser can be used once the special gauge is full.
+      In a pinch, it can be used to eliminate enemy bullets!
+    </text>
+    <text name="notice_save_auto_PC" id="603475624" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_displayset" id="656043879" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Rendering settings have changed.
+      Save these settings?
+      The settings will return to the default in <var name="rendering_sec" />.
+    </text>
+    <text name="notice_save_battle" id="717761299" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Saving/loading save files is not available when Sonic is in battle, solving puzzles, playing mini-games, and in scenes where Sonic is not in control.
+    </text>
+    <text name="error_disconnect_controller_pc" id="727590474">
+      The device has been disconnected. Please check the connection.
+    </text>
+    <text name="notice_header_error" id="762637821" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      System error
+    </text>
+    <text name="notice_task_help_01_Steam" id="762957885">
+      The commander program can be moved left or right. Try not to get hit by enemy bullets.
+    </text>
+    <text name="notice_save_auto_Xbox" id="1079348040" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_save_battle_PC" id="1134672575" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="ErrorwindowText_5" id="1300377115" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      There is not enough local storage. Please free up some space and try again.
+    </text>
+    <text name="notice_displayset_header" id="1310078597" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Display settings
+    </text>
+    <text name="notice_ENDdifficulty_header" id="1334803229" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Change difficulty
+    </text>
+    <text name="XBOX_con_active" id="1391052367" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Press the A button on the controller you want to use.
+    </text>
+    <text name="notice_header_battle_PC" id="1435957103" font="Range_FNT_tutorial" layout="Range_LAY_tutorial" />
+    <text name="error_disconnect_controller_xbox" id="1472487626" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Your controller has been disconnected.
+      Please reconnect the controller.
+    </text>
+    <text name="notice_playgo_header" id="1515577321" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Data copy in progress
+    </text>
+    <text name="notice_detail_photomode" id="1869548142" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Photo Mode will not be accessible in certain areas of the game.
+    </text>
+    <text name="notice_save_battle_Switch" id="1874818944" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_header_message" id="1878982908" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      System message
+    </text>
+    <text name="notice_header_battle" id="1911547491" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Save/load unavailable
+    </text>
+    <text name="notice_header_battle_Xbox" id="2105355535" font="Range_FNT_tutorial" layout="Range_LAY_tutorial" />
+    <text name="notice_ENDdifficulty_detail" id="2364183169" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      If you change the difficulty level, the battle with THE END will be skipped.
+      Do you want to change the difficulty level?
+    </text>
+    <text name="notice_header_photomode" id="2388911882" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Photo Mode unavailable
+    </text>
+    <text name="notice_save_auto" id="2541107626" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      This game supports auto save.
+      Do not turn off the power when the following image is displayed.
+      Saved data may become corrupted.
+    </text>
+    <text name="notice_playgo_detail" id="2544957261" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Please wait until data copying is complete
+      Progress: <var name="copy_progress" />%
+    </text>
+    <text name="SecondaryActivityAll" id="2649127134">
+      Restart the game from the current section.
+    </text>
+    <text name="notice_error_0" id="2681308626" font="Range_FNT_notice" layout="Range_LAY_notice">
+      Oh no! An error has ocurred. Returning to the Title Screen.
+    </text>
+    <text name="notice_task_help_01_Xbox" id="2822907558" />
+    <text name="notice_quit_header" id="2836786806" font="Range_FNT_toast" layout="Range_LAY_toast">
+      SONIC FRONTIERS
+    </text>
+    <text name="notice_task_help_01_Switch" id="3195303623" />
+    <text name="notice_save_unfound_PC" id="3224987652" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_save_unfound_Xbox" id="3788785828" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="notice_quit_detail" id="3866166746" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Do you want to close the game?
+    </text>
+    <text name="notice_save_unfound_Switch" id="3999537861" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
+    <text name="ErrorwindowHead_5" id="4224531886" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
+      Not enough local storage
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial">
+      <typeface>RANGEmixStd</typeface>
+      <size>46</size>
+      <lineSpacing>26</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_toast">
+      <typeface>RANGEmixStd</typeface>
+      <size>48</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_notice">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_toast">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_notice">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

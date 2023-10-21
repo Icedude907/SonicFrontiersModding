@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5601_010" id="2007933377" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The cyber corruption has been progressing through your body. Your remaining time is limited.
+    </text>
+    <text name="sb5601_020" id="2007933504" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I know... I may not even be able to move eventually.
+    </text>
+    <text name="sb5601_030" id="2007933631" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I need to get the Emeralds and get them to Sonic right away.
+    </text>
+    <text name="sb5601_040" id="2007933758" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm updating your information and it seems there is a new possibility growing within you as well.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

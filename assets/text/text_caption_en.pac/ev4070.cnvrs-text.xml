@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev4070_010" id="2104751318" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This isn’t working! If we can’t beat it, we’ll seal it!
+    </text>
+    <text name="ev4070_020" id="2104751445" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ll bind it to my Titan. Then you guys seal us in Cyber Space!
+    </text>
+    <text name="ev4070_030" id="2104751572" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No! We’ll find another way!
+    </text>
+    <text name="ev4070_040" id="2104751699" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev4070_050" id="2104751826" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They’re... gone. It killed them.
+    </text>
+    <text name="ev4070_060" id="2104751953" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We can’t let their sacrifice be in vain! They had a plan! Let’s do it!
+    </text>
+    <text name="ev4070_070" id="2104752080" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev4070_080" id="2104752207" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev4070_090" id="2104752334" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev4070_100" id="2104767320" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev4070_110" id="2104767447" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev4070_120" id="2104767574" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

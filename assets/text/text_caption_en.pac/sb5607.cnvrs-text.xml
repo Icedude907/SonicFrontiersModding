@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5607_010" id="3568801223" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I've seen those giant devices all over Chaos Island. Judging by their color scheme and how new they are, I'm guessing you made them?
+    </text>
+    <text name="sb5607_020" id="3568801350" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ho ho ho! You've got a sharp eye, Tails. Indeed, those were power generation devices I built as I investigated ancient technology!
+    </text>
+    <text name="sb5607_030" id="3568801477" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Death Egg Robot and all of the other machines I brought in may be amazing, but they're useless without an energy supply. That's why I prepared a power generator that utilizes geothermal energy from volcanoes.
+    </text>
+    <text name="sb5607_040" id="3568801604" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If only I had more time, I would have put generators throughout this island to power a super weapon... Such a shame.
+    </text>
+    <text name="sb5607_050" id="3568801731" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe the reason the Death Egg Robot's beam was able to find the underground passage wasn't just because of the hacking, but because of Eggman's energy supply? I really don't want to thank him, though...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

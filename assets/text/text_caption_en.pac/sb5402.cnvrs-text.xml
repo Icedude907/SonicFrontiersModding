@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5402_010" id="2888345024" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That shockwave created a massive amount of electrical noise.
+    </text>
+    <text name="sb5402_020" id="2888345151" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's meaningless data that's been compressed and deconstructed, but it will be especially effective against those without a corporeal form. How interesting!
+    </text>
+    <text name="sb5402_030" id="2888345278" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Why do you sound so excited? What are you planning?
+    </text>
+    <text name="sb5402_040" id="2888345405" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh, as a scientific genius, analyzing what I see and then explaining it come as naturally as breathing!
+    </text>
+    <text name="sb5402_050" id="2888345532" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Whatever you say... At least keep cooperating until we take down the enemy.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

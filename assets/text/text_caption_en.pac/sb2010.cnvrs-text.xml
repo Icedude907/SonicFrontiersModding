@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb2010_010" id="189001148" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Besides the Koco, these islands seem deserted, don't they?
+    </text>
+    <text name="sb2010_020" id="189001275" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah. I've seen a lot of the Ancients' buildings on both islands, but nobody's home.
+    </text>
+    <text name="sb2010_030" id="189001402" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Given their state of decay, and how much nature has reclaimed them, I'd say they've been gone for a long time. Longer than any civilization we know of.
+    </text>
+    <text name="sb2010_040" id="189001529" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'd like to think they simply moved on and settled somewhere else. Not that they're... gone.
+    </text>
+    <text name="sb2010_050" id="189001656" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Some of the active technology seems built for storing and protecting the Chaos Emeralds. Comparing that to what's on Angel Island... I feel like I was drawn here for a reason.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

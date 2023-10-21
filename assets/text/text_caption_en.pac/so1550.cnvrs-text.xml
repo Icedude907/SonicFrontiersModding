@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="so1550_010" id="617394507" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So uh... did that work?
+    </text>
+    <text name="so1550_020" id="617394634" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah! I bet I can bypass that thing holding the Emeralds by accessing Cyber Space!
+    </text>
+    <text name="so1550_030" id="617394761" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Go, Tails, go! You've got this!
+    </text>
+    <text name="so1550_040" id="617394888" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Let me know if I can help!
+    </text>
+    <text name="so1550_050" id="617395015" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This is your arena, kid. I just wish I had something else to punch while I'm waiting.
+    </text>
+    <text name="so1550_060" id="617395142" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We're counting on you, kid.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb3050_010" id="2761210679" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yo Tails. Can you tell if there's anything special about the ruins with this symbol?
+    </text>
+    <text name="sb3050_020" id="2761210806" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can't be sure without a proper analysis, but it doesn't seem remarkable.
+    </text>
+    <text name="sb3050_030" id="2761210933" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What is remarkable is the data retention after all these years. The corruption is negligible, and the maps are so accurate!
+    </text>
+    <text name="sb3050_040" id="2761211060" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Not to mention the way they can imprint the map data directly into the user's mind! It's hard enough explaining yourself to your peers, let alone some long-distant civilizations!
+    </text>
+    <text name="sb3050_050" id="2761211187" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah. Too bad they can't give us all the answers to the islands' mysteries. You're right, though. Pretty amazing to have a civilization based on brain-power.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

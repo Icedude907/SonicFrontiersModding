@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev2140_010" id="2928255836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ages ago, my people were wiped out by a cataclysm. I know the Koco faced something similar.
+    </text>
+    <text name="ev2140_020" id="2928255963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It reminds me I’m the last echidna. That I’m alone.
+    </text>
+    <text name="ev2140_030" id="2928256090" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You may be the last, but you’re not alone. You’ve got us, knuckle-head.
+    </text>
+    <text name="ev2140_040" id="2928256217" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ll admit, I do envy your lifestyle. Freedom to go where you want, when you want.
+    </text>
+    <text name="ev2140_050" id="2928256344" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So do it! Get out there and live a little.
+    </text>
+    <text name="ev2140_055" id="2928256349" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So do it! Get out there and live a little.
+    </text>
+    <text name="ev2140_060" id="2928256471" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey! You’re right!
+    </text>
+    <text name="ev2140_065" id="2928256476" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe I could… but first I need to be back to normal.
+    </text>
+    <text name="ev2140_070" id="2928256598" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So hurry up and get me back to normal!
+    </text>
+    <text name="ev2140_080" id="2928256725" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Anything to get you away from me.
+    </text>
+    <text name="ev2140_090" id="2928256852" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev2140_100" id="2928271838" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev2140_110" id="2928271965" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      He helps those he is at odds with. He is quick to make peace.
+    </text>
+    <text name="ev2140_120" id="2928272092" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Perhaps...
+    </text>
+    <text name="ev2140_130" id="2928272219" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No. I have run the simulations. They are doomed.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

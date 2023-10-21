@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="so1545_010" id="3239486673" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Ancients' technology is hiding the Emeralds from us!
+    </text>
+    <text name="so1545_020" id="3239486800" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So hunt down the tech and wreck it? I can handle that!
+    </text>
+    <text name="so1545_030" id="3239486927" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'll keep looking too. We have to hurry!
+    </text>
+    <text name="so1545_040" id="3239487054" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Let's get 'em, Knuckles!
+    </text>
+    <text name="so1545_050" id="3239487181" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If they're suppressing the Emeralds' power from your senses, they must be powerful pieces of hardware!
+    </text>
+    <text name="so1545_060" id="3239487308" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I haven't found any yet, but I'll keep looking!
+    </text>
+    <text name="so1545_070" id="3239487435" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tell me where one is! I want to smash something too!
+    </text>
+    <text name="so1545_080" id="3239487562" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Just you wait! I'll get the next one!
+    </text>
+    <text name="so1545_090" id="3239487689" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I know it's necessary, but to destroy such unique, irreplaceable technology breaks my heart... 
+    </text>
+    <text name="so1545_100" id="3239502675" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can tell the signal is weakening. We're getting closer!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

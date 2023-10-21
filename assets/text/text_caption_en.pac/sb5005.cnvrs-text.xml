@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5005_010" id="614345663" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I saw a tower like this on Kronos Island. What did the Ancients use it for?
+    </text>
+    <text name="sb5005_020" id="614345790" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This was an observation tower. Its main function was to send out radio signals to detect the enemy hunting them down from space.
+    </text>
+    <text name="sb5005_030" id="614345917" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Once the enemy's presence was detected, the defense systems on the Starfall Islands were automatically triggered. Do you recall the tower on Rhea Island? This is similar.
+    </text>
+    <text name="sb5005_040" id="614346044" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The tower here on Ouranos Island has already been activated. The great threat that destroyed the Ancients is near.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5503_010" id="2838356162" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Amy, something's off about you and the Koco. What are you doing here? 
+    </text>
+    <text name="sb5503_020" id="2838356289" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nothing! I wanted to do this, so I'll take the responsibility and watch over the Koco.
+    </text>
+    <text name="sb5503_030" id="2838356416" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You just focus on finding the Emeralds with Tails!
+    </text>
+    <text name="sb5503_040" id="2838356543" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Uh yeah, okay sure. What the heck is going on...?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

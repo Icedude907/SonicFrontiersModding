@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb4020_010" id="1698101049" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yo, so did Cyber Space actually interact with my brain?
+    </text>
+    <text name="sb4020_020" id="1698101176" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It was designed to catalogue neural networks, among other things, so yes.
+    </text>
+    <text name="sb4020_030" id="1698101303" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Alright, hear me out: do you think all those locations I visited were pulled from my memories?
+    </text>
+    <text name="sb4020_040" id="1698101430" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That is plausible. It imported the data of your memories and applied it to your surroundings so you could comprehend them.
+    </text>
+    <text name="sb4020_050" id="1698101557" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe that gave me the edge I needed to escape each time? I was covering familiar ground? Ha! Go me!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

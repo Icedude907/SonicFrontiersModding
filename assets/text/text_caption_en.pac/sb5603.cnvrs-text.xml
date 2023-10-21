@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5603_010" id="2528222659" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tails, have you noticed what's happening to our bodies?
+    </text>
+    <text name="sb5603_020" id="2528222786" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah... The Cyber Corruption is getting worse.
+    </text>
+    <text name="sb5603_030" id="2528222913" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And that means, we might get trapped in that lonely place!
+    </text>
+    <text name="sb5603_040" id="2528223040" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But what I'm most worried about is Sonic, I don't want to let him down.
+    </text>
+    <text name="sb5603_050" id="2528223167" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I feel the same way, Amy. I can't fail no matter what happens to my body!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

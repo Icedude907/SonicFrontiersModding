@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb3080_010" id="3092071092" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmm... the whole reason we came here was because we detected the Chaos Emeralds were drawn here...
+    </text>
+    <text name="sb3080_020" id="3092071219" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Did you figure something out?
+    </text>
+    <text name="sb3080_030" id="3092071346" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm trying to put the pieces together. The Ancients' technology was built specifically for the Chaos Emeralds and runs on their power.
+    </text>
+    <text name="sb3080_040" id="3092071473" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      All of the Starfall Island systems, even Cyber Space, were in a kind of stand-by mode without the emeralds to power them.
+    </text>
+    <text name="sb3080_050" id="3092071600" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Once the power supply was restored, though, someone would've had to boot up the systems and get them running.
+    </text>
+    <text name="sb3080_060" id="3092071727" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I think I can guess who...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

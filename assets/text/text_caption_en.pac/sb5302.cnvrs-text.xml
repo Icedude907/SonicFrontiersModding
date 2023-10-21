@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5302_010" id="3198478527" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm not just a damsel in distress anymore!
+    </text>
+    <text name="sb5302_020" id="3198478654" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Just you watch. Eventually, you'll be the one relying on me for help!
+    </text>
+    <text name="sb5302_030" id="3198478781" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I feel like I'm relying on you a lot already. Pretty soon, you're gonna be too cool for school!
+    </text>
+    <text name="sb5302_040" id="3198478908" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'll catch up so fast, you better not blink!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

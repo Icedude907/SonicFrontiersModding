@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="si3000_136" id="2643612360" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Looks like Eggman's grabbing the geothermal power. Ha! Never thought he'd go green.
+    </text>
+    <text name="si3000_142" id="2643612483" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Doesn't look like a lighthouse. A lookout tower, maybe?
+    </text>
+    <text name="si3000_148" id="2643612489" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Of all the ancient temples I've been in, this one might be the coolest!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1540_005" id="2419970919" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah, my kind-hearted friend of Sonic.
+      You have led our people to the Digital Dream. We thank you.
+    </text>
+    <text name="ev1540_010" id="2419971041" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It was my pleasure.
+      I'm hoping now you can lead me in the right direction.
+      Do you know what happened to the Chaos Emeralds?
+    </text>
+    <text name="ev1540_015" id="2419971046" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Our enemies have infested the land and are using our creations against us.
+      The Emeralds are here on this island, but we have hidden them with our own technology.
+    </text>
+    <text name="ev1540_020" id="2419971168" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Thanks for the insight! We won't let you down!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

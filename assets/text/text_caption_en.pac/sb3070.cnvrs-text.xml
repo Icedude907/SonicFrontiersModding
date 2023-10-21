@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb3070_010" id="118472757" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We're at a pretty high altitude. It's hard to say how high due to all the clouds!
+    </text>
+    <text name="sb3070_020" id="118472884" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Any higher and we'd risk Angel Island bumping into us. Pretty harsh conditions for anyone to be living and working under.
+    </text>
+    <text name="sb3070_030" id="118473011" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Ancients must have had a reason for coming up here.
+    </text>
+    <text name="sb3070_040" id="118473138" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Given the infrastructure, I don't think this was a residential area. It seems more like military frontlines.
+    </text>
+    <text name="sb3070_050" id="118473265" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      A first strike position, huh? I mean, those cannons aren't just for show. With everything we've seen, just what kind of enemy were they preparing for?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

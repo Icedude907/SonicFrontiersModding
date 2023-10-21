@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="tu2000_010" id="537011151" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Camera
+    </text>
+    <text name="tu2000_050" id="537011659" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Homing Attack
+    </text>
+    <text name="tu2000_070" id="537011913" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Lock On
+    </text>
+    <text name="tu2000_110" id="537027280" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Cyloop (while moving)
+    </text>
+    <text name="tu2000_130" id="537027534" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Cyloop (while moving)
+    </text>
+    <text name="tu2000_220" id="537043536">
+      Climb
+    </text>
+    <text name="tu2000_225" id="537043541">
+      Wall Run (while climbing)
+    </text>
+    <text name="hud_mystery_tombstone_11" id="849718130" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Select tombstone
+    </text>
+    <text name="hud_mystery_tombstone_21" id="849718257" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Rotate tombstone
+    </text>
+    <text name="hud_mystery_pinball_11" id="1090658803" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Left flipper
+    </text>
+    <text name="hud_mystery_pinball_12" id="1090658804" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Right flipper
+    </text>
+    <text name="hud_mystery_cannon_11" id="1564332122" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Aim
+    </text>
+    <text name="hud_mystery_cannon_21" id="1564332249" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Fire!
+    </text>
+    <text name="hud_mystery_cannon_31" id="1564332376" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Place cannonball
+    </text>
+    <text name="hud_mystery_cannon_32" id="1564332377" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Load cannon
+    </text>
+    <text name="tu2000_070_Steam" id="2140245178" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Lock On
+    </text>
+    <text name="hud_mystery_crane_11" id="3205722398" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Arm movement
+    </text>
+    <text name="hud_mystery_crane_21" id="3205722525" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Grab with the arm
+    </text>
+    <text name="hud_mystery_crane_22" id="3205722526" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Place the ball
+    </text>
+    <text name="hud_shooting_bk" id="3553537021" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Dark Shot
+    </text>
+    <text name="hud_shooting_wh" id="3553539685" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Light Shot
+    </text>
+    <text name="hud_mystery_quit" id="3975659031" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
+      Cease operation
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_btnguide">
+      <typeface>RANGEmixStd</typeface>
+      <size>26</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_btnguide">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

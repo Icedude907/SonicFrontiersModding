@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="si4000_007" id="1911346634" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      My friends have waited long enough.
+    </text>
+    <text name="si4000_008" id="1911346635" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You're almost... free... guys... 
+    </text>
+    <text name="si4000_009" id="1911346636" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Visions... so vivid... 
+    </text>
+    <text name="si4000_010" id="1911346754" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Like I'm... reliving... not just watching... 
+    </text>
+    <text name="si4000_011" id="1911346755" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This is... real... .right?
+    </text>
+    <text name="si4000_012" id="1911346756" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm... still here... aren't I?
+    </text>
+    <text name="si4000_013" id="1911346757" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This is... .this is for... 
+    </text>
+    <text name="si4000_014" id="1911346758" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      My friends! This... is for my... friends. Remember!
+    </text>
+    <text name="si4000_015" id="1911346759" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      S-So cold now... numb... 
+    </text>
+    <text name="si4000_016" id="1911346760" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Push... through it... endure... 
+    </text>
+    <text name="si4000_017" id="1911346761" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Objective... complete... 
+    </text>
+    <text name="si4000_018" id="1911346762" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      My name is... my name is... ?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

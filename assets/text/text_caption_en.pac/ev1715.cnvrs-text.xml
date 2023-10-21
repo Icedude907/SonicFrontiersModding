@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1715_010" id="2769566827" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ll look after the Koco! You just focus on helping Tails!
+    </text>
+    <text name="ev1715_020" id="2769566954" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Look for more of the corrupted constructs! Hurry!
+    </text>
+    <text name="ev1715_030" id="2769567081" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’m... I’m fine. Keep doing your thing!
+    </text>
+    <text name="ev1715_040" id="2769567208" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It’s working! Just a few more and I can hack my way in!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3030_010" id="3827509083" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic!
+    </text>
+    <text name="ev3030_020" id="3827509210" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Just catching my breath.
+    </text>
+    <text name="ev3030_030" id="3827509337" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The spatial anomaly that affected us seems to have left me in a digitized state.
+    </text>
+    <text name="ev3030_040" id="3827509464" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But those same energies are manifesting into some worrisome mutations for you.
+    </text>
+    <text name="ev3030_050" id="3827509591" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Those sure are words you said just now!
+    </text>
+    <text name="ev3030_060" id="3827509718" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’m saying I’m fine, you’re not and I’m worried.
+    </text>
+    <text name="ev3030_070" id="3827509845" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ll be fine. And I need this power to rescue you.
+    </text>
+    <text name="ev3030_080" id="3827509972" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You’re always rescuing me and...
+    </text>
+    <text name="ev3030_090" id="3827510099" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Let’s focus on the now. What do you need?
+    </text>
+    <text name="ev3030_100" id="3827525085" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Chaos Emeralds. Think you can help me track them down?
+    </text>
+    <text name="ev3030_110" id="3827525212" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm on it!
+    </text>
+    <text name="ev3030_120" id="3827525339" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      He never stops. Clarification: he never gives up. 
+    </text>
+    <text name="ev3030_121" id="3827525340" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      He’s even enduring the cyber corruption better than I calculated he would.
+    </text>
+    <text name="ev3030_122" id="3827525341" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      He’s even enduring the cyber corruption better than I calculated he would.
+    </text>
+    <text name="ev3030_130" id="3827525466" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It’s so sad someone so impressive will be lost in the end.
+      It’s... it’s not fair.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

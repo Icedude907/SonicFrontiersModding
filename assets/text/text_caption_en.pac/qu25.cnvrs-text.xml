@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="qu2500_010" id="1143981911" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Can you see that seal in the center of the pond? If we could pull it out, we could drain the water.
+    </text>
+    <text name="qu2500_020" id="1143982038" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The problem is I'm still ghost-like and you're useless underwater.
+    </text>
+    <text name="qu2500_030" id="1143982165" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Wow, thanks for the concern. Anyway, if I can jostle the device holding the chain, maybe I can get it to reel it in?
+    </text>
+    <text name="qu2500_040" id="1143982292" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Worth a shot. Just don't slip and fall. I can't haul you out.
+    </text>
+    <text name="qu2510_010" id="4117580246" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Wait... was draining the oasis the best idea...?
+    </text>
+    <text name="qu2510_020" id="4117580373" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well hey, you've revealed the way forward. That's what's important.
+    </text>
+    <text name="qu2510_030" id="4117580500" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Says you. You can't feel this heat. Oh well, race you to the next Emerald!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

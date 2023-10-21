@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb1000_010" id="2242619326" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh wow! I don't think we've seen any ruins quite like this on our adventures.
+    </text>
+    <text name="sb1000_020" id="2242619453" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah! They're ancient, but also look kinda advanced? Wait, is "retro-sci-fi" a thing?
+    </text>
+    <text name="sb1000_030" id="2242619580" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      How were the tower and the floating giant stone built?
+    </text>
+    <text name="sb1000_040" id="2242619707" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tails is the genius among us. Let's find him and see if he can figure things out.
+    </text>
+    <text name="sb1000_050" id="2242619834" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Right. I'm sure he'll hang on until I find him.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

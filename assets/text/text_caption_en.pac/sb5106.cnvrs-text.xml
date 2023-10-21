@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5106_010" id="564356801" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I've been looking for weapons that we could use on the hunt for Emeralds, but there doesn't seem to be anything.
+    </text>
+    <text name="sb5106_020" id="564356928" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There was a cannon on Ares Island, but it was fired to drain the water in the oasis. I'm guessing we don't have time to go looking for more shells.
+    </text>
+    <text name="sb5106_030" id="564357055" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmm, why would the Ancients waste precious water in a desert?
+    </text>
+    <text name="sb5106_040" id="564357182" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'll bet that cannon was a device that controlled water storage. The oasis must have served as a dam, and it was designed so the position of the faucet could be adjusted.
+    </text>
+    <text name="sb5106_050" id="564357309" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      A dam? But all the water went down the drain...
+    </text>
+    <text name="sb5106_060" id="564357436" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The drained water should have been redirected into various watering holes. If only there was something like that cannon from Ares Island here...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

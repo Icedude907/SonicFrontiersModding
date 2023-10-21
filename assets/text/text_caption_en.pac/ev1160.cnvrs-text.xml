@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1160_010" id="1017767131" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey. Still thinking about the Koco?
+    </text>
+    <text name="ev1160_020" id="1017767258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah. And... more.
+    </text>
+    <text name="ev1160_030" id="1017767385" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’m not sure what happened, but I know what I saw: a love that transcended time. I believe in that power.
+    </text>
+    <text name="ev1160_040" id="1017767512" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      When this is over, I want to share that love with the world. Even though... it may take us far apart.
+    </text>
+    <text name="ev1160_050" id="1017767639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I know you’ll do great. I want to hear all about it when you come back.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

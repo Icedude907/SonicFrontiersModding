@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5405_010" id="3668778947" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I saw a mark on the pyramid wall. It was the same mark I saw in the sky when I said goodbye to the Koco... What could it mean?
+    </text>
+    <text name="sb5405_020" id="3668779074" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There are no definite records in the Cyber Space archives, but it appears the Ancients worshipped it as the symbol of a god.
+    </text>
+    <text name="sb5405_030" id="3668779201" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They believed in a god even with all of this amazing technology? I didn't expect that.
+    </text>
+    <text name="sb5405_040" id="3668779328" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Faith is an excellent way to shape a group's sense of kinship. However, the markings in the sky are a clear and observable phenomenon, and cannot be the manifestation of a miracle.
+    </text>
+    <text name="sb5405_050" id="3668779455" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Perhaps the god of the Ancients depicted by the wall markings still exists out there today.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

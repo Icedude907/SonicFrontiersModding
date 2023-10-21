@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev2110_010" id="2597395423" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can confirm Sonic has made multiple breaches into Cyber Space and escaped.
+    </text>
+    <text name="ev2110_020" id="2597395550" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Through raw talent and no shortage of tenacity, I’m sure. Impressive.
+    </text>
+    <text name="ev2110_030" id="2597395677" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You speak of him with respect as often as you curse him. I do not understand.
+    </text>
+    <text name="ev2110_040" id="2597395804" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh, I hate that hedgehog. But that doesn’t change the fact that he is a formidable adversary. I respect him, but I don’t have to like him.
+    </text>
+    <text name="ev2110_050" id="2597395931" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Your genius. His skill. If only you two could work together…
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

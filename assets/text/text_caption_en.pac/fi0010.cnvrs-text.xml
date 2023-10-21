@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="fi0010_010" id="2847150162" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh, hey, Sonic!
+      You come here to fish, too?
+    </text>
+    <text name="fi0010_020" id="2847150289" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Big!? What are you doing here? HOW did you get here? What even IS here!?
+    </text>
+    <text name="fi0010_030" id="2847150416" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I dunno. I was looking for fishing spots and wound up here.
+    </text>
+    <text name="fi0010_040" id="2847150543" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So now I'm fishin'.
+    </text>
+    <text name="fi0010_050" id="2847150670" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Of course you are.
+    </text>
+    <text name="fi0010_060" id="2847150797" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Would you like to try? I'll let you borrow a rod.
+    </text>
+    <text name="fi0010_070" id="2847150924" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I guess it wouldn't hurt to de-tense for a second.
+    </text>
+    <text name="fi0010_080" id="2847151051" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Do you know how to fish?
+      I'll teach you if you want!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

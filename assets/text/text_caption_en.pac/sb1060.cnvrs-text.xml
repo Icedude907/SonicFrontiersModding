@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb1060_010" id="2904340152" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ah... Yo! Don't you think that Titan was kinda overkill?
+    </text>
+    <text name="sb1060_020" id="2904340279" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You are an enemy to be eliminated, and you are powerless compared to its might.
+    </text>
+    <text name="sb1060_030" id="2904340406" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe as I am, but I'm willing to bet I could handle it as Super Sonic. All I need are the Chaos Emeralds!
+    </text>
+    <text name="sb1060_040" id="2904340533" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Doubtful. In any scenario, the end results will not change.
+    </text>
+    <text name="sb1060_050" id="2904340660" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Additionally, what you seek is in its presence. You've lost the battle before it has even begun.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

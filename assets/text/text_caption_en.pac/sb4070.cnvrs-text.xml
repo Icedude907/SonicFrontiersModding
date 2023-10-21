@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb4070_010" id="3681190836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Ancients came to this world tens of thouands of years ago.
+    </text>
+    <text name="sb4070_020" id="3681190963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The planet was still underdeveloped back then, and their technology was vastly superior to anything else at the time.
+    </text>
+    <text name="sb4070_030" id="3681191090" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I knew it felt different at the time, but the fact that it was really alien was surprising.
+    </text>
+    <text name="sb4070_040" id="3681191217" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The floating building, giant structures, Cyber Space... it didn't make sense that such advanced stuff was also super old. But it all came from space so... there you go, I guess.
+    </text>
+    <text name="sb4070_050" id="3681191344" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What would this world look like if the Ancients had survived, I wonder? Under different circumstances I would enjoy running the simulations.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5301_010" id="2938333886" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I never imagined I would have to join forces with you. How dreadful.
+    </text>
+    <text name="sb5301_020" id="2938334013" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tell me about it. Just lemme know when you plan on doing something useful.
+    </text>
+    <text name="sb5301_030" id="2938334140" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      "Useful"?! Try "spectacular"!
+    </text>
+    <text name="sb5301_040" id="2938334267" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You'll be picking your jaw up off the floor when you see it!
+    </text>
+    <text name="sb5301_050" id="2938334394" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Right, well while I'm waiting, think you could shock that big guy in the sky? That would be useful.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

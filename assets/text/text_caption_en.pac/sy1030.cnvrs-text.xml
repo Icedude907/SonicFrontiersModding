@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sy1030_010" id="2567230290" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Explore. Harvest all you need from the island to succeed.
+    </text>
+    <text name="sy1030_020" id="2567230417" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Seek the one you call "Elder Koco" to enhance your speed and vitality. Seek the one you call "Hermit Koco" to exchange one for the other, or make him offerings to raise your strength and resilience.
+    </text>
+    <text name="sy1030_030" id="2567230544" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Use your companions to better navigate the island.
+      Enter the purple portals to find the keys and resources you need.
+    </text>
+    <text name="sy1030_040" id="2567230671" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      All will aid you in your journey.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

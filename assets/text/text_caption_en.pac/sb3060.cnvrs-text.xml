@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb3060_010" id="1439841718" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We're coming up on the last Titan! Care to bet who'll be the winner this time?
+    </text>
+    <text name="sb3060_020" id="1439841845" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Recalculating.
+      Your odds of victory have improved from "impossible" to "highly improbable."
+    </text>
+    <text name="sb3060_030" id="1439841972" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Those are just the kind of odds I like to beat!
+    </text>
+    <text name="sb3060_040" id="1439842099" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So these were built by the Ancients too, right?
+    </text>
+    <text name="sb3060_050" id="1439842226" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They're pretty powerful enemies. Did they manage to defeat the Ancients' enemies?
+    </text>
+    <text name="sb3060_060" id="1439842353" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I can only hope their next victim is you.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

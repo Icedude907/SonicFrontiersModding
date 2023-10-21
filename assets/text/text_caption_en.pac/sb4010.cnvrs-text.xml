@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb4010_010" id="3019470010" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If I understood those visions correctly, the Ancients came from space, right?
+    </text>
+    <text name="sb4010_020" id="3019470137" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And they were wearing things that looked like the Koco, but they didn't seem... I dunno, "alive?" Do you know what the Koco really are?
+    </text>
+    <text name="sb4010_030" id="3019470264" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They originated as lucky charms for the Ancients. They were never designed to contain their data... their wills.
+    </text>
+    <text name="sb4010_040" id="3019470391" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah, but the Koco I've found do hold the memories of their creators.
+    </text>
+    <text name="sb4010_050" id="3019470518" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe the Ancients changed them. Or maybe the Koco wanted to keep their memories alive after they were gone.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1770_010" id="2130564448" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey, nice of you to catch up!
+    </text>
+    <text name="ev1770_020" id="2130564575" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Were you successful?
+    </text>
+    <text name="ev1770_030" id="2130564702" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Naturally!
+    </text>
+    <text name="ev1770_040" id="2130564829" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Good. Unfortunately, your friends aren't handling their Cyber Corruption nearly as well.
+    </text>
+    <text name="ev1770_050" id="2130564956" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ahh, you guys are the best.
+    </text>
+    <text name="ev1770_060" id="2130565083" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What does that make me, hmm?
+    </text>
+    <text name="ev1770_070" id="2130565210" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Fashionably late, but hey, you tried.
+    </text>
+    <text name="ev1770_080" id="2130565337" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We're out of time! I command you to save us!
+    </text>
+    <text name="ev1770_090" id="2130565464" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

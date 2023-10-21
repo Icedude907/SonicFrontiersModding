@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5303_010" id="3458623168" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I should be able to climb that thing just fine, but that's not the problem here...
+    </text>
+    <text name="sb5303_020" id="3458623295" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'll need to go in and out of Cyber Space to activate it.
+    </text>
+    <text name="sb5303_030" id="3458623422" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Want me to help with finding the Emeralds while I take care of the towers?
+    </text>
+    <text name="sb5303_040" id="3458623549" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Uhh, just who do ya think you're talking to? Leave the Emeralds to me!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

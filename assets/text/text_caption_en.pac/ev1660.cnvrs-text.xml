@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1660_010" id="3762066912" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Huh. Guess there's a “surprise fourth Titan” after all.
+    </text>
+    <text name="ev1660_020" id="3762067039" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      In the vision I saw, you lost to the enemy when you sealed it in your Titan.
+      How are you here?
+    </text>
+    <text name="ev1660_030" id="3762067166" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That's not important. 
+    </text>
+    <text name="ev1660_040" id="3762067293" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You wish to do as I did? Stand before its unthinkable might and save this world?
+    </text>
+    <text name="ev1660_050" id="3762067420" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Prove it. Show me what you're made of.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

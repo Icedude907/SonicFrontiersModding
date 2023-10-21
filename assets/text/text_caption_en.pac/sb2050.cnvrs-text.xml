@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb2050_010" id="3493459896" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Have you been here before? You're navigating the island like it's nothing.
+    </text>
+    <text name="sb2050_020" id="3493460023" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh no. See, when I interact with these things marked with this symbol, I automatically learn the lay of the land.
+    </text>
+    <text name="sb2050_030" id="3493460150" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's like the island is beaming a GPS signal right into my brain. Pretty cool, right?
+    </text>
+    <text name="sb2050_040" id="3493460277" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm sure that's the Ancients' doing as well. I wonder what that symbol means in their language?
+    </text>
+    <text name="sb2050_050" id="3493460404" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Come to think of it, you don't actually see it printed anywhere in the villages. I guess the true meaning is lost to time.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

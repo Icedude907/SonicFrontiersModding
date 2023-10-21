@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5406_010" id="3928923588" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      While I was exploring Kronos Island with Sonic, I noticed lights would appear on the ground or on the trunks of the trees at night. What was up with that?
+    </text>
+    <text name="sb5406_020" id="3928923715" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You must be talking about the Phantom Lights. Cyber Space is always filled with a vast amount of data, but sometimes it overflows through the portals.
+    </text>
+    <text name="sb5406_030" id="3928923842" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That data is the faint thoughts of the Ancients, appearing in the real world as light.
+    </text>
+    <text name="sb5406_040" id="3928923969" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So they're thoughts without shape, like the Koco... Why do they only appear at night?
+    </text>
+    <text name="sb5406_050" id="3928924096" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They're usually in hiding, for fear of the being that destroyed them. And when the moon rises, they feel safe enough to come out...
+    </text>
+    <text name="sb5406_060" id="3928924223" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmph, the poor little things... they've already lost their bodies, yet they're still afraid of being destroyed.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

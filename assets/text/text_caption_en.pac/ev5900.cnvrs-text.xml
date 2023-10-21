@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev5900_010" id="3535916005">
+      Find Sage
+    </text>
+    <text name="ev5900_020" id="3535916132">
+      Collect Vault Keys from Portals
+    </text>
+    <text name="ev5900_030" id="3535916259">
+      Create a bridge to continue on
+    </text>
+    <text name="ev5900_040" id="3535916386">
+      Open the Ancients' gate to continue
+    </text>
+    <text name="ev5900_050" id="3535916513">
+      Get the Chaos Emerald
+    </text>
+    <text name="ev5900_080" id="3535916894" font="Range_FNT" layout="Range_LAY">
+      Collect Sage's Memory Tokens
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

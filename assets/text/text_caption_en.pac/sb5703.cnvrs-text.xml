@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5703_010" id="2218089156" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What's the matter, Sonic? You have to take a break already?
+    </text>
+    <text name="sb5703_020" id="2218089283" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Not a chance! Just one more round and then we're done!
+    </text>
+    <text name="sb5703_030" id="2218089410" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Or at least, one more round and then we go beat that big guy in the sky.
+    </text>
+    <text name="sb5703_040" id="2218089537" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If it wasn't for cyber corruption, I'd punch that thing myself.
+    </text>
+    <text name="sb5703_050" id="2218089664" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But unfortunately, I have to leave it to you. Don't mess this up!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

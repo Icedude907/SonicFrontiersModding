@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5705_010" id="2738378438" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm gonna hop on that grind rail over there. Care to join me?
+    </text>
+    <text name="sb5705_020" id="2738378565" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hm, so that is how they appear to you.
+    </text>
+    <text name="sb5705_030" id="2738378692" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      "How they appear"? What, don't- don't you see them too?
+    </text>
+    <text name="sb5705_040" id="2738378819" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The current iteration of Cyber Space was formed based on your memories. Since linking with it, your memories are now affecting things even outside of Cyber Space.
+    </text>
+    <text name="sb5705_050" id="2738378946" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      As a result of the link, many of the things you see around you are recreations from your memory. It is a testament to how deeply you are linked with Cyber Space.
+    </text>
+    <text name="sb5705_060" id="2738379073" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have scanned the area you are pointing to, and my sensors are not picking up anything. To my eyes, there is nothing there.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

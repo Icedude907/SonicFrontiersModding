@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="so1595_010" id="927609164" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We’ve got this! You can count on us!
+    </text>
+    <text name="so1595_020" id="927609291" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Don’t worry about us. Get going!
+    </text>
+    <text name="so1595_030" id="927609418" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You can rely on us!
+    </text>
+    <text name="so1595_040" id="927609545" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I won’t let you down, partner!
+    </text>
+    <text name="so1595_050" id="927609672" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Leave the Emerald hunting to the pro!
+    </text>
+    <text name="so1595_060" id="927609799" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What are you hanging around for? Afraid to go off without my protection? Heh!
+    </text>
+    <text name="so1595_070" id="927609926" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Koco helped show us the way!
+    </text>
+    <text name="so1595_080" id="927610053" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hurry, Sonic. For the Koco. For all of us.
+    </text>
+    <text name="so1595_090" id="927610180" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We’ve gotta reveal those Emeralds!
+    </text>
+    <text name="so1595_100" id="927625166" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Is this cloaking technology how the enemy robots appear too?
+    </text>
+    <text name="so1595_110" id="927625293" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Outta my way. I’m working!
+    </text>
+    <text name="so1595_120" id="927625420" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Aren’t you supposed to be training or something?
+    </text>
+    <text name="so1595_130" id="927625547" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We’re almost done!
+    </text>
+    <text name="so1595_140" id="927625674" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Go, Tails, go! You can do it!
+    </text>
+    <text name="so1595_150" id="927625801" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Just leave this last part to me!
+    </text>
+    <text name="so1595_160" id="927625928" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ll see this through. I have to!
+    </text>
+    <text name="so1595_170" id="927626055" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ha! We’ll be done before you are. C’mon! Hurry up!
+    </text>
+    <text name="so1595_180" id="927626182" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This was easy. Almost too easy.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

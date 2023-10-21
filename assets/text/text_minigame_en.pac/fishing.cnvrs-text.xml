@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="fish_019_name" id="907001" font="Range_FNT" layout="Range_LAY">
+      Coelacanth
+    </text>
+    <text name="fish_115_explain" id="31823430" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      It appears Amy Rose has been dragged into the mix.
+      Clever girl. Tenacious. She’s come a long way since being an easy pawn in my schemes to ensnare Sonic. It seems like she had some trouble finding herself. But when you hang around with someone with as big an ego as Sonic, self-identification has to be a challenge.
+    </text>
+    <text name="fish_032_name" id="40288130" font="Range_FNT" layout="Range_LAY">
+      Acorn
+    </text>
+    <text name="fish_045_name" id="61015040" font="Range_FNT" layout="Range_LAY">
+      Polka-dot hammerhead shark
+    </text>
+    <text name="fish_058_name" id="81741950" font="Range_FNT" layout="Range_LAY">
+      Big rainbow colored frog
+    </text>
+    <text name="fish_000_explain" id="155216577" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A small fish with striking red stripes. Often used in cuisine, and also popular as a pet.
+    </text>
+    <text name="fish_097_name" id="162576899" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 4
+    </text>
+    <text name="fish_041_explain" id="203651262" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A deep-sea creature resembling an insect. It lives in the ocean depths untouched by light. Its efficient metabolism enables it to survive without food for years after even a modest meal.
+    </text>
+    <text name="fish_091_explain_1" id="230016395" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      3 Gold Cards!? That's a real treasure!
+    </text>
+    <text name="fish_102_name" id="238439422" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 9
+    </text>
+    <text name="fish_115_name" id="259166332" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 22
+    </text>
+    <text name="fish_022_explain" id="272395201" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A massive, flat-bodied fish. It can grow close to ten feet in length, though it is more delicately built than it appears. The juvenile sunfish has a star-shaped appearance that looks nothing like an adult.
+    </text>
+    <text name="fish_009_name" id="311040504" font="Range_FNT" layout="Range_LAY">
+      Snapping turtle
+    </text>
+    <text name="fish_003_explain" id="341139140" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A creature with powerful claws found in slow-moving freshwater environments. Being omnivorous, it can be caught with any food you happen to have on hand.
+    </text>
+    <text name="fish_022_name" id="350421633" font="Range_FNT" layout="Range_LAY">
+      Sunfish
+    </text>
+    <text name="fish_035_name" id="371148543" font="Range_FNT" layout="Range_LAY">
+      Barracuda
+    </text>
+    <text name="fish_044_explain" id="389573825" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      An aquatic creature that looks like a snake. It has sharp teeth and a ferocious temperament.
+    </text>
+    <text name="fish_048_name" id="391875453" font="Range_FNT" layout="Range_LAY">
+      Small Chopper
+    </text>
+    <text name="fish_085_explain" id="438008510">
+      A beautiful red seed. Take it to Hermit Koco to raise Sonic's attack power.
+    </text>
+    <text name="fish_100_explain" id="441165250" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Who were the Ancients? They predate any civilization by a wide margin.
+      The echidnas? Pfft.
+      The Black Arms? Please.
+      The Babylonians? Hardly!
+      And yet they didn’t seem to influence the world beyond these three piddly islands. Why? What stopped them from conquering the world?
+    </text>
+    <text name="fish_025_explain" id="458317764" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      An ordinary red spring. Stepping on one will propel you even higher than a yellow spring.
+    </text>
+    <text name="fish_006_explain" id="527061703" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A slick-skinned creature with eight arms and two tentacles. The squid can make subtle changes to its appearance to hide from predators.
+    </text>
+    <text name="fish_105_name" id="569299835" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 12
+    </text>
+    <text name="fish_047_explain" id="575496388" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A silver acorn. Was the tree it came from silver, too?
+    </text>
+    <text name="fish_103_explain" id="627087813" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Something wiped out the Ancients, that’s for certain.
+      A catastrophic event caused dire environmental shifts across the islands. It appears they made some effort to rebuild, but they were living on borrowed time.
+      They died out within a generation.
+    </text>
+    <text name="fish_028_explain" id="644240327" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A marker that tracks passers-by. If you fall after touching one, you can return to its location.
+    </text>
+    <text name="fish_012_name" id="660555136" font="Range_FNT" layout="Range_LAY">
+      Anglerfish
+    </text>
+    <text name="fish_025_name" id="681282046" font="Range_FNT" layout="Range_LAY">
+      Red spring
+    </text>
+    <text name="fish_038_name" id="702008956" font="Range_FNT" layout="Range_LAY">
+      Poison dart frog
+    </text>
+    <text name="fish_009_explain" id="712984266" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A large turtle that can grow to over two and a half feet long and 240 pounds. It is commonly found in marshes and swamps.
+    </text>
+    <text name="fish_051_name" id="741390085" font="Range_FNT" layout="Range_LAY">
+      Golden coelacanth
+    </text>
+    <text name="fish_106_explain" id="813010376" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Sage is performing at peak efficiency!
+      Makes me wonder where I went wrong with Orbot and Cubot. Not only is she taking control of the Ancients’ network, but she’s harassing Sonic as well! I love it!
+    </text>
+    <text name="fish_090_name" id="822225034" font="Range_FNT" layout="Range_LAY">
+      Treasure box
+    </text>
+    <text name="fish_010_explain" id="867659584" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A fish that makes for very good eating. Its eggs are considered a delicacy in some places. Though its flesh starts out pale, it turns orange over time due to pigments in the food it eats.
+    </text>
+    <text name="fish_108_name" id="900160248" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 15
+    </text>
+    <text name="fish_051_explain" id="916094269" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A coelacanth with a golden sheen. Though very beautiful, it's not suited to home aquariums, as the flashes of light would keep everyone up at night.
+    </text>
+    <text name="fish_092_explain" id="964528954" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A scroll written by Elder Koco.
+      If you bring back this scroll to the island, fast travel to Elder Koco will be unlocked.
+    </text>
+    <text name="fish_002_name" id="970688639" font="Range_FNT" layout="Range_LAY">
+      Medaka
+    </text>
+    <text name="fish_032_explain" id="984838208" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      The seed of an oak tree. Some are round, while others are long and thin. A somewhat lackluster catch, in a nutshell.
+    </text>
+    <text name="fish_015_name" id="991415549" font="Range_FNT" layout="Range_LAY">
+      Crab
+    </text>
+    <text name="fish_109_explain" id="998932939" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Sage has been crucial to my survival here in Cyber Space. Early warnings of hostile entities, guiding me past firewalls, keeping me updated on progress in the real world – she’s the best.
+      “She?”
+      “It.” It’s a program.
+      An adorable program. A very personable program. A… hmm. I wonder if… she… has a preference?
+    </text>
+    <text name="fish_028_name" id="1012142459" font="Range_FNT" layout="Range_LAY">
+      Star Post
+    </text>
+    <text name="fish_041_name" id="1051523588" font="Range_FNT" layout="Range_LAY">
+      Giant isopod
+    </text>
+    <text name="fish_013_explain" id="1053582147" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      This eight-legged mollusk is considered a delicacy by some. Like squid, when threatened it shoots out ink that temporarily paralyzes the senses of its natural enemy, the moray eel.
+    </text>
+    <text name="fish_054_name" id="1072250498" font="Range_FNT" layout="Range_LAY">
+      Flashy anglerfish
+    </text>
+    <text name="fish_054_explain" id="1102016832" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A flashy, small anglerfish. Though larger ones can look quite vicious, they're much cuter in compact form.
+    </text>
+    <text name="fish_095_explain" id="1150451517" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      What are G.U.N. military craft doing in here!? Sage has helped me avoid the worst of it, and it doesn’t appear to be manned. Is it a defense mechanism? I need to learn more.
+    </text>
+    <text name="fish_093_name" id="1153085447" font="Range_FNT" layout="Range_LAY">
+      Hermit Koco's scroll
+    </text>
+    <text name="fish_110_explain" id="1153608257" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      I never really knew my cousin, Maria.
+      Everyone spoke of her like she was very special. All that love for someone who was gone when I was! Right! There!
+      But I have to wonder. Back then, was she anything like Sage is now?
+    </text>
+    <text name="fish_035_explain" id="1170760771" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A large fish with a big mouth and sharp teeth. Aggressive by nature, it has been known to attack people.
+    </text>
+    <text name="fish_016_explain" id="1239504710" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A savage, carnivorous creature with sharp teeth that lives near swamps and ponds. It goes to ground in winter to stay warm.
+    </text>
+    <text name="fish_111_name" id="1249674880" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 18
+    </text>
+    <text name="fish_057_explain" id="1287939395" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A striped sunfish. Its large body makes the stripes impressive to behold even underwater.
+    </text>
+    <text name="fish_005_name" id="1301549052" font="Range_FNT" layout="Range_LAY">
+      Clownfish
+    </text>
+    <text name="fish_018_name" id="1322275962" font="Range_FNT" layout="Range_LAY">
+      Nishiki koi
+    </text>
+    <text name="fish_098_explain" id="1336374080" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      I am officially jealous. This entire expanse was constructed by the ancient race who had previously settled on these islands! The level of technology they employed is completely alien to me, so I can’t salvage it... yet.
+    </text>
+    <text name="fish_113_explain" id="1339530820" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Sonic’s on the island.
+      Of course Sonic is on the island.
+      I can’t remember the last time I had a good night’s scheme without him ruining it. Still, for a purely organic creature, obtaining Mach 1 of his own volition is impressive.
+      I’m man enough to admit that.
+    </text>
+    <text name="fish_038_explain" id="1356683334" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A brightly colored but highly poisonous frog. Use caution when you come across these dangerous creatures.
+    </text>
+    <text name="fish_031_name" id="1361657091" font="Range_FNT" layout="Range_LAY">
+      Twig
+    </text>
+    <text name="fish_044_name" id="1382384001" font="Range_FNT" layout="Range_LAY">
+      Moray eel
+    </text>
+    <text name="fish_057_name" id="1403110911" font="Range_FNT" layout="Range_LAY">
+      Striped sunfish
+    </text>
+    <text name="fish_019_explain" id="1425427273" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A large fish sometimes referred to as a living fossil due to its lack of evolution since ancient times. Much about it remains a mystery, attracting broad scientific and public interest.
+    </text>
+    <text name="fish_096_name" id="1483945860" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 3
+    </text>
+    <text name="fish_116_explain" id="1525453383" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Knuckles is here too.
+      What a rube.
+      That hair-trigger of his is a problem, but also a boon when I can get him to go off in the right direction. Wait! If he’s here, that means the Master Emerald is unguarded! Its power will be mine!
+      Oh. No, wait. I’m stuck here. Phooey.
+    </text>
+    <text name="fish_101_name" id="1559808383" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 8
+    </text>
+    <text name="fish_020_explain" id="1580102591" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A fish with a very long body. Its striking appearance may have inspired tales of legendary sea creatures.
+    </text>
+    <text name="fish_114_name" id="1580535293" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 21
+    </text>
+    <text name="fish_008_name" id="1632409465" font="Range_FNT" layout="Range_LAY">
+      Carp
+    </text>
+    <text name="fish_001_explain" id="1648846530" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A fish commonly found in rivers and streams. It uses long, whisker-like feelers to find food. Its dark body is coated with a layer of slime.
+    </text>
+    <text name="fish_021_name" id="1671790594" font="Range_FNT" layout="Range_LAY">
+      Tuna
+    </text>
+    <text name="fish_034_name" id="1692517504" font="Range_FNT" layout="Range_LAY">
+      Tire
+    </text>
+    <text name="fish_042_explain" id="1697281215" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      As its name suggests, this shark has a hammer-shaped head. Apparently, this makes it more sensitive to electric signals than other sharks.
+    </text>
+    <text name="fish_047_name" id="1713244414" font="Range_FNT" layout="Range_LAY">
+      Silver acorn
+    </text>
+    <text name="fish_023_explain" id="1766025154" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A fish with a spear-like snout. It is said to be the fastest swimmer of all fish. You might even call it the Sonic of the sea!
+    </text>
+    <text name="fish_086_name" id="1794079363">
+      Blue Seed of Defense
+    </text>
+    <text name="fish_099_name" id="1814806273" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 6
+    </text>
+    <text name="fish_004_explain" id="1834769093" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      The aquatic larva of frogs. As tadpoles grow, they first sprout legs then arms. Some species have a spiral pattern on their belly.
+    </text>
+    <text name="fish_045_explain" id="1883203778" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Despite its disarming appearance, this is a bona fide hammerhead shark. Don't be misled by its cute look, as it can be dangerous.
+    </text>
+    <text name="fish_104_name" id="1890668796" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 11
+    </text>
+    <text name="fish_117_name" id="1911395706">
+      Egg Memo 24
+    </text>
+    <text name="fish_086_explain" id="1931638463">
+      A beautiful blue seed. Take it to Hermit Koco to raise Sonic's defense.
+    </text>
+    <text name="fish_101_explain" id="1934795203" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      I’m finding multiple connections between the Ancients and the Chaos Emeralds. Their technology seems built with the Emeralds in mind. It’s almost like they share the same origin. I enjoy a good mystery, but not when the answers are more mysteries! Argh!
+    </text>
+    <text name="fish_026_explain" id="1951947717" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      An empty tin can. Someone must have consumed the contents. I wonder what was in it...
+    </text>
+    <text name="fish_011_name" id="1981924097" font="Range_FNT" layout="Range_LAY">
+      Flounder
+    </text>
+    <text name="fish_024_name" id="2002651007" font="Range_FNT" layout="Range_LAY">
+      Yellow spring
+    </text>
+    <text name="fish_007_explain" id="2020691656" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A salt water creature named for its horse-like appearance.
+    </text>
+    <text name="fish_037_name" id="2023377917" font="Range_FNT" layout="Range_LAY">
+      Starfish
+    </text>
+    <text name="fish_050_name" id="2062759046" font="Range_FNT" layout="Range_LAY">
+      Blue ringed octopus
+    </text>
+    <text name="fish_048_explain" id="2069126341" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A small Chopper. It's made of metal like its larger counterpart, but the bone-like pieces are more delicate.
+    </text>
+    <text name="fish_104_explain" id="2120717766" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      I don’t believe this!
+      I had Sage run a diagnostic on the recorded genetic data of the Ancients and then against archives I have with me. They’re relatives of Chaos, the God of Destruction! After countless years, their DNA corroded to the point they were completely transformed into a new species. Some kind of radiation affected them for eons, making them unrecognizable –– except to a genius like me.
+    </text>
+    <text name="fish_029_explain" id="2137870280" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A plate that lets you know you've reached the goal. Running past one fills you with a sense of accomplishment.
+    </text>
+    <text name="fish_107_name" id="2221529209" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 14
+    </text>
+    <text name="fish_090_explain" id="2272236344" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A treasure box that was dumped into the pond. A Gold Card, which Big was searching for, must be in it.
+    </text>
+    <text name="fish_001_name" id="2292057600" font="Range_FNT" layout="Range_LAY">
+      Loach
+    </text>
+    <text name="fish_030_explain" id="2292545598" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A mechanical creature that looks like a fish. It can't be eaten, so don't even try.
+    </text>
+    <text name="fish_107_explain" id="2306640329" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Despite her best efforts, Sage can’t seem to control the Titans. Phooey. She can prompt them to act, but something is blocking her from assuming total control.
+    </text>
+    <text name="fish_014_name" id="2312784510" font="Range_FNT" layout="Range_LAY">
+      Pufferfish
+    </text>
+    <text name="fish_027_name" id="2333511420" font="Range_FNT" layout="Range_LAY">
+      Item box
+    </text>
+    <text name="fish_011_explain" id="2361289537" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A fish with a mottled, pebble-like appearance. It dwells at the bottom of rivers and ponds, where its skin serves as camouflage to protect it from enemies.
+    </text>
+    <text name="fish_040_name" id="2372892549" font="Range_FNT" layout="Range_LAY">
+      Flying fish
+    </text>
+    <text name="fish_053_name" id="2393619459" font="Range_FNT" layout="Range_LAY">
+      Black starfish
+    </text>
+    <text name="fish_052_explain" id="2409724222" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A large salmon found in relatively cold ocean climates. Its flesh is more fatty than regular salmon.
+    </text>
+    <text name="fish_093_explain" id="2458158907" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A scroll written by Hermit Koco.
+      If you bring back this scroll to the island, fast travel to Hermit Koco will be unlocked.
+    </text>
+    <text name="fish_092_name" id="2474454408" font="Range_FNT" layout="Range_LAY">
+      Elder Koco's scroll
+    </text>
+    <text name="fish_033_explain" id="2478468161" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      One of the gold rings that have aided Sonic in the past. This one seems to be a work of art that doesn't have any particular effects.
+    </text>
+    <text name="fish_014_explain" id="2547212100" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A fish with two distinct appearances. Though it usually looks like an ordinary fish, it puffs up when danger presents itself.
+    </text>
+    <text name="fish_110_name" id="2571043841" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 17
+    </text>
+    <text name="fish_055_explain" id="2595646785" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      An enormous red isopod. Even larger than the standard giant isopod, this spectacularly large creature could be considered the king of the isopods.
+    </text>
+    <text name="fish_004_name" id="2622918013" font="Range_FNT" layout="Range_LAY">
+      Tadpole
+    </text>
+    <text name="fish_017_name" id="2643644923" font="Range_FNT" layout="Range_LAY">
+      Black bass
+    </text>
+    <text name="fish_096_explain" id="2644081470" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      The “terrain” here keeps shifting. I’m finding recreations of regions from South Island, West Side Island, even Angel Island! Where is this environmental data coming from?
+    </text>
+    <text name="fish_111_explain" id="2647238210" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Sage told the funniest joke during her report.
+      “How fast can Sonic screw things up? Instantly – he’s the fastest thing alive!”
+      I tell you, she’s a chip off the old block. Well, for a program, I mean. It’s not like she’s alive.
+      Or family. Or… hmm.
+    </text>
+    <text name="fish_036_explain" id="2664390724" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A flat fish with a long tail. It is said to be related to the shark, though they look nothing alike. It has distinctive gills on the bottom of its body.
+    </text>
+    <text name="fish_030_name" id="2683026052" font="Range_FNT" layout="Range_LAY">
+      Chopper
+    </text>
+    <text name="fish_043_name" id="2703752962" font="Range_FNT" layout="Range_LAY">
+      Ancient tablet
+    </text>
+    <text name="fish_056_name" id="2724479872" font="Range_FNT" layout="Range_LAY">
+      Red stingray
+    </text>
+    <text name="fish_017_explain" id="2733134663" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A very common fish found in temperate climates. Fishing for bass is a popular pastime, and it is often featured in competitive angling.
+    </text>
+    <text name="fish_058_explain" id="2781569348" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A massive mutant poison dart frog with a body all the colors of the rainbow. It must eat a rich diet of multi-colored food.
+    </text>
+    <text name="fish_095_name" id="2805314821" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 2
+    </text>
+    <text name="fish_099_explain" id="2830004033" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      It appears the Starfall Islands act as the CPU for Cyber Space. Once I’m out of here, I need to secure them at all costs. I’m not able to access the data too readily, but it appears the entire history of the Ancients is recorded here in Cyber Space. More than that! They logged their memories, their desires… it’s almost like they encoded their very souls into this place. Now then – how can I use that to my benefit?
+    </text>
+    <text name="fish_114_explain" id="2833160773" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      It’s Sonic who named me ”Eggman.”
+      Except the joke’s on him! I embraced the name! I made it my own! His mockery is now a name feared across the ages! I’m not going to adopt “Baldy McNosehair,” though. My dignity has limits.
+    </text>
+    <text name="fish_039_explain" id="2850313287" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A fish that is gold in name, but red in color. They are bred for their ornamental value, and aren't found in nature.
+    </text>
+    <text name="fish_100_name" id="2881177344" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 7
+    </text>
+    <text name="fish_113_name" id="2901904254" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 20
+    </text>
+    <text name="fish_007_name" id="2953778426" font="Range_FNT" layout="Range_LAY">
+      Seahorse
+    </text>
+    <text name="fish_020_name" id="2993159555" font="Range_FNT" layout="Range_LAY">
+      Oarfish
+    </text>
+    <text name="fish_040_explain" id="3004988605" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A fish with large fins. While aboard sea vessels, you'll sometimes see them leaping from the water as they flee from predators.
+    </text>
+    <text name="fish_033_name" id="3013886465" font="Range_FNT" layout="Range_LAY">
+      Ring
+    </text>
+    <text name="fish_117_explain" id="3019083336" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Sonic’s here, so it’s no surprise Tails is too.
+      It’s a pity. Young Prower has a keen mind and loads of potential. Yet he’s fixated on worshipping Sonic. Then again, maybe that’s for the best. Given all the trouble he gave me in Station Square and on the ARK, I think I prefer him wasting his potential lingering in Sonic’s shadow.
+    </text>
+    <text name="fish_046_name" id="3034613375" font="Range_FNT" layout="Range_LAY">
+      Red can
+    </text>
+    <text name="fish_021_explain" id="3073732544" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A fish renowned for its delicate flavor. All parts of its body can be used in cuisine, and in some cases it is even eaten raw. Generally, the more oily cuts fetch the highest prices.
+    </text>
+    <text name="fish_085_name" id="3115448324">
+      Red Seed of Power
+    </text>
+    <text name="fish_098_name" id="3136175234" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 5
+    </text>
+    <text name="fish_002_explain" id="3142476483" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A small, slender fish often found in home aquariums. A diverse range of variants exist, including those with translucent, skeletal bodies or multi-hued skin.
+    </text>
+    <text name="fish_043_explain" id="3190911168" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      An inscribed stone tablet. It has the same message in three languages, including mysterious glyphs, so it could serve as a key to deciphering them.
+    </text>
+    <text name="fish_103_name" id="3212037757" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 10
+    </text>
+    <text name="fish_116_name" id="3232764667">
+      Egg Memo 23
+    </text>
+    <text name="fish_024_explain" id="3259655107" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      An ordinary yellow spring. Stepping on one will propel you into the air.
+    </text>
+    <text name="fish_010_name" id="3303293058" font="Range_FNT" layout="Range_LAY">
+      Salmon
+    </text>
+    <text name="fish_023_name" id="3324019968" font="Range_FNT" layout="Range_LAY">
+      Marlin
+    </text>
+    <text name="fish_005_explain" id="3328399046" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A colorful tropical fish that has soared in popularity in recent years. Most variants are red, yellow, or orange with white stripes.
+    </text>
+    <text name="fish_036_name" id="3344746878" font="Range_FNT" layout="Range_LAY">
+      Stingray
+    </text>
+    <text name="fish_049_name" id="3365473788" font="Range_FNT" layout="Range_LAY">
+      Platinum-golden fish
+    </text>
+    <text name="fish_046_explain" id="3376833731" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      An empty red can. Perhaps it contained some chili con carne for chili dogs.
+    </text>
+    <text name="fish_102_explain" id="3428425156" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      The Ancients seem to have employed a set of strange icons as keepsakes or totems. That same imagery is being used by the Koco running around the islands. Did the Koco inspire the Ancients? Or did the Koco adopt the leftovers once the Ancients were gone? Hmm.
+    </text>
+    <text name="fish_027_explain" id="3445577670" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A box containing an item. Applying force will cause the item to pop out.
+    </text>
+    <text name="fish_008_explain" id="3514321609" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A fish found in rivers and ponds. It will eat almost anything, and is often used to cleanse waterways.
+    </text>
+    <text name="fish_106_name" id="3542898170" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 13
+    </text>
+    <text name="fish_049_explain" id="3562756294" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A goldfish with a platinum-colored body. Its shiny scales are no doubt far more valuable than the regular kind.
+    </text>
+    <text name="fish_000_name" id="3613426561" font="Range_FNT" layout="Range_LAY">
+      Gourami
+    </text>
+    <text name="fish_105_explain" id="3614347719" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      I’m deploying my most advanced artificial intelligence into the ancient network spanning the Starfall Islands.
+      I’ve code-named it “Sage.” Sage will take over the alien network, take control of all its resources, and give them to me!
+      …Once I’m out of here.
+    </text>
+    <text name="fish_013_name" id="3634153471" font="Range_FNT" layout="Range_LAY">
+      Octopus
+    </text>
+    <text name="fish_026_name" id="3654880381" font="Range_FNT" layout="Range_LAY">
+      Tin can
+    </text>
+    <text name="fish_039_name" id="3675607291" font="Range_FNT" layout="Range_LAY">
+      Goldfish
+    </text>
+    <text name="fish_052_name" id="3714988420" font="Range_FNT" layout="Range_LAY">
+      King salmon
+    </text>
+    <text name="fish_050_explain" id="3717431612" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      An octopus featuring a polka-dot pattern. Though it has a flashy appearance, it contains the same deadly tetrodotoxin as pufferfish.
+    </text>
+    <text name="fish_091_explain" id="3765866297" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Gold shiny treasure box. Must be something VERY expensive...?
+    </text>
+    <text name="fish_031_explain" id="3786175551" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A twig used to build or repair things. It could also be fuel for a fire if it wasn't so waterlogged.
+    </text>
+    <text name="fish_091_name" id="3795823369" font="Range_FNT" layout="Range_LAY">
+      Golden treasure box
+    </text>
+    <text name="fish_108_explain" id="3800270282" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Sage keeps running the numbers by me and it’s getting tedious. Yes, the power that wiped out the Ancients was formidable. Yes, unleashing it on this world would be catastrophic. But I’m a genius. Once I’m out of here I’ll find a way to handle it. Better yet, weaponize it against Sonic!
+    </text>
+    <text name="fish_012_explain" id="3854919490" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A deep-sea fish with a rounded body. Its name refers to its use of the luminescent lure on its head to attract prey.
+    </text>
+    <text name="fish_109_name" id="3873758583" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 16
+    </text>
+    <text name="fish_053_explain" id="3903354175" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A black starfish. Black is the ideal color for concealment on the deep ocean floor, where sunlight never penetrates.
+    </text>
+    <text name="fish_003_name" id="3944286974" font="Range_FNT" layout="Range_LAY">
+      Crayfish
+    </text>
+    <text name="fish_094_explain" id="3951788860" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Some force is keeping me from exiting Cyber Space. Is it because my A.I. made unauthorized access to the databases? If so, that’s the exact opposite of what it was supposed to do!
+    </text>
+    <text name="fish_016_name" id="3965013884" font="Range_FNT" layout="Range_LAY">
+      Alligator
+    </text>
+    <text name="fish_034_explain" id="3972098114" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A tire for vehicles. They come in a variety of sizes and treads, but this one seems to be for a regular passenger car.
+    </text>
+    <text name="fish_029_name" id="3985740794" font="Range_FNT" layout="Range_LAY">
+      Goal Plate
+    </text>
+    <text name="fish_042_name" id="4025121923" font="Range_FNT" layout="Range_LAY">
+      Hammerhead shark
+    </text>
+    <text name="fish_015_explain" id="4040842053" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      An aquatic crustacean. Though known for its sideways walk and sharp claws, some species are adept at moving forward and backward or swimming.
+    </text>
+    <text name="fish_055_name" id="4045848833" font="Range_FNT" layout="Range_LAY">
+      Red giant isopod
+    </text>
+    <text name="fish_056_explain" id="4089276738" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A ray with venomous spines on its tail. The venom remains deadly even after it dies.
+    </text>
+    <text name="fish_094_name" id="4126683782" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 1
+    </text>
+    <text name="fish_097_explain" id="4137711423" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      I have found elements from my own EggNet, United Federation, even Planet Donpa Kingdom race data! As best as I can surmise, this Cyber Space extends well beyond the scope of these islands and is gaining information from around the world. Fascinating!
+    </text>
+    <text name="fish_112_explain" id="4140868163" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      Who says I can’t create life, huh?
+      Just a bunch of proteins bumping together. Anyone can do that. A true genius does it with code and electrons! And if I did create life, she would be brilliant and loyal and perfectly effective! And you know why? Because her dad is a genius, that’s why!
+    </text>
+    <text name="fish_037_explain" id="4158020677" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A flat sea creature covered with spiny skin. It moves across the seabed using countless tube feet on its underside. Starfish are sometimes eaten or used in traditional medicine.
+    </text>
+    <text name="fish_112_name" id="4223273215" font="Range_FNT" layout="Range_LAY">
+      Egg Memo 19
+    </text>
+    <text name="fish_018_explain" id="4226764616" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A type of carp with a red, white, and black body. It was bred for its ornamental appeal, and its skin resembles brocade fabric.
+    </text>
+    <text name="fish_090_explain_1" id="4239035018" font="Range_FNT_itemdetail" layout="Range_LAY_itemdetail">
+      A Gold Card that Big collects. In exchange for 1 Gold Card, he might give you something useful for your journey.
+    </text>
+    <text name="fish_006_name" id="4275147387" font="Range_FNT" layout="Range_LAY">
+      Squid
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_itemdetail">
+      <typeface>RANGEmixStd</typeface>
+      <size>28</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_itemdetail">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

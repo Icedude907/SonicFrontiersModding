@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5006_010" id="874490304" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You know, I've noticed that there's no sign of any animals on this island. I would expect some to be around in a place so full of nature. This isn't your doing, is it?
+    </text>
+    <text name="sb5006_020" id="874490431" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Don't blame me for that! According to the records in Cyber Space, all of the native creatures were transported to another island during the battle that led to the extinction of the Ancients.
+    </text>
+    <text name="sb5006_030" id="874490558" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      With no one to return the creatures, the island's ecosystem suffered major disruption. Only a few small insects survived.
+    </text>
+    <text name="sb5006_040" id="874490685" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Ancients must have been fully committed to the battle to pull off such a large-scale transportation plan.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

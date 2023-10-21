@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="tip_063_Steam" id="21981754" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Chase down SQUID to defeat it! Sonic can avoid the bullets by moving to the left or right.
+    </text>
+    <text name="tip_167_PC" id="105462532" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold down <image name="button_right_trigger_Wh" /> while moving, to boost in the direction the character is facing. Boosting consumes the boost meter.
+    </text>
+    <text name="tip_003_Steam" id="120509760" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quick Cyloop can be activated pressing <image name="s_button_cyloop_Wh" /> during a combo while the Cyloop meter is blue.
+      The meter fills up with every attack that hits an enemy.
+    </text>
+    <text name="tip_167_Xbox" id="215030692" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_190_Steam" id="249264565" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parrying is not contingent on timing.
+      Hold <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> to Parry, and attacks will be automatically repelled.
+    </text>
+    <text name="tip_021_PC" id="373962631" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When holding down <image name="button_right_trigger_Wh" /> while moving, Sonic will boost in the direction he is running towards. Boosting consumes the boost meter.
+    </text>
+    <text name="tip_166_Steam" id="585211198" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="s_button_attack_Wh" /> when the target cursor is displayed to perform a Homing Attack.
+    </text>
+    <text name="tip_000" id="641237324" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Holding <image name="button_top_Wh" /> while moving will leave a light trail.
+      If the light trail is enclosed, releasing <image name="button_top_Wh" /> may cause various effects to happen.
+    </text>
+    <text name="tip_001" id="641237325" font="Range_FNT_tips" layout="Range_LAY_tips">
+      <image name="button_right_stick_Wh" /> rotates the camera.
+      The camera cannot be operated when the camera disabled icon is displayed.
+    </text>
+    <text name="tip_002" id="641237326" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If something seems suspicious, use a Cyloop.
+      Hidden items or a means to complete a Challenge may be discovered.
+    </text>
+    <text name="tip_003" id="641237327" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Quick Cyloop can be activated by pressing <image name="button_top_Wh" /> during a combo while the Cyloop meter is blue.
+      The meter fills up with every attack that hits an enemy.
+    </text>
+    <text name="tip_004" id="641237328" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_right_stick_Wh" /> while the target cursor is displayed to lock on.
+      While locked on, the camera will automatically track the target.
+    </text>
+    <text name="tip_005" id="641237329" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parrying is not contingent on timing.
+      Hold <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> to Parry, and Sonic will automatically repel attacks.
+    </text>
+    <text name="tip_006" id="641237330" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_left_shoulder_Wh" /> or <image name="button_right_shoulder_Wh" /> to Dodge.
+      Dodging is quicker than normal movement and is useful for avoiding enemy attacks.
+    </text>
+    <text name="tip_007" id="641237331" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the combo meter is maxed out, Phantom Rush will be activated, and attacks will be 1.2 times more powerful. This lasts until the combo meter runs down to 0.
+    </text>
+    <text name="tip_008" id="641237332" font="Range_FNT_tips" layout="Range_LAY_tips">
+      During battle, it is possible to dodge into Wild Rush by pressing <image name="button_left_shoulder_Wh" /> or <image name="button_right_shoulder_Wh" /> then <image name="button_left_Wh" />.
+    </text>
+    <text name="tip_009" id="641237333" font="Range_FNT_tips" layout="Range_LAY_tips">
+      During battle, Air Boost can lead to a Homing Shot by pressing <image name="button_right_trigger_Wh" /> then <image name="button_left_Wh" /> in the air.
+    </text>
+    <text name="tip_010" id="641237451" font="Range_FNT_tips" layout="Range_LAY_tips">
+      During a combo, Stomp Attack can be triggered with <image name="button_right_Wh" />.
+    </text>
+    <text name="tip_011" id="641237452" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="button_left_trigger_Wh" /> in the air or during a combo to activate Sonic Boom.
+    </text>
+    <text name="tip_012" id="641237453" font="Range_FNT_tips" layout="Range_LAY_tips">
+      During a combo, press <image name="button_bottom_Wh" /> to activate Spin Slash.
+    </text>
+    <text name="tip_013" id="641237454" font="Range_FNT_tips" layout="Range_LAY_tips">
+      During battle, activate Loop Kick after Air Boost by pressing <image name="button_right_trigger_Wh" /> then <image name="button_right_Wh" /> in the air.
+    </text>
+    <text name="tip_014" id="641237455" font="Range_FNT_tips" layout="Range_LAY_tips">
+      During battle, activate Cross Slash after Air Boost by pressing <image name="button_right_trigger_Wh" /> then <image name="button_bottom_Wh" /> in the air.
+    </text>
+    <text name="tip_015" id="641237456" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="button_left_Wh" /> during a combo to launch a Cyclone Kick.
+    </text>
+    <text name="tip_016" id="641237457" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_top_Wh" /> + <image name="button_right_Wh" /> when the prompt appears on the screen to launch Grand Slam.
+    </text>
+    <text name="tip_017" id="641237458" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If Sonic is thrown back by an attack, press <image name="button_bottom_Wh" /> before he hits the ground. Sonic will immediately counterattack with a Recovery Smash attack.
+    </text>
+    <text name="tip_018" id="641237459" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_bottom_Wh" /> to jump.
+      Jumping is useful for going over obstacles or preventing falls.
+    </text>
+    <text name="tip_019" id="641237460" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_bottom_Wh" /> in the air to Double Jump.
+      Use Double Jump to adjust Sonic's jump direction.
+    </text>
+    <text name="tip_020" id="641237578" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_left_Wh" /> when the target cursor is displayed to perform a Homing Attack.
+    </text>
+    <text name="tip_021" id="641237579" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When holding down <image name="button_right_trigger_Wh" /> while moving, Sonic will boost in the direction he is running towards. Boosting consumes the boost meter.
+    </text>
+    <text name="tip_022" id="641237580" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_right_Wh" /> in the air to Stomp. This is useful for a quick descent.
+    </text>
+    <text name="tip_023" id="641237581" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If you press and hold <image name="button_right_Wh" /> Sonic will do a series of stomps. The third stomp is the most powerful and deals damage in a wide burst.
+    </text>
+    <text name="tip_024" id="641237582" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_right_trigger_Wh" /> in the air to perform an Air Boost. This is useful to reach areas that can't be reached just by jumping.
+    </text>
+    <text name="tip_025" id="641237583" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_left_shoulder_Wh" /> or <image name="button_right_shoulder_Wh" /> while moving, to quickly step to the left or right.
+      Use this to have Sonic avoid obstacles while running.
+    </text>
+    <text name="tip_026" id="641237584" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_left_stick_Wh" /> near a line of Rings. Sonic will zoom through them.
+    </text>
+    <text name="tip_027" id="641237585" font="Range_FNT_tips" layout="Range_LAY_tips">
+      After a Double Jump, press and hold <image name="button_bottom_Wh" /> again until landing to move faster for a short period of time.
+    </text>
+    <text name="tip_028" id="641237586" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_right_Wh" /> to Slide.
+      This is useful to destroy obstacles or slow down Sonic.
+    </text>
+    <text name="tip_029" id="641237587" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Sonic can run on some walls while climbing by holding <image name="button_right_trigger_Wh" />.
+    </text>
+    <text name="tip_030" id="641237705" font="Range_FNT_tips" layout="Range_LAY_tips">
+      While using Air Boost toward a wall that is climbable, hold <image name="button_right_trigger_Wh" />  to move faster on the wall.
+    </text>
+    <text name="tip_031" id="641237706" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Sonic will automatically grind on rails. He can leave the rail by jumping off it.
+    </text>
+    <text name="tip_032" id="641237707" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Homing Attacks are not possible when on the grind rail.
+    </text>
+    <text name="tip_033" id="641237708" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When grind rails are parallel to each other, change rails by moving <image name="button_left_stick_Wh" /> in the direction of the rail to transfer to.
+    </text>
+    <text name="tip_034" id="641237709" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When Sonic is surrounded with sparks while in the air, use <image name="button_left_stick_Wh" /> to perform an Air Trick. When an Air Trick is successful, Skill Pieces are earned.
+    </text>
+    <text name="tip_035" id="641237710" font="Range_FNT_tips" layout="Range_LAY_tips">
+      tip035
+    </text>
+    <text name="tip_036" id="641237711" font="Range_FNT_tips" layout="Range_LAY_tips">
+      GIGANTO can repel Quick Cyloops. Try one and Sonic'll be sent flying.
+    </text>
+    <text name="tip_037" id="641237712" font="Range_FNT_tips" layout="Range_LAY_tips">
+      WYVERN's missiles can be parried. Successfully hit one back to slow down WYVERN.
+    </text>
+    <text name="tip_038" id="641237713" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use Quick Cyloop to restrain WYVERN.
+    </text>
+    <text name="tip_039" id="641237714" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Feeling underpowered against the enemies? Try leveling up Sonic's stats at the Elder Koco and Hermit Koco.
+      Prefer to focus on the story? Change the game difficulty by going into Options.
+    </text>
+    <text name="tip_040" id="641237832" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Evade enemy attacks by jumping or dodging.
+      While the target cursor is displayed, Sonic can attack with Homing Attacks and combos.
+    </text>
+    <text name="tip_041" id="641237833" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Shielded enemies can be broken through via Cyloop.
+    </text>
+    <text name="tip_042" id="641237834" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the enemy's guard is up, use <image name="button_left_shoulder_Wh" /> or <image name="button_right_shoulder_Wh" /> to get behind them.
+    </text>
+    <text name="tip_043" id="641237835" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use Cyloop to remove enemy spikes.
+    </text>
+    <text name="tip_044" id="641237836" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Repel enemies that jump into Sonic's path with Parry.
+    </text>
+    <text name="tip_045" id="641237837" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use Parry to bounce back the enemy's beam attack.
+      If Sonic can get on top of the enemy, use Stomp.
+    </text>
+    <text name="tip_046" id="641237838" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When Sonic approaches, this enemy curls up to protect itself. Use Cyloop to defeat it.
+    </text>
+    <text name="tip_047" id="641237839" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Sometimes these enemies speed up their rotations. Carefully time when to attack!
+    </text>
+    <text name="tip_048" id="641237840" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Cyloop can take this enemy down with a single blow. Wait for when it pauses after it rushes at Sonic.
+    </text>
+    <text name="tip_049" id="641237841" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If the enemy comes at Sonic while spinning sideways, use Parry to defeat it.
+    </text>
+    <text name="tip_050" id="641237959" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Try to attack the enemy between the electric discharges.
+    </text>
+    <text name="tip_051" id="641237960" font="Range_FNT_tips" layout="Range_LAY_tips">
+      The armor covering the enemy's body is tough, but Cyloop can temporarily render it defenseless.
+    </text>
+    <text name="tip_052" id="641237961" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use Homing Attack to get up close to enemies in the sky. Careful not to hit the red balls!
+    </text>
+    <text name="tip_053" id="641237962" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If Sonic gets trapped inside, use Jump Stomp to break through.
+    </text>
+    <text name="tip_054" id="641237963" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If Sonic is launched into the air, use Stomp to recover.
+    </text>
+    <text name="tip_055" id="641237964" font="Range_FNT_tips" layout="Range_LAY_tips">
+      The enemy that steals the Chaos Emerald is the same one that needs to be defeated to get it back. Stomp it out and get it back!
+    </text>
+    <text name="tip_056" id="641237965" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Each attack can be parried. If Sonic is about to be attacked, hold <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> to parry it.
+    </text>
+    <text name="tip_057" id="641237966" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Occasionally, they will attack from an unexpected location, so use Parry to repel them.
+    </text>
+    <text name="tip_058" id="641237967" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When MASTER NINJA guards, blow it away with a Cyloop!
+    </text>
+    <text name="tip_059" id="641237968" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Destroy the enemy's body and attack its weak point: the head. Cyloop can destroy part of the body with a single blow.
+    </text>
+    <text name="tip_060" id="641238086" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Cyloop is effective on SPIDER's legs. When diving, aim for the ring of lasers and drop down!
+    </text>
+    <text name="tip_061" id="641238087" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Get the items on the rail to get free from the grind rails!
+    </text>
+    <text name="tip_062" id="641238088" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When CATERPILLAR goes on the run, be careful of bullets it unleashes!
+    </text>
+    <text name="tip_063" id="641238089" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Chase down SQUID to defeat it! Sonic can avoid the bullets by moving <image name="button_left_stick_Wh" /> to the left or right.
+    </text>
+    <text name="tip_064" id="641238090" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When SQUID raises its barrier, surround it with a Cyloop to break it.
+    </text>
+    <text name="tip_065" id="641238091" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If SQUID swings its arm, use Dodge or Parry to bounce back!
+    </text>
+    <text name="tip_066" id="641238092" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Surround the pedestal connected to GHOST to take them down before Sonic runs out of Rings!
+    </text>
+    <text name="tip_067" id="641238093" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Get to the top of ASURA via the arms and body. When Sonic touches the blue circle of light, he can run up faster.
+    </text>
+    <text name="tip_068" id="641238094" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When Sonic holds the tail, the enemy will act wildly, but by tilting <image name="button_left_stick_Wh" /> as it moves, Sonic will be able to keep his balance.
+    </text>
+    <text name="tip_069" id="641238095" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If Sonic is pulled in while the burners are out, use Homing Attack to avoid bumping into it.
+    </text>
+    <text name="tip_070" id="641238213" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use the ropes to push SUMO to the charged area.
+      The more bounces Sonic gets, the more force in his push.
+    </text>
+    <text name="tip_071" id="641238214" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Slide all the way around the big circles to reveal the enemy's weak points!
+    </text>
+    <text name="tip_072" id="641238215" font="Range_FNT_tips" layout="Range_LAY_tips">
+      After threatening Sonic with a bomb, the FORTRESS will flee.
+    </text>
+    <text name="tip_073" id="641238216" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When KNIGHT's shield is up, Sonic can circle around to land direct hits.
+    </text>
+    <text name="tip_074" id="641238217" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Taking a hit from a Titan's attack eats up precious time.
+      Watch for signs of an attack and aim to dodge or parry!
+    </text>
+    <text name="tip_075" id="641238218" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use Quick Cyloop to summon spears that will hold down KNIGHT and create an opening.
+    </text>
+    <text name="tip_076" id="641238219" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When battling the Titan, sometimes it will counterattack.
+      Parry this attack to create more opportunities for Sonic.
+    </text>
+    <text name="tip_077" id="641238220" font="Range_FNT_tips" layout="Range_LAY_tips">
+      There are certain surfaces on GIGANTO that allow Sonic to speed up.
+      Use these to quickly climb up.
+    </text>
+    <text name="tip_078" id="641238221" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If Sonic uses Parry insetad of Dodging against GIGANTO's attacks, he can unleash a powerful counterattack.
+    </text>
+    <text name="tip_079" id="641238222" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Using a boosted dash is the fastest way to reach WYVERN.
+    </text>
+    <text name="tip_080" id="641238340" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parry WYVERN attacks to create opportunities to counter attack.
+    </text>
+    <text name="tip_081" id="641238341" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Avoid the spikes and get to KNIGHT's head!
+    </text>
+    <text name="tip_082" id="641238342" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Ride on KNIGHT's shield to take control of it and deal a blow to KNIGHT.
+    </text>
+    <text name="tip_083" id="641238343" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parry the shield back towards KNIGHT and create an opening to attack.
+    </text>
+    <text name="tip_084" id="641238344" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Destroy the floating turrets, Bits, to get a chance to strike back at SUPREME.
+    </text>
+    <text name="tip_085" id="641238345" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parry SUPREME's laser to destroy the floating turrets, the Bits.
+    </text>
+    <text name="tip_086" id="641238346" font="Range_FNT_tips" layout="Range_LAY_tips">
+      SUPREME can repel Quick Cyloops. Try one and Sonic'll be sent flying.
+    </text>
+    <text name="tip_087" id="641238347" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use <image name="button_left_stick_Wh" /> to move up, down, left or right.
+      Remember the hacking tips and good luck!
+    </text>
+    <text name="tip_088" id="641238348" font="Range_FNT_tips" layout="Range_LAY_tips">
+      THE END's beam cannot be negated with a shot.
+      Watch its movements and dodge carefully.
+    </text>
+    <text name="tip_089" id="641238349" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Koco will run away from Sonic.
+      Carefully consider an approach to successfully lead them to the goal!
+    </text>
+    <text name="tip_090" id="641238467" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Mow lots grass at once to earn more points.
+      Try to enclose as much area as possible in one Cyloop.
+    </text>
+    <text name="tip_091" id="641238468" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When a Koco's bomb explodes, it whips up a sandstorm.
+      In the sandstorm, use the Koco sound to find them.
+    </text>
+    <text name="tip_092" id="641238469" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If the TOWER is going too fast for Sonic to pass under it, try to carry only a few Koco at a time!
+    </text>
+    <text name="tip_093" id="641238470" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Find a way to attack the TOWER's weak point directly on the head.
+    </text>
+    <text name="tip_094" id="641238471" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Be careful not to let the containers or Sonic fall into the lava!
+      Some footholds will collapse if Sonic steps on them.
+    </text>
+    <text name="tip_095" id="641238472" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use the Springs and Rainbow Rings to reach the goal within the time limit!
+    </text>
+    <text name="tip_096" id="641238473" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Move <image name="button_left_stick_Wh" /> to the left or right to control the commander program.
+      Try not to get hit by enemy bullets.
+    </text>
+    <text name="tip_097" id="641238474" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the special gauge is full, the homing laser can be fired with <image name="button_left_Wh" />.
+      In a pinch, it can be used to eliminate enemy bullets!
+    </text>
+    <text name="tip_098" id="641238475" font="Range_FNT_tips" layout="Range_LAY_tips">
+      As long as the target core is defeated, the game will be cleared even if there are normal enemies still left.
+    </text>
+    <text name="tip_099" id="641238476" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Unsure how to proceed? Look at the objective in the upper right corner of the screen, or head in the direction of the ◇ symbol.
+    </text>
+    <text name="tip_100" id="641253453" font="Range_FNT_tips" layout="Range_LAY_tips">
+      In order to talk to Amy or the others, Sonic must stabilize their frequency.
+      Explore the islands and collect Memory Tokens to do so.
+    </text>
+    <text name="tip_101" id="641253454" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Open the Chaos Emerald Vault with a Vault Key obtained by completing Portal missions.
+    </text>
+    <text name="tip_102" id="641253455" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Portals are usually locked.
+      Unlock them by defeating guardians and using the Portal Gears they drop.
+    </text>
+    <text name="tip_103" id="641253456" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use the map as a guide for traveling.
+      Press <image name="button_view_Wh" /> to open the map.
+    </text>
+    <text name="tip_104" id="641253457" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Maps can be used in many ways.
+      To set a specific destination, set a map marker.
+    </text>
+    <text name="tip_105" id="641253458" font="Range_FNT_tips" layout="Range_LAY_tips">
+      After completing all Challenges on an island, Sonic will be able to fast travel to any Portal on the island.
+    </text>
+    <text name="tip_106" id="641253459" font="Range_FNT_tips" layout="Range_LAY_tips">
+      In addition to the normal Portals with missions, "Purple Portals" lead to fishing spots. Collect Purple Coins on the island and go fishing.
+    </text>
+    <text name="tip_107" id="641253460" font="Range_FNT_tips" layout="Range_LAY_tips">
+      In addition to Seeds, fishing yields items useful for progression, such as Memory Tokens, Portal Gears, and Vault Keys.
+    </text>
+    <text name="tip_108" id="641253461" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Fishing will sometimes yield "scrolls." These scrolls allow fast travel to the Elder Koco and Hermit Koco.
+    </text>
+    <text name="tip_109" id="641253462" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Elder Koco is a round, large Koco. If lost Koco are returned to him, he will raise Sonic's Ring capacity or speed level in return.
+    </text>
+    <text name="tip_110" id="641253580" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hermit Koco is a large, tall Koco.
+      He can increase Sonic's attack and defense with the seeds obtained on the island and also can redistribute the upgrades given by the Elder Koco.
+    </text>
+    <text name="tip_111" id="641253581" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Completing Challenges on the island will reveal part of the map.
+      Try to unlock as much of the map as possible.
+    </text>
+    <text name="tip_112" id="641253582" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When exploring and completing Challenges around the island, Sonic can get Red Seeds of Power and Blue Seeds of Defense.
+      Visit Hermit Koco to use them to improve Sonic's stats.
+    </text>
+    <text name="tip_113" id="641253583" font="Range_FNT_tips" layout="Range_LAY_tips">
+      After completing two Challenges that are near each other, an Ancients' rail will be drawn between them. This is useful for speedier travel.
+    </text>
+    <text name="tip_114" id="641253584" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When <image name="button_crosskey_left_Wh" /> is displayed in the upper right corner of the screen for tutorials, Challenges, or Island Mysteries, the details will be shown.
+    </text>
+    <text name="tip_115" id="641253585" font="Range_FNT_tips" layout="Range_LAY_tips">
+      As Sonic roams around the island, there will be times when he meets other characters.
+      Talk with them and hear their stories.
+    </text>
+    <text name="tip_116" id="641253586" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When an enemy is defeated, they can drop blue-colored Skill Pieces.
+      Collecting enough will give Skill Points, shown in the lower right corner.
+      These can be used to unlock Skills from the Pause Menu.
+    </text>
+    <text name="tip_117" id="641253587" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_start_Wh" /> to open the Pause Menu.
+      This grants access to Skills and various settings.
+    </text>
+    <text name="tip_118" id="641253588" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Some objects placed on the island are destructible and can contain items.
+    </text>
+    <text name="tip_119" id="641253589" font="Range_FNT_tips" layout="Range_LAY_tips">
+      On nights with a starfall, defeated enemies will be resurrected.
+      Destroyed objects will also be repaired and items can be obtained from them again.
+    </text>
+    <text name="tip_120" id="641253707" font="Range_FNT_tips" layout="Range_LAY_tips">
+      While exploring the island, an action notification may appear.
+      Press <image name="button_crosskey_down_Wh" /> to practice the actions.
+    </text>
+    <text name="tip_121" id="641253708" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Sonic cannot enter Portals or talk to NPCs during battle. Defeat the enemies around him first.
+    </text>
+    <text name="tip_122" id="641253709" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Koco lurk in various places on the island.
+      Find them and take them to Elder Koco!
+    </text>
+    <text name="tip_123" id="641253710" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When running low on Rings, use Cyloop on the surrounding grass, sand, or other ground to make Rings appear.
+    </text>
+    <text name="tip_124" id="641253711" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Sonic is able to climb up black walls.
+      He can also run up them while <image name="button_right_trigger_Wh" /> is pressed.
+    </text>
+    <text name="tip_125" id="641253712" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When there is a Chaos Emerald Vault or Portal nearby, icons will appear at the top center of the screen.
+    </text>
+    <text name="tip_126" id="641253713" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If Sonic boosts by pressing <image name="button_right_trigger_Wh" /> with the maximum number of Rings, his speed will greatly increase.
+    </text>
+    <text name="tip_127" id="641253714" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Some objects on the island can be used as shortcuts if activated.
+    </text>
+    <text name="tip_128" id="641253715" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Give Hermit Koco red fruit to raise Sonic's attack power, and blue fruit to raise Sonic's defense power.
+    </text>
+    <text name="tip_129" id="641253716" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Find and bring Koco to the Elder Koco. He will be able to raise Sonic's top speed and max Ring capacity. Elder Koco can also reset the upgrades.
+    </text>
+    <text name="tip_130" id="641253834" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Sonic's outfit can be changed by going to
+      Title Screen &gt; Extras &gt; Sonic Outfits
+    </text>
+    <text name="tip_131" id="641253835" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Access the Photo Mode from the Pause menu. Freely change the camera placement and angle as Sonic explores the islands!
+    </text>
+    <text name="tip_132" id="641253836" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the Juke Box is enabled, the island BGM can be changed. Head to Options to turn the Juke Box ON/OFF.
+    </text>
+    <text name="tip_133" id="641253837" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Find Sound Memories on the islands to unlock more songs for the Juke Box.
+    </text>
+    <text name="tip_134" id="641253838" font="Range_FNT_tips" layout="Range_LAY_tips">
+      To turn off the Slot Machine, head to Options &gt; Game Settings &gt; Starfall Slot Machine &gt; set to OFF.
+    </text>
+    <text name="tip_135" id="641253839" font="Range_FNT_tips" layout="Range_LAY_tips">
+      To turn off the Power Boost Scene, head to Options &gt; Game Settings &gt; Power Boost Scene &gt; set to OFF.
+    </text>
+    <text name="tip_136" id="641253840" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Cyber Space Challenge is a time attack mode in which a succession of Cyber Space Stages are played in a row. This mode can be accessed from the Title Screen.
+    </text>
+    <text name="tip_137" id="641253841" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Head to Options &gt; Game settings &gt; set Cyber Space Power Boost ON to use the Power Boost in Cyber Space.
+    </text>
+    <text name="tip_138" id="641253842" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Battle Rush is a timed battle mode in which enemies, guardians, and Titans can be fought. This mode can be accessed from the Title Screen.
+    </text>
+    <text name="tip_139" id="641253843" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Extreme difficulty can only be chosen when starting a new game. At this level, Sonic's stats will no longer increase and the enemies will be substantially stronger.
+    </text>
+    <text name="tip_140" id="641253961" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Holding <image name="button_right_Wh" /> on the ground and pressing <image name="button_left_trigger_Wh" /> will cause Sonic to spin. Release <image name="button_right_Wh" /> to unleash the Spin Dash. Using Spin Dash will use the boost gauge.
+    </text>
+    <text name="tip_141" id="641253962" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When in the air with no enemies nearby, hold <image name="button_left_trigger_Wh" /> and land to activate a Spin Dash. Using Spin Dash will use the boost gauge.
+    </text>
+    <text name="tip_142" id="641253963" font="Range_FNT_tips" layout="Range_LAY_tips">
+      In Cyber Space, Cyber Space Challenge, Battle Rush, and Action Chain Challenge, press <image name="button_left_trigger_Wh" />＋<image name="button_right_trigger_Wh" />＋<image name="button_view_Wh" /> to restart the Stage.
+    </text>
+    <text name="tip_143" id="641253964" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the Juke Box is ON, press <image name="button_crosskey_right_Wh" /> to change the song.
+      Hold it to open the song list.
+    </text>
+    <text name="tip_144" id="641253965" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Using Cyloop in a given location will start the Action Chain Challenge.
+      The higher the score multiplier, the faster the chain gauge will decrease.
+      Chain the actions well and get a high score!
+    </text>
+    <text name="tip_145" id="641253966" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Head to the Map &gt; Switch Maps to see the island completion rates.
+    </text>
+    <text name="tip_146" id="641253967" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Head to the Title Screen &gt; Extras to change friends' outfits and the island appearance.
+    </text>
+    <text name="tip_147" id="641253968" font="Range_FNT_tips" layout="Range_LAY_tips">
+      If you select "New Game+" on the Title Screen and load your game clear data, Sonic's skills and stats will carry over.
+    </text>
+    <text name="tip_148" id="641253969" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parrying normally will not work on THE END.
+    </text>
+    <text name="tip_149" id="641253970" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Perfect Parry will create an opening for attacks.
+    </text>
+    <text name="tip_150" id="641254088" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Find something else to do besides attacking THE END.
+    </text>
+    <text name="tip_151" id="641254089" font="Range_FNT_tips" layout="Range_LAY_tips">
+      THE END replenishes its energy from the fake moon. Is there a way to sever the connection?
+    </text>
+    <text name="tip_152" id="641254090" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Perfect Parry is effective against THE END. Use it against various attacks.
+    </text>
+    <text name="tip_153" id="641254091" font="Range_FNT_tips" layout="Range_LAY_tips">
+      THE END can't be defeated through dealing damage alone. Find something else to attack.
+    </text>
+    <text name="tip_154" id="641254092" font="Range_FNT_tips" layout="Range_LAY_tips">
+      THE END will sometimes target the Cyber Shield around Sonic's friends. Block the attack and protect the Cyber Shield.
+    </text>
+    <text name="tip_155" id="641254093" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Learn new Skills and continue on.
+    </text>
+    <text name="tip_156" id="641254094" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Learn new Skills and continue on.
+    </text>
+    <text name="tip_157" id="641254095" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Learn new Skills and continue on.
+    </text>
+    <text name="tip_158" id="641254096" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Gather Lookout Koco and unseal a Trial Tower.
+    </text>
+    <text name="tip_159" id="641254097" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Learn new Skills and continue on.
+    </text>
+    <text name="tip_160" id="641254215" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Learn new Skills and continue on.
+    </text>
+    <text name="tip_161" id="641254216" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Learn new Skills and continue on.
+    </text>
+    <text name="tip_162" id="641254217" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Gather Lookout Koco and unseal a Trial Tower.
+    </text>
+    <text name="tip_163" id="641254218" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Fight with everything learned so far.
+    </text>
+    <text name="tip_164" id="641254219" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Each character brings unique ways to tackle challenges. If a task is difficult, try swapping characters.
+    </text>
+    <text name="tip_165" id="641254220" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_bottom_Wh" /> to jump. Jumping is useful for going over obstacles and preventing falls.
+    </text>
+    <text name="tip_166" id="641254221" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_left_Wh" /> when the target cursor is displayed to perform a Homing Attack.
+    </text>
+    <text name="tip_167" id="641254222" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold down <image name="button_right_trigger_Wh" /> while moving, to boost in the direction the character is facing. Boosting consumes the boost meter.
+    </text>
+    <text name="tip_168" id="641254223" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_bottom_Wh" /> in midair to double jump. Double jumping allows the character to change direction and adjust their landing.
+    </text>
+    <text name="tip_169" id="641254224" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_bottom_Wh" /> after a Double Jump to activate Card Float. Hold <image name="button_bottom_Wh" /> to gently return to the ground.
+    </text>
+    <text name="tip_170" id="641254342" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use <image name="button_left_stick_Wh" />＋<image name="button_right_trigger_Wh" /> with MAX Rings to Card Spin Boost. While it's active, drift with <image name="button_l_stick_leftright_Wh" />＋<image name="button_right_Wh" />.
+    </text>
+    <text name="tip_171" id="641254343" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_left_Wh" /> with no target cursors to activate a Card Attack.
+    </text>
+    <text name="tip_172" id="641254344" font="Range_FNT_tips" layout="Range_LAY_tips">
+      After a Card Attack, use <image name="button_left_Wh" /> to activate Card Spin. Holding it will make Amy spin for longer, but she will get dizzy.
+    </text>
+    <text name="tip_173" id="641254345" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="button_left_Wh" /> to aim at multiple targets. Release <image name="button_left_Wh" /> after multiple target cursors appear to hit them all. Depending on the targets, they can all be taken out with one hit.
+    </text>
+    <text name="tip_174" id="641254346" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_right_Wh" /> in midair to activate Card Stomp and deal damage to enemies with the blow.
+    </text>
+    <text name="tip_175" id="641254347" font="Range_FNT_tips" layout="Range_LAY_tips">
+      After a Card Stomp, hold <image name="button_right_Wh" /> to do a High Card Jump.
+    </text>
+    <text name="tip_176" id="641254348" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the meter is full, activate Cyhammer with <image name="button_top_Wh" /> . Gather Rings and items to refill the meter. Use this near special signs to make objects and items appear.
+    </text>
+    <text name="tip_177" id="641254349" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Activate Card Spin with MAX Rings to spin faster, and Amy won't get dizzy.
+    </text>
+    <text name="tip_178" id="641254350" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Holding <image name="button_right_Wh" /> on the ground and pressing <image name="button_left_trigger_Wh" /> will cause Amy to spin. Release <image name="button_right_Wh" /> to unleash the Spin Dash. Using Spin Dash will use the boost gauge.
+    </text>
+    <text name="tip_179" id="641254351" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parrying is not contingent on timing.
+      Hold <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> to Parry, and attacks will be automatically repelled.
+    </text>
+    <text name="tip_180" id="641254469" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Enemies who are parried will have reduced health for a short while.
+    </text>
+    <text name="tip_181" id="641254470" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="button_bottom_Wh" /> after a Double Jump to glide. Knuckles can't glide forever and will gradually lose altitude. Use <image name="button_l_stick_leftright_Wh" /> to change direction.
+    </text>
+    <text name="tip_182" id="641254471" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Knuckles can climb not only green walls, but also red walls. Use <image name="button_right_trigger_Wh" /> to climb faster.
+    </text>
+    <text name="tip_183" id="641254472" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Activate Drill Spin Boost with <image name="button_left_stick_Wh" />＋<image name="button_right_trigger_Wh" /> with MAX Rings. Coming into contact with enemies will damage them during this move.
+    </text>
+    <text name="tip_184" id="641254473" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_left_Wh" />  with no target cursors to unleash a maximum 3-hit combo.
+    </text>
+    <text name="tip_185" id="641254474" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="button_left_Wh" /> to aim at multiple targets. Release <image name="button_left_Wh" /> after multiple target cursors appear to enter a drill spin state and hit them all.
+    </text>
+    <text name="tip_186" id="641254475" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_right_Wh" /> in midair to activate Heat Stomp. The resulting shockwave will damage enemies.
+    </text>
+    <text name="tip_187" id="641254476" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the meter is full, activate Cyknuckle with <image name="button_top_Wh" /> . Gather Rings and items to refill the meter. Use this near special signs to make objects and items appear.
+    </text>
+    <text name="tip_188" id="641254477" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Glide with MAX Rings and Knuckles will glide faster and hold altitude for longer.
+    </text>
+    <text name="tip_189" id="641254478" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Holding <image name="button_right_Wh" /> on the ground and pressing <image name="button_left_trigger_Wh" /> will cause Knuckles to spin. Release <image name="button_right_Wh" /> to unleash the Spin Dash. Using Spin Dash will use the boost gauge.
+    </text>
+    <text name="tip_190" id="641254596" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parrying is not contingent on timing.
+      Hold <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> to Parry, and attacks will be automatically repelled.
+    </text>
+    <text name="tip_191" id="641254597" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Enemies who are parried will have reduced defense for a short while.
+    </text>
+    <text name="tip_192" id="641254598" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="button_bottom_Wh" /> after a Double Jump to fly up and then parallel to the ground. Use <image name="button_left_stick_Wh" /> to move while in the air. Tails can't fly forever and will eventually get tired and lose altitude.
+    </text>
+    <text name="tip_193" id="641254599" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_left_stick_Wh" />＋<image name="button_right_trigger_Wh" /> with MAX Rings to use Cyclone Boost.
+      It can be activated in midair as well. Use <image name="button_left_stick_Wh" /> to steer.
+    </text>
+    <text name="tip_194" id="641254600" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_left_Wh" /> on land or in the air to throw wrenches forward.
+    </text>
+    <text name="tip_195" id="641254601" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="button_left_Wh" /> to use the Charged Wrench Attack. The wrenches will fly at target cursors and deal multiple hits to enemies.
+    </text>
+    <text name="tip_196" id="641254602" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="button_right_Wh" /> in midair to transform the blaster into a pile bunker and launch a diving attack.
+    </text>
+    <text name="tip_197" id="641254603" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the meter is full, fire the Cyblaster with <image name="button_top_Wh" /> . Gather Rings and items to refill the meter. Use this near special signs to make objects and items appear.
+    </text>
+    <text name="tip_198" id="641254604" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Fire a beam from the Cyclone with <image name="button_right_trigger_Wh" />＋<image name="button_left_Wh" /> with MAX Rings.
+      Aim the beam with <image name="button_l_stick_leftright_Wh" />.
+    </text>
+    <text name="tip_199" id="641254605" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Holding <image name="button_right_Wh" /> on the ground and pressing <image name="button_left_trigger_Wh" /> will cause Tails to spin. Release <image name="button_right_Wh" /> to unleash the Spin Dash. Using Spin Dash will use the boost gauge.
+    </text>
+    <text name="tip_200" id="641269582" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parrying is not contingent on timing.
+      Hold <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> to Parry, and attacks will be automatically repelled.
+    </text>
+    <text name="tip_201" id="641269583" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Enemies who are parried will have reduced attack power for a short while.
+    </text>
+    <text name="tip_202" id="641269584" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Talk to Map Koco with colors that match the character to unlock a portion of the map.
+    </text>
+    <text name="tip_203" id="641269585" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Talk to Skill Piece Koco with colors that match the character to gain Skill Pieces. Use them to unlock Skills and further explore the island.
+    </text>
+    <text name="tip_204" id="641269586" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Clear a Master Koco trial once, to be able to retake it again.
+    </text>
+    <text name="tip_205" id="641269587" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Cyloop around the spike bombs on the ground to launch them at its armor.
+    </text>
+    <text name="tip_206" id="641269588" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Dodge and jump to avoid the various shots and get closer.
+    </text>
+    <text name="tip_207" id="641269589" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Use Cyloop on the pedestal connected to GHOST to damage it. Take it down before it steals all the Rings.
+    </text>
+    <text name="tip_173_Steam" id="783362490" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="s_button_attack_Wh" /> to aim at multiple targets. Release <image name="s_button_attack_Wh" /> after multiple target cursors appear to hit them all. Depending on the targets, they can all be taken out with one hit.
+    </text>
+    <text name="tip_097_Steam" id="879667387" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the special gauge is full, the homing laser can be fired with <image name="s_button_attack_Wh" />.
+      In a pinch, it can be used to eliminate enemy bullets!
+    </text>
+    <text name="tip_000_Steam" id="1050910269" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Holding <image name="s_button_cyloop_Wh" /> while moving will leave a light trail.
+      If the light trail is enclosed, releasing <image name="s_button_cyloop_Wh" />, may cause various effects to happen.
+    </text>
+    <text name="tip_172_Steam" id="1093495993" font="Range_FNT_tips" layout="Range_LAY_tips">
+      After a Card Attack, use <image name="s_button_attack_Wh" /> to activate Card Spin. Holding it will make Amy spin for longer, but she will get dizzy.
+    </text>
+    <text name="tip_096_Steam" id="1189800890" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Move to the left or right to control the commander program.
+      Try not to get hit by enemy bullets.
+    </text>
+    <text name="tip_167_Switch" id="1364061637" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_171_Steam" id="1403629496" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="s_button_attack_Wh" /> with no target cursors to activate a Card Attack.
+    </text>
+    <text name="tip_021_Xbox" id="1526093095" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_042_Steam" id="1796613691" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the enemy's guard is up, use <image name="s_button_qsleft_Wh" /> or <image name="s_button_qsright_Wh" /> to get behind them.
+    </text>
+    <text name="tip_026_Steam" id="2020578113" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press and hold <image name="s_button_lightdash" /> near a line of Rings. Sonic will zoom through them.
+    </text>
+    <text name="tip_198_Steam" id="2063163837">
+      Fire a beam from the Cyclone with <image name="button_right_trigger_Wh" />＋<image name="s_button_attack_Wh" /> with MAX Rings.
+      Aim the beam with <image name="button_l_stick_leftright_Wh" />.
+    </text>
+    <text name="tip_025_Steam" id="2330711616" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="s_button_qsleft_Wh" /> or <image name="s_button_qsright_Wh" /> while moving, to quickly step to the left or right.
+      Use this to have Sonic avoid obstacles while running.
+    </text>
+    <text name="tip_197_Steam" id="2373297340" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the meter is full, fire the Cyblaster with <image name="s_button_cyloop_Wh" /> . Gather Rings and items to refill the meter. Use this near special signs to make objects and items appear.
+    </text>
+    <text name="tip_009_Steam" id="2554676038" font="Range_FNT_tips" layout="Range_LAY_tips">
+      During battle, Air Boost can lead to Homing Shot by pressing <image name="button_right_trigger_Wh" /> then <image name="s_button_attack_Wh" /> in the air.
+    </text>
+    <text name="tip_016_Steam" id="2752827330" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="s_button_cyloop_Wh" /> + <image name="button_right_Wh" /> when the prompt appears on the screen to launch Grand Slam.
+    </text>
+    <text name="tip_008_Steam" id="2864809541" font="Range_FNT_tips" layout="Range_LAY_tips">
+      During battle, it is possible to dodge into Wild Rush by pressing <image name="s_button_qsleft_Wh" /> or <image name="s_button_qsright_Wh" /> then <image name="s_button_attack_Wh" />.
+    </text>
+    <text name="tip_195_Steam" id="2993564346" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="s_button_attack_Wh" /> to use the Charged Wrench Attack. The wrenches will fly at target cursors and deal multiple hits to enemies.
+    </text>
+    <text name="tip_015_Steam" id="3062960833" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="s_button_attack_Wh" /> during a combo to launch a Cyclone Kick.
+    </text>
+    <text name="tip_187_Steam" id="3105546557" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the meter is full, activate Cyknuckle with <image name="s_button_cyloop_Wh" /> . Gather Rings and items to refill the meter. Use this near special signs to make objects and items appear.
+    </text>
+    <text name="tip_179_Steam" id="3217528768" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parrying is not contingent on timing.
+      Hold <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> to Parry, and attacks will be automatically repelled.
+    </text>
+    <text name="tip_142_Steam" id="3290243644" font="Range_FNT_tips" layout="Range_LAY_tips">
+      In Cyber Space, Cyber Space Challenge, Battle Rush, and Action Chain Challenge, press <image name="button_left_trigger_Wh" />＋<image name="button_right_trigger_Wh" />＋<image name="button_view_Wh" /> to restart the Stage. If the key configuration has been changed, the command to restart the Stage will also change.
+    </text>
+    <text name="tip_194_Steam" id="3303697849" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="s_button_attack_Wh" /> on land or in the air to throw wrenches forward.
+    </text>
+    <text name="tip_021_Switch" id="3365561416" font="Range_FNT_tips" layout="Range_LAY_tips" />
+    <text name="tip_006_Steam" id="3485076547" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="s_button_qsleft_Wh" /> or <image name="s_button_qsright_Wh" /> to Dodge.
+      Dodging is quicker than normal movement and is useful for avoiding enemy attacks.
+    </text>
+    <text name="tip_185_Steam" id="3725813563" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Hold <image name="s_button_attack_Wh" /> to aim at multiple targets. Release <image name="s_button_attack_Wh" /> after multiple target cursors appear to enter a drill spin state and hit them all.
+    </text>
+    <text name="tip_005_Steam" id="3795210050" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parrying is not contingent on timing. 
+      Hold <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> to stay in Parry, and Sonic will automatically repel attacks.
+    </text>
+    <text name="tip_020_Steam" id="3881379131" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="s_button_attack_Wh" /> when the target cursor is displayed to perform a Homing Attack.
+    </text>
+    <text name="tip_184_Steam" id="4035947066" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="s_button_attack_Wh" />  with no target cursors to unleash a maximum 3-hit combo.
+    </text>
+    <text name="tip_200_Steam" id="4038170175" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Parrying is not contingent on timing.
+      Hold <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> to Parry, and attacks will be automatically repelled.
+    </text>
+    <text name="tip_004_Steam" id="4105343553" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Press <image name="s_button_lockon_Wh" /> while the target cursor is displayed to lock on.
+      While locked on, the camera will automatically track the target.
+    </text>
+    <text name="tip_056_Steam" id="4118797758" font="Range_FNT_tips" layout="Range_LAY_tips">
+      Each attack can be parried. If Sonic is about to be attacked, hold <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> to parry it.
+    </text>
+    <text name="tip_176_Steam" id="4147929277" font="Range_FNT_tips" layout="Range_LAY_tips">
+      When the meter is full, activate Cyhammer with <image name="s_button_cyloop_Wh" /> . Gather Rings and items to refill the meter. Use this near special signs to make objects and items appear.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tips">
+      <typeface>RANGEmixStd</typeface>
+      <size>25</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tips">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>bottom</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

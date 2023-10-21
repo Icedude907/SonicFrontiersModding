@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5706_010" id="2998523079" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So, we've been following the Chaos Emeralds' trail, and Knuckles is here for the ruins... but what's Big doing here? I mean, not that there's anything wrong with just going fishing.
+    </text>
+    <text name="sb5706_020" id="2998523206" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Fishing? If you are talking about the purple portals, those are not real locations. They are a type of Cyber Space, recreated from your memories.
+    </text>
+    <text name="sb5706_030" id="2998523333" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I am not picking up any signals like those of the Doctor's, or your friends, from those areas. The Big the Cat that you saw is most probably an illusion recreated from your memory.
+    </text>
+    <text name="sb5706_040" id="2998523460" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The fact that you were able to converse with the illusion and believe it was real speaks to how vivid a memory you have of him. Normally, traveling between spaces is said to cause a feeling of danger, at such a level that even you would be able to pick up on it.
+    </text>
+    <text name="sb5706_050" id="2998523587" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well, it was just Big, so it didn't feel dangerous. But it's good to know that the real Big is out there, safe in the jungle somewhere.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

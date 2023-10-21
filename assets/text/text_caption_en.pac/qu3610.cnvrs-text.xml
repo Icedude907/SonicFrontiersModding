@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="qu3610_010" id="3075197526" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Whatever you did triggered an eruption! And the lava burned away the cloud bank and revealed... something... 
+    </text>
+    <text name="qu3610_020" id="3075197653" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I've seen my fair share of pinball machines. I know one when I see one. Were those really part of the original ruins?
+    </text>
+    <text name="qu3610_030" id="3075197780" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I mean, the tech here outpaces Eggman's and is older than "old." I guess the love of pinball predates civilization.
+    </text>
+    <text name="qu3610_040" id="3075197907" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic! That Titan down there... do you really plan on fighting that? Even as Super Sonic, that thing is...
+    </text>
+    <text name="qu3610_050" id="3075198034" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Keeping you, Amy, and Knuckles trapped. So yeah, I'm going to take it down.
+    </text>
+    <text name="qu3610_060" id="3075198161" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sit tight, partner. I'll take out this last Titan and get everyone back to normal!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

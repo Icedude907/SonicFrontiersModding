@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb4080_010" id="2359821875" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm so used to using the Chaos Emeralds it's kinda hard to accept they're from space.
+    </text>
+    <text name="sb4080_020" id="2359822002" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yes. They were central to the Ancients' power and native to their world.
+    </text>
+    <text name="sb4080_030" id="2359822129" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They are the only things that can awaken all the functions on the island, and were taken away with the last survivors to another land.
+    </text>
+    <text name="sb4080_040" id="2359822256" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Without the emeralds' power, the islands' functions eventually shut down.
+    </text>
+    <text name="sb4080_050" id="2359822383" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That is why I drew them here. I hoped to use the Ancients' technology to stop the emergence of their old foe.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

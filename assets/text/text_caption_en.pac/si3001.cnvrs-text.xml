@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="si3001_003" id="2903740488" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      One more round of Portals, keys and Emeralds…
+    </text>
+    <text name="si3001_005" id="2903740490" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I need to get the rest of the Emeralds!
+    </text>
+    <text name="si3001_009" id="2903740494" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I need back to hunting down those Emeralds.
+    </text>
+    <text name="si3001_020" id="2903740739" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tails has me worried…no. I’ve gotta have faith in him. I’m counting on him as much as he’s counting on me.
+    </text>
+    <text name="si3001_021" id="2903740740" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So much ruination…I wonder what it looked like during the Ancients’ time?
+    </text>
+    <text name="si3001_022" id="2903740741" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I think I’m setting a record for the number of times I’ve found the emeralds in such a short amount of time - haha!
+    </text>
+    <text name="si3001_023" id="2903740742" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I hope I can drop all this Cyber Energy once everyone’s safe. I’m not…feeling too great…
+    </text>
+    <text name="si3001_017a" id="3702838550" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I wonder if it’s too late to call Rouge and ask her to steal the other Emeralds for me?
+    </text>
+    <text name="si3001_017b" id="3702838551">
+      I bet Omega would’ve loved to take on those Titans.
+    </text>
+    <text name="si3001_017c" id="3702838552">
+      At this point, I wouldn’t mind Shadow lending me a hand…
+    </text>
+    <text name="si3001_018a" id="3702838677" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It’s so hot here… so why do I feel… cold?
+    </text>
+    <text name="si3001_018b" id="3702838678">
+      I feel like I can almost… hear Cyber Space?
+    </text>
+    <text name="si3001_018c" id="3702838679">
+      What I wouldn’t give to have Blaze’s help right about now.
+    </text>
+    <text name="si3001_019a" id="3702838804" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Amy said the first island was barely recovering from past devastation. I get the same feeling about this place.
+    </text>
+    <text name="si3001_019b" id="3702838805" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I bet Zavok would feel right at home here. Wonder how he’s doing? Terrible, I hope. HA!
+    </text>
+    <text name="si3001_019c" id="3702838806" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I wonder if there’s a palace hidden inside the volcano, like on Angel Island?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

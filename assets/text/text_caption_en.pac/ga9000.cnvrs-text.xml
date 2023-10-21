@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ga9725_010" id="8599499" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9710_010" id="29245255" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9840_010" id="49972165" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9841_010" id="310116806" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9740_010" id="360105668" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9870_010" id="380832578" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9871_010" id="640977219" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9715_010" id="1329968460" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9700_010" id="1350614216" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9830_010" id="1371341126" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9831_010" id="1631485767" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9860_010" id="1702201539" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9861_010" id="1962346180" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9760_010" id="2012335042" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9820_010" id="2692710087" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9821_010" id="2952854728" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9850_010" id="3023570500" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9721_010" id="3262988231" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9851_010" id="3283715141" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9750_010" id="3333704003" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9880_010" id="3354430913" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9722_010" id="3523132872" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9723_010" id="3783277513" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9810_010" id="4014079048" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9724_010" id="4043422154" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ga9811_010" id="4274223689" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

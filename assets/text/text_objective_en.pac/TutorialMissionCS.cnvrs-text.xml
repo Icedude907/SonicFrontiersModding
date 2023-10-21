@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="tu5000_045_Steam" id="18450111" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Enemies can be defeated with Homing Attacks by pressing <image name="s_button_attack" /> when a target cursor is on them.
+    </text>
+    <text name="tu5000_035_Steam" id="750699328" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      If a target cursor is shown on a Spring, do a Homing Attack by pressing <image name="s_button_attack" />.
+      Try attacking them to pull off a huge jump!
+    </text>
+    <text name="tu5000_015_Xbox" id="1583052833" />
+    <text name="tu5000_075_Steam" id="2116669756" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Press <image name="s_button_lightdash" /> when near a line of Rings.
+    </text>
+    <text name="tu5000_temp001" id="2394432090" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Activated by briefly pressing <image name="button_right" /> in the air.
+    </text>
+    <text name="tu5000_temp002" id="2394432091" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      
+      After a double jump (<image name="button_bottom" /> x2), press and hold <image name="button_bottom" /> again to perform a Drop Dash after landing.
+    </text>
+    <text name="tu5000_temp003" id="2394432092" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      During a boost (<image name="button_right_trigger" /> while moving), activate drift by simultaneously moving <image name="button_left_stick" /> to the left or right and pressing <image name="button_left_trigger" />.
+    </text>
+    <text name="tu5000_temp004" id="2394432093" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Press <image name="button_left_stick" /> when near a line of Rings.
+    </text>
+    <text name="tu5000_temp005" id="2394432094" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Activated by pressing and holding <image name="button_right" /> in the air. You can bounce off the ground and jump high. You can bounce up to 3 times.
+    </text>
+    <text name="tu5000_temp006" id="2394432095" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Press <image name="button_right" /> on the ground to activate sliding.
+      If you jump (<image name="button_bottom" />) while sliding, the back jump will be activated. While jumping back (<image name="button_left" />), jump kick to the target.
+    </text>
+    <text name="tu5000_temp007" id="2394432096" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      On the ground, you can press <image name="button_left_shoulder" /> or <image name="button_right_shoulder" /> to step left and right to avoid enemy attacks.
+      If you input continuously in the same direction, a twist jump will be activated, and (<image name="button_left" />) will rush while rotating to the target.
+    </text>
+    <text name="tu5000_temp008" id="2394432097" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      In the air, press <image name="button_left_shoulder" /> or <image name="button_right_shoulder" /> to fly left and right to avoid enemy attacks. At this time, if you attack the target with <image name="button_left" />, you can attack with a drop kick.
+    </text>
+    <text name="tu5000_010" id="2635230796" font="Range_FNT" layout="Range_LAY">
+      Moving
+    </text>
+    <text name="tu5000_015" id="2635230801" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Use <image name="button_left_stick" /> to move around.
+      Sonic will walk or run, depending on how much <image name="button_left_stick" /> is moved.
+      
+      Pressing <image name="button_right_trigger" /> will have Sonic boost in the same direction as <image name="button_left_stick" />. 
+    </text>
+    <text name="tu5000_020" id="2635230923" font="Range_FNT" layout="Range_LAY">
+      Jumping
+    </text>
+    <text name="tu5000_025" id="2635230928" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Press <image name="button_bottom" /> to jump.
+      Jump over obstacles that prevent Sonic from reaching the goal.
+      
+      Pressing <image name="button_bottom" /> in midair will cause Sonic to Double Jump.
+      Double Jump is useful to adjust where Sonic will land.
+    </text>
+    <text name="tu5000_030" id="2635231050" font="Range_FNT" layout="Range_LAY">
+      Homing Attack and Springs
+    </text>
+    <text name="tu5000_035" id="2635231055" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      If a target cursor is shown on a Spring, do a Homing Attack by pressing <image name="button_left" />.
+      Try attacking them to pull off a huge jump!
+    </text>
+    <text name="tu5000_040" id="2635231177" font="Range_FNT" layout="Range_LAY">
+      Homing Attack and enemies
+    </text>
+    <text name="tu5000_045" id="2635231182" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Enemies can be defeated with Homing Attacks by pressing <image name="button_left" /> when a target cursor is on them.
+    </text>
+    <text name="tu5000_050" id="2635231304" font="Range_FNT" layout="Range_LAY">
+      Drift while boosting
+    </text>
+    <text name="tu5000_055" id="2635231309" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      After using drift panel, activate drift by tilting <image name="button_left_stick" /> to the left or right.
+    </text>
+    <text name="tu5000_060" id="2635231431" font="Range_FNT" layout="Range_LAY">
+      Stomp and go
+    </text>
+    <text name="tu5000_065" id="2635231436" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Activated by briefly pressing <image name="button_right" /> in the air.
+    </text>
+    <text name="tu5000_070" id="2635231558" font="Range_FNT" layout="Range_LAY">
+      Light Dash
+    </text>
+    <text name="tu5000_075" id="2635231563" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Press <image name="button_left_stick" /> when near a line of Rings.
+    </text>
+    <text name="tu5000_015_Switch" id="2946174274" />
+    <text name="tu5000_015_PC" id="4128101505">
+      Use <image name="button_left_stick" /> to move around.
+      If using a controller with an analog stick, Sonic will walk
+      or run, depending on how much the analog stick is tilted. 
+      
+      Pressing <image name="button_right_trigger" /> will have Sonic boost in the same
+      direction he is moving.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

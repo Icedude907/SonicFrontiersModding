@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="hud_tokenitem_1" id="707454678" font="Range_FNT" layout="Range_LAY">
+      Portal Gear
+    </text>
+    <text name="hud_tokenitem_2" id="707454679" font="Range_FNT" layout="Range_LAY">
+      Egg Memo
+    </text>
+    <text name="hud_tokenitem_3" id="707454680" font="Range_FNT" layout="Range_LAY">
+      Amy's Memory Token
+    </text>
+    <text name="hud_tokenitem_4" id="707454681" font="Range_FNT" layout="Range_LAY">
+      Knuckles' Memory Token
+    </text>
+    <text name="hud_tokenitem_5" id="707454682" font="Range_FNT" layout="Range_LAY">
+      Tails' Memory Token
+    </text>
+    <text name="hud_tokenitem_6" id="707454683" font="Range_FNT" layout="Range_LAY">
+      Chaos Emerald Vault Key
+    </text>
+    <text name="hud_tokenitem_7" id="707454684" font="Range_FNT" layout="Range_LAY">
+      Red Seed of Power
+    </text>
+    <text name="hud_tokenitem_8" id="707454685" font="Range_FNT" layout="Range_LAY">
+      Blue Seed of Defense
+    </text>
+    <text name="hud_tokenitem_9" id="707454686" font="Range_FNT" layout="Range_LAY">
+      +<var name="token_coco" /> Lost Koco
+    </text>
+    <text name="hud_fishing_completerate" id="2457153110" font="Range_FNT" layout="Range_LAY">
+      Catch Completion
+    </text>
+    <text name="hud_fishing_time" id="2773751530" font="Range_FNT" layout="Range_LAY">
+      Number of casts
+    </text>
+    <text name="hud_fishing_num_complete" id="2997264111" font="Range_FNT" layout="Range_LAY">
+      Complete!
+    </text>
+    <text name="hud_tokenitem_soldout" id="3232595487" font="Range_FNT" layout="Range_LAY">
+      Sold Out
+    </text>
+    <text name="hud_tokenitem_full" id="3395578602" font="Range_FNT" layout="Range_LAY">
+      Full
+    </text>
+    <text name="menu_fishing_action_quitfish" id="3517299099" font="Range_FNT" layout="Range_LAY">
+      Quit
+    </text>
+    <text name="hud_fishing_num_completerate" id="3662841039" font="Range_FNT" layout="Range_LAY">
+      <var name="fish_comp" /> %
+    </text>
+    <text name="menu_fishing_w1_locationA" id="3727591676" font="Range_FNT" layout="Range_LAY">
+      Western Fishing Spot
+    </text>
+    <text name="menu_fishing_w1_locationB" id="3727591677" font="Range_FNT" layout="Range_LAY">
+      Northern Fishing Spot
+    </text>
+    <text name="menu_fishing_w1_locationC" id="3727591678" font="Range_FNT" layout="Range_LAY">
+      Eastern Fishing Spot
+    </text>
+    <text name="menu_fishing_w1_locationD" id="3727591679" font="Range_FNT" layout="Range_LAY">
+      Southern Fishing Spot
+    </text>
+    <text name="hud_tokenitem_10" id="3947398234" font="Range_FNT" layout="Range_LAY">
+      +<var name="token_ring" /> Rings
+    </text>
+    <text name="hud_tokenitem_11" id="3947398235" font="Range_FNT" layout="Range_LAY">
+      +<var name="token_skillp" /> Skill Pieces
+    </text>
+    <text name="hud_tokenitem_12" id="3947398236">
+      Sage's Memory Token
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb3030_010" id="1108981305" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This is not an ideal working condition. If I just had my body, I could be so much more efficient.
+    </text>
+    <text name="sb3030_020" id="1108981432" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Amy said she felt like she was in a dream. Does that sound about right?
+    </text>
+    <text name="sb3030_030" id="1108981559" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That's pretty accurate. I can think clearly and I'm aware, but there's no physicality to it. Everything feels just out of reach.
+    </text>
+    <text name="sb3030_040" id="1108981686" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Do you think that's why the Ancients made the Koco? To have something "real" to put their spirits into?
+    </text>
+    <text name="sb3030_050" id="1108981813" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's... one hypothesis. We certainly can't rule it out.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

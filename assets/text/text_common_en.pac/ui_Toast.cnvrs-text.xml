@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="toast_quest_start" id="109396333" font="Range_FNT" layout="Range_LAY">
+      START
+    </text>
+    <text name="toast_trainingroom_complete" id="164217963" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Loading completed
+    </text>
+    <text name="toast_quest_clear" id="225724664" font="Range_FNT" layout="Range_LAY">
+      CLEAR!!
+    </text>
+    <text name="toast_get_towerkoco_add" id="248320954" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Cleared the mission and got 1 additional Lookout Koco (<image name="exchara_guardian" />) !
+    </text>
+    <text name="toast_trainingroom_finish" id="251438053" font="Range_FNT" layout="Range_LAY">
+      FINISH!!
+    </text>
+    <text name="toast_map_hermitscroll" id="285946827" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_micon_hermit" /> Fast travel to Hermit Koco unlocked
+    </text>
+    <text name="toast_map_bothscroll" id="355534409" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_micon_elder" /> <image name="exchara_micon_hermit" /> Fast travel to Elder &amp; Hermit Koco unlocked
+    </text>
+    <text name="toast_quest_failed" id="374867314" font="Range_FNT" layout="Range_LAY">
+      FAILED
+    </text>
+    <text name="toast_release_tower" id="476684569" font="Range_FNT_toast" layout="Range_LAY_toast">
+      A Trial Tower was unsealed and can now be ascended.
+    </text>
+    <text name="toast_use_lightpillar" id="536324624" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Unsealed with one Vault Key
+    </text>
+    <text name="toast_lvup_power" id="912411555" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_pow" /> Power level raised!  <var name="prev_level" /> <image name="exchara_arrow_right" /> <var name="new_level" /> 
+    </text>
+    <text name="toast_lvup_MaxRing" id="1238175762" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_ring" /> Ring level raised!  <var name="prev_level" /> <image name="exchara_arrow_right" /> <var name="new_level" /> 
+    </text>
+    <text name="toast_lvup_defense" id="1355895550" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_def" /> Defense level raised!  <var name="prev_level" /> <image name="exchara_arrow_right" /> <var name="new_level" /> 
+    </text>
+    <text name="toast_lvup_boost" id="1565226625" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Boost Gauge raised!
+    </text>
+    <text name="toast_birthday" id="1718826517" font="Range_FNT_toast" layout="Range_LAY_toast">
+      HAPPY BIRTHDAY SONIC!
+    </text>
+    <text name="toast_map_elderscroll" id="1739276796" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_micon_elder" /> Fast travel to Elder Koco unlocked
+    </text>
+    <text name="toast_fishing_token" id="1813462540" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Got 1 token!
+    </text>
+    <text name="toast_map_fasttravel_portal" id="1935271674" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_micon_portal" /> Fast travel to all Portals unlocked
+    </text>
+    <text name="toast_extra_bonus" id="1937249112" font="Range_FNT_toast" layout="Range_LAY_toast">
+      BONUS!! ×<var name="extra_bonus" />
+    </text>
+    <text name="toast_get_lightpillars" id="2213165268" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Got <var name="safe_key" /> <image name="exchara_skill_Ekey" /> Vault Keys!
+    </text>
+    <text name="toast_get_towerkoco" id="2299536440" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Got 1 Lookout Koco (<image name="exchara_guardian" />) !
+    </text>
+    <text name="toast_get_towerkocos_add" id="2375770557" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Cleared the missions and got <var name="safe_key" /> additional Lookout Koco (<image name="exchara_guardian" />) !
+    </text>
+    <text name="toast_lvup_both" id="2379630051" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_def" /> Defense level raised!  <var name="prev_level_def" /> <image name="exchara_arrow_right" /> <var name="new_level_def" />   <image name="exchara_level_pow" /> Power level raised!　 <var name="prev_level_pow" /> <image name="exchara_arrow_right" /> <var name="new_level_pow" /> 
+    </text>
+    <text name="toast_fishing_fishup_1" id="2501299506" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Hooked <var name="fish_name" />!
+    </text>
+    <text name="toast_fishing_fishup_2" id="2501299507" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Nice, caught <var name="fish_name" />!
+    </text>
+    <text name="toast_fishing_fishup_3" id="2501299508" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Excellent! It's <var name="fish_name" />!
+    </text>
+    <text name="toast_fishing_fishup_4" id="2501299509" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Fantastic catch! It's <var name="fish_name" />!
+    </text>
+    <text name="toast_lvup_speedtoring" id="2559788784" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_speed" /> Decreased Speed level <var name="prev_level_speed" />  <image name="exchara_arrow_right" /> <var name="new_level_speed" />　<image name="exchara_level_ring" /> Raised Ring level <var name="prev_level_ring" />  <image name="exchara_arrow_right" /> <var name="new_level_ring" /> 
+    </text>
+    <text name="toast_fishing_tokens" id="2676476007" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Got <var name="token_num" /> tokens!
+    </text>
+    <text name="toast_trainingroom_complete_ps5" id="2736162366" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Waiting completed
+    </text>
+    <text name="toast_lvup_MaxSpeed" id="2903837125" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_speed" /> Speed level raised!  <var name="prev_level" /> <image name="exchara_arrow_right" /> <var name="new_level" /> 
+    </text>
+    <text name="toast_release_safe" id="3248066525" font="Range_FNT_toast" layout="Range_LAY_toast">
+      A Vault was unsealed and can now be opened with a <image name="exchara_skill_Ekey" /> Vault Key.
+    </text>
+    <text name="toast_trainingroom_ready" id="3284404881" font="Range_FNT" layout="Range_LAY">
+      READY
+    </text>
+    <text name="toast_lvup_ringtospeed" id="3356100506" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_level_ring" /> Decreased Ring level <var name="prev_level_ring" />  <image name="exchara_arrow_right" /> <var name="new_level_ring" />　<image name="exchara_level_speed" /> Raised Speed level <var name="prev_level_speed" />  <image name="exchara_arrow_right" /> <var name="new_level_speed" />
+    </text>
+    <text name="toast_get_lightpillar_add" id="3371366561" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Cleared the mission and got 1 additional <image name="exchara_skill_Ekey" /> Vault Key!
+    </text>
+    <text name="toast_use_lightpillars" id="3688717923" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Unlocked with <var name="safe_key" /> <image name="exchara_skill_Ekey" /> Vault Keys
+    </text>
+    <text name="toast_get_lightpillar" id="3703658271" font="Range_FNT_toast" layout="Range_LAY_toast">
+      <image name="exchara_skill_Ekey" /> Got 1 Vault Key!
+    </text>
+    <text name="toast_get_lightpillars_add" id="3865571414" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Cleared the missions and got <var name="safe_key" /> additional <image name="exchara_skill_Ekey" /> Vault Keys!
+    </text>
+    <text name="toast_get_towerkocos" id="4278319163" font="Range_FNT_toast" layout="Range_LAY_toast">
+      Got <var name="safe_key" /> Lookout Koco (<image name="exchara_guardian" />) !
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_toast">
+      <typeface>RANGEmixStd</typeface>
+      <size>48</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1069547520</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY_toast">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

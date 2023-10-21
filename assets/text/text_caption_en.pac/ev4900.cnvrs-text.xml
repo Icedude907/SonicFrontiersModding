@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev4900_010" id="4268165222" font="Range_FNT" layout="Range_LAY">
+      Shut down 6 towers
+    </text>
+    <text name="ev4900_020" id="4268165349" font="Range_FNT" layout="Range_LAY">
+      Shut down 5 towers
+    </text>
+    <text name="ev4900_030" id="4268165476" font="Range_FNT" layout="Range_LAY">
+      Shut down 4 towers
+    </text>
+    <text name="ev4900_040" id="4268165603" font="Range_FNT" layout="Range_LAY">
+      Shut down 3 towers
+    </text>
+    <text name="ev4900_050" id="4268165730" font="Range_FNT" layout="Range_LAY">
+      Shut down 2 towers
+    </text>
+    <text name="ev4900_060" id="4268165857" font="Range_FNT" layout="Range_LAY">
+      Shut down the last tower
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

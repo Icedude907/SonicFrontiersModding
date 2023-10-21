@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="si1000_135" id="4108110793" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh man! That's just begging to be climbed! Imagine the view!
+    </text>
+    <text name="si1000_136" id="4108110794" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Cool giant mirror-web-thing!
+    </text>
+    <text name="si1000_137" id="4108110795" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      These look like... homes? I wonder who used to live here?
+    </text>
+    <text name="si1000_138" id="4108110796" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eggman tech! Seems abandoned, though. Still, better keep on my toes.
+    </text>
+    <text name="si1000_140" id="4108110915" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What a view! Makes me think of the falls in Mystic Ruins.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

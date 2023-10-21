@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3120_010" id="543777245" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ve lost count of how many times you’ve saved me from the hazards here.
+    </text>
+    <text name="ev3120_020" id="543777372" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It is my function. I live to serve.
+    </text>
+    <text name="ev3120_030" id="543777499" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You’ve exceeded your function! I’m very impressed with you, Sage. No! I’m proud of you!
+    </text>
+    <text name="ev3120_040" id="543777626" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Thank you fa… for your kind words.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

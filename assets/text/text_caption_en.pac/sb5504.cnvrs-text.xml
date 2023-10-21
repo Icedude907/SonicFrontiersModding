@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5504_010" id="3098500803" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tails, do you think you can access Cyber Space?
+    </text>
+    <text name="sb5504_020" id="3098500930" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      No, it looks like I can't get through whatever's blocking access by myself.
+    </text>
+    <text name="sb5504_030" id="3098501057" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm counting on you, Knuckles. We need to get those Emeralds!
+    </text>
+    <text name="sb5504_040" id="3098501184" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Don't worry, I got this! No one can beat me when it comes to power!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

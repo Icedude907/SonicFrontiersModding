@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb3090_010" id="1770702131" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey again. Since we've grown so close, how about helping me out?
+    </text>
+    <text name="sb3090_020" id="1770702258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have run the simulations. Sharing data will not change the outcome.
+    </text>
+    <text name="sb3090_030" id="1770702385" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You're always talking about odds and simulations, but we living beings don't live by calculations.
+    </text>
+    <text name="sb3090_040" id="1770702512" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The will to live, the drive to achieve, the desire to protect the ones you love - that kind of thing can grant a power you can't imagine.
+    </text>
+    <text name="sb3090_050" id="1770702639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      "Love" can be converted into "power"? Do you have any data to back this proposed conversion?
+    </text>
+    <text name="sb3090_060" id="1770702766" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nope. That's what makes it miraculous. But if you really need proof, I'll whip you up a miracle by the end of all this. You'll see!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1730_010" id="3121072996" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Every time I interact with Cyber Space I'm getting more corrupted!
+    </text>
+    <text name="ev1730_020" id="3121073123" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This... is what Sonic was dealing with this whole time.
+      I knew he was sick, but I never realized it was like this. 
+    </text>
+    <text name="ev1730_030" id="3121073250" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If I'm going to be at his side, then I need to keep at his pace!
+      I won't let this stop me!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

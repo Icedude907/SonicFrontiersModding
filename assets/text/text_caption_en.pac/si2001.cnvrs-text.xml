@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="si2001_005" id="3635989707" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Those Emeralds aren’t going to find themselves!
+    </text>
+    <text name="si2001_008" id="3635989710" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I should get back to hunting down the Emeralds.
+    </text>
+    <text name="si2001_009" id="3635989711" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I should see how Knuckles is coming along.
+    </text>
+    <text name="si2001_015" id="3635989834" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What is Knuckles doing here?
+    </text>
+    <text name="si2001_017" id="3635989836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That floating girl is really testing my patience.
+    </text>
+    <text name="si2001_018" id="3635989837" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I bet Rouge would love to go treasure hunting in these ruins!
+    </text>
+    <text name="si2001_019" id="3635989838" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Kinda reminds me of where we found Babylon Garden. I wonder what Jet’s up to...?
+    </text>
+    <text name="si2001_020" id="3635989956" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The Koco don’t seem like the type to build these ruins. I wonder…
+    </text>
+    <text name="si2001_021" id="3635989957" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Those creatures in the visions. They remind me of…
+    </text>
+    <text name="si2001_023" id="3635989959" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Great, I’ve got sand in my shoes!
+    </text>
+    <text name="si2001_024" id="3635989960" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What is the connection between the Ancients and Angel Island? Is there one?
+    </text>
+    <text name="si2001_027" id="3635989963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This place is making me miss the curry in Shamar. I should go back there someday!
+    </text>
+    <text name="si2001_028" id="3635989964" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’m almost getting Sandopolis vibes from some regions. Weird.
+    </text>
+    <text name="si2001_029" id="3635989965" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It’s dry, but there’s no ghosts. I’ll take my ghost-free desert, thank you.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

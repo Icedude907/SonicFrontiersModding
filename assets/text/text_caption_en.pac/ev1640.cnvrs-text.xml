@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1640_010" id="2109837538" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I was once the protege to our greatest hero.
+      I helped design and construct the Titans.
+    </text>
+    <text name="ev1640_020" id="2109837665" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The fact you could overcome my designs is... inconceivable.
+      I need more data. Help me understand just what you are!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

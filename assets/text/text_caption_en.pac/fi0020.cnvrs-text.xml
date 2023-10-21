@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="fi0020_010" id="1525781201" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey, you've got a bite.
+      Sonic, I'll leave it to you to pull it up.
+    </text>
+    <text name="fi0020_020" id="1525781328" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Can you see the red ripples? When the white ripple overlaps with the red one, lift your rod up quickly. 
+    </text>
+    <text name="fi0020_050" id="1525781709" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Wow. Awesome! You've caught it already!
+    </text>
+    <text name="fi0020_060" id="1525781836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nice catch, Sonic! I'll trade you a token for any fish you catch.
+    </text>
+    <text name="fi0020_065" id="1525781841">
+      If you get plenty of tokens, I'll trade them for some of the treasures I've found. Just tell me what you want!
+    </text>
+    <text name="fi0020_070" id="1525781963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Froggy really likes those Purple Coins. If you bring me one, I'll let you borrow my rod again.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

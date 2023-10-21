@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5206_010" id="254223298" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There's so much happening on this island. It's beyond my comprehension. It all seems like magic to me.
+    </text>
+    <text name="sb5206_020" id="254223425" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmph, here's a word of advice. A scientist shouldn't explain things using the word "magic".
+    </text>
+    <text name="sb5206_030" id="254223552" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It's true there are many things that can't be explained with our current knowledge. The Ancients were a technologically advanced civilization. Everything we've seen is nothing more than phenomena that were common at the time.
+    </text>
+    <text name="sb5206_040" id="254223679" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I assure you, there is no such thing as magic on this island. Just you watch, I will uncover the truth behind everything.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

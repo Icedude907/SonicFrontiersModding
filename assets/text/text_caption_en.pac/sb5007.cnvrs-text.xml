@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5007_010" id="1134634945" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What was that upside-down pyramid thing on Kronos Island?
+    </text>
+    <text name="sb5007_020" id="1134635072" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      According to the information I've gathered in Cyber Space, it's a terminal created by the Ancients to get in and out of their spaceships.
+    </text>
+    <text name="sb5007_030" id="1134635199" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      When they first arrived on this planet, they used their spaceship as a base of operations. They needed time to investigate whether the islands were habitable. They built a terminal to travel back and forth between the island and their ships.
+    </text>
+    <text name="sb5007_040" id="1134635326" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There were terminals built on other islands, but they were different in design. 
+    </text>
+    <text name="sb5007_050" id="1134635453" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They've ceased to function. All that remains of the terminals is the wreckage of the elevators that were used for boarding.
+    </text>
+    <text name="sb5007_060" id="1134635580" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If you're curious, go and find the remains. But only if you're able to sort out the situation here first, that is.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

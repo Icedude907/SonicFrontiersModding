@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5605_010" id="3048511941" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I was surprised when the Death Egg Robot blasted a hole in the ground. There were similar robots on other islands, but why was the one on Chaos Island the only one able to do that?
+    </text>
+    <text name="sb5605_020" id="3048512068" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Because that was the one that the Doctor was riding when he arrived at the Starfall Islands. It's equipped for battle and has consoles for investigating the islands and ruins.
+    </text>
+    <text name="sb5605_030" id="3048512195" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      When he descended on the island, he used a miniature vehicle instead to head into the ruins. There, he obtained a massive amount of data regarding ancient technology and transitioned into Cyber Space.
+    </text>
+    <text name="sb5605_040" id="3048512322" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Many threats awaited him there. After eradicating them, I returned to the Starfall Islands, but the Death Egg Robot was already damaged by then, presumably by the heat and smoke from a volcano.
+    </text>
+    <text name="sb5605_050" id="3048512449" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So, in order to continue our investigation of the island, we composed downgraded versions of the robot he was originally riding, and placed them in various locations.
+    </text>
+    <text name="sb5605_060" id="3048512576" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So that's why the original Death Egg Robot on Chaos Island was the only one that could shoot beams and had consoles installed. We wouldn't have been able to find the underground passageway without it.
+    </text>
+    <text name="sb5605_070" id="3048512703" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I did not expect Sonic to hack into it... But if he was able to reboot it successfully, we should repair the original robot and add it to our ranks. That is, if we can get it ready in time for our foe's appearance.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

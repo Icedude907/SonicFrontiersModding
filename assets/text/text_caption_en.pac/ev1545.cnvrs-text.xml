@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1545_010" id="3720694246" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev1545_015" id="3720694251" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hrm? Who goes there!?
+      Oh, the one who traverses the dimensions.
+      I trust you've been well.
+    </text>
+    <text name="ev1545_020" id="3720694373" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hello. I’m sorry to disturb you, but you may be our last hope.
+      Can you tell me what happened to the Chaos Emeralds?
+    </text>
+    <text name="ev1545_025" id="3720694378" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The enemy is trying to break the seal and escape the Digital Dream.
+      We have used our technology to combine and hide the Chaos Emeralds.
+    </text>
+    <text name="ev1545_030" id="3720694500" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Thanks for the insight! We won't let you down!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5203_010" id="3768756671" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Don't you think I could have been more helpful to Sonic if I had my normal body back?
+    </text>
+    <text name="sb5203_020" id="3768756798" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      For sure. In this digitized state, there's a limit to how much we can affect the real world...
+    </text>
+    <text name="sb5203_030" id="3768756925" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But there may be ways to help from Cyber Space, like how we combined our powers to turn Sonic back to normal.
+    </text>
+    <text name="sb5203_040" id="3768757052" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That's true. There must be things only we can do in this form!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="menu_skill_exp" id="1207824655" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
+      Skill Points
+    </text>
+    <text name="menu_skill_release" id="1421423769" font="Range_FNT" layout="Range_LAY">
+      Skill Point cost
+    </text>
+    <text name="menu_skill_acquired" id="2182601820" font="Range_FNT" layout="Range_LAY">
+      Unlocked
+    </text>
+    <text name="menu_skill_lvup" id="3084182995" font="Range_FNT" layout="Range_LAY">
+      Upgrade
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_HUDdeco_light">
+      <typeface>RANGEmixStd</typeface>
+      <size>22</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1065353216</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

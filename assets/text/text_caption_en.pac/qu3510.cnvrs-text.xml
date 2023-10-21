@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="qu3510_010" id="3385331029" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Woo! That did the trick.
+    </text>
+    <text name="qu3510_020" id="3385331156" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yup! It revealed a subterranean pathway!
+    </text>
+    <text name="qu3510_030" id="3385331283" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Be careful, though. Whatever took out that super badnik might still be lurking around.
+    </text>
+    <text name="qu3510_040" id="3385331410" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I hear that. Thanks, buddy! I'll see you later.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

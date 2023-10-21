@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="qu3600_010" id="101599191" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I've been studying this door while you were exploring the island.
+      It sounded like it unlocked from the inside!
+    </text>
+    <text name="qu3600_020" id="101599318" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Great. So how do we open it?
+    </text>
+    <text name="qu3600_030" id="101599445" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      See that switch next to the door? I think it'll react to the cyber-energy stored in your body.
+    </text>
+    <text name="qu3600_040" id="101599572" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      There's no telling what's on the other side, but I'm betting it's important.
+      Approach it whenever you're ready.
+    </text>
+    <text name="qu3600_050" id="101599699" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm always ready.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

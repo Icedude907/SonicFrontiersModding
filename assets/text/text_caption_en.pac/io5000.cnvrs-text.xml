@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="io5000_010_AM" id="399419034" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Nothing's inside.
+    </text>
+    <text name="io5000_010_KN" id="399420305" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Darn! It's empty.
+    </text>
+    <text name="io5000_010_SN" id="399421321" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmm, looks broken.
+    </text>
+    <text name="io5000_010_TA" id="399421435" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Seems it stopped working a long time ago.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

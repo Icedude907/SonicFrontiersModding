@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev2150_010" id="1606886875" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They're... gone. It killed them.
+    </text>
+    <text name="ev2150_020" id="1606887002" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Not bad. Things would’ve been over faster if I’d been “Super Knuckles,” but you did all right.
+    </text>
+    <text name="ev2150_030" id="1606887129" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah, you keep telling yourself that.
+    </text>
+    <text name="ev2150_040" id="1606887256" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I’ve got one more titan-bot to go. Hopefully I’ll find Tails too. I’m worried about him.
+    </text>
+    <text name="ev2150_050" id="1606887383" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      He’ll be all right. Now hurry up and save the day already.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

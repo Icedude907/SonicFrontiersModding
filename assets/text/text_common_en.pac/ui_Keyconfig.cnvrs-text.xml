@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="menu_keyconfig_mtips" id="304999207" font="Range_FNT_mtips" layout="Range_LAY_mtips">
+      Press the key (button) you wish to assign. Use the ESC key to return to Settings.
+    </text>
+    <text name="keyconfig_ui_01" id="316436238" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Move cursor up
+    </text>
+    <text name="keyconfig_ui_02" id="316436239" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Move cursor down
+    </text>
+    <text name="keyconfig_ui_03" id="316436240" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Move cursor left
+    </text>
+    <text name="keyconfig_ui_04" id="316436241" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Move cursor right
+    </text>
+    <text name="keyconfig_ui_05" id="316436242" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Tab left
+    </text>
+    <text name="keyconfig_ui_06" id="316436243" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Tab right
+    </text>
+    <text name="keyconfig_ui_07" id="316436244" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Confirm
+    </text>
+    <text name="keyconfig_ui_08" id="316436245" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Cancel
+    </text>
+    <text name="keyconfig_ui_09" id="316436246" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Move to Cyber-space
+    </text>
+    <text name="keyconfig_ui_10" id="316436364" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Return to default
+    </text>
+    <text name="keyconfig_ui_11" id="316436365" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      UI: Reset map
+    </text>
+    <text name="keyconfig_ui_12" id="316436366" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
+    <text name="keyconfig_ui_13" id="316436367" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
+    <text name="keyconfig_ui_14" id="316436368" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
+    <text name="keyconfig_ui_15" id="316436369" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
+    <text name="keyconfig_action_00" id="743030667" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      placeholder
+    </text>
+    <text name="keyconfig_action_01" id="743030668" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Move camera up
+    </text>
+    <text name="keyconfig_action_02" id="743030669" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Move camera down
+    </text>
+    <text name="keyconfig_action_03" id="743030670" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Move camera left
+    </text>
+    <text name="keyconfig_action_04" id="743030671" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Move camera right
+    </text>
+    <text name="keyconfig_action_05" id="743030672" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Move forward
+    </text>
+    <text name="keyconfig_action_06" id="743030673" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Move back
+    </text>
+    <text name="keyconfig_action_07" id="743030674" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Move left
+    </text>
+    <text name="keyconfig_action_08" id="743030675" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Move right
+    </text>
+    <text name="keyconfig_action_09" id="743030676" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Quick step left
+    </text>
+    <text name="keyconfig_action_10" id="743030794" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Quick step right
+    </text>
+    <text name="keyconfig_action_11" id="743030795" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Jump
+    </text>
+    <text name="keyconfig_action_12" id="743030796" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Boost
+    </text>
+    <text name="keyconfig_action_13" id="743030797" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Cyloop
+    </text>
+    <text name="keyconfig_action_14" id="743030798" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Attack
+    </text>
+    <text name="keyconfig_action_15" id="743030799" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Stomp Attack
+    </text>
+    <text name="keyconfig_action_16" id="743030800" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Sonic Boom
+    </text>
+    <text name="keyconfig_action_17" id="743030801" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Lock on
+    </text>
+    <text name="keyconfig_action_18" id="743030802" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Cyber-space/Song selection down
+    </text>
+    <text name="keyconfig_action_19" id="743030803" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Stop slot machine/Song selection up
+    </text>
+    <text name="keyconfig_action_20" id="743030921" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Pause menu
+    </text>
+    <text name="keyconfig_action_21" id="743030922" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Map
+    </text>
+    <text name="keyconfig_action_22" id="743030923" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Light Dash
+    </text>
+    <text name="keyconfig_action_23" id="743030924" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Show Tutorial again
+    </text>
+    <text name="keyconfig_action_24" id="743030925" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Change song
+    </text>
+    <text name="keyconfig_action_25" id="743030926" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Card Spin Boost
+    </text>
+    <text name="keyconfig_action_26" id="743030927" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Cyhammer
+    </text>
+    <text name="keyconfig_action_27" id="743030928" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Card Attack
+    </text>
+    <text name="keyconfig_action_28" id="743030929" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Drift
+    </text>
+    <text name="keyconfig_action_29" id="743030930" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Light Dash (unavailable)
+    </text>
+    <text name="keyconfig_action_30" id="743031048" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Lock On (unavailable)
+    </text>
+    <text name="keyconfig_action_31" id="743031049" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Drill Spin Boost
+    </text>
+    <text name="keyconfig_action_32" id="743031050" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Cyknuckle
+    </text>
+    <text name="keyconfig_action_33" id="743031051" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Heat Stomp
+    </text>
+    <text name="keyconfig_action_34" id="743031052" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Sonic Boom (unavailable)
+    </text>
+    <text name="keyconfig_action_35" id="743031053" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Cyclone Boost
+    </text>
+    <text name="keyconfig_action_36" id="743031054" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Cyblaster
+    </text>
+    <text name="keyconfig_action_37" id="743031055" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
+      ACT: Spike Stomp
+    </text>
+    <text name="notice_keyconfig_nochange" id="799397206" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      Return without changing settings?
+    </text>
+    <text name="notice_keyconfig_error" id="2043894947" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      An item has not been setup
+    </text>
+    <text name="notice_keyconfig_overwrite" id="3889437958" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
+      This key (button) is already being used. Do you wish to proceed with the current settings?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_mtips">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>8</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_menuitem">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT_tutorial_detail">
+      <typeface>RANGEmixStd</typeface>
+      <size>30</size>
+      <lineSpacing>12</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_mtips">
+      <textAlignment>center</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_menuitem">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+    <layout name="Range_LAY_tutorial_detail">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

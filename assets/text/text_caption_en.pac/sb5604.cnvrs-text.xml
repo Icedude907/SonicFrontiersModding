@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb5604_010" id="2788367300" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey Tails, how's the whole cyber corruption thing going?
+    </text>
+    <text name="sb5604_020" id="2788367427" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I've been making good progress breaking all sorts of stuff. If you need my strength, let me know!
+    </text>
+    <text name="sb5604_030" id="2788367554" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm good for now. You've been a great help, Knuckles.
+    </text>
+    <text name="sb5604_040" id="2788367681" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Now I just need to get the Emeralds before the cyber corruption gets worse!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="technique_000_name" id="77418761" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Root (placeholder)
+    </text>
+    <text name="technique_013_name" id="98145671" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Aerial Combo Finish Right
+    </text>
+    <text name="technique_026_name" id="118872581" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Stomping Combo Finish
+    </text>
+    <text name="technique_039_name" id="139599491" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Sliding Combo Finish
+    </text>
+    <text name="technique_052_name" id="178980620" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Dash Combo Finish Back
+    </text>
+    <text name="technique_065_name" id="199707530" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech" />
+    <text name="technique_003_name" id="408279174" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Homing Attack
+    </text>
+    <text name="technique_016_name" id="429006084" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Wraparound Finish Back
+    </text>
+    <text name="technique_029_name" id="449732994" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Stomping Combo Finish Left
+    </text>
+    <text name="technique_042_name" id="489114123" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Sliding Combo Finish Left
+    </text>
+    <text name="technique_055_name" id="509841033" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Bound Jump
+    </text>
+    <text name="technique_068_name" id="530567943" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech" />
+    <text name="technique_006_name" id="739139587" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Homing Combo Finish Back
+    </text>
+    <text name="technique_019_name" id="759866497" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Pursuit Kick
+    </text>
+    <text name="technique_032_name" id="799247626" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Kick Combo Finish
+    </text>
+    <text name="technique_045_name" id="819974536" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Rotary rush Combo Finish
+    </text>
+    <text name="technique_058_name" id="840701446" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Quick Cyloop
+    </text>
+    <text name="technique_009_name" id="1070000000" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Aerial Combo Finish
+    </text>
+    <text name="technique_022_name" id="1109381129" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Pursuit Combo Finish Back
+    </text>
+    <text name="technique_035_name" id="1130108039" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Kick Combo Finish Left
+    </text>
+    <text name="technique_048_name" id="1150834949" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Rotary rush Combo Finish Left
+    </text>
+    <text name="technique_061_name" id="1190216078" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Sonic Boom Kick
+    </text>
+    <text name="technique_012_name" id="1419514632" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Aerial Combo Finish Left
+    </text>
+    <text name="technique_025_name" id="1440241542" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Stomping
+    </text>
+    <text name="technique_038_name" id="1460968452" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Flying Kick
+    </text>
+    <text name="technique_051_name" id="1500349581" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Dash Combo Finish Front
+    </text>
+    <text name="technique_064_name" id="1521076491" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech" />
+    <text name="technique_002_name" id="1729648135" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Dash
+    </text>
+    <text name="technique_015_name" id="1750375045" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Wraparound Finish Front
+    </text>
+    <text name="technique_028_name" id="1771101955" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Stomping Combo Finish Back
+    </text>
+    <text name="technique_041_name" id="1810483084" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Sliding Combo Finish Back
+    </text>
+    <text name="technique_054_name" id="1831209994" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Dash Combo Finish Right
+    </text>
+    <text name="technique_067_name" id="1851936904" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech" />
+    <text name="technique_005_name" id="2060508548" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Homing Combo Finish Front
+    </text>
+    <text name="technique_018_name" id="2081235458" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Wraparound Finish Right
+    </text>
+    <text name="technique_031_name" id="2120616587" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Kick
+    </text>
+    <text name="technique_044_name" id="2141343497" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Rotary rush
+    </text>
+    <text name="technique_057_name" id="2162070407" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Cyloop
+    </text>
+    <text name="technique_008_name" id="2391368961" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Homing Combo Finish Right
+    </text>
+    <text name="technique_021_name" id="2430750090" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Pursuit Combo Finish Front
+    </text>
+    <text name="technique_034_name" id="2451477000" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Kick Combo Finish Back
+    </text>
+    <text name="technique_047_name" id="2472203910" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Rotary rush Combo Finish Back
+    </text>
+    <text name="technique_060_name" id="2511585039" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Aerial Cyclone Kick
+    </text>
+    <text name="technique_011_name" id="2740883593" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Aerial Combo Finish Back
+    </text>
+    <text name="technique_024_name" id="2761610503" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Pursuit Combo Finish Right
+    </text>
+    <text name="technique_037_name" id="2782337413" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Sliding
+    </text>
+    <text name="technique_050_name" id="2821718542" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Dash Combo Finish
+    </text>
+    <text name="technique_063_name" id="2842445452" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech" />
+    <text name="technique_001_name" id="3051017096" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Spin Attack
+    </text>
+    <text name="technique_014_name" id="3071744006" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Wraparound Combo Finish
+    </text>
+    <text name="technique_027_name" id="3092470916" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Stomping Combo Finish Front
+    </text>
+    <text name="technique_040_name" id="3131852045" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Sliding Combo Finish Front
+    </text>
+    <text name="technique_053_name" id="3152578955" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Dash Combo Finish Left
+    </text>
+    <text name="technique_066_name" id="3173305865" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech" />
+    <text name="technique_004_name" id="3381877509" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Homing Combo Finish
+    </text>
+    <text name="technique_017_name" id="3402604419" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Wraparound Finish Left
+    </text>
+    <text name="technique_030_name" id="3441985548" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Stomping Combo Finish Right
+    </text>
+    <text name="technique_043_name" id="3462712458" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Sliding Combo Finish Right
+    </text>
+    <text name="technique_056_name" id="3483439368" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Grand Slam
+    </text>
+    <text name="technique_007_name" id="3712737922" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Homing Combo Finish Left
+    </text>
+    <text name="technique_020_name" id="3752119051" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Pursuit Combo Finish
+    </text>
+    <text name="technique_033_name" id="3772845961" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Kick Combo Finish Front
+    </text>
+    <text name="technique_046_name" id="3793572871" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Rotary rush Combo Finish Front
+    </text>
+    <text name="technique_059_name" id="3814299781" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Cyclone Kick
+    </text>
+    <text name="technique_010_name" id="4062252554" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Aerial Combo Finish Front
+    </text>
+    <text name="technique_023_name" id="4082979464" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Pursuit Combo Finish Left
+    </text>
+    <text name="technique_036_name" id="4103706374" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Drop Kick Combo Finish Right
+    </text>
+    <text name="technique_049_name" id="4124433284" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech">
+      Rotary rush Combo Finish Right
+    </text>
+    <text name="technique_062_name" id="4163814413" font="Range_FNT_HUDtech" layout="Range_LAY_HUDtech" />
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_HUDtech">
+      <typeface>RANGEmixStd</typeface>
+      <size>22</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>0</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_HUDtech">
+      <textAlignment>right</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>false</wordWrap>
+      <fit>condense</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

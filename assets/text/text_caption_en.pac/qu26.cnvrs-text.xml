@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="qu2600_010" id="833848408" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic! Check these out.
+    </text>
+    <text name="qu2600_020" id="833848535" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I don't think this ancient machinery was active before. Any idea what changed?
+    </text>
+    <text name="qu2600_030" id="833848662" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Something similar happened on the last island. Let's just call it a little "divine intervention."
+    </text>
+    <text name="qu2600_040" id="833848789" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If I can solve the lock's code, it should open the way to that flying Titan.
+    </text>
+    <text name="qu2600_050" id="833848916" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Wait, Sonic. You're still missing a Chaos Emerald, aren't you? That thing will tear you to shreds.
+    </text>
+    <text name="qu2600_060" id="833849043" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The last Titan was holding the final emerald. I'm willing to bet it's the same deal here.
+    </text>
+    <text name="qu2600_070" id="833849170" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      First, though, I need to play this crane game. Lemme see... the stones and the ports seem to have corresponding colors...
+    </text>
+    <text name="qu2610_010" id="3807446743" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Huh. You did it. Nice work.
+    </text>
+    <text name="qu2610_020" id="3807446870" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Was there ever any doubt?
+      Ready to go face impossible odds?
+    </text>
+    <text name="qu2610_030" id="3807446997" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Ha! We've faced worse.
+      Here we go! Try to keep up!
+    </text>
+    <text name="qu2610_040" id="3807447124" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Whoa, hey! That's my line!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

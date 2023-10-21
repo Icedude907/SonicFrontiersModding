@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3100_010" id="3186515167" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey! Almost done here. Can you take our friend and find a couple more parts?
+    </text>
+    <text name="ev3100_020" id="3186515294" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Can do!
+    </text>
+    <text name="ev3100_030" id="3186515421" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yipe!
+    </text>
+    <text name="ev3100_040" id="3186515548" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Miles Prower. You have known Sonic most of your life.
+    </text>
+    <text name="ev3100_050" id="3186515675" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah. And?
+    </text>
+    <text name="ev3100_060" id="3186515802" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Your imprisonment within Cyber Space. The defeat of the Ancients’ Titans. 
+      Do you trust how he is handling it? With your life?
+    </text>
+    <text name="ev3100_070" id="3186515929" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Of course! I’ll admit he isn’t perfect, but Sonic has overcome impossible odds over and over again. 
+      I know he’ll save us all.
+    </text>
+    <text name="ev3100_080" id="3186516056" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So you’re saying you have faith in him?
+    </text>
+    <text name="ev3100_090" id="3186516183" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It’s not a matter of faith. I’ve got a lifetime of data to back up my observations.
+    </text>
+    <text name="ev3100_100" id="3186531169" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Your loyalty is founded on empirical data. I can appreciate that.
+    </text>
+    <text name="ev3100_110" id="3186531296" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The feelings he inspires in you and the others… is that a facet of being alive?
+    </text>
+    <text name="ev3100_120" id="3186531423" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And yet all your love and loyalty will amount to nothing. It cannot be prevented.
+    </text>
+    <text name="ev3100_130" id="3186531550" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      What are you talking about?
+    </text>
+    <text name="ev3100_140" id="3186531677" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Perhaps it is kinder if you don’t know...
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

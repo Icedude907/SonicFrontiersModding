@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1030_010" id="997040221" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sonic! Are you all right?
+    </text>
+    <text name="ev1030_020" id="997040348" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Me? You’re the one who’s only half here.
+    </text>
+    <text name="ev1030_030" id="997040475" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I feel fine. But that energy that was holding me prisoner went into you!
+    </text>
+    <text name="ev1030_040" id="997040602" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eh, I’ve been infused with weird zappy stuff before. Besides, I feel like it gave me some kind of boost!
+    </text>
+    <text name="ev1030_050" id="997040729" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well... in that case, we need to get moving. If I was trapped, I’m sure the boys are too!
+    </text>
+    <text name="ev1030_055" id="997040734" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Well… in that case, we need to get moving. If I was trapped, I’m sure Tails was too!
+    </text>
+    <text name="ev1030_060" id="997040856" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Good call. I’ll scout around and find you later. Deal?
+    </text>
+    <text name="ev1030_070" id="997040983" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Deal! Be careful!
+    </text>
+    <text name="ev1030_080" id="997041110" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      “Careful”? Where’s the fun in that?
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

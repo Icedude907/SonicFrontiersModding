@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb4040_010" id="3350330423" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Looks like Tails was right. The ruins were tech the Ancients used to upload thoughts into Cyber Space, but not their bodies.
+    </text>
+    <text name="sb4040_020" id="3350330550" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Correct. They desired to archive all their achievements, creations and knowledge.
+    </text>
+    <text name="sb4040_030" id="3350330677" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If they couldn't pass it between their own people, they could pass it on to those who inherited this world from them.
+    </text>
+    <text name="sb4040_040" id="3350330804" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      This way they could pass on not only technical knowledge, but their cognizance and intentions as well.
+    </text>
+    <text name="sb4040_050" id="3350330931" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So it's basically a big ol' back-up harddrive for everything about them. That's pretty amazing.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

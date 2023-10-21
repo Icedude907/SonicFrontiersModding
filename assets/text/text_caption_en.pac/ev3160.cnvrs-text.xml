@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev3160_010" id="3848235993" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey, little bro. Feeling better?
+    </text>
+    <text name="ev3160_020" id="3848236120" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah. This whole experience gave me a kind of clarity.
+    </text>
+    <text name="ev3160_030" id="3848236247" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      When this is all over… I think I need to go it alone for a while.
+      I can't grow into my full potential if I always fall back on you.
+    </text>
+    <text name="ev3160_040" id="3848236374" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If that’s okay!
+    </text>
+    <text name="ev3160_050" id="3848236501" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3160_060" id="3848236628" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You’re free to go your own way. 
+      I guess you just grew up on me a little faster than I expected.
+    </text>
+    <text name="ev3160_070" id="3848236755" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Are you saying I outpaced you?
+    </text>
+    <text name="ev3160_080" id="3848236882" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah, don’t push it.
+    </text>
+    <text name="ev3160_090" id="3848237009" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It’s going to take some getting used to, but here’s to you reaching new heights--partner.
+    </text>
+    <text name="ev3160_100" id="3848251995" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3160_110" id="3848252122" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
+    <text name="ev3160_120" id="3848252249" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Such a beautiful friendship. A family born of love and not genetics. Everything I want…
+      I wish I’d never seen this. 
+      It was so much easier accepting the future when they were simply enemies.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

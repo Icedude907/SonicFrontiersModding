@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1750_001" id="478334948" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Begone, invader.
+    </text>
+    <text name="ev1750_003" id="478334950" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Enter, hero.
+    </text>
+    <text name="ev1750_005" id="478334952" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You may call me "Master King."
+      It is as close as your limited language will manage.
+    </text>
+    <text name="ev1750_007" id="478334954" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The interloper is correct.
+      I am loath to acknowledge her,
+      but I must if I am to preserve my legacy.
+    </text>
+    <text name="ev1750_010" id="478335074" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Wow, somebody's feeling high and mighty.
+      Anyway, Sage says you're the one who can turn the cyber corruption into new power? Is that right?
+    </text>
+    <text name="ev1750_012" id="478335076" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I was the leader of my people.
+    </text>
+    <text name="ev1750_014" id="478335078" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I led them away from their doom.
+      I oversaw the colonization of this planet.
+    </text>
+    <text name="ev1750_016" id="478335080" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I directed the installation of Cyber Space.
+      I ordered the construction of the Titans.
+    </text>
+    <text name="ev1750_018" id="478335082" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have been the guiding voice of my people for longer than you can imagine.
+    </text>
+    <text name="ev1750_020" id="478335201" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And now you're a rock in a chair.
+    </text>
+    <text name="ev1750_025" id="478335206" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You are insolent!
+    </text>
+    <text name="ev1750_030" id="478335328" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah, and I'm short on time.
+      So if you want me to save your legacy, you're going to fast-track this new power process.
+    </text>
+    <text name="ev1750_040" id="478335455" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You remind me much of another.
+      They vexed me then as much as you do now.
+      They also gave everything to stave off the end.
+    </text>
+    <text name="ev1750_050" id="478335582" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      ...
+    </text>
+    <text name="ev1750_060" id="478335709" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Very well.
+      Step forward and I shall temper you into my finest weapon.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ko1900_000" id="284161117" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm happy to help.
+    </text>
+    <text name="ko1900_005" id="284161122" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Anything more?
+    </text>
+    <text name="ko1900_010" id="284161244" font="Range_FNT" layout="Range_LAY">
+      Speed to Ring capacity
+    </text>
+    <text name="ko1900_020" id="284161371" font="Range_FNT" layout="Range_LAY">
+      Ring capacity to Speed
+    </text>
+    <text name="ko1900_030" id="284161498" font="Range_FNT" layout="Range_LAY">
+      No thanks
+    </text>
+    <text name="ko1900_040" id="284161625" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmmm… mmm!!
+    </text>
+    <text name="ko1900_050" id="284161752" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have slowed your step so you may carry more Rings.
+    </text>
+    <text name="ko1900_060" id="284161879" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmmm… mmm!!
+    </text>
+    <text name="ko1900_070" id="284162006" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have hastened your step but you shall carry fewer Rings.
+    </text>
+    <text name="ko1900_080" id="284162133" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I am tired and return to the dream. Let me rest, child.
+    </text>
+    <text name="ko1900_081" id="284162134" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I am tired and return to the dream. Let me rest, child.
+    </text>
+    <text name="ko1900_090" id="284162260" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh?
+      So my sibling has unleashed all your talent.
+    </text>
+    <text name="ko1900_100" id="284177246" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh-ho-ho! If only we'd had a hero like you back then, things might be different now.
+    </text>
+    <text name="ko1900_110" id="284177373" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I know a time-traveler. Want us to rewrite history when this is over?
+    </text>
+    <text name="ko1900_120" id="284177500" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Tempting, but no. Life moves on, with or without us. We found our own ways to endure.
+    </text>
+    <text name="ko1900_130" id="284177627" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And I... perhaps I have lingered too long in the past. 
+    </text>
+    <text name="ko1900_140" id="284177754" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Elder Koco has looked after our kind while I've slept here, wandering the Digital Dream.
+    </text>
+    <text name="ko1900_150" id="284177881" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We had our time. Now it is your world. Protect it and savour it as we would have.
+    </text>
+    <text name="ko1900_160" id="284178008" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Take care, Sonic.
+      Please come to visit from time to time.
+    </text>
+    <text name="ko1900_170" id="284178135" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have done all I can for you, Sonic.
+      I will be watching you from within the Digital Dream.
+      Make us proud, child.
+    </text>
+    <text name="ko1900_171" id="284178136" font="Range_FNT" layout="Range_LAY">
+      I have done all I can for you.
+      I will be watching you from within the Digital Dream.
+      Make us proud.
+    </text>
+    <text name="ko1900_180" id="284178262" font="Range_FNT" layout="Range_LAY">
+      Swap all of Speed to Ring capacity
+    </text>
+    <text name="ko1900_190" id="284178389" font="Range_FNT" layout="Range_LAY">
+      Swap all of Ring capacity to Speed
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

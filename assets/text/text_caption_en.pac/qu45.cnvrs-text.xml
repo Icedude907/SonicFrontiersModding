@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="qu4510_010" id="2653081812" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The way is clear. We must acquire the Chaos Emeralds with expediency.
+    </text>
+    <text name="qu4510_020" id="2653081939" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You got it, Sage. Heh, we've run into each other so many times, but I only recently learned your name. You could've told me sooner, y'know?
+    </text>
+    <text name="qu4510_030" id="2653082066" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We were enemies. Furthermore, my name holds no meaning.
+    </text>
+    <text name="qu4510_040" id="2653082193" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sure it does! Eggman named you that for a reason. That means you're important to him.
+    </text>
+    <text name="qu4510_050" id="2653082320" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You... think he cares about me?
+    </text>
+    <text name="qu4510_060" id="2653082447" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sure! 
+      In his own way.
+      Time's a-wastin'. Let's wrap this up!
+    </text>
+    <text name="qu4500_010" id="3974450773" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I believe you can proceed once you find a way to activate the starting device and power the statue.
+    </text>
+    <text name="qu4500_020" id="3974450900" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Sure would've been smoother sailing if we'd been working together from the start. But I guess I had to earn your trust first, huh?
+    </text>
+    <text name="qu4500_030" id="3974451027" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      ...
+    </text>
+    <text name="qu4500_040" id="3974451154" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Do you know how to activate the starting device?
+    </text>
+    <text name="qu4500_050" id="3974451281" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I've figured out everything else up until now, haven't I? Don't sweat it!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

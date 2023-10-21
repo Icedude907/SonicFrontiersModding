@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ev1590_010" id="108093532" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You need to ascend the four Towers of the Masters.
+      They are memorials to the pilots who gave their lives to save the world.
+    </text>
+    <text name="ev1590_020" id="108093659" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Pilots, they were who I saw in those visions, right?
+      The ones controlling the Titans?
+    </text>
+    <text name="ev1590_030" id="108093786" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yes. The very Titans you destroyed.
+    </text>
+    <text name="ev1590_040" id="108093913" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hey, I asked you to explain things from the beginning, remember?
+    </text>
+    <text name="ev1590_050" id="108094040" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That is irrelevant now. Hidden across the island are the components needed to construct the keys to each tower. Find them, ascend the towers, complete their trials, and you will gain control over the cyber corruption.
+    </text>
+    <text name="ev1590_060" id="108094167" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Pieces make Keys, Keys unlock towers, towers make me more awesome.
+      Got it! Back in a flash!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

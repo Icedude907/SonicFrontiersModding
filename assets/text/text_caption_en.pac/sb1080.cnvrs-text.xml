@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="sb1080_010" id="261602230" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So something's been bugging me about these ruins.
+    </text>
+    <text name="sb1080_020" id="261602357" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The whole reason we came was because Tails detected the Chaos Emeralds were drawn here, right?
+    </text>
+    <text name="sb1080_030" id="261602484" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      And now I'm finding digital keys and confinement towers that seem custom-made to hold the emeralds. Like half this stuff was built with them in mind.
+    </text>
+    <text name="sb1080_040" id="261602611" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe the Ancients used the Chaos Emeralds in the past? We've learned of other past civilizations who did too.
+    </text>
+    <text name="sb1080_050" id="261602738" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Yeah, but those groups tried to use them. The stuff here seems all about containment.
+    </text>
+    <text name="sb1080_060" id="261602865" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Maybe they knew something about their power that we don't? The Chaos Emeralds are still pretty mysterious, even after all we've done with them.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

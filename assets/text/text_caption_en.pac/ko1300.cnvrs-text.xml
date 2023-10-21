@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ko1300_000" id="2144962135" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      So, what shall we start with?
+    </text>
+    <text name="ko1300_005" id="2144962140" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Anything more?
+    </text>
+    <text name="ko1300_010" id="2144962262" font="Range_FNT" layout="Range_LAY">
+      Increase speed
+    </text>
+    <text name="ko1300_020" id="2144962389" font="Range_FNT" layout="Range_LAY">
+      Raise Ring capacity
+    </text>
+    <text name="ko1300_030" id="2144962516" font="Range_FNT" layout="Range_LAY">
+      No thanks
+    </text>
+    <text name="ko1300_040" id="2144962643" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Here, I've sped you up.
+      No such thing as too fast, right?
+    </text>
+    <text name="ko1300_050" id="2144962770" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Here, I've raised the maximum capacity of your Rings.
+      Invigorating, isn't it!?
+    </text>
+    <text name="ko1300_055" id="2144962775" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You've reached a level even I cannot exceed. I have done all I can. The rest is up to you now.
+    </text>
+    <text name="ko1300_060" id="2144962897" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Farewell, Sonic. Take care of yourself, and my dear Koco.
+    </text>
+    <text name="ko1300_061" id="2144962898" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Farewell, traveler. Take care of yourself, and my dear Koco.
+    </text>
+    <text name="ko1300_070" id="2144963024" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You've reached a level even I cannot exceed. I have done all I can. The rest is up to you now.
+    </text>
+    <text name="ko1300_080" id="2144963151" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have already asked so much of you...would you permit me to ask one thing more?
+    </text>
+    <text name="ko1300_090" id="2144963278" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      We Koco...we don't remember much. Most are driven by a faint dream or a fleeting emotion.
+    </text>
+    <text name="ko1300_100" id="2144978264" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Some are driven by deep regrets. I'm sure you've met a few like that.
+    </text>
+    <text name="ko1300_110" id="2144978391" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Even I have forgotten who I once was. All I know is my desire to keep the
+      Koco safe…and a regret for having once failed them.
+    </text>
+    <text name="ko1300_120" id="2144978518" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'm sorry to ask you to do even more of my duty but...
+    </text>
+    <text name="ko1300_130" id="2144978645" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But can you still bring Koco to me as you find them?
+    </text>
+    <text name="ko1300_140" id="2144978772" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Of course, Gramps. You can always count on me.
+    </text>
+    <text name="ko1300_150" id="2144978899" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You truly are a hero. Thank you, for my sake, and all the Koco.
+    </text>
+    <text name="ko1300_160" id="2144979026" font="Range_FNT" layout="Range_LAY">
+      Use everything to increase speed
+    </text>
+    <text name="ko1300_170" id="2144979153" font="Range_FNT" layout="Range_LAY">
+      Use everything to raise Ring capacity
+    </text>
+    <text name="ko1300_180" id="2144979280" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh, who do we have here?
+    </text>
+    <text name="ko1300_190" id="2144979407" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      If it isn't the village leader! Wherever did you go?
+    </text>
+    <text name="ko1300_200" id="2144994393" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      My word, the previous Elder. It's been a while.
+    </text>
+    <text name="ko1300_210" id="2144994520" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      The king himself! It is an honor.
+    </text>
+    <text name="ko1300_220" id="2144994647" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      How's that for a change!
+    </text>
+    <text name="ko1300_230" id="2144994774" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I dare say there's nothing more I can do for you.
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+    <font name="Range_FNT">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>0</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+    <layout name="Range_LAY">
+      <textAlignment>left</textAlignment>
+      <verticalAlignment>middle</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>

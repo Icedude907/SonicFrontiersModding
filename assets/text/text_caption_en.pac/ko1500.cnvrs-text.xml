@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cnvrsText>
+  <sheet name="en" index="1">
+    <text name="ko1500_010" id="1524695256" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      At last we meet, Sonic the Hedgehog.
+    </text>
+    <text name="ko1500_020" id="1524695383" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I don't think we've met?
+    </text>
+    <text name="ko1500_030" id="1524695510" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Just like the Koco, you have touched the Digital Dream. Unlike most, I know how to listen to it and hear some of its secrets.
+    </text>
+    <text name="ko1500_040" id="1524695637" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      To hear it properly, though, I must keep to myself. Call me a hermit if you like. It is the path I've chosen.
+    </text>
+    <text name="ko1500_041" id="1524695638" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Have you found any Seeds in your travels?
+    </text>
+    <text name="ko1500_042" id="1524695639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      You mean these things that the robots sometimes drop?
+    </text>
+    <text name="ko1500_043" id="1524695640" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Indeed! I will unlock their power and pass it on to you.
+    </text>
+    <text name="ko1500_044" id="1524695641" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Bring me more Seeds and I will give you more power in return.
+    </text>
+    <text name="ko1500_045" id="1524695642" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Seeds of Power will make you strike harder.
+      Seeds of Defense will make you sturdier.
+    </text>
+    <text name="ko1500_046" id="1524695643" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      That's pretty cool. And so you are, Hermit!
+    </text>
+    <text name="ko1500_047" id="1524695644" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Oh ho ho! It all comes from listening to the whispers of the Digital Dream.
+    </text>
+    <text name="ko1500_048" id="1524695645" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmm?
+    </text>
+    <text name="ko1500_050" id="1524695764" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      It seems you've run into that lazy old sibling of mine. They've awakened a great power within you. Even more lies untapped.
+    </text>
+    <text name="ko1500_060" id="1524695891" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      But I can do a better job of balancing that energy. What do you say?
+    </text>
+    <text name="ko1500_070" id="1524696018" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I'll take all the help I can get!
+    </text>
+    <text name="ko1500_080" id="1524696145" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      I have waited and listened for so long...
+      What would you have me do?
+    </text>
+    <text name="ko1500_090" id="1524696272" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Hmm...
+      You have wells of untapped potential, but I cannot reach them. 
+    </text>
+    <text name="ko1500_100" id="1524711258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Dang. Know anybody who can?
+    </text>
+    <text name="ko1500_110" id="1524711385" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Eh... unfortunately. Seek out my sibling, the Elder Koco.
+    </text>
+    <text name="ko1500_120" id="1524711512" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      They can likely unlock your inner strength. 
+    </text>
+    <text name="ko1500_130" id="1524711639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
+      Then come back and see me so I can be sure they did it right!
+    </text>
+  </sheet>
+  <fonts>
+    <font name="Range_FNT_subtitle">
+      <typeface>RANGEmixStd</typeface>
+      <size>32</size>
+      <lineSpacing>6</lineSpacing>
+      <unknown1>1067450368</unknown1>
+      <unknown2>2</unknown2>
+      <unknown3>0</unknown3>
+      <unknown4>0</unknown4>
+    </font>
+  </fonts>
+  <layouts>
+    <layout name="Range_LAY_subtitle">
+      <textAlignment>centerLeft</textAlignment>
+      <verticalAlignment>top</verticalAlignment>
+      <wordWrap>true</wordWrap>
+      <fit>none</fit>
+    </layout>
+  </layouts>
+</cnvrsText>
