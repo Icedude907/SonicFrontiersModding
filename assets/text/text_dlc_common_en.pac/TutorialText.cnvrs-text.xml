@@ -191,7 +191,7 @@
     <text name="tu1000dlc_215" id="3963512754" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
         -Sonic's stats will be fixed
-        -Cyloop will be the only available skill
+        -Cyloop is the only available skill (&amp; parry but that's default)
     </text>
     <text name="tu1000dlc_220" id="3963512876" font="Range_FNT" layout="Range_LAY">
       Tiger's Trial
@@ -199,7 +199,7 @@
     <text name="tu1000dlc_225" id="3963512881" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
         -Sonic's stats will be fixed
-        -Cyloop will be the only available skill
+        -Cyloop is the only available skill (&amp; parry but that's default)
     </text>
     <text name="tu1000dlc_230" id="3963513003" font="Range_FNT" layout="Range_LAY">
       Crane's Trial
@@ -215,8 +215,8 @@
     <text name="tu1000dlc_245" id="3963513135" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Win this trial by meeting certain conditions. Defeat all the enemies within the time limit.
         -Sonic's stats will be fixed
-        -Perfect Parry will be the only way to parry attacks
-        -Rings will be unavailable
+        -Parry duration has been greatly reduced (Perfect Parry)
+        -Additional rings will be unavailable
     </text>
     <text name="tu1000dlc_250" id="3963513257" font="Range_FNT" layout="Range_LAY">
       Another Story

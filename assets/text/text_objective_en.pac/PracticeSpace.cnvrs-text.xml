@@ -317,7 +317,7 @@
       Press <image name="s_button_lockon" />
     </text>
     <text name="ps_explain_05_Steam" id="1087466714" font="Range_FNT" layout="Range_LAY">
-      Timing on when to Parry is unnecessary
+      Timing on when to Parry is unnecessary (but it really should be)
     </text>
     <text name="ps_command_03_Steam" id="1125040996" font="Range_FNT" layout="Range_LAY">
       <image name="s_button_cyloop" /> during combo
@@ -512,7 +512,7 @@
       Press <image name="s_button_lightdash" /> near Rings
     </text>
     <text name="ps_explain_35_Steam" id="3185686359" font="Range_FNT" layout="Range_LAY">
-      Timing on when to Parry is unnecessary
+      Timing on when to Parry is unnecessary (but it really should be)
     </text>
     <text name="ps_command_33_Steam" id="3223260641" font="Range_FNT" layout="Range_LAY">
       <image name="s_button_attack" />&gt;<image name="button_right" />
@@ -839,7 +839,7 @@
       explain 04
     </text>
     <text name="ps_explain_05" id="3649726185" font="Range_FNT" layout="Range_LAY">
-      Timing on when to Parry is unnecessary
+      Timing on when to Parry is unnecessary (but it really should be)
     </text>
     <text name="ps_explain_06" id="3649726186" font="Range_FNT" layout="Range_LAY">
       explain 06
@@ -929,7 +929,7 @@
       explain 34
     </text>
     <text name="ps_explain_35" id="3649726566" font="Range_FNT" layout="Range_LAY">
-      Timing on when to Parry is unnecessary
+      Timing on when to Parry is unnecessary (but it really should be)
     </text>
     <text name="ps_explain_36" id="3649726567" font="Range_FNT" layout="Range_LAY">
       explain 36

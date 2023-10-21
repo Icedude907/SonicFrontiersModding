@@ -5,7 +5,7 @@
       Birthday Decorations
     </text>
     <text name="extra_birthday_check_detail" id="192662427" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Apply the birthday decorations?
+      Apply the birthday decorations? (you should mod out the UI overlay)
     </text>
     <text name="extra_Initial_Xbox" id="215959869" />
     <text name="extra_notice_event" id="325126402" font="Range_FNT_tutorial" layout="Range_LAY_tutorial">
@@ -30,7 +30,7 @@
       Holiday Cheer Suit
     </text>
     <text name="extra_check_detail_Epic" id="680205069" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Please install "Explorer's Treasure Box" before starting a new game. Please note that the contents will not be validated if installed after completing the tutorial area.
+      Please install "Explorer's Treasure Box" if you want to trivialise a new game. Please note that the contents will not be validated if installed after completing the tutorial area.
     </text>
     <text name="extra_Initial_detail_PC" id="810760887" />
     <text name="extra_item_1" id="1034028148" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
@@ -43,10 +43,10 @@
       Sound effects
     </text>
     <text name="extra_item_4" id="1034028151" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Adventurer's Treasure Box
+      Adventurer's Treasure Box (HAX)
     </text>
     <text name="extra_item_5" id="1034028152" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Explorer's Treasure Box
+      Explorer's Treasure Box (HAX)
     </text>
     <text name="extra_item_7" id="1034028154" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Sonic Emote with Koco

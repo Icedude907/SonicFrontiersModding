@@ -26,7 +26,7 @@
       FAILED
     </text>
     <text name="toast_release_tower" id="476684569" font="Range_FNT_toast" layout="Range_LAY_toast">
-      A Trial Tower was unsealed and can now be ascended.
+      A Trial Tower was unsealed and can now be ascended (don't skip the first time).
     </text>
     <text name="toast_use_lightpillar" id="536324624" font="Range_FNT_toast" layout="Range_LAY_toast">
       Unsealed with one Vault Key
@@ -53,7 +53,7 @@
       Got 1 token!
     </text>
     <text name="toast_map_fasttravel_portal" id="1935271674" font="Range_FNT_toast" layout="Range_LAY_toast">
-      <image name="exchara_micon_portal" /> Fast travel to all Portals unlocked
+      <image name="exchara_micon_portal" /> Fast travel to all Portals unlocked (its a separate menu <image name="s_button_qsleft" />)
     </text>
     <text name="toast_extra_bonus" id="1937249112" font="Range_FNT_toast" layout="Range_LAY_toast">
       BONUS!! ×<var name="extra_bonus" />
@@ -62,7 +62,7 @@
       Got <var name="safe_key" /> <image name="exchara_skill_Ekey" /> Vault Keys!
     </text>
     <text name="toast_get_towerkoco" id="2299536440" font="Range_FNT_toast" layout="Range_LAY_toast">
-      Got 1 Lookout Koco (<image name="exchara_guardian" />) !
+      Spawned in a Lookout Koco apparently (<image name="exchara_guardian" />) !
     </text>
     <text name="toast_get_towerkocos_add" id="2375770557" font="Range_FNT_toast" layout="Range_LAY_toast">
       Cleared the missions and got <var name="safe_key" /> additional Lookout Koco (<image name="exchara_guardian" />) !

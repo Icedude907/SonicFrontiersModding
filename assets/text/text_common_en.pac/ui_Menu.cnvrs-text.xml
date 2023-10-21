@@ -99,10 +99,10 @@
       High Score
     </text>
     <text name="menu_cmn_op1ke_stopslowing" id="545761359" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Set the deceleration rate
+      Set grounded deceleration
     </text>
     <text name="menu_cmn_op1ke_camD1H_mtips" id="548665474" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      This style is recommended for people who are used to playing Sonic games.
+      This style is recommended for everyone.
     </text>
     <text name="menu_btnguide_pagefeed" id="581137516" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Turn page
@@ -115,10 +115,10 @@
       Turn cutscene subtitles ON/OFF
     </text>
     <text name="menu_cmn_op3gr_rendering_mtips" id="635814645" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Set the rendering scale
+      Rendering scale non-ui
     </text>
     <text name="menu_cmn_choice_veryhard" id="639172836" font="Range_FNT_textbox" layout="Range_LAY_textbox">
-      Extreme
+      Lunatic+
     </text>
     <text name="menu_cmn_cleardata_mtips_PC" id="641696336" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="menu_cmn_op3gr_blur_mtips" id="662968330" font="Range_FNT_mtips" layout="Range_LAY_mtips">
@@ -150,7 +150,7 @@
       Chaos Island
     </text>
     <text name="menu_title_choice_battlerush_stage4" id="693169326" font="Range_FNT" layout="Range_LAY">
-      Ouranos Island
+      Kronos Island 2
     </text>
     <text name="menu_title_choice_battlerush_stage5" id="693169327" font="Range_FNT" layout="Range_LAY">
       All Islands
@@ -216,7 +216,7 @@
       Chaos Island
     </text>
     <text name="menu_title_choice_cychallenge_stage4" id="824682623" font="Range_FNT" layout="Range_LAY">
-      Ouranos Island
+      Kronos Island 2
     </text>
     <text name="menu_title_choice_cychallenge_stage5" id="824682624" font="Range_FNT" layout="Range_LAY">
       All Stages
@@ -237,7 +237,7 @@
       No data
     </text>
     <text name="menu_cmn_op1ke_camD1H_mtips_Switch" id="842788497" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      This style is recommended for people who are used to Sonic gameplay.
+      This style is recommended for everyone.
     </text>
     <text name="menu_mapicon_king" id="844865985" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_king" /> Master King Koco
@@ -419,7 +419,7 @@
       Choose a setting for local reflection
     </text>
     <text name="menu_cmn_op1ke_mouse_mtips" id="1551281243" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Set the mouse sensitivity
+      Set the mouse sensitivity (only kind of works)
     </text>
     <text name="menu_cmn_choice_window" id="1553434355" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Windowed
@@ -456,7 +456,7 @@
       Choose how the game will be displayed
     </text>
     <text name="menu_cmn_op1ga_maxspeed_mtips" id="1701555705" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Set the top speed (adjustments may not reflect upgrades)
+      Set the top speed (subject to upgrades)
     </text>
     <text name="menu_cmn_op4la_subtitleV" id="1704631596" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       Subtitle display
@@ -478,7 +478,7 @@
       Recommended for those who want to focus more on the story.
     </text>
     <text name="menu_cmn_op1ke_camD2A_mtips_Switch" id="1796930073" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      This style is recommended for people who are not familiar with Sonic gameplay.
+      This style is recommended for nobody.
     </text>
     <text name="menu_cmn_sys2_retry3_mtips2" id="1798448834" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Restart Battle Rush from the beginning
@@ -529,7 +529,7 @@
     </text>
     <text name="menu_field_save_mtips_Xbox" id="1965970474" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_op1ke_camD2A_mtips" id="1987350778" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      This style is recommended for people who are not familiar with Sonic games.
+      This style is recommended for nobody.
     </text>
     <text name="menu_mapicon_spana" id="2019084813" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_spana" /> Memory Token
@@ -578,7 +578,7 @@
     </text>
     <text name="menu_cmn_op1ke_vibration_mtips_PC" id="2165602314" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_op1ga_initialvelocity_mtips" id="2174723159" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Set the starting speed
+      Set your initial speed when moving
     </text>
     <text name="menu_cmn_cleardata_mtips2_Switch" id="2205831395" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail" />
     <text name="menu_mapicon_tails" id="2248632505" font="Range_FNT" layout="Range_LAY">
@@ -616,8 +616,11 @@
       Upgrade display
     </text>
     <text name="menu_cmn_choice_veryhard_mtips" id="2460427626" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      This mode is for battle-hardened veterans. Taking a single hit will mean game over.
-      *Game difficulty cannot be changed partway
+      This mode is for people who hate themselves.
+      Taking a single hit will mean game over even when otherwise invincible.
+      Renders the DLC near impossible to complete, unless you like hitting multiple 1/16th of a second inputs in a row.
+      On the bright side individual stages have more challenging time limits.
+      *Difficulty cannot be changed
     </text>
     <text name="menu_cmn_choice_easy" id="2462214661" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Easy
@@ -695,7 +698,8 @@
       Quit trial
     </text>
     <text name="menu_cmn_choice_hard_mtips" id="2584523892" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recommended for those who want challenging battles and something extra.
+      You should be playing the game like this.
+      If you're bad you can drop the difficulty to easy during the DLC.
     </text>
     <text name="menu_cmn_op1_keyconfig" id="2590327543" font="Range_FNT_tablv2" layout="Range_LAY_tablv2">
       Controls
@@ -752,7 +756,7 @@
     </text>
     <text name="menu_cmn_op1ke_difficulty_mtips3" id="2770975650" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       You can select the settings that fit your style of play.
-      These can be changed in more detail at any time during the game in Options.
+      These can be changed in more detail in Options.
     </text>
     <text name="menu_btnguide_marker_off" id="2776568329" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Remove marker
@@ -764,16 +768,16 @@
       <image name="exchara_micon_master" /> Master Koco
     </text>
     <text name="menu_cmn_op2so_cyberboost" id="2796595095" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Cyber Space Boost BGM
+      Cyber Space: Filter Music while Boosting
     </text>
     <text name="menu_cmn_op1ke_powerboost_mtips" id="2825227380" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Set whether to replay the Power Boost Scene
+      Set whether to play a cutscene when activating Power Boost
     </text>
     <text name="menu_mapicon_soundmemory" id="2826762662" font="Range_FNT" layout="Range_LAY">
       <image name="exchara_micon_bgm" /> Sound Memory
     </text>
     <text name="menu_cmn_op1ke_cyclone_mtips" id="2832608957" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Reverse the controls for ascending and descending during a Cyclone Boost (only usable with Tails)
+      Reverse the controls for ascending and descending while Cyclone Boosting (Tails)
     </text>
     <text name="menu_field_sa2_load_mtips_Xbox" id="2835679334" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_btnguide_mapreset" id="2855556882" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
@@ -826,10 +830,10 @@
       Start over from the beginning of the Quest
     </text>
     <text name="menu_cmn_op1ke_bonusslot_mtips" id="2999499859" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Set whether the Slot Machine activates when a starfall occurs
+      Set whether the Slot Machine appears during a starfall
     </text>
     <text name="menu_cmn_op1ke_soli_mtips" id="3005818767" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Set whether Sonic can move when commenting on his surroundings
+      Set whether Sonic can move when commenting on his surroundings (keep on)
     </text>
     <text name="menu_cmn_op2so_se_mtips" id="3030654213" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Adjust the sound effects volume
@@ -949,28 +953,28 @@
       Extras
     </text>
     <text name="menu_mapicon_fast_0" id="3448393239" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_portal" /><image name="exchara_micon_hermit" /><image name="exchara_micon_elder" /><image name="exchara_micon_fish" /> Fast travel
+      <image name="exchara_micon_portal" /><image name="exchara_micon_hermit" /><image name="exchara_micon_elder" /><image name="exchara_micon_fish" /> Fast travel in a separate tab
     </text>
     <text name="menu_mapicon_fast_1" id="3448393240" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_portal" /><image name="exchara_micon_hermit" /><image name="exchara_micon_fish" /> Fast travel
+      <image name="exchara_micon_portal" /><image name="exchara_micon_hermit" /><image name="exchara_micon_fish" /> Fast travel in a separate tab
     </text>
     <text name="menu_mapicon_fast_2" id="3448393241" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_portal" /><image name="exchara_micon_elder" /><image name="exchara_micon_fish" /> Fast travel
+      <image name="exchara_micon_portal" /><image name="exchara_micon_elder" /><image name="exchara_micon_fish" /> Fast travel in a separate tab
     </text>
     <text name="menu_mapicon_fast_3" id="3448393242" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_portal" /><image name="exchara_micon_fish" /> Fast travel
+      <image name="exchara_micon_portal" /><image name="exchara_micon_fish" /> Fast travel in a separate tab
     </text>
     <text name="menu_mapicon_fast_4" id="3448393243" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_hermit" /><image name="exchara_micon_elder" /> Fast travel
+      <image name="exchara_micon_hermit" /><image name="exchara_micon_elder" /> Fast travel in a separate tab
     </text>
     <text name="menu_mapicon_fast_5" id="3448393244" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_hermit" /> Fast travel
+      <image name="exchara_micon_hermit" /> Fast travel in a separate tab
     </text>
     <text name="menu_mapicon_fast_6" id="3448393245" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_elder" /> Fast travel
+      <image name="exchara_micon_elder" /> Fast travel in a separate tab
     </text>
     <text name="menu_mapicon_fast_7" id="3448393246" font="Range_FNT" layout="Range_LAY">
-      <image name="exchara_micon_portal" /> Fast travel
+      <image name="exchara_micon_portal" /> Fast travel in a separate tab
     </text>
     <text name="menu_field_sa2_load_mtips3_Xbox" id="3459999947" font="Range_FNT_mtips" layout="Range_LAY_mtips" />
     <text name="menu_cmn_op3_graphics" id="3464244403" font="Range_FNT_tablv2" layout="Range_LAY_tablv2">
@@ -989,8 +993,8 @@
       Adjust the voice volume
     </text>
     <text name="menu_cmn_op1ke_jumpslowing_mtips" id="3522914633" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Set the deceleration rate for jumps
-      (This will also apply to Cyber Space)
+      Set the deceleration rate for jumps (should set to ~30%)
+      (Also applies in Cyber Space)
     </text>
     <text name="menu_cmn_saveslot" id="3529474358" font="Range_FNT" layout="Range_LAY">
       Save slots for "Another Story"
@@ -1073,7 +1077,7 @@
       Action Chain Challenge Retry
     </text>
     <text name="menu_cmn_op1ke_airboostkeep" id="3831061774" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      Maintain boost during a jump
+      Maintain boost during a jump (keep on)
     </text>
     <text name="menu_btnguide_hermit_shortcut" id="3890217411" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Go to the Hermit

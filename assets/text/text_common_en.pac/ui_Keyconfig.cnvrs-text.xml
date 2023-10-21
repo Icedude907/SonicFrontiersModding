@@ -90,10 +90,10 @@
       ACT: Stomp Attack
     </text>
     <text name="keyconfig_action_16" id="743030800" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ACT: Sonic Boom
+      ACT: Sonic Boom &amp; Spin Dash
     </text>
     <text name="keyconfig_action_17" id="743030801" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
-      ACT: Lock on
+      ACT: Lock on (you'll hardly use)
     </text>
     <text name="keyconfig_action_18" id="743030802" font="Range_FNT_menuitem" layout="Range_LAY_menuitem">
       ACT: Cyber-space/Song selection down

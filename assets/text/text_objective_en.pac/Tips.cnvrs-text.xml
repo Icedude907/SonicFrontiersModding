@@ -13,7 +13,7 @@
     </text>
     <text name="tip_167_Xbox" id="215030692" font="Range_FNT_tips" layout="Range_LAY_tips" />
     <text name="tip_190_Steam" id="249264565" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Parrying is not contingent on timing.
+      Parrying is not contingent on timing (but it should be).
       Hold <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> to Parry, and attacks will be automatically repelled.
     </text>
     <text name="tip_021_PC" id="373962631" font="Range_FNT_tips" layout="Range_LAY_tips">
@@ -43,7 +43,7 @@
       While locked on, the camera will automatically track the target.
     </text>
     <text name="tip_005" id="641237329" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Parrying is not contingent on timing.
+      Parrying is not contingent on timing (but it should be).
       Hold <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> to Parry, and Sonic will automatically repel attacks.
     </text>
     <text name="tip_006" id="641237330" font="Range_FNT_tips" layout="Range_LAY_tips">
@@ -232,7 +232,7 @@
       When SQUID raises its barrier, surround it with a Cyloop to break it.
     </text>
     <text name="tip_065" id="641238091" font="Range_FNT_tips" layout="Range_LAY_tips">
-      If SQUID swings its arm, use Dodge or Parry to bounce back!
+      If SQUID swings its arm, try Dodging or Parrying to bounce back!
     </text>
     <text name="tip_066" id="641238092" font="Range_FNT_tips" layout="Range_LAY_tips">
       Surround the pedestal connected to GHOST to take them down before Sonic runs out of Rings!
@@ -293,13 +293,13 @@
       Parry the shield back towards KNIGHT and create an opening to attack.
     </text>
     <text name="tip_084" id="641238344" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Destroy the floating turrets, Bits, to get a chance to strike back at SUPREME.
+      Destroy the floating turrets, Bits, to get a chance to strike back at GIGANTO 2.
     </text>
     <text name="tip_085" id="641238345" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Parry SUPREME's laser to destroy the floating turrets, the Bits.
+      Parry GIGANTO 2's laser to destroy the floating turrets, the Bits.
     </text>
     <text name="tip_086" id="641238346" font="Range_FNT_tips" layout="Range_LAY_tips">
-      SUPREME can repel Quick Cyloops. Try one and Sonic'll be sent flying.
+      GIGANTO 2 can repel Quick Cyloops. Try one and Sonic'll be sent flying.
     </text>
     <text name="tip_087" id="641238347" font="Range_FNT_tips" layout="Range_LAY_tips">
       Use <image name="button_left_stick_Wh" /> to move up, down, left or right.
@@ -605,7 +605,7 @@
       Holding <image name="button_right_Wh" /> on the ground and pressing <image name="button_left_trigger_Wh" /> will cause Amy to spin. Release <image name="button_right_Wh" /> to unleash the Spin Dash. Using Spin Dash will use the boost gauge.
     </text>
     <text name="tip_179" id="641254351" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Parrying is not contingent on timing.
+      Parrying is not contingent on timing (but it should be).
       Hold <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> to Parry, and attacks will be automatically repelled.
     </text>
     <text name="tip_180" id="641254469" font="Range_FNT_tips" layout="Range_LAY_tips">
@@ -639,7 +639,7 @@
       Holding <image name="button_right_Wh" /> on the ground and pressing <image name="button_left_trigger_Wh" /> will cause Knuckles to spin. Release <image name="button_right_Wh" /> to unleash the Spin Dash. Using Spin Dash will use the boost gauge.
     </text>
     <text name="tip_190" id="641254596" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Parrying is not contingent on timing.
+      Parrying is not contingent on timing (but it should be).
       Hold <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> to Parry, and attacks will be automatically repelled.
     </text>
     <text name="tip_191" id="641254597" font="Range_FNT_tips" layout="Range_LAY_tips">
@@ -672,7 +672,7 @@
       Holding <image name="button_right_Wh" /> on the ground and pressing <image name="button_left_trigger_Wh" /> will cause Tails to spin. Release <image name="button_right_Wh" /> to unleash the Spin Dash. Using Spin Dash will use the boost gauge.
     </text>
     <text name="tip_200" id="641269582" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Parrying is not contingent on timing.
+      Parrying is not contingent on timing (but it should be).
       Hold <image name="button_left_shoulder_Wh" />+<image name="button_right_shoulder_Wh" /> to Parry, and attacks will be automatically repelled.
     </text>
     <text name="tip_201" id="641269583" font="Range_FNT_tips" layout="Range_LAY_tips">
@@ -755,7 +755,7 @@
       When the meter is full, activate Cyknuckle with <image name="s_button_cyloop_Wh" /> . Gather Rings and items to refill the meter. Use this near special signs to make objects and items appear.
     </text>
     <text name="tip_179_Steam" id="3217528768" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Parrying is not contingent on timing.
+      Parrying is not contingent on timing (but it should be).
       Hold <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> to Parry, and attacks will be automatically repelled.
     </text>
     <text name="tip_142_Steam" id="3290243644" font="Range_FNT_tips" layout="Range_LAY_tips">
@@ -773,7 +773,7 @@
       Hold <image name="s_button_attack_Wh" /> to aim at multiple targets. Release <image name="s_button_attack_Wh" /> after multiple target cursors appear to enter a drill spin state and hit them all.
     </text>
     <text name="tip_005_Steam" id="3795210050" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Parrying is not contingent on timing. 
+      Parrying is not contingent on timing (but it should be).
       Hold <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> to stay in Parry, and Sonic will automatically repel attacks.
     </text>
     <text name="tip_020_Steam" id="3881379131" font="Range_FNT_tips" layout="Range_LAY_tips">
@@ -783,7 +783,7 @@
       Press <image name="s_button_attack_Wh" />  with no target cursors to unleash a maximum 3-hit combo.
     </text>
     <text name="tip_200_Steam" id="4038170175" font="Range_FNT_tips" layout="Range_LAY_tips">
-      Parrying is not contingent on timing.
+      Parrying is not contingent on timing (but it should be).
       Hold <image name="s_button_qsleft_Wh" />+<image name="s_button_qsright_Wh" /> to Parry, and attacks will be automatically repelled.
     </text>
     <text name="tip_004_Steam" id="4105343553" font="Range_FNT_tips" layout="Range_LAY_tips">

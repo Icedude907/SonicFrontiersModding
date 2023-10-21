@@ -26,7 +26,7 @@
       Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
     </text>
     <text name="skill_14_explain" id="151909993" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Circle the enemy and let loose a stream of shockwaves.
+      Circle the enemy and let loose a stream of shockwaves. The dumbest activation keybind, and the most unnecessary move. Really strong. Consumes your air boost.
     </text>
     <text name="skill_50_command" id="171430357" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       <image name="button_top" />
@@ -187,7 +187,7 @@
       Transform the blaster into a pile bunker and launch a diving attack.
     </text>
     <text name="skill_08_explain" id="1119019502" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      A high-speed kick that unleashes shockwaves to pummel the enemy.
+      A high-speed kick that unleashes shockwaves to pummel the enemy. Unironically the coolest and fairest attack in this game.
     </text>
     <text name="skill_72_command_Steam" id="1122768070" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
@@ -256,7 +256,7 @@
       <image name="button_top" />
     </text>
     <text name="skill_12_explain" id="1459617383" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      A stomping attack that swoops down from above on to the enemy.
+      The most broken attack in the game.
     </text>
     <text name="skill_09_command" id="1461950307" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Press <image name="button_left_shoulder" /> / <image name="button_right_shoulder" /> → <image name="button_left" />
@@ -284,7 +284,7 @@
       Advance through the story to unlock this.
     </text>
     <text name="skill_75_explain" id="1625230692" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Leave a light trail while moving. Enclosing the light trail may cause various effects to happen.
+      You get it by now, but we'll still take you to the Training Simulator!
     </text>
     <text name="skill_47_explain_Steam" id="1641807322" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
       A close-range punching attack. Repeatedly press <image name="s_button_attack" /> to unleash up to 3 punches in a row.
@@ -404,7 +404,7 @@
       Cyclone Cannon
     </text>
     <text name="skill_25_explain" id="2357982953" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Deal damage to enemies while boosting. Use <image name="button_l_stick_leftright" />＋<image name="button_right" /> to drift.
+      Ride on your hammer like a witch (what odd characterisation). Deal damage to enemies while boosting. Long startup. Use <image name="button_l_stick_leftright" />＋<image name="button_right" /> to drift.
     </text>
     <text name="skill_61_command" id="2377503317" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       <image name="button_bottom" /> on the ground
@@ -416,10 +416,10 @@
       Throw a wrench a short distance. When a target cursor is displayed, the wrench will automatically find its mark.
     </text>
     <text name="skill_27_explain_Steam" id="2421190364" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      A spinning attack during a Card Attack. Use <image name="button_left_stick" /> during a Card Attack to move, and hold <image name="s_button_attack" /> to spin for longer. Use it too much and Amy will become dizzy.
+      A spinning attack during a Card Attack. (Kinda bad.) Use <image name="button_left_stick" /> during a Card Attack to move, and hold <image name="s_button_attack" /> to spin for longer. Use it too much and Amy will become dizzy.
     </text>
     <text name="skill_06_explain" id="2426726892" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      If Sonic is thrown back by an attack and successfully execute the on-screen prompt before he hits the ground, he can immediately counter with Recovery Smash.
+      If Sonic is thrown back by an attack and presses <image name="button_bottom_Wh" /> before hitting the ground, he Slam Jams. Rather unfair. Rings are not lost.
     </text>
     <text name="skill_42_command" id="2446247256" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Hold <image name="button_bottom" /> after a double jump
@@ -481,7 +481,7 @@
       <image name="s_button_attack" /> after Card Attack
     </text>
     <text name="skill_10_explain" id="2767324773" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      A looping, rapidly accelerating kick attack in midair.
+      A looping, rapidly accelerating kick attack in midair. Consumes boost your air boost.
     </text>
     <text name="skill_07_command" id="2769657697" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Move <image name="button_left_stick" /> in midair
@@ -514,7 +514,7 @@
       A small midair jump.
     </text>
     <text name="skill_13_explain" id="2953247336" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Launch a volley of energy spheres at the enemy.
+      Launch a volley of energy spheres at the enemy in an inescapable, long cutscene. Consumes your air boost.
     </text>
     <text name="skill_50_name" id="2967365089" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Cyknuckle
@@ -736,7 +736,7 @@
       Cyloop
     </text>
     <text name="skill_11_explain" id="4260954726" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Surround an enemy with a multi-hit spinning attack.
+      Surround an enemy with a multi-hit spinning attack. I'm convinced this was misprogrammed.
     </text>
     <text name="skill_08_command" id="4263287650" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Hold<image name="button_left_trigger" />in midair or during a combo

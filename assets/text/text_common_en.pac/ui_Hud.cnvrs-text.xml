@@ -11,7 +11,7 @@
       Chaos
     </text>
     <text name="hud_battlerush_island_4" id="386146225" font="Range_FNT" layout="Range_LAY">
-      Ouranos
+      Kronos 3
     </text>
     <text name="hud_pinball_Score1" id="417400786" font="Range_FNT" layout="Range_LAY">
       Score
@@ -20,7 +20,7 @@
       Get
     </text>
     <text name="hud_info_miss" id="429261253" font="Range_FNT" layout="Range_LAY">
-      Try Again
+      Lol Get Gud
     </text>
     <text name="hud_pinball_ScoreRate2" id="624046547" font="Range_FNT" layout="Range_LAY">
       Score multiplier
@@ -93,7 +93,7 @@
       MASTER NINJA
     </text>
     <text name="hud_enemy_nin5" id="2146483521" font="Range_FNT" layout="Range_LAY">
-      MASTER NINJA+
+      CRACKED MASTER NINJA
     </text>
     <text name="hud_enemy_ski1" id="2156757055" font="Range_FNT" layout="Range_LAY">
       SHARK
@@ -123,7 +123,7 @@
       FORTRESS
     </text>
     <text name="hud_sonic_nitroboost" id="2180814440" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
-      ROCKET BOOST
+      BOOST2WIN
     </text>
     <text name="hud_sonic_oxygen" id="2769118587" font="Range_FNT_HUDdeco_light" layout="Range_LAY">
       OXYGEN
@@ -132,7 +132,7 @@
       Hurry Up!
     </text>
     <text name="hud_info_hurryup2" id="2823092756" font="Range_FNT_HUDdeco" layout="Range_LAY">
-      Hurry Up!
+      Hurry Up!!
     </text>
     <text name="hud_enemy_boss1" id="3206077989" font="Range_FNT" layout="Range_LAY">
       GIGANTO
@@ -144,7 +144,7 @@
       KNIGHT
     </text>
     <text name="hud_enemy_boss4" id="3206077992" font="Range_FNT" layout="Range_LAY">
-      SUPREME
+      GIGANTO 2
     </text>
     <text name="hud_enemy_boss5" id="3206077993" font="Range_FNT" layout="Range_LAY">
       THE END
@@ -153,7 +153,7 @@
       SPEED
     </text>
     <text name="hud_info_timeup" id="3690286513" font="Range_FNT" layout="Range_LAY">
-      TIME UP
+      TIME'S UP
     </text>
     <text name="hud_sonic_accelLvUP" id="3845026450" font="Range_FNT_HUDdeco" layout="Range_LAY">
       PHANTOM RUSH!!

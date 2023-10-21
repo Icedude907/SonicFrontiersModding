@@ -5,7 +5,7 @@
       Portal Gear
     </text>
     <text name="hud_tokenitem_2" id="707454679" font="Range_FNT" layout="Range_LAY">
-      Egg Memo
+      Egg Memo?
     </text>
     <text name="hud_tokenitem_3" id="707454680" font="Range_FNT" layout="Range_LAY">
       Amy's Memory Token
@@ -26,7 +26,7 @@
       Blue Seed of Defense
     </text>
     <text name="hud_tokenitem_9" id="707454686" font="Range_FNT" layout="Range_LAY">
-      +<var name="token_coco" /> Lost Koco
+      +<var name="token_coco" /> Break the Game
     </text>
     <text name="hud_fishing_completerate" id="2457153110" font="Range_FNT" layout="Range_LAY">
       Catch Completion
@@ -68,7 +68,7 @@
       +<var name="token_skillp" /> Skill Pieces
     </text>
     <text name="hud_tokenitem_12" id="3947398236">
-      Sage's Memory Token
+      Sage's Memory Token (not Amy's)
     </text>
   </sheet>
   <fonts>

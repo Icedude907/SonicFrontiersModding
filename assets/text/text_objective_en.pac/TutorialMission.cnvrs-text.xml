@@ -178,7 +178,7 @@
     </text>
     <text name="tu1000_325" id="1269308887" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Hold <image name="button_left_shoulder" /> and <image name="button_right_shoulder" /> to Parry.
-      It is unnecessary to Parry based on timing from incoming attacks.
+      It is unnecessary to Parry based on timing from incoming attacks (but it should be).
       Parrying is very effective against certain enemies.
     </text>
     <text name="tu1000_380" id="1269309644" font="Range_FNT" layout="Range_LAY">
@@ -310,7 +310,7 @@
       Hit the bits
     </text>
     <text name="tu1000_565" id="1269341653" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
-      Keep an eye on Sonic's remaining Rings, and attack the floating Bits around SUPREME first.
+      Keep an eye on Sonic's remaining Rings, and attack the floating Bits around GIGANTO 2 first.
       
       Use evasion and parry to avoid attacks from the main body and to create openings for counter attacks.
     </text>
@@ -377,7 +377,7 @@
       Memory Tokens can be found around the island, by exploring, fishing, and using Cyloop.
     </text>
     <text name="tu1000_650" id="1269357650" font="Range_FNT" layout="Range_LAY">
-      Sage's Memory Tokens
+      Sage's Memory Tokens (which look like Amy's)
     </text>
     <text name="tu1000_655" id="1269357655" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Collect these heart-shaped Memory Tokens to talk to Sage.
@@ -440,7 +440,7 @@
     </text>
     <text name="tu1000_325_Steam" id="2496059848" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
       Hold <image name="s_button_qsleft" /> and <image name="s_button_qsright" /> to Parry.
-      It is unnecessary to Parry based on timing from incoming attacks.
+      It is unnecessary to Parry based on timing from incoming attacks (but it should be).
       Parrying is very effective against certain enemies.
     </text>
     <text name="tu1000_445_Steam" id="2525191367" font="Range_FNT_tutorial_detail" layout="Range_LAY_tutorial_detail">
