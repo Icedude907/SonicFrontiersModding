@@ -2,8 +2,7 @@ use std::{path::{Path, PathBuf}, process::Command};
 
 use walkdir::WalkDir;
 
-use crate::unpacker;
-
+use crate::CFG;
 
 /// Extracts ".pac" files contianing "_en"
 pub fn un_pac(input: &Path, output: &Path){
@@ -16,7 +15,6 @@ pub fn un_pac(input: &Path, output: &Path){
         let source = entry.path(); // abspath
         let meta = entry.metadata().unwrap();
         if meta.is_file() && source.extension().is_some_and(|x| x == "pac") {
-            let pac_extract = PathBuf::from(unpacker);
             let destination = PathBuf::from(output).join(&relpath);
 
             if !source.components().last().unwrap().as_os_str().to_str().unwrap().contains("_en") {
@@ -31,9 +29,9 @@ pub fn un_pac(input: &Path, output: &Path){
 
             println!("UNPACK: {} > {}", relpath.display(), destination.display());
 
-            let child = Command::new(pac_extract).arg(source).arg(destination)
+            let child = Command::new(&CFG.tool_unpacker).arg(source).arg(destination)
                 .spawn().unwrap();
-            let output = child.wait_with_output().expect("Failed to wait on kids");
+            let _output = child.wait_with_output().expect("Failed to wait on kids");
         }else{
             println!("SKIP: {}", relpath.display())
         }
@@ -58,14 +56,13 @@ pub fn re_pac(input: &Path, output: &Path){
             println!("Packing folder: {}\n  > {}", abspath.display(), destination.display());
 
             // TODO: Multithread / async this.
-            let pac_tool = PathBuf::from(unpacker);
-            let child = Command::new(pac_tool)
+            let child = Command::new(&CFG.tool_unpacker)
                 .arg(abspath.to_str().unwrap())
                 .arg(destination.to_str().unwrap())
                 .arg("-P")
                 .arg("-T=frontiers")
                 .spawn().unwrap();
-            let output = child.wait_with_output().expect("Failed to wait on kids");
+            let _output = child.wait_with_output().expect("Failed to wait on kids");
         } else {/* Skip */}
     }
 }

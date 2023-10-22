@@ -3,6 +3,6 @@
         "./tools/main/Cargo.toml"
     ],
     "vsicons.associations.files": [
-        { "extensions": ["pac"], "icon": "binary"}
+        { "extensions": ["pac"], "icon": "binary"} // Or zip, you be the judge
     ],
 }
