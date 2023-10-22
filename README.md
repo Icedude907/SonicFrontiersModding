@@ -4,6 +4,9 @@ I know nothing about modding Sonic games.
 This is a project I used to modify in-game text.  
 It generates a working HedgeModManager mod for use in the game.
 
+Since the required files for a mod are in the root of the project (`./raw/`, `mod.ini`)
+this repository can be cloned into your mods directory for convenient development.
+
 Some assembly required:
 - Sonic Frontiers must be installed.
 - The build scripts are written in rust. So you'll want it installed (along with an internet connection to download some packages)
