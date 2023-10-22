@@ -1,13 +1,8 @@
 {
-    "terminal.integrated.profiles.windows": {
-        "CMD Modding": {
-            "path": "C:\\WINDOWS\\System32\\cmd.exe",
-            "args": ["/k", ""]
-        }
-    },
-    "terminal.integrated.defaultProfile.windows": "CMD Modding",
-
     "rust-analyzer.linkedProjects": [
         "./tools/main/Cargo.toml"
-    ]
+    ],
+    "vsicons.associations.files": [
+        { "extensions": ["pac"], "icon": "binary"}
+    ],
 }

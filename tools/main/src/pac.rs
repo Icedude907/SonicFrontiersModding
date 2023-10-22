@@ -1,10 +1,12 @@
 use std::{path::{Path, PathBuf}, process::Command};
 
+use walkdir::WalkDir;
+
 use crate::unpacker;
 
 
-
-pub fn extract_pac(input: &Path, output: &Path){
+/// Extracts ".pac" files contianing "_en"
+pub fn un_pac(input: &Path, output: &Path){
     std::fs::create_dir_all(output).unwrap();
 
     let entries = std::fs::read_dir(input).unwrap();
@@ -35,5 +37,35 @@ pub fn extract_pac(input: &Path, output: &Path){
         }else{
             println!("SKIP: {}", relpath.display())
         }
+    }
+}
+
+/// All folders ending in .pac will be compressed using HedgePack
+pub fn re_pac(input: &Path, output: &Path){
+    // As an aside - HedgeModManager needs some work on documentation and better asset injection.
+    // This repacking process is kind of slow & doesn't allow for per file overrides.
+    std::fs::create_dir_all(output).unwrap();
+
+    for entry in WalkDir::new(input).into_iter().skip(1){
+        let entry = entry.unwrap();
+        let abspath = entry.path(); // Source
+        let relpath = abspath.strip_prefix(input).unwrap();
+        let meta = entry.metadata().unwrap();
+
+        if meta.is_dir() && abspath.extension().is_some_and(|x| x == "pac"){
+            let destination = PathBuf::from(output).join(&relpath);
+            let _ = std::fs::create_dir_all(destination.parent().unwrap());
+            println!("Packing folder: {}\n  > {}", abspath.display(), destination.display());
+
+            // TODO: Multithread / async this.
+            let pac_tool = PathBuf::from(unpacker);
+            let child = Command::new(pac_tool)
+                .arg(abspath.to_str().unwrap())
+                .arg(destination.to_str().unwrap())
+                .arg("-P")
+                .arg("-T=frontiers")
+                .spawn().unwrap();
+            let output = child.wait_with_output().expect("Failed to wait on kids");
+        } else {/* Skip */}
     }
 }

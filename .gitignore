@@ -1,4 +1,5 @@
 # Push everything
 
-# raw/*
+raw/
 build/
+*.cnvrs-text
