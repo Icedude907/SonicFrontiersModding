@@ -29,8 +29,8 @@ fn main() {
 
     let pac_text = PathBuf::from(frontiers_data).join(path_text);
     let unpac_text = PathBuf::from(&proj_root).join(out_pac_extr).join(path_text);
-    // println!("Extracting all text pacs into: {}\n", out_text_pac.display());
-    // pac::extract_pac(&pac_text, &unpac_text);
+    // println!("Extracting all text pacs into: {}\n", unpac_text.display());
+    // pac::un_pac(&pac_text, &unpac_text);
     let extract_text = assets_path.join(path_text);
     // println!("Extracting all text files into: {}\n", out_texts.display());
     // extract_text(&unpac_text, &extract_text);
