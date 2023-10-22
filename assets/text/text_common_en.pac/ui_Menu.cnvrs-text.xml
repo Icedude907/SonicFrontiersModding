@@ -115,7 +115,7 @@
       Turn cutscene subtitles ON/OFF
     </text>
     <text name="menu_cmn_op3gr_rendering_mtips" id="635814645" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Rendering scale non-ui
+      Rendering scale (HUD is still rendered at display resolution)
     </text>
     <text name="menu_cmn_choice_veryhard" id="639172836" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Lunatic+
@@ -571,7 +571,7 @@
       TAA
     </text>
     <text name="menu_cmn_op3_graphics_mtips" id="2152670265" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Settings related to graphics and performance
+      Settings related to the HUD, graphics and performance
     </text>
     <text name="menu_cmn_op1ke_camAoV_mtips" id="2161029967" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Set the camera angle
@@ -616,11 +616,8 @@
       Upgrade display
     </text>
     <text name="menu_cmn_choice_veryhard_mtips" id="2460427626" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      This mode is for people who hate themselves.
-      Taking a single hit will mean game over even when otherwise invincible.
-      Renders the DLC near impossible to complete, unless you like hitting multiple 1/16th of a second inputs in a row.
-      On the bright side individual stages have more challenging time limits.
-      *Difficulty cannot be changed
+      This mode is for people who hate themselves. Getting hit even while invincible will result in a game over.
+      The DLC is near impossible to complete, and the difficulty cannot be changed.
     </text>
     <text name="menu_cmn_choice_easy" id="2462214661" font="Range_FNT_textbox" layout="Range_LAY_textbox">
       Easy
@@ -833,7 +830,7 @@
       Set whether the Slot Machine appears during a starfall
     </text>
     <text name="menu_cmn_op1ke_soli_mtips" id="3005818767" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Set whether Sonic can move when commenting on his surroundings (keep on)
+      Set whether Sonic can move when commenting on his surroundings (you should turn this off)
     </text>
     <text name="menu_cmn_op2so_se_mtips" id="3030654213" font="Range_FNT_mtips" layout="Range_LAY_mtips">
       Adjust the sound effects volume
@@ -1156,7 +1153,7 @@
       Options
     </text>
     <text name="menu_cmn_choice_normal_mtips" id="4117089552" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Recommended for those who want a balance between story and challenging foes.
+      Recommended for plebs.
     </text>
     <text name="menu_title_choice_cychallenge" id="4125805622" font="Range_FNT_titlemenu" layout="Range_LAY_titlemenu">
       Cyber Space Challenge
@@ -1171,7 +1168,7 @@
       Change the difficulty level
     </text>
     <text name="menu_cmn_op1ke_stopslowing_mtips" id="4184918997" font="Range_FNT_mtips" layout="Range_LAY_mtips">
-      Set the deceleration rate to reach a complete stop
+      Set the rate to reach a complete stop (non 100% rates are broken for characters other than sonic)
     </text>
     <text name="menu_field_sa1_save_PC" id="4197319412" font="Range_FNT_menuitem" layout="Range_LAY_menuitem" />
     <text name="menu_cmn_newgame+error" id="4204271572" font="Range_FNT" layout="Range_LAY">

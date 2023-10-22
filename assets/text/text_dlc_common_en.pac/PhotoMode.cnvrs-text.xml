@@ -29,7 +29,7 @@
       Reset camera
     </text>
     <text name="photomode_config_7" id="2100675396" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Hide/show UI (you have to manually screenshot)
+      Hide/show UI (and manually screenshot)
     </text>
     <text name="photomode_config_8" id="2100675397" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
       Exit Photo Mode

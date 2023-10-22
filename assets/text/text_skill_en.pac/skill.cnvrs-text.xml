@@ -256,7 +256,7 @@
       <image name="button_top" />
     </text>
     <text name="skill_12_explain" id="1459617383" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      The most broken attack in the game.
+      The most broken attack in the game. Can be done out of a dodge for stupid damage.
     </text>
     <text name="skill_09_command" id="1461950307" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Press <image name="button_left_shoulder" /> / <image name="button_right_shoulder" /> → <image name="button_left" />
@@ -290,7 +290,7 @@
       A close-range punching attack. Repeatedly press <image name="s_button_attack" /> to unleash up to 3 punches in a row.
     </text>
     <text name="skill_15_explain" id="1645539946" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Battle skills that have been unlocked will be automatically activated during combos. However, damage dealt will be reduced. After unlocking a skill, you can toggle auto combo ON/OFF from Options.
+      Battle skills that have been unlocked will be automatically activated during combos. However, damage dealt will be reduced. After unlocking this, you can toggle auto combo ON/OFF from Options.
     </text>
     <text name="skill_51_name" id="1645996128" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Infinite Glide
@@ -384,8 +384,8 @@
     </text>
     <text name="skill_18_name" id="2226882005" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
     <text name="skill_03_explain" id="2240804329" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Quickly Cyloop around the enemy when the Cyloop meter has maxed out and turns blue.
-      The meter fills up with every attack that hits an enemy and can be used continuously when it is still blue.
+      Quickly Cyloop around the enemy even when in the air. The Cyloop meter must be blue.
+      The meter fills up with every attack that hits an enemy, and can be used multiple times before depleting.
     </text>
     <text name="skill_31_name" id="2266263134" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Cyhammer
@@ -419,7 +419,7 @@
       A spinning attack during a Card Attack. (Kinda bad.) Use <image name="button_left_stick" /> during a Card Attack to move, and hold <image name="s_button_attack" /> to spin for longer. Use it too much and Amy will become dizzy.
     </text>
     <text name="skill_06_explain" id="2426726892" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      If Sonic is thrown back by an attack and presses <image name="button_bottom_Wh" /> before hitting the ground, he Slam Jams. Rather unfair. Rings are not lost.
+      If Sonic is thrown back by an attack and presses <image name="button_bottom" /> before hitting the ground, he ignores the damage and hits a Grand Slam. Rather unfair.
     </text>
     <text name="skill_42_command" id="2446247256" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Hold <image name="button_bottom" /> after a double jump
@@ -481,7 +481,7 @@
       <image name="s_button_attack" /> after Card Attack
     </text>
     <text name="skill_10_explain" id="2767324773" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      A looping, rapidly accelerating kick attack in midair. Consumes boost your air boost.
+      A looping, rapidly accelerating kick attack in midair.
     </text>
     <text name="skill_07_command" id="2769657697" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Move <image name="button_left_stick" /> in midair
