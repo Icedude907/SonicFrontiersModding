@@ -22,11 +22,12 @@ Setting up for yourself:
 5. When you have finished your edits, build the mod with `cargo run -- compile`
 
 #### Additional Resources
-Some resources I've used on my modding escapades (not all used here):
+I've found learning resources for sonic modding to be incredibly hidden across the internet, these were of interest to me and they might be of interest to you.
 - [CamoRF/Sonic-Frontiers-Mod-Hub](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub)
 - [blueskythlikesclouds/RflTemplates](https://github.com/blueskythlikesclouds/RflTemplates)
 - The source code to [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager)
   and [its Community Codes](https://github.com/hedge-dev/HMMCodes)
+  and [its Mod Loader](https://github.com/hedge-dev/HE2ModLoader)
 - [HedgeDocs](https://hedgedocs.com/)
 
 --------
