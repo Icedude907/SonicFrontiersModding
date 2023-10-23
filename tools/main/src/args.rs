@@ -19,8 +19,8 @@ pub enum ProgramMode{
     Unpack(CommandUnpack),
     /// Extract the 'text' folder from the game (will not override your changes).
     ExtractText,
-    /// Compile './assets/text' and repack all assets.
-    CompileText,
+    /// Compile './assets/text' and then repack everything in './build/repac'.
+    Compile,
 
 }
 

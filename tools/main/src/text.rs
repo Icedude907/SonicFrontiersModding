@@ -25,7 +25,10 @@ pub fn compile_text(input: &Path, output: &Path){
         }
         if srcmeta.is_file() && abspath.extension().is_some_and(|x| x.to_str().unwrap().contains("xml") ) {
             let destination = destination.with_extension("");
-            println!("COMPILE: {}\n  > {}", abspath.display(), destination.display());
+            println!("COMPILE: {} > {}",
+                relpath.display(),
+                destination.strip_prefix(output.parent().and_then(|x|x.parent()).unwrap_or(output)).unwrap().display()
+            );
 
             // TODO: Multithread / async this.
             let txt_extract = PathBuf::from(&CFG.tool_text);

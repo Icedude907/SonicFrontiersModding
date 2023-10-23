@@ -1,4 +1,4 @@
-use std::{cell::UnsafeCell, ops::{Deref}, io::Write};
+use std::{cell::UnsafeCell, ops::Deref, io::Write};
 
 use once_cell::unsync;
 use walkdir::WalkDir;

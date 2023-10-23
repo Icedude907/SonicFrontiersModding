@@ -12,26 +12,28 @@ mod text;
 use crate::{config::{PAT, CFG}, args::ProgramMode};
 
 fn main() {
+    // Argument parsing
     let args = args::Arguments::parse();
-    println!("{:#?}", args);
 
-    // Semi-clap limitation, no subcommand required-unless-defined.
+    // Clap limitation? No subcommand required-unless-defined.
     if args.check_config == false && args.mode.is_none() {
-        println!("No work to do. Printing help message:");
         let _ = args::Arguments::command().print_long_help();
         std::process::exit(2);
     }
 
+    // Config settling
     config::update_config_all();
-
-    println!("{:#?}", &**CFG); // Unwraps the SuperLazy
     if args.check_config {
+        // println!("{:#?}", &**CFG); // Unwraps the SuperLazy
+        config::print_config_valid();
         if args.mode.is_some() {
             util::wait_for_press_enter();
         }else{
             std::process::exit(0);
         }
     }
+
+    // Subcommand execution
 
     let proj_assets = CFG.proj_root.join(&PAT.assets);
     let proj_unpac  = CFG.proj_root.join(&PAT.unpack);
@@ -49,7 +51,7 @@ fn main() {
             println!("JOB START 2/2: Extracting build/unpac/{} into assets/text:", &PAT.text.display());
             text::extract_text(&unpac_text, &proj_text);
         }
-        ProgramMode::CompileText => {
+        ProgramMode::Compile => {
             println!("JOB START 1/2: Compiling assets/text into build/repac/{}", &PAT.text.display());
             // TODO: Interleave other documents in the pacs automatically to keep a complete file structure.
             text::compile_text(&proj_text, &repac_text);

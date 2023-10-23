@@ -52,7 +52,7 @@ pub fn re_pac(input: &Path, output: &Path){
         if entry.file_type().is_dir() && abspath.extension().is_some_and(|x| x == "pac"){
             let destination = PathBuf::from(output).join(&relpath);
             let _ = std::fs::create_dir_all(destination.parent().unwrap());
-            println!("Packing folder: {}\n  > {}", abspath.display(), destination.display());
+            println!("Packing folder: {}", relpath.display());
 
             // TODO: Multithread / async this.
             let child = Command::new(&CFG.tool_unpacker)
