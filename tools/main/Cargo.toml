@@ -13,3 +13,4 @@ edition = "2021"
 clap = {version = "4.4.6", features = ["derive"]} # Command Line Parsing
 walkdir = "2.4.0" # Convenience for recursively consuming directory members
 once_cell = "1.18.0" # Immutable globals. Backend for SuperLazy (mutable globals)
+# futures = "0.3.28" # Async execution

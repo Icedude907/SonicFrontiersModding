@@ -48,9 +48,8 @@ pub fn re_pac(input: &Path, output: &Path){
         let entry = entry.unwrap();
         let abspath = entry.path(); // Source
         let relpath = abspath.strip_prefix(input).unwrap();
-        let meta = entry.metadata().unwrap();
 
-        if meta.is_dir() && abspath.extension().is_some_and(|x| x == "pac"){
+        if entry.file_type().is_dir() && abspath.extension().is_some_and(|x| x == "pac"){
             let destination = PathBuf::from(output).join(&relpath);
             let _ = std::fs::create_dir_all(destination.parent().unwrap());
             println!("Packing folder: {}\n  > {}", abspath.display(), destination.display());

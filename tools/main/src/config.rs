@@ -1,4 +1,4 @@
-use std::{path::PathBuf};
+use std::path::PathBuf;
 
 use once_cell::sync::Lazy;
 
@@ -16,8 +16,10 @@ pub static CFG: SuperLazy<Config> = SuperLazy::new(||{
 
 /// Tries to fill in missing parts of the CFG using current information
 pub fn update_config_all(){
-    let proj_root = find_root().expect("Could not find the project's root folder (containing mod.ini)");
-    unsafe{ CFG.elevate_mut().proj_root = proj_root; }
+    if(CFG.proj_root.as_os_str().is_empty()){
+        let proj_root = find_root().expect("Could not find the project's root folder (containing mod.ini)");
+        unsafe{ CFG.elevate_mut().proj_root = proj_root; }
+    }
 }
 
 #[derive(Debug)]

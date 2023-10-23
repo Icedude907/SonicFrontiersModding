@@ -1,6 +1,7 @@
 use std::{cell::UnsafeCell, ops::{Deref}, io::Write};
 
 use once_cell::unsync;
+use walkdir::WalkDir;
 
 /// A global variable initialised on its first access.
 /// 
@@ -29,10 +30,22 @@ impl<T, F> Deref for SuperLazy<T, F>{
 // Guys its safe I promise
 unsafe impl<T, F> Sync for SuperLazy<T, F> {}
 
-
+/// Equivalent to running cmd's 'pause' command
 pub fn wait_for_press_enter(){
     let mut stdout = std::io::stdout();
     stdout.write("Press Enter to continue...".as_bytes()).unwrap();
     stdout.flush().unwrap();
     std::io::stdin().read_line(&mut String::new()).unwrap();
 }
+
+
+// I don't know the best way to do this
+// pub struct AsyncDirectoryWalker{
+
+// }
+// impl AsyncDirectoryWalker{
+//     pub fn new(){
+//         let iter = WalkDir::new(input).into_iter().skip(1);
+//         let aiter = futures::stream::iter(iter);
+//     }
+// }
