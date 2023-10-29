@@ -5,19 +5,27 @@ use walkdir::WalkDir;
 use crate::CFG;
 
 /// Extracts ".pac" files contianing "_en"
-pub fn un_pac(input: &Path, output: &Path){
+pub fn un_pac(input: &Path, output: &Path, text: bool){
     std::fs::create_dir_all(output).unwrap();
 
-    let entries = std::fs::read_dir(input).unwrap();
+    let meta = std::fs::metadata(input).unwrap();
+    let entries = 'a: {
+        if(meta.is_file()){ break 'a vec![PathBuf::from(input)]; }
+        if(meta.is_dir()){
+            break 'a std::fs::read_dir(input).unwrap().map(|x| x.unwrap().path()).collect();
+        }
+        println!("Note: No work to do");
+        vec![]
+    };
     for entry in entries{
-        let entry = entry.unwrap();
-        let relpath = PathBuf::from(entry.file_name());
-        let source = entry.path(); // abspath
-        let meta = entry.metadata().unwrap();
+        let source = entry.canonicalize().unwrap(); // abspath
+        let relpath = PathBuf::from(source.file_name().unwrap());
+        let meta = source.metadata().unwrap();
         if meta.is_file() && source.extension().is_some_and(|x| x == "pac") {
             let destination = PathBuf::from(output).join(&relpath);
 
-            if !source.components().last().unwrap().as_os_str().to_str().unwrap().contains("_en") {
+            // Text extraction english test.
+            if text && !source.components().last().unwrap().as_os_str().to_str().unwrap().contains("_en") {
                 println!("SKIP (Not English): {}", relpath.display());
                 continue;
             }
@@ -41,7 +49,6 @@ pub fn un_pac(input: &Path, output: &Path){
 /// All folders ending in .pac will be compressed using HedgePack
 pub fn re_pac(input: &Path, output: &Path){
     // As an aside - HedgeModManager needs some work on documentation and better asset injection.
-    // This repacking process is kind of slow & doesn't allow for per file overrides.
     std::fs::create_dir_all(output).unwrap();
 
     for entry in WalkDir::new(input).into_iter().skip(1){

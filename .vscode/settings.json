@@ -5,4 +5,13 @@
     "vsicons.associations.files": [
         { "extensions": ["pac"], "icon": "binary"} // Or zip, you be the judge
     ],
+    // "explorer.excludeGitIgnore": true,
+    // "files.exclude": {
+    //     "**/.git": true,
+    //     "**/.svn": true,
+    //     "**/.hg": true,
+    //     "**/CVS": true,
+    //     "**/.DS_Store": true,
+    //     "**/Thumbs.db": true
+    // }
 }

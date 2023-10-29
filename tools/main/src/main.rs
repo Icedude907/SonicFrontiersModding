@@ -1,5 +1,5 @@
 #![allow(unused_parens, non_upper_case_globals)] // Style
-#![allow(unused_variables, unused_import_braces, unused_imports, dead_code, irrefutable_let_patterns, unused_braces)] // Laziness
+#![allow(unused_variables, unused_import_braces, unused_imports, dead_code, irrefutable_let_patterns, unused_braces, unreachable_patterns)] // Laziness
 
 use clap::{Parser, CommandFactory};
 
@@ -8,6 +8,7 @@ mod args;
 mod config;
 mod util;
 mod text;
+mod file;
 
 use crate::{config::{PAT, CFG}, args::ProgramMode};
 
@@ -47,17 +48,28 @@ fn main() {
     match args.mode.unwrap(){
         ProgramMode::ExtractText => {
             println!("JOB START 1/2: Unpacking <frontiers>/{} into build/unpac/{}:", &PAT.text.display(), &PAT.text.display());
-            pac::un_pac(&frontiers_text, &unpac_text);
+            pac::un_pac(&frontiers_text, &unpac_text, true);
             println!("JOB START 2/2: Extracting build/unpac/{} into assets/text:", &PAT.text.display());
             text::extract_text(&unpac_text, &proj_text);
         }
         ProgramMode::Compile => {
-            println!("JOB START 1/2: Compiling assets/text into build/repac/{}", &PAT.text.display());
-            // TODO: Interleave other documents in the pacs automatically to keep a complete file structure.
-            text::compile_text(&proj_text, &repac_text);
-            // This is a much more general job
-            println!("JOB START 2/2: Repacking build/repac/* into raw/*");
+            println!("JOB START 1/3: Compiling assets/text into build/repac/{}", &PAT.text.display());
+            // text::compile_text(&proj_text, &repac_text);
+
+            println!("JOB START 2/3: Copying other assets into build/repac/");
+            file::copy_directory_recursive_extensions(&proj_assets, &proj_repac, &["xml", "cnvrs-text"]);
+
+            println!("JOB START 3/3: Repacking build/repac/* into raw/*");
             pac::re_pac(&proj_repac, &proj_raw);
+        }
+        ProgramMode::Unpack(dat) => {
+            let unpac_dir = proj_unpac.join("UnpackCommand");
+            println!("JOB START:");
+            for p in dat.paths {
+                let unpac_dir = unpac_dir.join(p.components().last().unwrap());
+                println!("Unpacking {} into {}:", p.display(), unpac_dir.display());
+                pac::un_pac(&p, &unpac_dir, false);
+            }
         }
         _ => {unimplemented!()}
     }

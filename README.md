@@ -22,13 +22,28 @@ Setting up for yourself:
 5. When you have finished your edits, build the mod with `cargo run -- compile`
 
 #### Additional Resources
-I've found learning resources for sonic modding to be incredibly hidden across the internet, these were of interest to me and they might be of interest to you.
+I've found learning resources for Sonic modding to be incredibly hidden across the internet, these were of interest to me and they might be of interest to you.
 - [CamoRF/Sonic-Frontiers-Mod-Hub](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub)
 - [blueskythlikesclouds/RflTemplates](https://github.com/blueskythlikesclouds/RflTemplates)
 - The source code to [HedgeModManager](https://github.com/thesupersonic16/HedgeModManager)
   and [its Community Codes](https://github.com/hedge-dev/HMMCodes)
   and [its Mod Loader](https://github.com/hedge-dev/HE2ModLoader)
 - [HedgeDocs](https://hedgedocs.com/)
+
+##### Some basic documentation about RFL templates
+- I'm fairly certain these are derived from `frontiers.json`, which comes as part of HedgeLib
+- These `.rfl` files are designed for `010 editor`, and I don't think other software exists that will open them (though they are C-styled so if you wanted to manually you could read them)
+- They do not correspond in file name to the ones in the game
+- Anyway, open 010, 
+  open `.rfl` in it, 
+  then open the `.bt` file you think might work in it,
+  Then go `templates`>`run template`>`*.bt`
+  In the "template results" tab (if you are lucky) you'll see conveniently editable fields and comments (which are mostly Japaneese so use a translation software).
+  Known working combination `character/playercommon.pac/?/player_common.rfl` and `SonicParameters.bt` (this is part of how most people make physics-y mods I think.)
+
+##### Diffing binary files
+- No built-in method of doing this in git
+- Consider using VBinDiff or https://github.com/8051Enthusiast/biodiff to help you? (Check here: https://github.com/microsoft/vscode-hexeditor/issues/47)
 
 --------
 ### Samples
