@@ -1,0 +1,21 @@
+Code "ModMain" by "Icedude_907" does
+/*
+Adds an additional method of activating Cross Slash
+*/
+//
+#lib "Player"
+//
+{
+    if (Player.GetPlayerType() != Player.PlayerType.Sonic){
+        return;
+    }
+
+    if (// Note this bypasses move unlock requirements, cancels out of moves, is usable anywhere (cutscenes, cyberspace) and generally does wacky things. Also, with no target you orbit around world origin.
+        Player.State.GetCurrentStateID<Sonic.StateID>() != Sonic.StateID.StateSpinBoost
+        && Player.Input.IsDown(Player.InputActionType.PlayerSonicboom) && Player.Input.IsDown(Player.InputActionType.PlayerCyloop)
+        && !Player.Status.IsGroundedSpecial() )
+    {
+        // TODO: How do I check to see if Sonic has a target?
+        Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateCrossSlash);
+    }
+}

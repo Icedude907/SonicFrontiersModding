@@ -5,6 +5,9 @@
     "vsicons.associations.files": [
         { "extensions": ["pac"], "icon": "binary"} // Or zip, you be the judge
     ],
+    "files.associations": {
+        "*.hmm": "csharp"
+    }
     // "explorer.excludeGitIgnore": true,
     // "files.exclude": {
     //     "**/.git": true,

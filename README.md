@@ -29,6 +29,7 @@ I've found learning resources for Sonic modding to be incredibly hidden across t
   and [its Community Codes](https://github.com/hedge-dev/HMMCodes)
   and [its Mod Loader](https://github.com/hedge-dev/HE2ModLoader)
 - [HedgeDocs](https://hedgedocs.com/)
+- A sample C++ based mod: [Playable Super Sonic](https://github.com/Sora-yx/SF-Super-Sonic) and [an api](https://github.com/DeaTh-G/rangers-api)
 
 ##### Some basic documentation about RFL templates
 - They are auto-generated from game data. No idea how. HedgeLib's `frontiers.json` has different data. Seems to be courtesy of Mr Skyth
