@@ -1,9 +1,33 @@
 Code "ModMain" by "Icedude_907" does
 /*
-Adds an additional method of activating Cross Slash
+Adds an additional method of activating Cross Slash.
+Costs Quick Cyloop Energy.
 */
 //
+#import "Blackboard"
 #lib "Player"
+#lib "BlackboardBattle"
+#load "System.Numerics.dll"
+
+using System.Numerics;
+using System.Runtime.InteropServices;
+
+static float CrossSlashEnergyCost = 60.0f;
+
+[StructLayout(LayoutKind.Explicit, Size = 0x100, Pack = 0x1)]
+public struct BattleData{
+    /// An instance of `app::player::BlackboardContent`, the base class for `app::player::BlackboardBattle`.
+    [FieldOffset(0)]    public BlackboardContent BlackboardContent;
+    /// The number of attack combos performed by the player.
+    [FieldOffset(0xA8)] public int ComboCount;
+    /// The value of the Phantom Rush gauge.
+    [FieldOffset(0xAC)] public float PhantomRushAmount;
+    /// The value of the Quick Cyloop gauge.
+    [FieldOffset(0xB8)] public float QuickCyloopAmount;
+    // I found this value by tracing the QuickCyloopAmount in Cheat Engine and then monitoring the adjacent memory till I found a flag that triggered when emptying gague.
+    /// Is the Quick Cyloop gauge active (false) or recharging (true)
+    [FieldOffset(0xF1)] public bool QuickCyloopRecharging;
+}
 //
 {
     if (Player.GetPlayerType() != Player.PlayerType.Sonic){
@@ -11,11 +35,57 @@ Adds an additional method of activating Cross Slash
     }
 
     if (// Note this bypasses move unlock requirements, cancels out of moves, is usable anywhere (cutscenes, cyberspace) and generally does wacky things. Also, with no target you orbit around world origin.
-        Player.State.GetCurrentStateID<Sonic.StateID>() != Sonic.StateID.StateSpinBoost
-        && Player.Input.IsDown(Player.InputActionType.PlayerSonicboom) && Player.Input.IsDown(Player.InputActionType.PlayerCyloop)
-        && !Player.Status.IsGroundedSpecial() )
-    {
-        // TODO: How do I check to see if Sonic has a target?
-        Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateCrossSlash);
+        !Player.Status.IsGroundedSpecial()  // Must be airbourne
+        && Player.State.GetCurrentStateID<Sonic.StateID>() != Sonic.StateID.StateCrossSlash // Prevent multiple activation
+        && Player.State.GetCurrentStateID<Sonic.StateID>() != Sonic.StateID.StateSpinBoost  // Prevent accidental activation
+        && Player.Input.IsDown(Player.InputActionType.PlayerSonicboom) && Player.Input.IsDown(Player.InputActionType.PlayerCyloop) // Keybind
+    ){
+        // I have no idea how people discovered this but its really amazing how deep people traversed the tree.
+        var pBlackboardBattle = (BattleData*)BlackboardBattle.Get();
+        if (pBlackboardBattle == null){
+            return;
+        }
+
+        var qcamount = pBlackboardBattle->QuickCyloopAmount;
+        if(!pBlackboardBattle->QuickCyloopRecharging && qcamount > 0.0){
+            qcamount -= CrossSlashEnergyCost;
+            if(qcamount < 0.0){
+                qcamount = 0.0f;
+                pBlackboardBattle->QuickCyloopRecharging = true;
+            }
+            pBlackboardBattle->QuickCyloopAmount = qcamount;
+            // TODO: How do I check to see if Sonic has a target?
+            Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateCrossSlash);
+        }
+    }
+}
+
+Code "Forensics" by "Icedude_907" does "research"
+//
+    #lib "BlackboardItem"
+    #lib "BlackboardBattle"
+    #lib "MathHelpers"
+    #lib "PhotoMode"
+    #lib "Player"
+    #lib "XInput"
+
+    using System.Diagnostics;
+    using System.Runtime.InteropServices;
+
+    static bool IsKeyDown(Keys in_keys){
+        return (GetAsyncKeyState(in_keys) & 0x8000) != 0;
+    }
+    [DllImport("user32.dll")]
+    static extern IntPtr GetForegroundWindow();
+//
+{
+    if (GetForegroundWindow() != Process.GetCurrentProcess().MainWindowHandle)
+        return;
+
+    if(IsKeyDown(Keys.L)){
+        var pBlackboardBattle = BlackboardBattle.Get();
+        var pBlackboardItem = BlackboardItem.Get();
+        // I watch the memory here using cheatengine or x64dbg
+        Console.WriteLine($"Debug: battle 0x{(ulong)pBlackboardBattle:X}, item 0x{(ulong)pBlackboardItem:X}: ");
     }
 }
