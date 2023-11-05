@@ -4,9 +4,10 @@ Adds an additional method of activating Cross Slash.
 Costs Quick Cyloop Energy.
 */
 //
-#import "Blackboard"
 #lib "Player"
 #lib "BlackboardBattle"
+#import "Blackboard"
+#include "BlackboardStatus" noemit
 #load "System.Numerics.dll"
 
 using System.Numerics;
@@ -34,10 +35,16 @@ public struct BattleData{
         return;
     }
 
+    var PlayerState = Player.State.GetCurrentStateID<Sonic.StateID>();
+
+    // TODO: Explore potential move properties in the binary rather than amending.
+
+    // Logic for enhanced Cross Slash
     if (// Note this bypasses move unlock requirements, cancels out of moves, is usable anywhere (cutscenes, cyberspace) and generally does wacky things. Also, with no target you orbit around world origin.
         !Player.Status.IsGroundedSpecial()  // Must be airbourne
-        && Player.State.GetCurrentStateID<Sonic.StateID>() != Sonic.StateID.StateCrossSlash // Prevent multiple activation
-        && Player.State.GetCurrentStateID<Sonic.StateID>() != Sonic.StateID.StateSpinBoost  // Prevent accidental activation
+        && PlayerState != Sonic.StateID.StateCrossSlash // Prevent multiple activation
+        && PlayerState != Sonic.StateID.StateSpinBoost  // Prevent accidental activation
+        && (IS_WORLD_FLAG(IsBattle) || PlayerState == Sonic.StateID.StateSonicBoomKick) // Prevent accidental activation
         && Player.Input.IsDown(Player.InputActionType.PlayerSonicboom) && Player.Input.IsDown(Player.InputActionType.PlayerCyloop) // Keybind
     ){
         // I have no idea how people discovered this but its really amazing how deep people traversed the tree.
@@ -56,6 +63,21 @@ public struct BattleData{
             pBlackboardBattle->QuickCyloopAmount = qcamount;
             // TODO: How do I check to see if Sonic has a target?
             Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateCrossSlash);
+        }
+    }
+
+    // Logic for Homing Shot Cancels
+    if (Player.State.GetCurrentStateID<Sonic.StateID>() == Sonic.StateID.StateHomingShot){
+        // TODO: Parry canceliing
+        // Dodge cancelling (by default this sends backwards which is a fair trade off)
+        if( Player.Input.IsPressed(Player.InputActionType.PlayerLeftStep) ||
+            Player.Input.IsPressed(Player.InputActionType.PlayerRightStep)
+        ){
+            Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateAvoid);
+        }
+        // Stomp cancelling
+        if( Player.Input.IsPressed(Player.InputActionType.PlayerStomping)){
+            Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateStomping);
         }
     }
 }

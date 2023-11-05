@@ -54,7 +54,7 @@ fn main() {
         }
         ProgramMode::Compile => {
             println!("JOB START 1/3: Compiling assets/text into build/repac/{}", &PAT.text.display());
-            // text::compile_text(&proj_text, &repac_text);
+            text::compile_text(&proj_text, &repac_text);
 
             println!("JOB START 2/3: Copying other assets into build/repac/");
             file::copy_directory_recursive_extensions(&proj_assets, &proj_repac, &["xml", "cnvrs-text"]);

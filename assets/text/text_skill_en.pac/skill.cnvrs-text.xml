@@ -26,7 +26,8 @@
       Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
     </text>
     <text name="skill_14_explain" id="151909993" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Circle the enemy and let loose a stream of shockwaves. The dumbest activation keybind, and the most unnecessary move. Really strong. Consumes your air boost.
+      Circle the enemy and let loose a stream of cyber shockwaves. Consumes Quick Cyloop energy.
+      Modder's note: This move is unfinished. The old activation keybind still works, and using this out of combat is buggy.
     </text>
     <text name="skill_50_command" id="171430357" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       <image name="button_top" />
@@ -121,7 +122,7 @@
     </text>
     <text name="skill_59_command" id="729198046" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
     <text name="skill_02_explain" id="747174376" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Unleash a powerful attack by following the on-screen prompt.
+      Unleash a powerful attack after creating an opening by following the on-screen prompt.
     </text>
     <text name="skill_26_explain_Steam" id="767145435" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
       Use Fortune Cards to attack forward. Press <image name="s_button_attack" /> twice to attack twice in a row.
@@ -257,6 +258,7 @@
     </text>
     <text name="skill_12_explain" id="1459617383" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
       The most broken attack in the game. Can be done out of a dodge for stupid damage.
+      May miss if the opponent moves quickly.
     </text>
     <text name="skill_09_command" id="1461950307" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Press <image name="button_left_shoulder" /> / <image name="button_right_shoulder" /> → <image name="button_left" />
@@ -290,7 +292,8 @@
       A close-range punching attack. Repeatedly press <image name="s_button_attack" /> to unleash up to 3 punches in a row.
     </text>
     <text name="skill_15_explain" id="1645539946" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Battle skills that have been unlocked will be automatically activated during combos. However, damage dealt will be reduced. After unlocking this, you can toggle auto combo ON/OFF from Options.
+      For plebs.
+      Unlocked skills will be automatically activated during combos. However, damage dealt will be reduced. After unlocking this, you can toggle auto combo ON/OFF from Options.
     </text>
     <text name="skill_51_name" id="1645996128" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Infinite Glide
@@ -384,8 +387,9 @@
     </text>
     <text name="skill_18_name" id="2226882005" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
     <text name="skill_03_explain" id="2240804329" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Quickly Cyloop around the enemy even when in the air. The Cyloop meter must be blue.
+      Quickly Cyloop around the enemy. The Cyloop meter must be blue.
       The meter fills up with every attack that hits an enemy, and can be used multiple times before depleting.
+      Can be used while in the air.
     </text>
     <text name="skill_31_name" id="2266263134" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Cyhammer
@@ -456,7 +460,9 @@
       Parry
     </text>
     <text name="skill_09_explain" id="2612649455" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      A high-speed, zigzagging attack.
+      Unleash a strong, zigzagging attack. Sometimes circumvents an opponent's guard.
+    
+      Modder's note: It should always - but IDK how to program that in.
     </text>
     <text name="skill_47_name" id="2617850457" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Combo Attack
@@ -481,7 +487,9 @@
       <image name="s_button_attack" /> after Card Attack
     </text>
     <text name="skill_10_explain" id="2767324773" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      A looping, rapidly accelerating kick attack in midair.
+      A looping, rapidly accelerating kick attack in midair. Can be used outside of combat.
+
+      Modder's note. Out of combat traversal unfinished. Currently uses (press boost, release, press homing attack) as the trigger.
     </text>
     <text name="skill_07_command" id="2769657697" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Move <image name="button_left_stick" /> in midair
@@ -514,7 +522,8 @@
       A small midair jump.
     </text>
     <text name="skill_13_explain" id="2953247336" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Launch a volley of energy spheres at the enemy in an inescapable, long cutscene. Consumes your air boost.
+      Launch a volley of energy spheres at the enemy.
+      If you exit the move early, less spheres will be launched.
     </text>
     <text name="skill_50_name" id="2967365089" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Cyknuckle
@@ -571,7 +580,7 @@
       Automatically attack multiple targets in a drill spin state by releasing <image name="s_button_attack" /> after multiple target cursors appear.
     </text>
     <text name="skill_14_command" id="3296178141" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
-      Press<image name="button_right_trigger" />in midair →<image name="button_bottom" />in midair
+      Hold <image name="button_left_trigger" /> → press <image name="button_top" /> in midair
     </text>
     <text name="skill_53_name" id="3298225502" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Parry
