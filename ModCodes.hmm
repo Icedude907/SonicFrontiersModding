@@ -14,8 +14,9 @@ using System.Numerics;
 using System.Runtime.InteropServices;
 
 static float CrossSlashEnergyCost = 60.0f;
+static bool IsKnockedInRecoverySmash = false;
 
-[StructLayout(LayoutKind.Explicit, Size = 0x100, Pack = 0x1)]
+[StructLayout(LayoutKind.Explicit, Size = 0x100)]
 public struct BattleData{
     /// An instance of `app::player::BlackboardContent`, the base class for `app::player::BlackboardBattle`.
     [FieldOffset(0)]    public BlackboardContent BlackboardContent;
@@ -25,9 +26,16 @@ public struct BattleData{
     [FieldOffset(0xAC)] public float PhantomRushAmount;
     /// The value of the Quick Cyloop gauge.
     [FieldOffset(0xB8)] public float QuickCyloopAmount;
+
+    /// <summary>
+    /// Contains various flags
+    /// bit 6 - Is Phantom Rush Active
+    /// </summary>
+    [FieldOffset(0xF0)] public byte flags1;
     // I found this value by tracing the QuickCyloopAmount in Cheat Engine and then monitoring the adjacent memory till I found a flag that triggered when emptying gague.
     /// Is the Quick Cyloop gauge active (false) or recharging (true)
     [FieldOffset(0xF1)] public bool QuickCyloopRecharging;
+
 }
 //
 {
@@ -36,23 +44,19 @@ public struct BattleData{
     }
 
     var PlayerState = Player.State.GetCurrentStateID<Sonic.StateID>();
+    var pBlackboardBattle = (BattleData*)BlackboardBattle.Get();
 
     // TODO: Explore potential move properties in the binary rather than amending.
 
     // Logic for enhanced Cross Slash
-    if (// Note this bypasses move unlock requirements, cancels out of moves, is usable anywhere (cutscenes, cyberspace) and generally does wacky things. Also, with no target you orbit around world origin.
+    if( // Note this bypasses move unlock requirements, cancels out of moves, is usable anywhere (cutscenes, cyberspace) and generally does wacky things. Also, with no target you orbit around world origin.
         !Player.Status.IsGroundedSpecial()  // Must be airbourne
         && PlayerState != Sonic.StateID.StateCrossSlash // Prevent multiple activation
         && PlayerState != Sonic.StateID.StateSpinBoost  // Prevent accidental activation
         && (IS_WORLD_FLAG(IsBattle) || PlayerState == Sonic.StateID.StateSonicBoomKick) // Prevent accidental activation
         && Player.Input.IsDown(Player.InputActionType.PlayerSonicboom) && Player.Input.IsDown(Player.InputActionType.PlayerCyloop) // Keybind
+        && pBlackboardBattle != null // I have no idea how people discovered this but its really amazing how deep people traversed the tree.
     ){
-        // I have no idea how people discovered this but its really amazing how deep people traversed the tree.
-        var pBlackboardBattle = (BattleData*)BlackboardBattle.Get();
-        if (pBlackboardBattle == null){
-            return;
-        }
-
         var qcamount = pBlackboardBattle->QuickCyloopAmount;
         if(!pBlackboardBattle->QuickCyloopRecharging && qcamount > 0.0){
             qcamount -= CrossSlashEnergyCost;
@@ -67,7 +71,7 @@ public struct BattleData{
     }
 
     // Logic for Homing Shot Cancels
-    if (Player.State.GetCurrentStateID<Sonic.StateID>() == Sonic.StateID.StateHomingShot){
+    if(PlayerState == Sonic.StateID.StateHomingShot){
         // TODO: Parry canceliing
         // Dodge cancelling (by default this sends backwards which is a fair trade off)
         if( Player.Input.IsPressed(Player.InputActionType.PlayerLeftStep) ||
@@ -77,8 +81,21 @@ public struct BattleData{
         }
         // Stomp cancelling
         if( Player.Input.IsPressed(Player.InputActionType.PlayerStomping)){
-            Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateStomping);
+            Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateStompingDown);
         }
+    }
+
+    // Logic for Recovery Smash
+    // TODO: Hook into the game's flag to set it off if we aren't rushing.
+    if(PlayerState == Sonic.StateID.StateDamageBlowOff || PlayerState == Sonic.StateID.StateDamageBlowOffHeavy){
+        IsKnockedInRecoverySmash = true;
+    }if(PlayerState == Sonic.StateID.StateSmash){ // Grand Slam is just called Smash by the game and they use identical states.
+        if(pBlackboardBattle != null){
+            // Console.WriteLine($"Allowed: {((pBlackboardBattle->flags1 & 0b0100_0000) != 0)}");
+            pBlackboardBattle->PhantomRushAmount = 0;
+        }
+    }else{
+        IsKnockedInRecoverySmash = false;
     }
 }
 
@@ -107,7 +124,9 @@ Code "Forensics" by "Icedude_907" does "research"
     if(IsKeyDown(Keys.L)){
         var pBlackboardBattle = BlackboardBattle.Get();
         var pBlackboardItem = BlackboardItem.Get();
+        var PlayerState = Player.State.GetCurrentStateID<Sonic.StateID>();
         // I watch the memory here using cheatengine or x64dbg
-        Console.WriteLine($"Debug: battle 0x{(ulong)pBlackboardBattle:X}, item 0x{(ulong)pBlackboardItem:X}: ");
+        // Console.WriteLine($"Debug: battle 0x{(ulong)pBlackboardBattle:X}, item 0x{(ulong)pBlackboardItem:X}: ");
+        Console.WriteLine($"PlayerState: {PlayerState.ToString()}")
     }
 }

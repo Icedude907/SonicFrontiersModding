@@ -423,7 +423,7 @@
       A spinning attack during a Card Attack. (Kinda bad.) Use <image name="button_left_stick" /> during a Card Attack to move, and hold <image name="s_button_attack" /> to spin for longer. Use it too much and Amy will become dizzy.
     </text>
     <text name="skill_06_explain" id="2426726892" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      If Sonic is thrown back by an attack and presses <image name="button_bottom" /> before hitting the ground, he ignores the damage and hits a Grand Slam. Rather unfair.
+      If Sonic is thrown back by some attacks whilst in Phantom Rush, the gauge can be consumed to reduce damage and counter with a Grand Slam.
     </text>
     <text name="skill_42_command" id="2446247256" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Hold <image name="button_bottom" /> after a double jump
@@ -461,8 +461,6 @@
     </text>
     <text name="skill_09_explain" id="2612649455" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
       Unleash a strong, zigzagging attack. Sometimes circumvents an opponent's guard.
-    
-      Modder's note: It should always - but IDK how to program that in.
     </text>
     <text name="skill_47_name" id="2617850457" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Combo Attack
@@ -580,7 +578,7 @@
       Automatically attack multiple targets in a drill spin state by releasing <image name="s_button_attack" /> after multiple target cursors appear.
     </text>
     <text name="skill_14_command" id="3296178141" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
-      Hold <image name="button_left_trigger" /> → press <image name="button_top" /> in midair
+      Hold <image name="button_left_trigger" />→ press <image name="button_top" /> in midair
     </text>
     <text name="skill_53_name" id="3298225502" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Parry
