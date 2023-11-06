@@ -1,6 +1,5 @@
 
 ## Wild Rush (Crasher) mechanics:
-
 `distanceRatios[5]` - The distances sonic moves relative to the enemy while zig zagging. There is an implicit 6th movement towards the enemy.
 - `0` is sonic's starting pos
 - `1` is enemy pos
@@ -16,3 +15,8 @@
 The game determines these 6 positions (5 + final on enemy) to move Sonic in and jumps linearly from position to position.
 
 The direction you dodge in when starting the move does not flip the angles. Its always the same.
+
+## TODO:
+Increase max non-boost running speed
+Ancient rails (fast travel rails) should have a higher top speed than regular rails.
+Make sonic less helpless when stomp destroying in cyber space / doing many other actions (climbing, double jumping)

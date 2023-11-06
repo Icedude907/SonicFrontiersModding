@@ -27,7 +27,7 @@
     </text>
     <text name="skill_14_explain" id="151909993" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
       Circle the enemy and let loose a stream of cyber shockwaves. Consumes Quick Cyloop energy.
-      Modder's note: This move is unfinished. The old activation keybind still works, and using this out of combat is buggy.
+      Modder's note: This is unfinished. Using this out of combat is buggy.
     </text>
     <text name="skill_50_command" id="171430357" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       <image name="button_top" />
@@ -148,7 +148,7 @@
       Fly at high speed aboard the Cyclone. Hold <image name="button_right_trigger" /> and use <image name="button_left_stick" /> to adjust altitude and steer.
     </text>
     <text name="skill_05_explain" id="933096939" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Launch a powerful attack that delivers a flurry of hits as Sonic ascends.
+      Deliver a flurry of hits around Sonic as he ascends. The attack is strongest at its centre.
     </text>
     <text name="skill_32_name" id="944894173" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Infinite Card Spin
@@ -188,7 +188,7 @@
       Transform the blaster into a pile bunker and launch a diving attack.
     </text>
     <text name="skill_08_explain" id="1119019502" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      A high-speed kick that unleashes shockwaves to pummel the enemy. Unironically the coolest and fairest attack in this game.
+      A high-speed kick that unleashes shockwaves to pummel the enemy.
     </text>
     <text name="skill_72_command_Steam" id="1122768070" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
@@ -487,7 +487,7 @@
     <text name="skill_10_explain" id="2767324773" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
       A looping, rapidly accelerating kick attack in midair. Can be used outside of combat.
 
-      Modder's note. Out of combat traversal unfinished. Currently uses (press boost, release, press homing attack) as the trigger.
+      Modder's note. Out of combat traversal unfinished. Currently uses (press air boost, press cyloop) as the trigger.
     </text>
     <text name="skill_07_command" id="2769657697" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Move <image name="button_left_stick" /> in midair
@@ -643,8 +643,8 @@
       Use the Boost Gauge to speed up. Boosting in midair will lead to an Air Boost.
     </text>
     <text name="skill_04_explain" id="3734434282" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      When the combo meter is maxed out, Phantom Rush is activated, resulting in attacks being 1.2 times more powerful.
-      Phantom Rush lasts until the combo meter reaches 0.
+      When the combo meter is maxed out, Phantom Rush is activated, resulting in basic attacks being 1.4 times more powerful (other attacks: 1.2 times).
+      Phantom Rush lasts until the meter depletes.
     </text>
     <text name="skill_40_command" id="3753954646" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />
     <text name="skill_45_explain" id="3782868967" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
