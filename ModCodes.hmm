@@ -13,9 +13,13 @@ Costs Quick Cyloop Energy.
 using System.Numerics;
 using System.Runtime.InteropServices;
 
-static float CrossSlashEnergyCost = 60.0f;
-static bool IsKnockedInRecoverySmash = false;
+static float CrossSlashEnergyCost = 60.0f; // Additional on top of player_common quickCyloop cost (I've set to 0 to allow the button to be used always.)
+static float QuickCyloopEnergyCost = 40.0f;
+static bool IsCrossSlashing = false;
+static bool IsQuickCylooping = false;
+static bool IsKnockedBack = false;
 
+// TODO: Merge into HMMCodes
 [StructLayout(LayoutKind.Explicit, Size = 0x100)]
 public struct BattleData{
     /// An instance of `app::player::BlackboardContent`, the base class for `app::player::BlackboardBattle`.
@@ -39,6 +43,22 @@ public struct BattleData{
 }
 //
 {
+    // Remove energy and recharge if emptied out.
+    bool deductQuickCyloopEnergy(BattleData* pBlackboardBattle, float amount){
+        var newAmount = pBlackboardBattle->QuickCyloopAmount - amount;
+        if(newAmount < 0.0){
+            newAmount = 0.0f;
+            pBlackboardBattle->QuickCyloopRecharging = true;
+        }
+        pBlackboardBattle->QuickCyloopAmount = newAmount;
+
+        return true;
+    }
+
+    // ---------
+    // Main code.
+    // -----------
+
     if (Player.GetPlayerType() != Player.PlayerType.Sonic){
         return;
     }
@@ -47,27 +67,40 @@ public struct BattleData{
     var pBlackboardBattle = (BattleData*)BlackboardBattle.Get();
 
     // TODO: Explore potential move properties in the binary rather than amending.
+    // TODO: Figure out how to create move targets, edit lock on range, and check lock on range.
 
     // Logic for enhanced Cross Slash
-    if( // Note this bypasses move unlock requirements, cancels out of moves, is usable anywhere (cutscenes, cyberspace) and generally does wacky things. Also, with no target you orbit around world origin.
-        !Player.Status.IsGroundedSpecial()  // Must be airbourne
-        && PlayerState != Sonic.StateID.StateCrossSlash // Prevent multiple activation
-        && PlayerState != Sonic.StateID.StateSpinBoost  // Prevent accidental activation
-        && (IS_WORLD_FLAG(IsBattle) || PlayerState == Sonic.StateID.StateSonicBoomKick) // Prevent accidental activation
-        && Player.Input.IsDown(Player.InputActionType.PlayerSonicboom) && Player.Input.IsDown(Player.InputActionType.PlayerCyloop) // Keybind
-        && pBlackboardBattle != null // I have no idea how people discovered this but its really amazing how deep people traversed the tree.
+    // Input is TransitAir(Targeted) from SonicBoom with the Cyloop button - see player_common.rfl
+    if(pBlackboardBattle != null // I have no idea how people discovered this but its really amazing how deep people traversed the tree.
+    && PlayerState == Sonic.StateID.StateCrossSlash
     ){
-        var qcamount = pBlackboardBattle->QuickCyloopAmount;
-        if(!pBlackboardBattle->QuickCyloopRecharging && qcamount > 0.0){
-            qcamount -= CrossSlashEnergyCost;
-            if(qcamount < 0.0){
-                qcamount = 0.0f;
-                pBlackboardBattle->QuickCyloopRecharging = true;
-            }
-            pBlackboardBattle->QuickCyloopAmount = qcamount;
-            // TODO: How do I check to see if Sonic has a target?
-            Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateCrossSlash);
+        if(pBlackboardBattle->QuickCyloopRecharging){ // Cancel the move
+            Player.State.Restore<Sonic.StateID>(Sonic.StateID.StateSonicBoomKick);
+        }else if(!IsCrossSlashing){ // Deduct QuickCyloop Energy when inputting the move only on the first frame.
+            IsCrossSlashing = true;
+            deductQuickCyloopEnergy(pBlackboardBattle, CrossSlashEnergyCost);
         }
+    }else{
+        var wasCrossSlashing = IsCrossSlashing;
+        IsCrossSlashing = false;
+        // Post move auto transition into sonic boom (can't be done in player_common unless you repress the button - which causes an offset teleport (statecombowarp).)
+        if(wasCrossSlashing && Player.Input.IsDown(Player.InputActionType.PlayerSonicboom)){
+            Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateSonicBoomKick);
+        }
+        // TODO: Post move buffer transition into self.
+    }
+
+    // Logic for Quick Cyloop
+    // Due to a bug in the game, an Energy level below QuickCyloopEnergyCost cannot ever activate moves.
+    // In normal gameplay since QuickCyloop always uses 50% this never triggers, but now we have CrossSlash using different energy amounts so this can be triggered.
+    // Therefore we set the internal energy cost to 0, and deduct energy externally here.
+    if(pBlackboardBattle != null && PlayerState == Sonic.StateID.StateQuickCyloop){
+        if(!IsQuickCylooping){
+            deductQuickCyloopEnergy(pBlackboardBattle, QuickCyloopEnergyCost);
+        }
+        IsQuickCylooping = true;
+    }else{
+        IsQuickCylooping = false;
     }
 
     // Logic for Homing Shot Cancels
@@ -80,7 +113,7 @@ public struct BattleData{
             Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateAvoid);
         }
         // Stomp cancelling
-        if( Player.Input.IsPressed(Player.InputActionType.PlayerStomping)){
+        if(Player.Input.IsPressed(Player.InputActionType.PlayerStomping)){
             Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateStompingDown);
         }
     }
@@ -88,15 +121,31 @@ public struct BattleData{
     // Logic for Recovery Smash
     // TODO: Hook into the game's flag to set it off if we aren't rushing.
     if(PlayerState == Sonic.StateID.StateDamageBlowOff || PlayerState == Sonic.StateID.StateDamageBlowOffHeavy){
-        IsKnockedInRecoverySmash = true;
+        IsKnockedBack = true;
     }if(PlayerState == Sonic.StateID.StateSmash){ // Grand Slam is just called Smash by the game and they use identical states.
         if(pBlackboardBattle != null){
-            // Console.WriteLine($"Allowed: {((pBlackboardBattle->flags1 & 0b0100_0000) != 0)}");
+            var isPhantomRushActive = ((pBlackboardBattle->flags1 & 0b0100_0000) != 0);
+            // Console.WriteLine($"Allowed: {isPhantomRushActive}");
             pBlackboardBattle->PhantomRushAmount = 0;
         }
     }else{
-        IsKnockedInRecoverySmash = false;
+        IsKnockedBack = false;
     }
+
+    // TODO: Persuit Kick
+    // Cyclone Kick / Charge Attack should only use persuit as a follow up if the final hit connects
+    // Persuit should be on the unlock tree.
+    // TODO: Disable cyclone kick until touching the ground after doing once (currently you can cyclone, homing, cyclone, loop)
+
+
+    // TODO: Rail Crouch
+    // TODO: Modify rail boost to consume a chunk on activation, set to a minimum speed, and increase the speed limit as time goes on
+    // TODO: Make air boost consume a chunk when pressed and a bit while held.
+    // TODO: Make ground boost consume a lesser chunk when pressed
+    // TODO: Decrease koko boost expansion rewards
+    // TODO: Decrease fishing koko amounts
+    // TODO: Decrease upgrade koko amounts
+    // TODO: Decrease max levels
 }
 
 Code "Forensics" by "Icedude_907" does "research"

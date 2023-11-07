@@ -26,8 +26,7 @@
       Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
     </text>
     <text name="skill_14_explain" id="151909993" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Circle the enemy and let loose a stream of cyber shockwaves. Consumes Quick Cyloop energy.
-      Modder's note: This is unfinished. Using this out of combat is buggy.
+      Orbit around the enemy and let loose a stream of cyber shockwaves. Consumes Quick Cyloop energy.
     </text>
     <text name="skill_50_command" id="171430357" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       <image name="button_top" />
@@ -280,7 +279,7 @@
     </text>
     <text name="skill_38_name" id="1606614999" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
     <text name="skill_10_command" id="1616625625" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
-      Press<image name="button_right_trigger" />in midair →<image name="button_right" />in midair
+      Hold<image name="button_right_trigger" />in midair →<image name="button_right" />in midair
     </text>
     <text name="skill_explain_unknown_01" id="1619053676" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
       Advance through the story to unlock this.
@@ -324,7 +323,7 @@
       Hold <image name="s_button_cyloop" /> while moving
     </text>
     <text name="skill_13_command" id="1802548188" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
-      Press<image name="button_right_trigger" />in midair →<image name="button_left" />in midair
+      Hold<image name="button_right_trigger" />in midair →<image name="button_left" />in midair
     </text>
     <text name="skill_78_explain" id="1811153255" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
     <text name="skill_18_explain" id="1831462509" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
