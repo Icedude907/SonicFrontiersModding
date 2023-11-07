@@ -17,3 +17,5 @@ TODO: Have homing shot increase attack range.
 TODO: Lower Sonic's base homing range
 
 FIXME: Wild Rush's final camera angle is slightly too close to large enemies (non-super)
+
+TODO: Sonic boom slowdown on hold.

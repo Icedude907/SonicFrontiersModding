@@ -26,18 +26,18 @@ Static declarations for your code.
 ```c#
 Code "Does something"
 //
-#include "XYZ" noemit
 #lib "Library"
+#include "XYZ" noemit
 #load "System.Numerics.dll"
 using System.Collections.Generic;
 static SomeStaticVariable = false;
 //
 ```
 - the `//` enclosing is mandatory
-- `#include "name" noemit` ???-no idea
 - `#lib "Library"` - Imports (via token pasting?) all code in the `Library` code of the same name under its own 
     namespace (e.g.: `Library.function()`)
     Major utility libraries exist in the community codes document, you ought to have a look.
+- `#include "name" noemit` Use this if you need preprocessor `#defines` from the imported library.
 - Regular C# global code ensues
 - `#load "dll"` Loads C# code from .NET dlls
 
