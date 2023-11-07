@@ -65,6 +65,7 @@ pub struct Paths{
     pub assets: PathBuf,
     pub unpack: PathBuf,
     pub repack: PathBuf,
+    pub build: PathBuf,
     pub raw: PathBuf,
         pub text: PathBuf,
 }
@@ -73,6 +74,7 @@ pub static PAT: Lazy<Paths> = Lazy::new(||{Paths{
     assets: PathBuf::from("assets"),
     unpack: PathBuf::from("build").join("unpac"),
     repack: PathBuf::from("build").join("repac"),
+    build: PathBuf::from("build"),
     raw:    PathBuf::from("raw"),
         text: PathBuf::from("text"),
 }});

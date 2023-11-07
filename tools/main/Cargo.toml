@@ -12,5 +12,7 @@ edition = "2021"
 [dependencies]
 clap = {version = "4.4.6", features = ["derive"]} # Command Line Parsing
 walkdir = "2.4.0" # Convenience for recursively consuming directory members
-once_cell = "1.18.0" # Immutable globals. Backend for SuperLazy (mutable globals)
+once_cell = "1.18.0" # Immutable globals. Backend for SuperLazy (safely unsafe mutable globals)
+zip = { version = "0.6.6", default-features = false, features = ["zstd", "time"]} # For exporting
+chrono = "0.4.31" # Comparing dates
 # futures = "0.3.28" # Async execution

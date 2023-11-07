@@ -21,7 +21,8 @@ pub enum ProgramMode{
     ExtractText,
     /// Compile './assets/text' and then repack everything in './build/repac'.
     Compile,
-
+    /// Export the currently compiled mod as a zip file
+    Export,
 }
 
 #[derive(Args, Debug, PartialEq, Eq)]

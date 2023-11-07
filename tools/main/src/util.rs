@@ -3,6 +3,15 @@ use std::{cell::UnsafeCell, ops::Deref, io::Write};
 use once_cell::unsync;
 use walkdir::WalkDir;
 
+/// For readability. Ternary operator
+macro_rules! if2 {
+    ($cond:expr, $tru:expr, $fal:expr) => {
+        {if $cond { $tru } else {$fal}}
+    };
+}
+
+pub(crate) use if2;
+
 /// A global variable initialised on its first access.
 /// 
 /// Able to be modified during runtime.

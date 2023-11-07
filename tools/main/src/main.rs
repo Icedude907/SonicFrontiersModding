@@ -1,5 +1,5 @@
 #![allow(unused_parens, non_upper_case_globals)] // Style
-#![allow(unused_variables, unused_import_braces, unused_imports, dead_code, irrefutable_let_patterns, unused_braces, unreachable_patterns)] // Laziness
+#![allow(unused_variables, unused_import_braces, unused_imports, dead_code, irrefutable_let_patterns, unused_braces, unreachable_patterns, unused_macros)] // Laziness
 
 use clap::{Parser, CommandFactory};
 
@@ -9,6 +9,7 @@ mod config;
 mod util;
 mod text;
 mod file;
+mod zip;
 
 use crate::{config::{PAT, CFG}, args::ProgramMode};
 
@@ -39,6 +40,7 @@ fn main() {
     let proj_assets = CFG.proj_root.join(&PAT.assets);
     let proj_unpac  = CFG.proj_root.join(&PAT.unpack);
     let proj_repac  = CFG.proj_root.join(&PAT.repack);
+    let proj_build  = CFG.proj_root.join(&PAT.build);
     let proj_raw    = CFG.proj_root.join(&PAT.raw);
 
     let frontiers_text = CFG.frontiers_data.join(&PAT.text);
@@ -71,6 +73,24 @@ fn main() {
                 println!("Unpacking {} into {}:", p.display(), unpac_dir.display());
                 pac::un_pac(&p, &unpac_dir, false);
             }
+        }
+        ProgramMode::Export => {
+            let now = chrono::Local::now().format("%F");
+            let export_file = proj_build.join(format!("modexport_{}.zip", now));
+
+            let directories = [
+                "mod.ini",
+                "ModCodes.hmm",
+                "ModReadme.txt",
+                "raw/"
+            ].map(|rel| CFG.proj_root.join(rel));
+            let directories: Vec<_> = directories.iter().map(|f| f.as_path()).collect();
+
+            println!("JOB START: Exporting the following files/folders: ");
+            for d in directories.iter(){
+                println!("  {}", d.display());
+            }
+            zip::compress(&export_file, &directories).unwrap();
         }
         _ => {unimplemented!()}
     }
