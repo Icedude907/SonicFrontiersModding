@@ -57,7 +57,7 @@ fn main() {
             text::compile_text(&proj_text, &repac_text);
 
             println!("JOB START 2/3: Copying other assets into build/repac/");
-            file::copy_directory_recursive_extensions(&proj_assets, &proj_repac, &["xml", "cnvrs-text"]);
+            file::copy_directory_recursive_extension_blacklist(&proj_assets, &proj_repac, &["xml", "cnvrs-text"]);
 
             println!("JOB START 3/3: Repacking build/repac/* into raw/*");
             pac::re_pac(&proj_repac, &proj_raw);

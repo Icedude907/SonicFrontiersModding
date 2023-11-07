@@ -6,7 +6,7 @@ use walkdir::WalkDir;
 /// Intended to copy files from the assets folder that dont require additional processing
 /// to the repac folder for being mixed in with the other pac files.
 /// WARNING: Files of the same name in repac will be overridden!
-pub fn copy_directory_recursive_extensions(input: &Path, output: &Path, exclude: &[&str]){
+pub fn copy_directory_recursive_extension_blacklist(input: &Path, output: &Path, exclude: &[&str]){
     // TODO: Don't copy redundancies (same timestamp)
     // TODO: Hardlink if possible (no links on exfat is a crime)
     std::fs::create_dir_all(output).unwrap();

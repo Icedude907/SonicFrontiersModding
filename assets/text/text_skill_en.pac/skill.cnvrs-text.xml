@@ -147,7 +147,7 @@
       Fly at high speed aboard the Cyclone. Hold <image name="button_right_trigger" /> and use <image name="button_left_stick" /> to adjust altitude and steer.
     </text>
     <text name="skill_05_explain" id="933096939" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Deliver a flurry of hits around Sonic as he ascends. The attack is strongest at its centre.
+      Deliver a flurry of hits around Sonic as he ascends. Lighter foes are launched high.
     </text>
     <text name="skill_32_name" id="944894173" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Infinite Card Spin
@@ -187,7 +187,7 @@
       Transform the blaster into a pile bunker and launch a diving attack.
     </text>
     <text name="skill_08_explain" id="1119019502" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      A high-speed kick that unleashes shockwaves to pummel the enemy.
+      High-speed kicks unleash shockwaves to pummel the enemy.
     </text>
     <text name="skill_72_command_Steam" id="1122768070" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Hold <image name="s_button_qsleft" />＋<image name="s_button_qsright" />
@@ -459,7 +459,7 @@
       Parry
     </text>
     <text name="skill_09_explain" id="2612649455" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      Unleash a strong, zigzagging attack. Sometimes circumvents an opponent's guard.
+      An errattic, zigzagging attack that sometimes circumvents an opponent's guard.
     </text>
     <text name="skill_47_name" id="2617850457" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Combo Attack
@@ -485,8 +485,7 @@
     </text>
     <text name="skill_10_explain" id="2767324773" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
       A looping, rapidly accelerating kick attack in midair. Can be used outside of combat.
-
-      Modder's note. Out of combat traversal unfinished. Currently uses (press air boost, press cyloop) as the trigger.
+      Modder's note. Out of combat traversal unfinished (currently uses <image name="button_left" />).
     </text>
     <text name="skill_07_command" id="2769657697" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Move <image name="button_left_stick" /> in midair
