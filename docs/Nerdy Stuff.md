@@ -20,3 +20,7 @@ The direction you dodge in when starting the move does not flip the angles. Its 
 Increase max non-boost running speed
 Ancient rails (fast travel rails) should have a higher top speed than regular rails.
 Make sonic less helpless when stomp destroying in cyber space / doing many other actions (climbing, double jumping)
+
+
+## Skill tree
+gameparam.pac/skill.rfl: Skyth GameSkillParameter.bt

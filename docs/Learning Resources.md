@@ -7,3 +7,4 @@ I've found learning resources for Sonic modding to be incredibly hidden across t
   and [its Mod Loader](https://github.com/hedge-dev/HE2ModLoader)
 - [HedgeDocs](https://hedgedocs.com/)
 - A C++ based mod with source code: [Playable Super Sonic](https://github.com/Sora-yx/SF-Super-Sonic) and [an api](https://github.com/DeaTh-G/rangers-api)
+- Not sure: Custom Skill tree [Here?? (Gamebanana)](https://gamebanana.com/mods/448759)

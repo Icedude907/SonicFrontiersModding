@@ -1,7 +1,7 @@
 ### Using the project:
 Some assembly required:
 - Sonic Frontiers must be installed.
-- Some utilities are written in rust. So you'll want the compiler installed (along with an internet connection to download some packages)
+- Some utilities are written in Rust. You'll want the compiler + cargo installed (along with an internet connection for the first build to download some packages)
 - Requires `HedgeArcPack` as part of [HedgeLib](https://github.com/Radfordhound/HedgeLib)
 - Requires [`PuyoTextEditor`](https://github.com/nickworonekin/puyo-text-editor) (for now)
 

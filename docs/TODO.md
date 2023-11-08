@@ -1,6 +1,6 @@
-TODO: Persuit Kick
-Cyclone Kick / Charge Attack should only use persuit as a follow up if the final hit connects
-Persuit should be on the unlock tree.
+TODO: Pursuit Kick (different from the Sonic Battle Persuit Attack - Sonic Eagle, which is the final jab holding down.)
+Cyclone Kick / Charge Attack should only use pursuit as a follow up if the final hit connects
+Pursuit should be on the unlock tree.
 TODO: Disable cyclone kick until touching the ground after doing once (currently you can cyclone, homing, cyclone, loop)
 TODO: Rail Crouch
 TODO: Modify rail boost to consume a chunk on activation, set to a minimum speed, and increase the speed limit as time goes on
