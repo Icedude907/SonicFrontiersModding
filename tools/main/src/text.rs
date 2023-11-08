@@ -3,12 +3,13 @@ use std::{path::{PathBuf, Path}, process::Command};
 
 use walkdir::WalkDir;
 
-use crate::config::CFG;
+use crate::{config::CFG, file, util::if2};
 
 const text_ext      : &'static str = "xml";
 
 /// Compiles assets/text/*.pac/*.cnvrs-text.xml
 /// Into build/repac/text/*.pac/*.cnvrs-text
+/// Only runs the command on changed files (using filesystem date modified)
 pub fn compile_text(input: &Path, output: &Path){
     std::fs::create_dir_all(output).unwrap();
 
@@ -25,6 +26,13 @@ pub fn compile_text(input: &Path, output: &Path){
         }
         if srcmeta.is_file() && abspath.extension().is_some_and(|x| x.to_str().unwrap().contains("xml") ) {
             let destination = destination.with_extension("");
+            let shouldwork = file::compare_date_paths(abspath, &destination).unwrap();
+
+            if(!shouldwork){
+                println!("SKIP (No change): {}", relpath.display());
+                continue;
+            }
+
             println!("COMPILE: {} > {}",
                 relpath.display(),
                 destination.strip_prefix(output.parent().and_then(|x|x.parent()).unwrap_or(output)).unwrap().display()

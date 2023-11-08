@@ -27,3 +27,18 @@ pub fn copy_directory_recursive_extension_blacklist(input: &Path, output: &Path,
         }
     }
 }
+
+/// Returns true of source is *newer* than dest.
+/// If no date data is accessible, defaults to true (you should do work)
+pub fn compare_date_paths(source: &Path, dest: &Path) -> std::io::Result<bool>{
+    // TODO: In the future may use a cache for destinations rather than file system information to reduce seeks.
+    let srcmod = source.metadata()?.modified();
+    let dstmod = dest.metadata()?.modified(); // TODO: If this is being checked against multiple times there's an inefficiency here.
+    // let dt: DateTime<Utc> = st.clone().into();
+    if let (Ok(srcmod), Ok(dstmod)) = (srcmod, dstmod){
+        let newer = srcmod > dstmod;
+        return Ok(newer);
+    }
+
+    return Ok(true);
+}
