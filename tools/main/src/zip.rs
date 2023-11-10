@@ -11,7 +11,8 @@ pub fn compress(dst: &Path, recurse_files: &[&Path]) -> ZipResult<()>{
     let file = File::create(dst)?;
     let mut zip = zip::ZipWriter::new(file);
     let options = FileOptions::default()
-        .compression_method(CompressionMethod::Zstd);
+        .compression_method(CompressionMethod::Zstd)
+        .compression_level(Some(15));
 
     let mut buffer: Vec<u8> = Vec::new();
     

@@ -59,7 +59,13 @@ fn main() {
             text::compile_text(&proj_text, &repac_text);
 
             println!("JOB START 2/3: Copying other assets into build/repac/");
-            file::copy_directory_recursive_extension_blacklist(&proj_assets, &proj_repac, &["xml", "cnvrs-text"]);
+            // TODO: Remove files in destination that no longer exist in source.
+            file::copy_directory_recursive_extension_blacklist(&proj_assets, &proj_repac, &[
+                "ignore", // for a user
+                "xml", "cnvrs-text", // text
+                "needle", // archives that need another layer of packing
+                "log", // Extra stuff
+            ]);
 
             println!("JOB START 3/3: Repacking build/repac/* into raw/*");
             pac::re_pac(&proj_repac, &proj_raw);

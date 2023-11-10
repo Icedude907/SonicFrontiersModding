@@ -3,3 +3,8 @@ raw/
 build/
 # For storing your own files
 private/
+
+# Files from tools
+\!DEPENDENCIES.txt
+*.log
+*.blend[0-9]
