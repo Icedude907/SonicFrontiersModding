@@ -22,6 +22,7 @@ There are a number of useful documents in the [docs](/docs/) folder which may he
 
 ## Sample edits (potential spoilers)
 
-![Main](/docs/res/SkillEdits.png)
+![Main](/docs/res/Skill%20Edits.png)
 ![Supreme](/docs/res/Supreme.jpg)
 ![Wild Rush Camera Angle](/docs/res/WildRushCamera.png)
+![King Sonic](/docs/res/King%20Sonic.jpg)

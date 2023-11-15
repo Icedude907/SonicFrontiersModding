@@ -89,7 +89,9 @@
     <text name="skill_03_name" id="553925721" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Quick Cyloop
     </text>
-    <text name="skill_16_name" id="574652631" font="Range_FNT_skillname" layout="Range_LAY_skillname" />
+    <text name="skill_16_name" id="574652631" font="Range_FNT_skillname" layout="Range_LAY_skillname">
+      Empty Skill
+    </text>
     <text name="skill_29_name" id="595379541" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Card Stomp
     </text>
@@ -354,7 +356,7 @@
       Double Jump
     </text>
     <text name="skill_16_command" id="1988470751" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
-      skill 16 command
+      Just wait
     </text>
     <text name="skill_67_name" id="1997583451" font="Range_FNT_skillname" layout="Range_LAY_skillname">
       Charged Wrench Attack
@@ -544,7 +546,9 @@
       Press <image name="button_bottom" /> during a combo
     </text>
     <text name="skill_76_explain" id="3118860645" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
-    <text name="skill_16_explain" id="3139169899" font="Range_FNT_skillexp" layout="Range_LAY_skillexp" />
+    <text name="skill_16_explain" id="3139169899" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
+      Dummy skill. Could be used for anything!
+    </text>
     <text name="skill_52_command" id="3158690263" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd">
       Hold <image name="button_right" /> → <image name="button_left_trigger" /> → Release <image name="button_right" />
     </text>
