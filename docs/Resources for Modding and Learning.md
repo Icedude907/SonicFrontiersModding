@@ -11,3 +11,6 @@ I've found learning resources for Sonic modding to be incredibly hidden across t
 - A C++ based mod with source code: [Playable Super Sonic](https://github.com/Sora-yx/SF-Super-Sonic) and [an api](https://github.com/DeaTh-G/rangers-api)
 - Not sure: Custom Skill tree [Here?? (Gamebanana)](https://gamebanana.com/mods/448759)
 - Terrain import sample: https://www.youtube.com/watch?app=desktop&v=AKRlIqv9Wm8, https://www.youtube.com/watch?v=nSfeBel2jk8
+
+- YOU WANT THIS: https://discord.com/invite/hedgehog-engine-modding-945689739447664640
+  Even if you wish to stay of discord (like I did), the amount of resources here are insane
