@@ -123,7 +123,8 @@ public struct BattleData{
     // TODO: Hook into the game's flag to set it off if we aren't rushing.
     if(PlayerState == Sonic.StateID.StateDamageBlowOff || PlayerState == Sonic.StateID.StateDamageBlowOffHeavy){
         IsKnockedBack = true;
-    }if(PlayerState == Sonic.StateID.StateSmash){ // Grand Slam is just called Smash by the game and they use identical states.
+    }
+    if(PlayerState == Sonic.StateID.StateSmash && IsKnockedBack){ // Grand Slam is just called Smash by the game and they use identical states.
         if(pBlackboardBattle != null){
             var isPhantomRushActive = ((pBlackboardBattle->flags1 & 0b0100_0000) != 0);
             // Console.WriteLine($"Allowed: {isPhantomRushActive}");

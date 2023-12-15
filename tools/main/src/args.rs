@@ -15,7 +15,7 @@ pub struct Arguments{
 #[derive(Subcommand, Debug, PartialEq, Eq)]
 #[command(rename_all = "kebab_case")]
 pub enum ProgramMode{
-    /// Unpack all pacs recursively in the specified folder(s) to './build/unpac' (unimplemented)
+    /// Unpack all pacs recursively in the specified folder(s) to './build/unpac'
     Unpack(CommandUnpack),
     /// Extract the 'text' folder from the game (will not override your changes).
     ExtractText,

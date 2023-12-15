@@ -13,6 +13,10 @@ mod zip;
 
 use crate::{config::{PAT, CFG}, args::ProgramMode};
 
+// TODO Repacking requires all files to be present (even if unmodified)
+// The mod loader could fix this but it doesnt
+// Need a tool to extract associated folders in assets t
+
 fn main() {
     // Argument parsing
     let args = args::Arguments::parse();
