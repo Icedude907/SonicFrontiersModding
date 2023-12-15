@@ -230,6 +230,20 @@ Code "Pursuit Attack Tricks" in "Animation/Sonic" by "Icedude_907 (Original: Hyp
     _playerType = (sbyte)Player.GetPlayerType();
 }
 
+Code "Allow Slide During Auto Run" by "Icedude_907 & Hyper" does "Allows the player to slide whilst in auto run sections."
+//
+    #include "BlackboardStatus" noemit
+    #lib "Player"
+//
+{
+    if (!IS_WORLD_FLAG(IsAutoRun))
+        return;
+
+    if (Player.Input.IsPressed(Player.InputActionType.PlayerStomping) && Player.Status.IsGrounded()){
+        Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateSliding);
+    }
+}
+
 Code "Forensics" by "Icedude_907" does "research"
 //
     #lib "BlackboardItem"
