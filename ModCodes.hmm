@@ -230,17 +230,56 @@ Code "Pursuit Attack Tricks" in "Animation/Sonic" by "Icedude_907 (Original: Hyp
     _playerType = (sbyte)Player.GetPlayerType();
 }
 
-Code "Allow Slide During Auto Run" by "Icedude_907 & Hyper" does "Allows the player to slide whilst in auto run sections."
+Code "Allow Slide During Auto Run" by "Icedude_907" does "Allows the player to slide whilst in auto run sections."
 //
     #include "BlackboardStatus" noemit
     #lib "Player"
+    #import "Plugins"
+
+    enum QuickStepDir{
+        None, Left, Right
+    }
+
+    static float? _timer = null;
+    static QuickStepDir _quickstepLastDirection = QuickStepDir.None;
+    const float _quickstepDelay = 0.07f;
 //
 {
     if (!IS_WORLD_FLAG(IsAutoRun))
         return;
 
     if (Player.Input.IsPressed(Player.InputActionType.PlayerStomping) && Player.Status.IsGrounded()){
+        _quickstepLastDirection = QuickStepDir.None;
+        _timer = null;
         Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateSliding);
+    }
+    // Allow a player to start quickstepping while sliding,
+    // but only act on it once they've stood up again. (delay)
+    if(_timer != null){ _timer -= Time.GetDeltaTime(); }
+    if(Player.State.GetCurrentStateID<Sonic.StateID>() == Sonic.StateID.StateSliding){
+        if(Player.Input.IsPressed(Player.InputActionType.PlayerLeftStep)){
+            _quickstepLastDirection = QuickStepDir.Left;
+        }
+        if(Player.Input.IsPressed(Player.InputActionType.PlayerRightStep)){
+            _quickstepLastDirection = QuickStepDir.Right;
+        }
+
+        if(_quickstepLastDirection != QuickStepDir.None){
+            _timer = _quickstepDelay;
+            Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateRun);
+        }
+    }
+
+    // Console.WriteLine($"Timer: {_timer}")
+    if(_timer != null && _timer <= 0.0f){
+        var isRight = _quickstepLastDirection == QuickStepDir.Right;
+        if(StatePluginQuickStep.IsQuickStepLegal(isRight) && Player.Status.IsGrounded()){
+            var stateId = (_quickstepLastDirection == QuickStepDir.Right) ? Sonic.StateID.StateQuickStepRight : Sonic.StateID.StateQuickStepLeft;
+            Player.State.SetState<Sonic.StateID>(stateId);
+        }
+
+        _timer = null;
+        _quickstepLastDirection = QuickStepDir.None;
     }
 }
 
