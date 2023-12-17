@@ -19,3 +19,15 @@ TODO: Lower Sonic's base homing range
 FIXME: Wild Rush's final camera angle is slightly too close to large enemies (non-super)
 
 TODO: Sonic boom slowdown on hold.
+
+Wyvern & Knight should have a stronger Grand Slam than Giganto and Supreme
+
+Increase stomp out of action time (and prevent anim cancel?) delay
+Remove min velocity on grind rails (and set accel to 0 if going backwards)
+Loop kick for traversal (by making a hidden target)
+Increase sonic's movement speed
+Reduce special koko boost increase amount
+
+Increase LightSpeed Dash deceleration when stick is in neutral, otherwise send player forward
+- Lightspeed needs to follow direction rather than shooting forward at the end of a spline
+- Lightspeed also should never slow down if in the same direction as movement (with a deadzone of 30deg)

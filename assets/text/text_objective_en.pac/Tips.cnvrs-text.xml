@@ -51,7 +51,7 @@
       Dodging is quicker than normal movement and is useful for avoiding enemy attacks.
     </text>
     <text name="tip_007" id="641237331" font="Range_FNT_tips" layout="Range_LAY_tips">
-      When the combo meter is maxed out, Phantom Rush will be activated, and attacks will be 1.2 times more powerful. This lasts until the combo meter runs down to 0.
+      When the combo meter is maxed out, Phantom Rush will be activated, and basic attacks will be 1.5 times more powerful. This lasts until the combo meter runs down to 0.
     </text>
     <text name="tip_008" id="641237332" font="Range_FNT_tips" layout="Range_LAY_tips">
       During battle, it is possible to dodge into Wild Rush by pressing <image name="button_left_shoulder_Wh" /> or <image name="button_right_shoulder_Wh" /> then <image name="button_left_Wh" />.

@@ -645,7 +645,7 @@
       Use the Boost Gauge to speed up. Boosting in midair will lead to an Air Boost.
     </text>
     <text name="skill_04_explain" id="3734434282" font="Range_FNT_skillexp" layout="Range_LAY_skillexp">
-      When the combo meter is maxed out, Phantom Rush is activated, resulting in basic attacks being 1.4 times more powerful (other attacks: 1.2 times).
+      When the combo meter is maxed out, Phantom Rush is activated, resulting in basic attacks being 1.5 times more powerful. Other attacks receive a slight boost.
       Phantom Rush lasts until the meter depletes.
     </text>
     <text name="skill_40_command" id="3753954646" font="Range_FNT_skillcmd" layout="Range_LAY_skillcmd" />

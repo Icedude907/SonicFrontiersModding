@@ -18,7 +18,6 @@ static float QuickCyloopEnergyCost = 40.0f;
 static bool IsCrossSlashing = false;
 static bool IsQuickCylooping = false;
 static bool IsKnockedBack = false;
-static float SonicBoomHeldTime = 0.0f;
 
 // TODO: Merge into HMMCodes
 [StructLayout(LayoutKind.Explicit, Size = 0x100)]
@@ -133,6 +132,80 @@ public struct BattleData{
     }else{
         IsKnockedBack = false;
     }
+
+}
+
+Code "Super Sonic damage normalisation" by "Icedude_907" does "Reduces the impact of attack level scaling on Super Sonic."
+//
+    #include "Reflection" noemit
+    #lib "Reflection"
+    #lib "SonicParameters"
+    #lib "BlackboardItem"
+
+    const float _ssScale = 2; // Multiplier from min to max damage
+
+    static bool _superSetup = false;
+    static Reflection.ReflectionInfo<SonicParameters.Root> _sonicParametersInfo;
+    // Base Sonic's damageMax is dictated by player_common.rfl (normally 3x)
+    static ushort _sonicMax = 0; // Cache
+//
+{
+    if(BlackboardStatus.IsSuper() && !_superSetup){
+        _superSetup = true;
+        _sonicParametersInfo = Reflection.GetDataInfo<SonicParameters.Root>("player_common");
+        // Cache
+        _sonicMax = RFL_GET_PARAM(_sonicParametersInfo, common.commonPackage.attack.common.offensive.pointMax));
+        // Set
+        var max = (ushort)(_ssScale * (float)RFL_GET_PARAM(_sonicParametersInfo, common.commonPackage.attack.common.offensive.pointMin));
+        RFL_SET_PARAM(_sonicParametersInfo, common.commonPackage.attack.common.offensive.pointMax, max);
+    }else if(_superSetup){
+        _sonicParametersInfo = Reflection.GetDataInfo<SonicParameters.Root>("player_common");
+        // Restore
+        RFL_SET_PARAM(_sonicParametersInfo, common.commonPackage.attack.common.offensive.pointMax, _sonicMax);
+        _superSetup = false;
+    }
+}
+
+Code "Weaken Phantom Rush on non-combo attacks" by "Icedude_907"
+//
+    #include "Reflection" noemit
+    #lib "Reflection"
+    #lib "SonicParameters"
+    #lib "Player"
+
+    // The normal phantom rush damage is in player_common.
+    const float _nonJabPhantomMultiplier = 2.0F;
+    static float? _sonicJabMul; // Cache
+//
+{
+    // This doesnt seem to work
+
+    // TODO: Persuit kick animation could be changed to a teleport/motion smear and sell the effect
+    bool isStateJab(Sonic.StateID id){
+        return id == Sonic.StateID.StateAcceleCombo1
+            || id == Sonic.StateID.StateAcceleCombo2
+            || id == Sonic.StateID.StateHomingFinish
+            ;
+    }
+
+    // MAIN
+    if(Player.GetPlayerType() != Player.PlayerType.Sonic){
+        return;
+    }
+
+    var _sonicParametersInfo = Reflection.GetDataInfo<SonicParameters.Root>("player_common");
+    if (_sonicParametersInfo == null || _sonicParametersInfo.pData == null){ return; }
+    if( _sonicJabMul == null ){
+        _sonicJabMul = RFL_GET_PARAM(_sonicParametersInfo, common.commonPackage.attack.common.offensive.shapeDamageRate);
+    }
+
+    var PlayerState = Player.State.GetCurrentStateID<Sonic.StateID>();
+    if( isStateJab(PlayerState) ){
+        RFL_SET_PARAM(_sonicParametersInfo, common.commonPackage.attack.common.offensive.shapeDamageRate, _sonicJabMul ?? 0);
+    }else{
+        RFL_SET_PARAM(_sonicParametersInfo, common.commonPackage.attack.common.offensive.shapeDamageRate, _nonJabPhantomMultiplier / 4);
+        var m = RFL_GET_PARAM(_sonicParametersInfo, common.commonPackage.attack.common.offensive.shapeDamageRate);
+    }
 }
 
 Code "Pursuit Attack Tricks" in "Animation/Sonic" by "Icedude_907 (Original: Hyper & Ahremic)" does "Replaces the Pursuit attack finish animation with randomised trick animations."
@@ -156,12 +229,10 @@ Code "Pursuit Attack Tricks" in "Animation/Sonic" by "Icedude_907 (Original: Hyp
 //
 {
     string randAnimName = $"JUMP_TRICK_{_animVariations[_random.Next(0, _animVariations.Length)]}{_random.Next(0, 3)}\0";
-
     Marshal.Copy(System.Text.Encoding.UTF8.GetBytes(randAnimName), 0, _pAnimName, randAnimName.Length);
 
     var PlayerState = Player.State.GetCurrentStateID<Sonic.StateID>();
-    if(  Player.GetPlayerType() == Player.PlayerType.Sonic
-      && PlayerState == Sonic.StateID.StatePursuitKick) {
+    if(Player.GetPlayerType() == Player.PlayerType.Sonic && PlayerState == Sonic.StateID.StatePursuitKick) {
         _isPursuiting = true;
     }else{
         _isPursuiting = false;
@@ -230,7 +301,7 @@ Code "Pursuit Attack Tricks" in "Animation/Sonic" by "Icedude_907 (Original: Hyp
     _playerType = (sbyte)Player.GetPlayerType();
 }
 
-Code "Allow Slide During Auto Run" by "Icedude_907" does "Allows the player to slide whilst in auto run sections."
+Code "Allow Slide During Auto Run" by "Icedude_907"
 //
     #include "BlackboardStatus" noemit
     #lib "Player"
