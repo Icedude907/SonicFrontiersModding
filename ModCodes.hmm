@@ -1,8 +1,4 @@
-Code "ModMain" by "Icedude_907" does
-/*
-Adds an additional method of activating Cross Slash.
-Costs Quick Cyloop Energy.
-*/
+Code "Sonic Combat Changes" by "Icedude_907"
 //
 #lib "Player"
 #lib "BlackboardBattle"
@@ -13,11 +9,12 @@ Costs Quick Cyloop Energy.
 using System.Numerics;
 using System.Runtime.InteropServices;
 
-static float CrossSlashEnergyCost = 60.0f; // Additional on top of player_common quickCyloop cost (I've set to 0 to allow the button to be used always.)
+static float CrossSlashEnergyCost = 60.0f; // player_common quickCyloop cost must be 0.
 static float QuickCyloopEnergyCost = 40.0f;
 static bool IsCrossSlashing = false;
 static bool IsQuickCylooping = false;
 static bool IsKnockedBack = false;
+static bool IsRecoverySmashing = false;
 
 // TODO: Merge into HMMCodes
 [StructLayout(LayoutKind.Explicit, Size = 0x100)]
@@ -122,13 +119,16 @@ public struct BattleData{
     // TODO: Hook into the game's flag to set it off if we aren't rushing.
     if(PlayerState == Sonic.StateID.StateDamageBlowOff || PlayerState == Sonic.StateID.StateDamageBlowOffHeavy){
         IsKnockedBack = true;
-    }
-    if(PlayerState == Sonic.StateID.StateSmash && IsKnockedBack){ // Grand Slam is just called Smash by the game and they use identical states.
-        if(pBlackboardBattle != null){
-            var isPhantomRushActive = ((pBlackboardBattle->flags1 & 0b0100_0000) != 0);
-            // Console.WriteLine($"Allowed: {isPhantomRushActive}");
+    }else if(PlayerState == Sonic.StateID.StateSmash && IsKnockedBack && pBlackboardBattle != null){ // Grand Slam is just called Smash by the game and they use identical states.
+        var isPhantomRushActive = ((pBlackboardBattle->flags1 & 0b0100_0000) != 0);
+        if(!isPhantomRushActive){
+            Console.WriteLine($"If I knew how to reverse engineer properly, you wouldn't have been able to Recovery Smash here. Glitchy knockdown");
+            // Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateDamageBlowOff);
+            // Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateAvoid);
+        }else{
             pBlackboardBattle->PhantomRushAmount = 0;
         }
+        IsKnockedBack = false;
     }else{
         IsKnockedBack = false;
     }
@@ -443,6 +443,25 @@ enum BoostType{
             _ => 0.0f,
         };
         deductBoost(cost * delta);
+    }
+}
+
+Code "Proper Wall Jump Animation" in "Fixes/Animation/Sonic" by "Batman Sonic" does "Restores the proper unused wall jump animation rather than reusing the falling one."
+//
+    #lib "Player"
+    static bool isSoundFix = false;
+//
+{
+    if (Player.GetPlayerType() != Player.PlayerType.Sonic)return;
+
+    if (Player.State.GetPreviousStateID<Sonic.StateID>() == Sonic.StateID.StateWallJump){
+        if (!isSoundFix){
+            Player.Animation.SetAnimation("WALLJUMP");
+            Player.Sound.PlaySound("_sn_triangle_jump");
+            isSoundFix = true;
+        }
+    }else{
+        isSoundFix = false;
     }
 }
 
