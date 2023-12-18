@@ -16,11 +16,14 @@ const float CrossSlashEnergyCost = 60.0f;
 const float HitPhantomRushCost = 40.0f;    // Penalty for being hit before hitting the ground. (1/3rd)
 // NOTE: Currently this still allows links. A better solution would be to remove the combo table for a duration of the dodge.
 const float BracerOutOfControlTime = 0.5f; // Prevents spamming AXB for combo links out of recovery.
+
 static bool IsCrossSlashing = false;
 static bool IsQuickCylooping = false;
+
+// static System.Numerics.Quaternion dodgeDir; // Might need to cache the previous frame to prevent unusual directions.
+static bool KBWithPhantom = false;
 static bool IsKnockedBack = false;
 static float? BracerOutOfControl = null;
-static bool KBWithPhantom = false;
 // static bool IsRecoverySmashing = false;
 
 // TODO: Merge into HMMCodes
@@ -141,6 +144,8 @@ public struct BattleData{
             KBWithPhantom = isPhantomRushActive;
             var newAmount = pBlackboardBattle->PhantomRushAmount - HitPhantomRushCost;
             pBlackboardBattle->PhantomRushAmount = (newAmount >= 0) ? newAmount : 0;
+            // TODO: Player.State.Redirect<Sonic.StateID>(Sonic.StateID.StateSmash, Sonic.StateID.StateParry);
+            // Redirecting a state earlier in the frame prevents the spin charge sfx playing without visual issues.
         }
         IsKnockedBack = true;
     }else if(PlayerState == Sonic.StateID.StateSmash && IsKnockedBack){ // Runs on the first frame if prompt executed
@@ -401,19 +406,22 @@ Code "Boost Activation Cost" by "Icedude_907"
 const float groundBoostCost = 8;
 const float airBoostCost = 15;
 const float grindBoostCost = 10;  // TODO: Make cost depend on speed delta (increase max to 15)
-const float maxLeniency = 10; // Absorb up to 10% of the activation cost
+const float spinBoostExtra = 5;   // Cost going from boost to spin dash.
+const float maxLeniency = 10;     // Absorb up to 10% of the activation cost
   // const float infiniBoostDeduction = 0.25; // 25% of the cost i
 const float wallBoostRate = 5; // +5% per second
 const float airBoostRate = 5;
 const float grindBoostRate = 1;
 const float leniencyRate = 2;
 
+static float playerBoostCache = 0;
 static bool boostDeducted = false;
+static BoostType previousState = BoostType.None;
 static StatePluginBoost* boostData = null;
 static float leniency = 10;
 
 enum BoostType{
-    None, Ground, Air, Grind, Wall
+    None, Ground, Air, Grind, Wall, Spin
     // Submerged and SubmergedGrounded are handled by the game.
 }
 //
@@ -426,9 +434,13 @@ enum BoostType{
         boostData->BoostAmount = result;
     }
     BoostType determineType(){
+        if(Player.State.GetCurrentStateID<Sonic.StateID>() == Sonic.StateID.StateSpinBoost){
+            return BoostType.Spin;
+        }
         if(IS_STATE_FLAG(IsAirBoost)){
             return BoostType.Air;
-        }else if(IS_STATE_FLAG(IsBoost)){
+        }
+        if(IS_STATE_FLAG(IsBoost)){
             if(IS_STATE_FLAG(IsGrind)){
                 return BoostType.Grind;
             }
@@ -443,14 +455,31 @@ enum BoostType{
     boostData = Player.State.GetStatePlugin<StatePluginBoost>();
     if (boostData == null) return;
 
-    var type = determineType();
+    // Halving the effect of levels:
+    // If not the same as the previous frame then the game has updated it,
+    // so we half the bonus boost.
+    {
+        var boostCapacity = boostData->BoostCapacity;
+        if(boostCapacity != playerBoostCache){
+            var newCapacity = 100 + (boostCapacity-100)/2;
+            playerBoostCache = newCapacity;
+            boostData->BoostCapacity = newCapacity;
+            if(boostData->BoostAmount > newCapacity){ boostData->BoostAmount = newCapacity; }
+        }
+    }
+
     // Activation costs
+    var type = determineType();
+    if(previousState == BoostType.Ground && type == BoostType.Spin){
+        deductBoost(spinBoostExtra);
+    }
     if(type != BoostType.None && !boostDeducted){
         boostDeducted = true;
         var cost = type switch{
             BoostType.Ground => groundBoostCost,
             BoostType.Air => airBoostCost,
             BoostType.Grind => grindBoostCost,
+            BoostType.Spin => groundBoostCost,
             _ => 0.0f,
         };
         cost -= leniency;
@@ -471,32 +500,15 @@ enum BoostType{
         leniency += leniencyRate * delta * (isBoostFull ? 3 : 1); // Leniency regen rate is tripled if boost full
         if(leniency >= maxLeniency){ leniency = maxLeniency; }
         var cost = type switch {
-            BoostType.Air => airBoostRate,
+            BoostType.Air => airBoostRate, // Note that this does not refer to airbourne boosting (off edges), but the specific state of airboost.
             BoostType.Wall => wallBoostRate,
             BoostType.Grind => grindBoostRate,
             _ => 0.0f,
         };
         deductBoost(cost * delta);
     }
-}
 
-Code "Proper Wall Jump Animation" in "Fixes/Animation/Sonic" by "Batman Sonic" does "Restores the proper unused wall jump animation rather than reusing the falling one."
-//
-    #lib "Player"
-    static bool isSoundFix = false;
-//
-{
-    if (Player.GetPlayerType() != Player.PlayerType.Sonic)return;
-
-    if (Player.State.GetPreviousStateID<Sonic.StateID>() == Sonic.StateID.StateWallJump){
-        if (!isSoundFix){
-            Player.Animation.SetAnimation("WALLJUMP");
-            Player.Sound.PlaySound("_sn_triangle_jump");
-            isSoundFix = true;
-        }
-    }else{
-        isSoundFix = false;
-    }
+    previousState = type;
 }
 
 Code "Forensics" by "Icedude_907" does "research"
@@ -531,6 +543,6 @@ Code "Forensics" by "Icedude_907" does "research"
         // I watch the memory here using cheatengine or x64dbg
         // Console.WriteLine($"Debug: battle 0x{(ulong)pBlackboardBattle:X}, item 0x{(ulong)pBlackboardItem:X}: ");
         Console.WriteLine($"PlayerState: {PlayerState.ToString()}");
-        Console.WriteLine($"BoostAmount: {pStatePluginBoost->BoostAmount}, Capacity: {pStatePluginBoost->BoostCapacity}");
+        // Console.WriteLine($"BoostAmount: {pStatePluginBoost->BoostAmount}, Capacity: {pStatePluginBoost->BoostCapacity}");
     }
 }
