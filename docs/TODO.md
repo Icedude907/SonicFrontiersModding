@@ -3,9 +3,8 @@ Cyclone Kick / Charge Attack should only use pursuit as a follow up if the final
 Pursuit should be on the unlock tree.
 TODO: Disable cyclone kick until touching the ground after doing once (currently you can cyclone, homing, cyclone, loop)
 TODO: Rail Crouch
-TODO: Modify rail boost to consume a chunk on activation, set to a minimum speed, and increase the speed limit as time goes on
-TODO: Make air boost consume a chunk when pressed and a bit while held.
-TODO: Make ground boost consume a lesser chunk when pressed
+TODO: Modify rail boost to set to a minimum speed, and increase the speed limit as time goes on
+TODO: Increase speed limit on ancient rails (faux fast travel) & graphical effect
 TODO: Decrease koko boost expansion rewards (late game Sonic should have 3 meters not 5)
 TODO: Decrease fishing koko amounts
 TODO: Decrease upgrade koko amounts

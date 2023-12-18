@@ -354,6 +354,98 @@ Code "Allow Slide During Auto Run" by "Icedude_907"
     }
 }
 
+Code "Boost Activation Cost" by "Icedude_907"
+//
+#include "BlackboardStatus" noemit
+#lib "Player"
+#import "Plugins"
+#lib "Time"
+
+// Each boost ring is 100 - Max in update 3 is 500
+// Would like to cut to 300. (Take the RFL Boost level do 100+lv*const and store in capacity)
+
+const float groundBoostCost = 8;
+const float airBoostCost = 15;
+const float grindBoostCost = 10;  // TODO: Make cost depend on speed delta (increase max to 15)
+const float maxLeniency = 10; // Absorb up to 10% of the activation cost
+  // const float infiniBoostDeduction = 0.25; // 25% of the cost i
+const float wallBoostRate = 5; // +5% per second
+const float airBoostRate = 5;
+const float grindBoostRate = 1;
+const float leniencyRate = 2;
+
+static bool boostDeducted = false;
+static StatePluginBoost* boostData = null;
+static float leniency = 10;
+
+enum BoostType{
+    None, Ground, Air, Grind, Wall
+    // Submerged and SubmergedGrounded are handled by the game.
+}
+//
+{
+    void deductBoost(float amount){
+        if(boostData->InfiniteBoostTimer > 0.0f){ return; }
+
+        var result = boostData->BoostAmount - amount;
+        if(result <= 0.0){ result = 0.0f; }
+        boostData->BoostAmount = result;
+    }
+    BoostType determineType(){
+        if(IS_STATE_FLAG(IsAirBoost)){
+            return BoostType.Air;
+        }else if(IS_STATE_FLAG(IsBoost)){
+            if(IS_STATE_FLAG(IsGrind)){
+                return BoostType.Grind;
+            }
+            if(IS_STATE_FLAG(IsWallClimb)){
+                return BoostType.Wall;
+            }
+            return BoostType.Ground;
+        }
+        return BoostType.None;
+    }
+
+    boostData = Player.State.GetStatePlugin<StatePluginBoost>();
+    if (boostData == null) return;
+
+    var type = determineType();
+    // Activation costs
+    if(type != BoostType.None && !boostDeducted){
+        boostDeducted = true;
+        var cost = type switch{
+            BoostType.Ground => groundBoostCost,
+            BoostType.Air => airBoostCost,
+            BoostType.Grind => grindBoostCost,
+            _ => 0.0f,
+        };
+        cost -= leniency;
+        if(cost >= 0.0){
+            deductBoost(cost);
+        }
+    }else if(type == BoostType.None){
+        boostDeducted = false;
+    }
+    // Disable leniency regeneration when boosting
+    if(type != BoostType.None){
+        leniency = 0;
+    }
+    // Passive costs
+    {
+        var delta = Time.GetDeltaTime();
+        var isBoostFull = (boostData->BoostAmount >= boostData->BoostCapacity - 1.0f);
+        leniency += leniencyRate * delta * (isBoostFull ? 3 : 1); // Leniency regen rate is tripled if boost full
+        if(leniency >= maxLeniency){ leniency = maxLeniency; }
+        var cost = type switch {
+            BoostType.Air => airBoostRate,
+            BoostType.Wall => wallBoostRate,
+            BoostType.Grind => grindBoostRate,
+            _ => 0.0f,
+        };
+        deductBoost(cost * delta);
+    }
+}
+
 Code "Forensics" by "Icedude_907" does "research"
 //
     #lib "BlackboardItem"
@@ -362,6 +454,7 @@ Code "Forensics" by "Icedude_907" does "research"
     #lib "PhotoMode"
     #lib "Player"
     #lib "XInput"
+    #import "Plugins"
 
     using System.Diagnostics;
     using System.Runtime.InteropServices;
@@ -380,8 +473,11 @@ Code "Forensics" by "Icedude_907" does "research"
         var pBlackboardBattle = BlackboardBattle.Get();
         var pBlackboardItem = BlackboardItem.Get();
         var PlayerState = Player.State.GetCurrentStateID<Sonic.StateID>();
+        var pStatePluginBoost = Player.State.GetStatePlugin<StatePluginBoost>();
+        if (pStatePluginBoost == null) return;
         // I watch the memory here using cheatengine or x64dbg
         // Console.WriteLine($"Debug: battle 0x{(ulong)pBlackboardBattle:X}, item 0x{(ulong)pBlackboardItem:X}: ");
-        Console.WriteLine($"PlayerState: {PlayerState.ToString()}")
+        Console.WriteLine($"PlayerState: {PlayerState.ToString()}");
+        Console.WriteLine($"BoostAmount: {pStatePluginBoost->BoostAmount}, Capacity: {pStatePluginBoost->BoostCapacity}");
     }
 }

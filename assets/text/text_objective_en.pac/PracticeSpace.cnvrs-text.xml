@@ -53,7 +53,7 @@
       <image name="button_right_trigger" /> in the air &gt;<image name="button_right" /> in the air
     </text>
     <text name="ps_command_14" id="538958835" font="Range_FNT" layout="Range_LAY">
-      <image name="button_right_trigger" /> in the air &gt;<image name="button_bottom" /> in the air
+      <image name="button_left_trigger" /> in the air &gt;<image name="button_top" /> in the air
     </text>
     <text name="ps_command_15" id="538958836" font="Range_FNT" layout="Range_LAY">
       Hold <image name="button_left" /> during combo
@@ -866,7 +866,7 @@
       explain 13
     </text>
     <text name="ps_explain_14" id="3649726311" font="Range_FNT" layout="Range_LAY">
-      explain 14
+      Tip: Start Sonicboom, then press <image name="button_top" />. Consumes Quick Cyloop energy (build it up first).
     </text>
     <text name="ps_explain_15" id="3649726312" font="Range_FNT" layout="Range_LAY">
       explain 15
