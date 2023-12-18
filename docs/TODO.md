@@ -14,6 +14,7 @@ Phantom rush to character event 1, Grand Slam to first ability, Cross Slash post
 FIXME: Homing shot has a few bugs + does not last long enough to launch the 8th shot.
 TODO: Have homing shot increase attack range.
 TODO: Lower Sonic's base homing range
+TODO: Add phantom rush recovery animation to Recovery Smash/Bracer.
 
 FIXME: Wild Rush's final camera angle is slightly too close to large enemies (non-super)
 

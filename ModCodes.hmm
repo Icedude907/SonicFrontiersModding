@@ -1,20 +1,27 @@
 Code "Sonic Combat Changes" by "Icedude_907"
 //
+#include "BlackboardStatus" noemit
 #lib "Player"
 #lib "BlackboardBattle"
 #import "Blackboard"
-#include "BlackboardStatus" noemit
+#lib "VectorHelpers"
+#import "States"
 #load "System.Numerics.dll"
 
 using System.Numerics;
 using System.Runtime.InteropServices;
 
-static float CrossSlashEnergyCost = 60.0f; // player_common quickCyloop cost must be 0.
-static float QuickCyloopEnergyCost = 40.0f;
+const float QuickCyloopEnergyCost = 40.0f; // player_common quickCyloop cost must be 0.
+const float CrossSlashEnergyCost = 60.0f;
+const float HitPhantomRushCost = 40.0f;    // Penalty for being hit before hitting the ground. (1/3rd)
+// NOTE: Currently this still allows links. A better solution would be to remove the combo table for a duration of the dodge.
+const float BracerOutOfControlTime = 0.5f; // Prevents spamming AXB for combo links out of recovery.
 static bool IsCrossSlashing = false;
 static bool IsQuickCylooping = false;
 static bool IsKnockedBack = false;
-static bool IsRecoverySmashing = false;
+static float? BracerOutOfControl = null;
+static bool KBWithPhantom = false;
+// static bool IsRecoverySmashing = false;
 
 // TODO: Merge into HMMCodes
 [StructLayout(LayoutKind.Explicit, Size = 0x100)]
@@ -116,23 +123,50 @@ public struct BattleData{
     }
 
     // Logic for Recovery Smash
-    // TODO: Hook into the game's flag to set it off if we aren't rushing.
+    // TODO: Hide the button prompt when no action is possible (requires reverse engineering).
+    if(BracerOutOfControl > 0.0){
+        SET_WORLD_FLAG(IsOutOfControl, true);
+        BracerOutOfControl -= (float)Time.GetDeltaTime();
+    }else{
+        SET_WORLD_FLAG(IsOutOfControl, false);
+        BracerOutOfControl = null;
+    }
+
+    if(pBlackboardBattle == null) return;
+
+    var isPhantomRushActive = ((pBlackboardBattle->flags1 & 0b0100_0000) != 0);
     if(PlayerState == Sonic.StateID.StateDamageBlowOff || PlayerState == Sonic.StateID.StateDamageBlowOffHeavy){
+        // Phantom rush penalty for being hit (though other characters may have their combo counter affected?).
+        if(!IsKnockedBack){
+            KBWithPhantom = isPhantomRushActive;
+            var newAmount = pBlackboardBattle->PhantomRushAmount - HitPhantomRushCost;
+            pBlackboardBattle->PhantomRushAmount = (newAmount >= 0) ? newAmount : 0;
+        }
         IsKnockedBack = true;
-    }else if(PlayerState == Sonic.StateID.StateSmash && IsKnockedBack && pBlackboardBattle != null){ // Grand Slam is just called Smash by the game and they use identical states.
-        var isPhantomRushActive = ((pBlackboardBattle->flags1 & 0b0100_0000) != 0);
-        if(!isPhantomRushActive){
-            Console.WriteLine($"If I knew how to reverse engineer properly, you wouldn't have been able to Recovery Smash here. Glitchy knockdown");
-            // Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateDamageBlowOff);
-            // Player.State.SetState<Sonic.StateID>(Sonic.StateID.StateAvoid);
+    }else if(PlayerState == Sonic.StateID.StateSmash && IsKnockedBack){ // Runs on the first frame if prompt executed
+        if(!KBWithPhantom){
+            var back = VectorHelpers.LookRotation(-Player.Kinematics.GetForward());
+            // TODO: Shorten distance.
+            Player.State.SetState<Sonic.StateID, StateAvoidParameter>(Sonic.StateID.StateAvoid, new StateAvoidParameter(back));
+            BracerOutOfControl = BracerOutOfControlTime;
         }else{
             pBlackboardBattle->PhantomRushAmount = 0;
         }
         IsKnockedBack = false;
-    }else{
+        KBWithPhantom = false;
+    }else{ // Normal gameplay
         IsKnockedBack = false;
+        KBWithPhantom = false;
     }
-
+    // Phantom rush cannot end while you're being knocked down.
+    // This effect is purely visual, as your action is decided on the first frame of being hit.
+    // If someone notices this without checking the code I'll be quite impressed.
+    if(KBWithPhantom){
+        if(pBlackboardBattle->PhantomRushAmount < 1.0f){ pBlackboardBattle->PhantomRushAmount = 1.0f; }
+        pBlackboardBattle->flags1 |= 0b0100_0000;
+    }else if(Player.Status.IsGrounded()){
+        KBWithPhantom = false;
+    }
 }
 
 Code "Super Sonic damage normalisation" by "Icedude_907" does "Reduces the impact of attack level scaling on Super Sonic."
