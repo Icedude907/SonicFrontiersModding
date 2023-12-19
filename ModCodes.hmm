@@ -24,6 +24,7 @@ static bool IsQuickCylooping = false;
 static bool KBWithPhantom = false;
 static bool IsKnockedBack = false;
 static float? BracerOutOfControl = null;
+static System.Numerics.Quaternion backDirection; // From last frame
 // static bool IsRecoverySmashing = false;
 
 // TODO: Merge into HMMCodes
@@ -147,12 +148,12 @@ public struct BattleData{
             // TODO: Player.State.Redirect<Sonic.StateID>(Sonic.StateID.StateSmash, Sonic.StateID.StateParry);
             // Redirecting a state earlier in the frame prevents the spin charge sfx playing without visual issues.
         }
+        backDirection = VectorHelpers.LookRotation(-Player.Kinematics.GetForward());
         IsKnockedBack = true;
     }else if(PlayerState == Sonic.StateID.StateSmash && IsKnockedBack){ // Runs on the first frame if prompt executed
         if(!KBWithPhantom){
-            var back = VectorHelpers.LookRotation(-Player.Kinematics.GetForward());
             // TODO: Shorten distance.
-            Player.State.SetState<Sonic.StateID, StateAvoidParameter>(Sonic.StateID.StateAvoid, new StateAvoidParameter(back));
+            Player.State.SetState<Sonic.StateID, StateAvoidParameter>(Sonic.StateID.StateAvoid, new StateAvoidParameter(backDirection));
             BracerOutOfControl = BracerOutOfControlTime;
         }else{
             pBlackboardBattle->PhantomRushAmount = 0;
@@ -352,7 +353,7 @@ Code "Allow Slide During Auto Run" by "Icedude_907"
 
     static float? _timer = null;
     static QuickStepDir _quickstepLastDirection = QuickStepDir.None;
-    const float _quickstepDelay = 0.07f;
+    const float _quickstepDelay = 0.06f;
 //
 {
     if (!IS_WORLD_FLAG(IsAutoRun))
@@ -427,6 +428,7 @@ enum BoostType{
 //
 {
     void deductBoost(float amount){
+        // NOTE: This doesn't work correctly in 1.41
         if(boostData->InfiniteBoostTimer > 0.0f){ return; }
 
         var result = boostData->BoostAmount - amount;
@@ -543,6 +545,6 @@ Code "Forensics" by "Icedude_907" does "research"
         // I watch the memory here using cheatengine or x64dbg
         // Console.WriteLine($"Debug: battle 0x{(ulong)pBlackboardBattle:X}, item 0x{(ulong)pBlackboardItem:X}: ");
         Console.WriteLine($"PlayerState: {PlayerState.ToString()}");
-        // Console.WriteLine($"BoostAmount: {pStatePluginBoost->BoostAmount}, Capacity: {pStatePluginBoost->BoostCapacity}");
+        // Console.WriteLine($"InfiniBoostAmount: {pStatePluginBoost->InfiniteBoostTimer}");
     }
 }
